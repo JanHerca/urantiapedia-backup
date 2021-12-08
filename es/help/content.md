@@ -2,7 +2,7 @@
 title: Contenido de la Urantiapedia
 description: 
 published: true
-date: 2021-11-28T14:09:29.761Z
+date: 2021-12-08T14:09:29.761Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-28T14:09:29.761Z
@@ -12,7 +12,7 @@ Aquí se ofrece una explicación detallada de todos los tipos de contenido esper
 
 ## Cómo se organiza el contenido
 
-Como en toda Wiki en [Urantiapedia](https://urantiapedia.site) hay páginas, cada una con un título y una URL únicas. Por ejemplo:
+Como en toda Wiki en [Urantiapedia](https://urantiapedia.org) hay páginas, cada una con un título y una URL únicas. Por ejemplo:
 * https://urantiapedia.org/en/The_Urantia_Book/156 es la URL de una página con el documento 156 de *El Libro de Urantia* en inglés.
 * https://urantiapedia.org/es/article/How_big_is_Orvonton es la URL de una página con un artículo sobre Orvonton en español.
 * https://urantiapedia.org/ko/topic/Andrew es la URL de una página acerca del apóstol Andrés en coreano.
@@ -27,7 +27,7 @@ La tabla resume los grupos de usuarios en la página web:
 Tipo | Descripción
 --- | ---
 ADMIN | Usuario que puede hacerlo todo
-EDITOR | Usuario que tras una petición ha sido validado y autorizado por un usuario ADMIN
+EDITOR | Usuario que tras una petición ha sido validado y autorizado por un usuario ADMIN para realizar modificaciones
 USER | Cualquier nuevo usuario creado sólo puede ver las páginas. Para hacer modificaciones necesita hacer una petición para ser añadido al grupo EDITOR a través de un proceso de validación.
 
 
@@ -35,7 +35,7 @@ USER | Cualquier nuevo usuario creado sólo puede ver las páginas. Para hacer m
 
 La tabla resume los tipos de páginas. Muestra el usuario mínimo necesario para editar cada tipo de página. Los usuarios ADMIN pueden hacerlo todo por lo que si la tabla indica EITOR eso implica también ADMIN.
 
-La tabla muestra la ruta a añadir al dominio de [Urantiapedia](https://urantiapedia.site) para obtener la URL en inglés. Hay que reemplazar el código de idioma para obtener páginas en cada idioma. Por ejemplo, la URL para obtener el índice de *El Libro de Urantia* es:
+La tabla muestra la ruta a añadir al dominio de [https://urantiapedia.org](https://urantiapedia.org) para obtener la URL en inglés. Hay que reemplazar el código de idioma para obtener páginas en cada idioma. Por ejemplo, la URL para obtener el índice de *El Libro de Urantia* es:
 - en inglés: https://urantiapedia.org/en/The_Urantia_Book/Index
 - en español: https://urantiapedia.org/es/The_Urantia_Book/Index
 

@@ -2,7 +2,7 @@
 title: Urantiapedia content
 description: 
 published: true
-date: 2021-11-28T14:02:03.086Z
+date: 2021-12-08T14:02:03.086Z
 tags: 
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
@@ -12,7 +12,7 @@ Here is a detailed explanation of all types of content expected for *Urantiapedi
 
 ## How content is organized
 
-As in any Wiki in [Urantiapedia](https://urantiapedia.site) there are pages, each one with a unique title and URL. For example:
+As in any Wiki in [Urantiapedia](https://urantiapedia.org) there are pages, each one with a unique title and URL. For example:
 * https://urantiapedia.org/en/The_Urantia_Book/156 is the URL for a page with the paper 156 of Urantia Book in english.
 * https://urantiapedia.org/es/article/How_big_is_Orvonton is the URL for a page with an article about Orvonton in spanish.
 * https://urantiapedia.org/ko/topic/Andrew is the URL for a page about the apostle Andrew in korean.
@@ -27,7 +27,7 @@ The table summarizes the user groups inside the web:
 Type | Description
 --- | ---
 ADMIN | User that can do everything
-EDITOR | User that after a request has been validated and authorized an ADMIN user
+EDITOR | User that after a request has been validated and authorized by an ADMIN user to do some changes
 USER | Any new created user only can see pages. To do changes must do a request to be added to EDITOR group through a validation process.
 
 
@@ -35,7 +35,7 @@ USER | Any new created user only can see pages. To do changes must do a request 
 
 The table summarizes the types of pages. Table shows the minimum user group required to edit the type of page. ADMIN users can do everything so when table says EDITOR it implies also ADMIN.
 
-The table shows the path to add to [Urantiapedia](https://urantiapedia.site) domain to obtain the URL for english. Replace language code with the one desired for other languages. For example, the URL to obtain the index of *The Urantia Book* is:
+The table shows the URL path to add to [https://urantiapedia.org](https://urantiapedia.org) domain to obtain the URL for english. Replace language code with the one desired for other languages. For example, the URL to obtain the index of *The Urantia Book* is:
 - in english: https://urantiapedia.org/en/The_Urantia_Book/Index
 - in spanish: https://urantiapedia.org/es/The_Urantia_Book/Index
 
@@ -80,7 +80,7 @@ These are pages with content about *Urantiapedia* itself, like user manuals, rec
 
 ## Books
 
-Inside books not only *The Urantia Book* is included in all its translations but also the Bible and any public-domain book that is assumed to be a source used by revelators or with content that can explain topics of *The Urantia Book*. Also can be included books that are derivative works from *The Urantia Book* whose authors want to offer with an open license. All this could comprise a kind of *urantian library*, something like Wikisource but everything related with Urantia Book.
+This includes not only *The Urantia Book* in all its translations but also the Bible and any public-domain book that is assumed to be a source used by revelators or with content that can explain topics of *The Urantia Book*. Also can be included books that are derivative works from *The Urantia Book* whose authors want to offer with an open license. All this could comprise a kind of *urantian library*, something like Wikisource but everything related with Urantia Book.
 
 ### The Urantia Book
 
