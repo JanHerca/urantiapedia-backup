@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T13:46:33.162Z
 ---
 
-<img src="image/uplogo_opt_whiteback.svg" alt="Urantiapedia" width="150"/>
+<img src="/image/uplogo_opt_whiteback.svg" alt="Urantiapedia" width="150"/>
 
 ## What is?
 
