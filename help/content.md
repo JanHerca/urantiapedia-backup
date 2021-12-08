@@ -187,6 +187,7 @@ These could be some of the indexes:
 
 Index | Description | Sorted | Path
 --- | --- | --- | ---
+List of indexes | List of all indexes | As this table | /en/index/index
 Index of topics | Known as Glossary | Alphabetically | /en/index/topics
 Index of people | Subset of Glossary for proper names for persons or personalities | Alphabetically | /en/index/people
 Index of beings | Subset of Glossary for types of beings in the universe (1) | Alphabetically | /en/index/beings

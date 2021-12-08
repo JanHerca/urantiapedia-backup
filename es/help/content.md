@@ -187,6 +187,7 @@ Estos podrían ser algunos de los índices:
 
 Index | Description | Sorted | Path
 --- | --- | --- | ---
+Lista de índices | Listado de todos los índices | Como esta tabla | /es/index/index
 Índice de términos | Conocido como Glosario | Alfabéticamente | /en/index/topics
 Índice de personas | subconjunto del Glosario para nombres propios de personas o personalidades | Alfabéticamente | /en/index/people
 Índice de seres | Subconjunto del Glosario para tipos de seres en el universo (1) | Alfabéticamente | /en/index/beings
