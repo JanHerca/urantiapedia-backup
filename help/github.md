@@ -246,7 +246,6 @@ Example (file `a.txt`, line 889):
 Alpheus twins | (143:3.5) | apostles of Jesus | PERSON |
 James and Judas Alpheus or Alpheus twins were two apostles of Jesus
 mother Mary, father Alpheus (138:4.1) (189:4.4) (190:3.1)
-Santiago o Jacobo Alfeo o Tadeo
 James Alpheus
     fisherman, farmer of Kheresa, selected by James (138:2.6)
     married with 3 children; also called Thaddeus (139:9.1,5)
@@ -408,5 +407,21 @@ Num. | Abr. | English title
 076 | 1 Enoch | Book of Enoch
 077 | As. Mos. | Assumption of Moses
 
+## Links
 
+- [Starting with Urantiapedia](/en/help/start)
+- [Urantiapedia Content](/en/help/content)
+- [Urantiapedia - Languages supported](/en/help/languages)
+- [Admin help](/en/help/admin)
+- [Dev help](/en/help/devs)
+- [Github editors help](/en/help/github)
+- [Urantiapedia status - Current progress of the project](/en/help/status)
+
+## External links
+
+- [Urantiapedia Tools - GitHub project](https://github.com/JanHerca/urantiapedia)
+- [Urantiapedia-backup - GitHub project](https://github.com/JanHerca/urantiapedia-backup)
+- [Urantia Foundation](https://www.urantia.org/)
+- [Blue Fields](https://blue-fields.netlify.app/)
+- [Wiki.js](https://js.wiki/)
 
