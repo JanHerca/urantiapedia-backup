@@ -2,8 +2,8 @@
 title: Starting with Urantiapedia
 description: 
 published: true
-date: 2022-03-12T09:46:45.197Z
-tags: help
+date: 2022-03-12T10:24:56.190Z
+tags: help, urantiapedia
 editor: markdown
 dateCreated: 2021-12-06T21:20:13.417Z
 ---
