@@ -2,10 +2,10 @@
 title: Starting with Urantiapedia
 description: 
 published: true
-date: 2021-12-08T13:48:47.532Z
-tags: 
+date: 2022-03-12T09:46:45.197Z
+tags: help
 editor: markdown
-dateCreated: 2021-11-28T13:46:33.162Z
+dateCreated: 2021-12-06T21:20:13.417Z
 ---
 
 <img src="/image/uplogo_opt_whiteback.svg" alt="Urantiapedia" width="150"/>
