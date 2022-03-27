@@ -24,7 +24,7 @@ La misión esencial que nos hemos marcado con la *Urantiapedia* es:
 
 ## ¿Cómo funciona?
 
-Está basado en [Wiki.js](https://js.wiki/), un software de código abierto potente y extensible que está construido sobre tecnologías modernas como [Node.js](https://nodejs.org/) y [Vue.js](https://vuejs.org/). Wiki.js puede usarse libremente por cualquier organización para crear cualquier tipo de Wiki.
+Está basado en [Wiki.js](https://js.wiki/), un software de código abierto potente y extensible que está construido sobre tecnologías modernas como [Node.js](https://nodejs.org/) y [Vue.js](https://vuejs.org/). *Wiki.js* puede usarse libremente por cualquier organización para crear cualquier tipo de Wiki.
 
 Una Wiki es una página web mantenida y editada de forma colaborativa por una comunidad de usuarios. Cualquier usuario registrado, tras unas validaciones, puede añadir, modificar o eliminar contenido, y todos los cambios realizados quedan registrados en un historial permanente, de modo que nada se pierde incluso en un borrado accidental. La información es almacenada en una base de datos y se beneficia de las clásicas operaciones de adición/eliminación en masa, copia de seguridad y búsquedas rápidas.
 
@@ -78,7 +78,7 @@ En caso de querer colaborar en este proyecto el mejor medio de contacto es regis
 Los distintos roles de los colaboradores de la *Urantiapedia* son:
 * *Administradores*: se encargan del mantenimiento del servidor web, la página, la carga masiva de datos, y son los únicos con permiso para editar *El Libro de Urantia*, *La Biblia* y otro contenido específico. Leer más aquí: [Manual para Administradores](/es/help/admin).
 * *Editores Jefe*: a cargo de contribuciones en el proyecto de GitHub añadiendo cambios y traducciones que luego se puedan cargar de forma masiva. Los *Editores Jefe* tienen también todas las capacidades de un Editor Asistente dentro de la web de Urantiapedia. Consultar: [Manual para Editores Jefe](/es/help/github)
-* *Editores Asistentes*: con permiso para editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Necesitan pasar un proceso de verificación para obtener una cuenta en este sitio.
+* *Editores Asistentes*: con permiso para editar ciertas secciones de la web como el *Índice de Términos*, los artículos, y otro material no reservado a los administradores. Necesitan pasar un proceso de verificación para obtener una cuenta en este sitio. Consultar: [Manual para Editores Asistente](/es/help/github_assistant)
 * *Autores*: son *Editores Asistentes* que aparte de poder editar lo que cualquier *Editor Asistente* también son los únicos editores con permiso para editar ciertos contenidos de los cuales ellos son autores.
 * *Desarrolladores*: tienen una cuenta en GitHub y están a cargo de desarrollar la funcionalidad de las *Urantiapedia Tools* y de *Wiki.js*. Consultar: [Manual para Desarrolladores](/es/help/devs).
 * *Revisores*: con la tarea de velar por un correcto contenido en la web y seguir las reglas del sitio.
@@ -96,6 +96,7 @@ Para saber más acerca de los perfiles que estamos buscando para colaborar consu
 - [Manual para Administradores](/es/help/admin)
 - [Manual para Desarrolladores](/es/help/devs)
 - [Manual para Editores Jefe](/es/help/github)
+- [Manual para Editores Asistente](/es/help/github_assistant)
 - [Progreso actual del proyecto](/es/help/status)
 
 ## External links
