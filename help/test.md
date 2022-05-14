@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-14T09:11:22.670Z
+date: 2022-05-14T09:35:03.534Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -315,3 +315,16 @@ Citric acid cycle | 2 ATP ||
 |  |  |  |  |  |♘|  |  |
 |♙|♙|♙|♙|  |♙|♙|♙|
 |♖|♘|♗|♕|♔|  |  |♖|
+
+### [Mathjax](https://github.com/classeur/markdown-it-mathjax)
+
+Processes TeX displayed math
+
+$$1 *2* 3$$
+
+Processes TeX in-line math $1 *2* 3$
+
+When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+$$\frac{1}{\sqrt{x^2 + 1}}$$
