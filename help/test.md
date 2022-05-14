@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-14T10:03:35.597Z
+date: 2022-05-14T10:08:40.409Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -342,3 +342,6 @@ $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
 See [Mathjax](https://www.mathjax.org/)
 See [Mathjax documentation](http://docs.mathjax.org/en/latest/index.html)
 See [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_expressions)
+
+
+
