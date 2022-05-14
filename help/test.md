@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-14T09:35:03.534Z
+date: 2022-05-14T09:39:23.466Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -328,3 +328,13 @@ When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 $$\frac{1}{\sqrt{x^2 + 1}}$$
+
+
+description	| code | examples
+--- | --- | ---
+Greek letters |	\alpha \beta \gamma \rho \sigma \delta \epsilon	| $\alpha \beta \gamma \rho \sigma \delta \epsilon$
+Binary operators | \times \otimes \oplus \cup \cap | $\times \otimes \oplus \cup \cap$
+Relation operators | < > \subset \supset \subseteq \supseteq | $< > \subset \supset \subseteq \supseteq$
+Others | \int \oint \sum \prod | $\int \oint \sum \prod$
+
+See [LaTeX Math expressions](https://es.overleaf.com/learn/latex/Mathematical_expressions)
