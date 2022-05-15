@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-15T09:24:23.691Z
+date: 2022-05-15T09:26:00.260Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -304,20 +304,8 @@ Citric acid cycle | 2 ATP ||
 **30--32** ATP |||
 [Net ATP yields per hexose]
 
-#### Headerless
-
-|--|--|--|--|--|--|--|--|
-|♜|  |♝|♛|♚|♝|♞|♜|
-|  |♟|♟|♟|  |♟|♟|♟|
-|♟|  |♞|  |  |  |  |  |
-|  |♗|  |  |♟|  |  |  |
-|  |  |  |  |♙|  |  |  |
-|  |  |  |  |  |♘|  |  |
-|♙|♙|♙|♙|  |♙|♙|♙|
-|♖|♘|♗|♕|♔|  |  |♖|
-
-
--- | --
+| Archetypes ||
+--- | ---
 Adam and Eve | Faith 
 Lucifer | Prophecy 
 Satan Guardian | Angels 
