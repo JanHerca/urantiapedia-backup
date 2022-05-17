@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-15T09:26:00.260Z
+date: 2022-05-17T08:24:33.629Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -61,6 +61,8 @@ __This is bold text__
 _This is italic text_
 
 ~~Strikethrough~~
+
+***Bold & italic***
 
 
 ## Blockquotes
