@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-18T20:50:12.079Z
+date: 2022-05-19T00:06:24.071Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -336,6 +336,8 @@ $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 $$\frac{1}{\sqrt{x^2 + 1}}$$
 
 __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
+
+$$V = H_0 * D, $$
 
 description	| code | examples
 --- | --- | ---
