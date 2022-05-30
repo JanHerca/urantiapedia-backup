@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-22T12:08:33.742Z
+date: 2022-05-30T16:28:07.630Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -169,7 +169,7 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
-![Minion](https://octodex.github.com/images/minion.png)
+![Minion](https://octodex.github.com/images/minion.png) {#Letter_figure_1 .image.image_resized}
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
