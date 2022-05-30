@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-05-30T16:36:09.948Z
+date: 2022-05-30T18:34:46.793Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -349,6 +349,8 @@ Relation operators | < > \subset \supset \subseteq \supseteq | $< > \subset \sup
 Others | \int \oint \sum \prod | $\int \oint \sum \prod$
 
 $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
+
+Earth mass = $M^\odot$
 
 See [Mathjax](https://www.mathjax.org/)
 See [Mathjax documentation](http://docs.mathjax.org/en/latest/index.html)
