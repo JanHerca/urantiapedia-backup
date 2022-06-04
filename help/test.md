@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-06-04T17:19:20.678Z
+date: 2022-06-04T17:26:51.175Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -14,7 +14,7 @@ The purpose of this page is just for doing tests with content in Markdown files.
 
 ## Headings
 
-Markdown
+**Markdown**
 ```
 # h1 Heading 8-)
 ## h2 Heading
@@ -23,7 +23,7 @@ Markdown
 ##### h5 Heading
 ###### h6 Heading
 ```
-Result
+**Result**
 <div style="padding-bottom:5px;color: #1565c0; font-size: 2em;font-weight:bold;background:linear-gradient(90deg,#1976d2,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 3px;">h1 Heading <img src="/_assets/svg/twemoji/1f60e.svg" alt="😎" draggable="false" class="emoji"></div>
 <div style="padding-bottom:5px;color: #424242; font-size: 1.5em;font-weight: bold;background:linear-gradient(90deg,#424242,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h2 Heading</div>
 <div style="padding-bottom:5px;color: #616161; font-size: 1.17em;font-weight: bold;background:linear-gradient(90deg,#616161,rgba(25,118,210,0)) left bottom #fff0 no-repeat;;background-size:100% 1px;">h3 Heading</div>
@@ -34,14 +34,14 @@ Result
 
 ## Horizontal Rules
 
-Markdown
+**Markdown**
 ```
 ___
 ---
 ***
 ```
 
-Result
+**Result**
 ___
 ---
 ***
@@ -50,6 +50,8 @@ ___
 
 Enable typographer option to see result.
 
+**Markdown**
+```
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 
 test.. test... test..... test?..... test!....
@@ -57,32 +59,67 @@ test.. test... test..... test?..... test!....
 !!!!!! ???? ,,  -- ---
 
 "Smartypants, double quotes" and 'single quotes'
+```
 
+**Result**
+
+© © ® ® ™ ™ § § ±
+
+test… test… test… test?.. test!..
+
+!!! ??? , – —
+
+“Smartypants, double quotes” and ‘single quotes’
 
 ## Emphasis
 
+**Markdown**
+```
 **This is bold text**
-
 __This is bold text__
-
 *This is italic text*
-
 _This is italic text_
-
 ~~Strikethrough~~
-
 ***Bold & italic***
+```
 
+**Result**
+**This is bold text**
+__This is bold text__
+*This is italic text*
+_This is italic text_
+~~Strikethrough~~
+***Bold & italic***
 
 ## Blockquotes
 
-
+**Markdown**
+```
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
+```
+**Result**
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
 Custom blockquotes
+**Markdown**
+```
+> This is an info blockquote
+{.is-info}
 
+> This is a success blockquote
+{.is-success}
+
+> This is a warning blockquote
+{.is-warning}
+
+> This is an error blockquote
+{.is-danger}
+```
+**Result**
 > This is an info blockquote
 {.is-info}
 
