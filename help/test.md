@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-06-04T17:26:51.175Z
+date: 2022-06-04T17:33:23.117Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -134,8 +134,19 @@ Custom blockquotes
 
 ## Lists
 
-Unordered
+### Unordered
 
+**Markdown**
+```
++ Create a list by starting a line with `+`, `-`, or `*`
++ Sub-lists are made by indenting 2 spaces:
+  - Marker character change forces new list start:
+    * Ac tristique libero volutpat at
+    + Facilisis in pretium nisl aliquet
+    - Nulla volutpat aliquam velit
++ Very easy!
+```
+**Result**
 + Create a list by starting a line with `+`, `-`, or `*`
 + Sub-lists are made by indenting 2 spaces:
   - Marker character change forces new list start:
@@ -144,8 +155,19 @@ Unordered
     - Nulla volutpat aliquam velit
 + Very easy!
 
-Ordered
+### Ordered
 
+**Markdown**
+```
+1. Lorem ipsum dolor sit amet
+2. Consectetur adipiscing elit
+3. Integer molestie lorem at massa
+
+
+1. You can use sequential numbers...
+1. ...or keep all the numbers as `1.`
+```
+**Result**
 1. Lorem ipsum dolor sit amet
 2. Consectetur adipiscing elit
 3. Integer molestie lorem at massa
@@ -154,11 +176,16 @@ Ordered
 1. You can use sequential numbers...
 1. ...or keep all the numbers as `1.`
 
-Start numbering with offset:
+### Start numbering with offset:
 
+**Markdown**
+```
 57. foo
 1. bar
-
+```
+**Result**
+57. foo
+1. bar
 
 ## Code
 
@@ -190,6 +217,18 @@ console.log(foo(5));
 
 ## Tables
 
+**Markdown**
+
+```
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+```
+
+**Result**
+
 | Option | Description |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -198,6 +237,18 @@ console.log(foo(5));
 
 Right aligned columns
 
+**Markdown**
+
+```
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+```
+
+**Result**
+
 | Option | Description |
 | ------:| -----------:|
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -205,6 +256,19 @@ Right aligned columns
 | ext    | extension to be used for dest files. |
 
 ## Links
+
+
+**Markdown**
+
+```
+[link text](http://dev.nodeca.com)
+
+[link with title](http://nodeca.github.io/pica/demo/ "title text!")
+
+Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
+```
+
+**Result**
 
 [link text](http://dev.nodeca.com)
 
