@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-06-04T17:33:23.117Z
+date: 2022-06-04T17:36:47.845Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -279,15 +279,34 @@ Autoconverted link https://github.com/nodeca/pica (enable linkify to see)
 
 ## Images
 
+**Markdown**
+```
+![Minion](https://octodex.github.com/images/minion.png) {#Letter_figure_1 .image.image_resized}
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+```
+
+**Result**
 ![Minion](https://octodex.github.com/images/minion.png) {#Letter_figure_1 .image.image_resized}
 ![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 Like links, Images also have a footnote style syntax
 
+**Markdown**
+```
+![Alt text][id]
+```
+
+**Result**
 ![Alt text][id]
 
 With a reference later in the document defining the URL location:
 
+**Markdown**
+```
+[id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
+```
+
+**Result**
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 
