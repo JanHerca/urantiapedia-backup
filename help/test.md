@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-06-04T17:49:57.068Z
+date: 2022-06-11T15:58:13.056Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -457,21 +457,68 @@ We are the ones who helped make you possible.
 
 Processes TeX displayed math
 
+**Markdown**
+```
+$$1 *2* 3$$
+
+Processes TeX in-line math $1 *2* 3$
+```
+
+**Result**
 $$1 *2* 3$$
 
 Processes TeX in-line math $1 *2* 3$
 
+**Markdown**
+```
+When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+
+
+$$\frac{1}{\sqrt{x^2 + 1}}$$
+```
+
+**Result**
 When $a \ne 0$, there are two solutions to $ax^2 + bx + c = 0$ and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
 
 $$\frac{1}{\sqrt{x^2 + 1}}$$
 
+**Markdown**
+```
+__O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
+```
+
+**Result**
 __O^1^ O^2^ O^3^ O^4^ O^5^ O^6^ O^7^ O^8^ O^9^ <u>O</u>^10^ O^11^ O^12^__
 
+**Markdown**
+```
+$$V = H_0 * D, $$
+```
+
+**Result**
 $$V = H_0 * D, $$
 
+**Markdown**
+```
+In most part yes, in $1/4$ no.
+```
+
+**Result**
 In most part yes, in $1/4$ no.
 
+**Markdown**
+```
+description	| code | examples
+--- | --- | ---
+Greek letters |	\alpha \beta \gamma \rho \sigma \delta \epsilon	| $\alpha \beta \gamma \rho \sigma \delta \epsilon$
+Binary operators | \times \otimes \oplus \cup \cap | $\times \otimes \oplus \cup \cap$
+Relation operators | < > \subset \supset \subseteq \supseteq | $< > \subset \supset \subseteq \supseteq$
+Others | \int \oint \sum \prod | $\int \oint \sum \prod$
+```
+
+**Result**
 description	| code | examples
 --- | --- | ---
 Greek letters |	\alpha \beta \gamma \rho \sigma \delta \epsilon	| $\alpha \beta \gamma \rho \sigma \delta \epsilon$
@@ -479,8 +526,20 @@ Binary operators | \times \otimes \oplus \cup \cap | $\times \otimes \oplus \cup
 Relation operators | < > \subset \supset \subseteq \supseteq | $< > \subset \supset \subseteq \supseteq$
 Others | \int \oint \sum \prod | $\int \oint \sum \prod$
 
+**Markdown**
+```
+$$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
+```
+
+**Result**
 $$ \max dS/dt = \pm \begin{cases} wR, R \leq D \\ wD, R \geq D  \end{cases}$$
 
+**Markdown**
+```
+Earth mass = $M^\odot$
+```
+
+**Result**
 Earth mass = $M^\odot$
 
 See [Mathjax](https://www.mathjax.org/)
