@@ -2,7 +2,7 @@
 title: Testing page
 description: 
 published: true
-date: 2022-06-11T15:58:13.056Z
+date: 2022-06-11T16:06:00.670Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-05T10:55:15.557Z
@@ -319,6 +319,14 @@ The killer feature of `markdown-it` is very effective support of [syntax plugins
 
 ### [Emojies](https://github.com/markdown-it/markdown-it-emoji)
 
+**Markdown**
+```
+> Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
+>
+> Shortcuts (emoticons): :-) :-( 8-) ;)
+```
+
+**Result**
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
 >
 > Shortcuts (emoticons): :-) :-( 8-) ;)
@@ -328,22 +336,56 @@ see [how to change output](https://github.com/markdown-it/markdown-it-emoji#chan
 
 ### [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
+**Markdown**
+```
+- 19^th^
+- H~2~O
+```
+
+**Result**
 - 19^th^
 - H~2~O
 
-
 ### [\<ins>](https://github.com/markdown-it/markdown-it-ins)
 
+**Markdown**
+```
 ++Inserted text++
+```
 
+**Result**
+++Inserted text++
 
 ### [\<mark>](https://github.com/markdown-it/markdown-it-mark)
 
+**Markdown**
+```
 ==Marked text==
+```
 
+**Result**
+==Marked text==
 
 ### [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
+**Markdown**
+```
+Footnote 1 link[^first].
+
+Footnote 2 link[^second].
+
+Inline footnote^[Text of inline footnote] definition.
+
+Duplicated footnote reference[^second].
+
+[^first]: Footnote **can have markup**
+
+    and multiple paragraphs.
+
+[^second]: Footnote text.
+```
+
+**Result**
 Footnote 1 link[^first].
 
 Footnote 2 link[^second].
@@ -358,9 +400,25 @@ Duplicated footnote reference[^second].
 
 [^second]: Footnote text.
 
-
 ### [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
 
+**Markdown**
+```
+Term 1
+
+:   Definition 1
+with lazy continuation.
+
+Term 2 with *inline markup*
+
+:   Definition 2
+
+        { some code, part of Definition 2 }
+
+    Third paragraph of definition 2.
+```
+
+**Result**
 Term 1
 
 :   Definition 1
@@ -376,6 +434,17 @@ Term 2 with *inline markup*
 
 _Compact style:_
 
+**Markdown**
+```
+Term 1
+  ~ Definition 1
+
+Term 2
+  ~ Definition 2a
+  ~ Definition 2b
+```
+
+**Result**
 Term 1
   ~ Definition 1
 
@@ -383,17 +452,30 @@ Term 2
   ~ Definition 2a
   ~ Definition 2b
 
-
 ### [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
 This is HTML abbreviation example.
 
 It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
+**Markdown**
+```
+*[HTML]: Hyper Text Markup Language
+```
+
+**Result**
 *[HTML]: Hyper Text Markup Language
 
 ### [Custom containers](https://github.com/markdown-it/markdown-it-container)
 
+**Markdown**
+```
+::: warning
+*here be dragons*
+:::
+```
+
+**Result**
 ::: warning
 *here be dragons*
 :::
@@ -402,6 +484,20 @@ It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
 #### With grouping, alignment, and scaping
 
+**Markdown**
+```
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped \|       ||
+[Prototype table]
+```
+
+**Result**
 |             |          Grouping           ||
 First Header  | Second Header | Third Header |
  ------------ | :-----------: | -----------: |
@@ -414,6 +510,20 @@ And more      | With an escaped \|       ||
 
 #### With multiline
 
+**Markdown**
+```
+|   Markdown   | Rendered HTML |
+|--------------|---------------|
+|    *Italic*  | *Italic*      | \
+|              |               |
+|    - Item 1  | - Item 1      | \
+|    - Item 2  | - Item 2      |
+|    ```python | ```python       \
+|    .1 + .2   | .1 + .2         \
+|    ```       | ```           |
+```
+
+**Result**
 |   Markdown   | Rendered HTML |
 |--------------|---------------|
 |    *Italic*  | *Italic*      | \
@@ -426,6 +536,21 @@ And more      | With an escaped \|       ||
 
 #### With rowspan
 
+**Markdown**
+```
+Stage | Direct Products | ATP Yields
+----: | --------------: | ---------:
+Glycolysis | 2 ATP ||
+^^ | 2 NADH | 3--5 ATP |
+Pyruvaye oxidation | 2 NADH | 5 ATP |
+Citric acid cycle | 2 ATP ||
+^^ | 6 NADH | 15 ATP |
+^^ | 2 FADH2 | 3 ATP |
+**30--32** ATP |||
+[Net ATP yields per hexose]
+```
+
+**Result**
 Stage | Direct Products | ATP Yields
 ----: | --------------: | ---------:
 Glycolysis | 2 ATP ||
@@ -437,6 +562,8 @@ Citric acid cycle | 2 ATP ||
 **30--32** ATP |||
 [Net ATP yields per hexose]
 
+**Markdown**
+```
 | Archetypes ||
 --- | ---
 Adam and Eve | Faith 
@@ -447,11 +574,19 @@ Seraphim | The Kingdom of Heaven
 Heaven | The Apostles 
 Hell | Jesus and the stories of His Life and Teachings 
 Salvation | The “Second Coming” 
+```
 
-We are the creatures who carry the life. 
-We strive hard to make you your life. 
-We are your ancestors. 
-We are the ones who helped make you possible. 
+**Result**
+| Archetypes ||
+--- | ---
+Adam and Eve | Faith 
+Lucifer | Prophecy 
+Satan Guardian | Angels 
+Melchizedek | Life after death 
+Seraphim | The Kingdom of Heaven 
+Heaven | The Apostles 
+Hell | Jesus and the stories of His Life and Teachings 
+Salvation | The “Second Coming” 
 
 ### [Mathjax](https://github.com/classeur/markdown-it-mathjax)
 
