@@ -204,7 +204,7 @@ Aquí puedes encontrar una lista de tareas que actualmente no están activas. Si
 - Artículos :page_with_curl: :
   - Traducción automática de artículos: todos los idiomas excepto `en`.
     - Revisión de la traducción anterior: todos los idiomas excepto `en`.
-- Ayudas para el estudio :cuaderno: :
+- Ayudas para el estudio :notebook: :
   - Planificar una lista de ayudas de estudio a incluir.
 - Esquemas :memo: :
   - Planificar una lista de esquemas a incluir.
