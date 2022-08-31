@@ -310,6 +310,20 @@ With a reference later in the document defining the URL location:
 [id]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
 
 
+## SVG
+
+SVG can be included as any other content supported by browsers:
+
+```svg
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+```
+
+<svg width="100" height="100">
+  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
+</svg>
+
 ## Plugins
 
 The killer feature of `markdown-it` is very effective support of [syntax plugins](https://www.npmjs.org/browse/keyword/markdown-it-plugin).
@@ -484,20 +498,6 @@ Earth mass = $M^\odot$
 See [Mathjax](https://www.mathjax.org/)
 See [Mathjax documentation](http://docs.mathjax.org/en/latest/index.html)
 See [LaTeX Math expressions](https://www.overleaf.com/learn/latex/Mathematical_expressions)
-
-## SVG
-
-SVG can be included as any other content supported by browsers:
-
-```svg
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg>
-```
-
-<svg width="100" height="100">
-  <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
-</svg>
 
 
 
