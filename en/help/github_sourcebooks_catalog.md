@@ -19,7 +19,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
     </tbody>
   </table>
 </figure>
-
+ 
 Here we describe how to create a catalog of books that are supposed to be sources of *The Urantia Book* or have some relationship or parallel to *The Urantia Book*.
 
 ## Context
