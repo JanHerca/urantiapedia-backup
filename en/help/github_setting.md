@@ -148,7 +148,7 @@ As *Urantiapedia* is the effort of a team of collaborators, it is common that at
 
 
 <br>
-
+ 
 <figure class="table chapter-navigator">
   <table>
     <tbody>

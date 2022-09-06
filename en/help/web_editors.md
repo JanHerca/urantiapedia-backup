@@ -19,7 +19,7 @@ dateCreated: 2022-09-02T14:21:26.328Z
     </tbody>
   </table>
 </figure>
-
+ 
 When creating a page, you can use the editor of your choice. Some users prefer to write content in Markdown while others might prefer a more visual editor.
 
 ## List of  Editors

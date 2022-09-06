@@ -138,7 +138,7 @@ All the folders indicated above for `output` folder is created using *Urantiaped
 - [Wiki.js](https://js.wiki/)
 
 <br>
-
+ 
 <figure class="table chapter-navigator">
   <table>
     <tbody>

@@ -138,7 +138,7 @@ Todas las carpetas indicadas arriba para la carpeta `output` se crean usando las
 - [Wiki.js](https://js.wiki/)
 
 <br>
-
+ 
 <figure class="table chapter-navigator">
   <table>
     <tbody>

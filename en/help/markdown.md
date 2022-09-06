@@ -19,7 +19,7 @@ dateCreated: 2022-08-01T19:59:13.093Z
     </tbody>
   </table>
 </figure>
-
+ 
 ## Overview
 
 Markdown is a lightweight markup language with plain text formatting syntax. It's the de-facto syntax for writing documentation on major code repositories such as GitHub.

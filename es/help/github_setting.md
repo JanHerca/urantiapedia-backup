@@ -146,7 +146,7 @@ Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que 
 - [Wiki.js](https://js.wiki/)
 
 <br>
-
+ 
 <figure class="table chapter-navigator">
   <table>
     <tbody>

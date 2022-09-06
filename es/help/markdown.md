@@ -19,7 +19,7 @@ dateCreated: 2022-08-01T20:01:17.168Z
     </tbody>
   </table>
 </figure>
-
+ 
 ## Visión general
 
 Markdown es un lenguaje de marcado ligero con sintaxis de formato de texto plano. Es la sintaxis de facto para escribir documentación en los principales repositorios de código, como GitHub.
