@@ -2,20 +2,10 @@
 title: Markdown format help
 description: 
 published: true
-date: 2022-09-06T09:07:28.630Z
+date: 2022-09-06T09:08:14.892Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-01T19:59:13.093Z
----
-
----
-title: Markdown format help
-description: 
-published: true
-date: 2022-07-30T10:07:46.165Z
-tags: 
-editor: markdown
-dateCreated: 2022-04-05T10:55:15.557Z
 ---
 
 <figure class="table chapter-navigator">
