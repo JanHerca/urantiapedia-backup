@@ -16,7 +16,7 @@ Al incorporar estos libros a Urantiapedia se va a proceder del mismo modo que co
 
 Aquí se incluye una lista provisional de los libros que van a incluirse:
 
-- _Man’s Vision of God and the Logic of Theism_, Charles Hartshorne (1941)
+- [La visión del hombre de Dios y la lógica del teísmo (Man’s Vision of God and the Logic of Theism)](/es/book/Charles_Hartshorne/Mans_Vision_of_God), Charles Hartshorne (1941)
 - _The Doctrine of God_, Albert C. Knudson (1931)
 - _The Universe Unfolding_, Robert H. Baker (1932)
 - _Stars and Atoms_, Sir Arthur S. Eddington (1927)

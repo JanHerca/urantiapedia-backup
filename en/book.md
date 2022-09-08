@@ -18,7 +18,7 @@ This and other information about how books are organized in the project can be f
 
 Here is a tentative list of books to be included:
 
-- _Man’s Vision of God and the Logic of Theism_, Charles Hartshorne (1941)
+- [Man’s Vision of God and the Logic of Theism](/en/book/Charles_Hartshorne/Mans_Vision_of_God), Charles Hartshorne (1941)
 - _The Doctrine of God_, Albert C. Knudson (1931)
 - _The Universe Unfolding_, Robert H. Baker (1932)
 - _Stars and Atoms_, Sir Arthur S. Eddington (1927)
