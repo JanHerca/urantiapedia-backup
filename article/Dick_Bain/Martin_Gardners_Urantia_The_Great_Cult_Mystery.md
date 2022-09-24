@@ -2,8 +2,8 @@
 title: Martin Gardner's "Urantia, The Great Cult Mystery"
 description: 
 published: true
-date: 2022-09-24T16:19:30.618Z
-tags: gardner
+date: 2022-09-24T17:02:57.956Z
+tags: the urantia book, gardner
 editor: markdown
 dateCreated: 2022-09-07T12:41:28.028Z
 ---
