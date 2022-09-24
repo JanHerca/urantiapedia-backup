@@ -15,14 +15,29 @@ dateCreated: 2022-09-24T20:53:01.424Z
   <li>Edit is in the web</li>
   <li>Check that a duplicate is create outside EN folder</li>
   <li>Copy duplicated content inside old file</li>
+</ol>
+
+<h2>Alternative1</p>
+<ol>
   <li>Remove the duplicate and commit</li>
   <li>Commit the updated</li>
   <li>Check if history is maintained</li>
 </ol>
-<p>Result: This doesn't work if remove commit and updated commit are done one after the other becuase the update is executed first in the server</p>
+<p>Result: This doesn't work if remove commit and updated commit are done one after the other because the update is executed first in the server and we loose the historic info when delete is executed.</p>
 
-<h2>Alternative 1</p>
-<p>Remove + commit + wait 10 minutes; then try update + commit</p>
+<h2>Alternative 2</h2>
+<ol>
+  <li>Try desperately (even through console) to mark the duplicate as moved to older location</li>
+  <li>Update older if move hasn't update, then commit</li>
+  <li>Check if history is maintained</li>
+</ol>
 
-<p>&nbsp;</p>
+<h2>Alternative Final</h2>
+<ol>
+  <li>Move all EN folders in Urantiapedia-backup and Urantiapedia projects in GitHub outside the EN folder</li>
+  <li>Commit and cross-fingers (in the better case all changes are moves and Wiki.js ignores them)</li>
+  <li>Check if history is maintained</li>
+</ol>
+
+
 
