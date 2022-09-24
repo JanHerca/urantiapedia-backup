@@ -2,7 +2,7 @@
 title: A response to some of the Gardner criticisms
 description: 
 published: true
-date: 2022-09-24T17:46:11.444Z
+date: 2022-09-24T18:52:05.983Z
 tags: the urantia book, gardner
 editor: markdown
 dateCreated: 2022-09-24T17:46:11.444Z
@@ -29,6 +29,14 @@ Since the trilobites did not become extinct until the very end of the Paleozoic,
 The book tells us that 550 million years ago the Life Carriers initiated the original life patterns of this world and planted them in hospitable waters ([58:4.2](/en/The_Urantia_Book/58#p4_2)). It also tells us that “*the original life plasm of an evolutionary world must contain the full potential for all future developmental changes and modifications.*” ([36:2.17](/en/The_Urantia_Book/36#p2_17)) This appears to be “missing gap” information as described by the mandate. ([101:4.9](/en/The_Urantia_Book/101#p4_9))
 
 The book defines “life” on Urantia as an “*unbalanced equilibrium of energies and intellect.*” ([112:2.20](/en/The_Urantia_Book/112#p2_20)) So the original life implantation must also have contained the full potential for “intellect” to ultimately develop. Evolution then is not just the chance accumulation of favorable mutations. The plans were there from the beginning with the potential to be expressed over time. The discovery of the Cambrian biological Big Bang in which “nature appears to have sketched out the blueprints for virtually the whole of the animal kingdom” is thus consistent with 'missing gap' information given in the book that would have been a remarkable 'guess' in the mid-1930's and even the mid-1950's.
+
+> There is a pleasure in the pathless woods,
+> There is a rapture on the lonely shore,
+> There is society where none intrudes,
+> By the deep sea, and music in its roar;
+> I love not man less, but Nature more,
+> From these our interviews.
+> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Byron, *Childe Harold, IV* 
 
 ## External links
 
