@@ -2,7 +2,7 @@
 title: The Purpose of Revelation
 description: A Response to Martin Gardner's "Urantia: The Great Cult Mystery"
 published: true
-date: 2022-09-24T16:58:22.104Z
+date: 2022-09-24T16:59:40.682Z
 tags: revelation, the urantia book, the urantia book—purpose, purpose, gardner
 editor: markdown
 dateCreated: 2022-09-07T18:33:46.811Z
@@ -79,7 +79,7 @@ The Urantia movement has been confronted with centralized organizational control
 
 Soon after regional and national conferences were held, students of *The Urantia Book* were captivated and challenged by the intrigues of charismatic control of the Urantia movement. With the passing of time, we recognized the danger of charismatic influence and witnessed the emergence of evolutionary-rational decision-making. On the heels of this tempering experience, we were confronted by a more subtle form of charismatic influence in the captivating channeling movement among readers of *The Urantia Book*. Following the example of the Christian church in dealing with similar movements in its history, we have achieved the spiritual maturity to allow individual freedom to evaluate the authenticity of spiritual experience. 
 
-We are now entering the intellectual-spiritual struggle which took mainline Christianity centuries to largely resolve: distinguishing between the contemporary, fallible human carrier concepts used in revelation from its eternal spiritual truths. Martin Gardner's book, Urantia: The Great Cult Mystery, may help to shorten this period in the Urantia movement. It may also help to guard against cult attitudes among those who have living faith in the enlarged spiritual truths of the Fifth Epochal Revelation. 
+We are now entering the intellectual-spiritual struggle which took mainline Christianity centuries to largely resolve: distinguishing between the contemporary, fallible human carrier concepts used in revelation from its eternal spiritual truths. Martin Gardner's book, *Urantia: The Great Cult Mystery*, may help to shorten this period in the Urantia movement. It may also help to guard against cult attitudes among those who have living faith in the enlarged spiritual truths of the Fifth Epochal Revelation. 
 
 The solid core of the Urantia movement has come through these tribulations with renewed dedication and balance. We have come of age. Spiritual freedom and participatory democracy have taught us there can be unity of purpose in the midst of intellectual and political diversity. The Fifth Epochal Revelation will make its way and overcome any barriers placed in its way. We are standing at the threshold of "*one of the most amazing and enthralling epochs of social readjustment, moral quickening, and spiritual enlightenment*" ([UB 195:9.2](/en/The_Urantia_Book/195#p9_2)) on our planet. The preliminary, orienting growth developments of the Urantia movement are largely behind us. The potential of an exciting outreach mission of the Fifth Epochal Revelation is awaiting us. The Most Highs have prepared us and our planet for the most thrilling vision of spiritual reality since Jesus of Nazareth walked on our world. This outreach mission will be many-faceted, pluralistic, and victorious!
 
