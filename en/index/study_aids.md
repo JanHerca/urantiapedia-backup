@@ -25,13 +25,13 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Works by William S. Sadler, Jr.
 
-| Status                  | Title                                                                                                              | Author                | Tags      |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------ | --------------------- | --------- |
-| :ballot_box_with_check: | [A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index)               | William S. Sadler Jr. | Astronomy |
-| :ballot_box_with_check: | [Appendices to A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe/Index) | William S. Sadler Jr. | Astronomy |
-| :white_square_button:   | Bill Sadler Talks                                                                                                  | William S. Sadler Jr. |           |
-| :white_square_button:   | Concerning Human Survival                                                                                          | William S. Sadler Jr. |           |
-| :white_square_button:   | General Organization of The Urantia Book                                                                           | William S. Sadler Jr. |           |
+| Status                  | Title                                                                                                        | Author                | Tags      |
+| ----------------------- | ------------------------------------------------------------------------------------------------------------ | --------------------- | --------- |
+| :ballot_box_with_check: | [A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe)               | William S. Sadler Jr. | Astronomy |
+| :ballot_box_with_check: | [Appendices to A Study of the Master Universe](/en/article/William_S_Sadler_Jr/Study_of_the_Master_Universe) | William S. Sadler Jr. | Astronomy |
+| :white_square_button:   | Bill Sadler Talks                                                                                            | William S. Sadler Jr. |           |
+| :white_square_button:   | Concerning Human Survival                                                                                    | William S. Sadler Jr. |           |
+| :white_square_button:   | General Organization of The Urantia Book                                                                     | William S. Sadler Jr. |           |
 
 ## Other
 
