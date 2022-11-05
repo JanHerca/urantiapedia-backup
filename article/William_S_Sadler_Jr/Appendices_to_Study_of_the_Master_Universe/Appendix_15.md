@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix XV. Master Architects and Tr
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---

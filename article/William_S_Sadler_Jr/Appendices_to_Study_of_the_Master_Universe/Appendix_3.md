@@ -3,7 +3,7 @@ title: "A Study of the Master Universe — Appendix III. Space Levels of the Mas
 description: 
 published: true
 date: 2022-10-08T14:02:03.086Z
-tags: Astronomy
+tags: astronomy, cosmology, study aid, bill sadler
 editor: markdown
 dateCreated: 2022-10-08T14:02:03.086Z
 ---
@@ -169,8 +169,8 @@ While there are four distinct and separate outer space levels, the Papers often 
 
 The Papers make two general statements concerning mass materialization in the outer space levels:
 
-(130.5)12:2.3 Someday, our astronomers will see 375 million galaxies in the remote regions of outer space.
-
+> [UB 12:2.3](/en/The_Urantia_Book/12#p2_3) Someday, our astronomers will see 375 million galaxies in the remote regions of outer space.
+> 
 > [UB 31:10.19](/en/The_Urantia_Book/31#p10_19) There are 70,000 aggregations of mass that are being mobilized in outer space; each one of these is already larger than a superuniverse.
 
 Question: Do these two statements refer to the same, or to two different mass materializations? Or, do they overlap? Are there 375 million galaxies being organized into the 70,000 aggregations of mass?
