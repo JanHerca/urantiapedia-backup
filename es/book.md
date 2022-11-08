@@ -52,7 +52,7 @@ Aquí se incluye una lista provisional de los libros que van a incluirse:
 - _Jesus of Nazareth: A Biography_, George A. Barton, Ph.D., LL.D. (New York, The Macmillan Company, 1922)
 - _Long Heads and Round Heads_, William S. Sadler, M.D. (Chicago: A. C. McClurg & Co., 1918) **OK**
 - _Man Rises to Parnassus_, Henry Fairfield Osborn (Princeton, New Jersey: Princeton University Press, 1927)
-- [La visión del hombre de Dios y la lógica del teísmo (Man’s Vision of God and the Logic of Theism)](/es/book/Charles_Hartshorne/Mans_Vision_of_God/Index), Charles Hartshorne (Chicago: Willett, Clark & Company, 1941) **OK**
+- [La visión del hombre de Dios y la lógica del teísmo (Man’s Vision of God and the Logic of Theism)](/es/book/Charles_Hartshorne/Mans_Vision_of_God), Charles Hartshorne (Chicago: Willett, Clark & Company, 1941) **OK**
 - _Man’s Most Dangerous Myth: The Fallacy of Race_, M. F. Ashley Montagu (New York: Columbia University Press, 1942) **OK**
 - _Men of the Old Stone Age_, Henry Fairfield Osborn (New York: Charles Scribner’s Sons, 1915, Second Edition) **OK**
 - _Mental Medicine: Some Practical Suggestions from a Spiritual Standpoint_, Oliver Huckel, S.T.D (New York: Thomas Y. Crowell Company, 1909) **OK**
