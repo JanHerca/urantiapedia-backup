@@ -2,7 +2,7 @@
 title: Jan test page 2
 description: 
 published: true
-date: 2022-11-30T20:40:41.054Z
+date: 2022-11-30T20:42:09.834Z
 tags: 
 editor: markdown
 dateCreated: 2022-08-31T19:34:11.898Z
@@ -13,6 +13,7 @@ Your content here
 
 This is a test page by Jan to test if commits to GitHub
 
+<div>
 <svg width="960" height="720" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
     overflow="hidden">
     <defs>
@@ -122,3 +123,4 @@ This is a test page by Jan to test if commits to GitHub
             transform="translate(472 692)">FR</text>
     </g>
 </svg>
+  </div>
