@@ -25,22 +25,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Pour chaque langue prise en charge, la liste des tâches pour terminer le jalon I est la suivante :
 
 1. Traduction de _Paramony_ :ledger: de l'anglais vers la langue cible (`Paramony`).
-2. Traduction et révision de _Topic index_ :card_index: de l'anglais vers la langue cible (`Topics`).
+2. Traduction et révision de _Topic index_ :card_index: de l'anglais vers la langue cible (`Sujets`).
 3. Obtenez une traduction du domaine public de _The Bible_ :closed_book: dans la langue cible (`Bible`).
 4. Conversion _Le Livre d'Urantia_ :blue_book : de HTML à JSON sans _Paramony_ :ledger: notes de bas de page (`UB`).
-5. Ajout de _Paramony_ :ledger: notes de bas de page au _Livre d'Urantia_ :blue_book: en JSON (`UB + Paramony`).
-6. Conversion de _Topic index_ :card_index: de TXT vers Wiki.js et validation des modifications à l'aide de [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Topics`).
-7. Conversion de _The Urantia Book_ :blue_book: de JSON avec _Paramony_ :ledger: notes de bas de page vers Wiki.js, y compris les références aux sujets, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup ) (`UBWiki`).
-8. Conversion de _The Bible_ :closed_book: de LaTeX à Wiki.js avec _Paramony_ :ledger: notes de bas de page, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Bible Wiki `).
+5. Ajout de _Paramony_ :ledger: notes de bas de page au _Livre d'Urantia_ :blue_book: en JSON (`UB Paramony`).
+6. Conversion de _Topic index_ :card_index: de TXT vers Wiki.js et validation des modifications à l'aide de [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Sujets`).
+7. Conversion de _The Urantia Book_ :blue_book: de JSON avec _Paramony_ :ledger: notes de bas de page vers Wiki.js, y compris les références aux sujets, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup ) (`UB Wiki`).
+8. Conversion de _The Bible_ :closed_book: de LaTeX à Wiki.js avec _Paramony_ :ledger: notes de bas de page, et valider les modifications en utilisant [Urantiapedia-backup](https://github.com/JanHerca/urantiapedia-backup) (`Bible Wiki`).
 
 D'autres tâches supplémentaires sur lesquelles travailler sont:
 
-- :sound: Testez les solutions de synthèse vocale. Le but est d'offrir une lecture automatisée de tous les livres sur le site Web, en commençant par _Le Livre d'Urantia_. En anglais, il existe un livre audio officiel de la Fondation Urantia. Pour les autres langues, des solutions automatisées seront recherchées.
-- :sunrise_over_mountains: Créez un catalogue d'images pour illustrer _Le Livre d'Urantia_, la _Bible_ et l'_Index des sujets_. C'est actuellement fait avec la partie IV du _Livre d'Urantia_.
+- :sound: Testez les solutions de synthèse vocale. Le but est d'offrir une lecture automatisée de tous les livres sur le site Web, en commençant par _Le Livre d'Urantia_. En anglais, il existe un livre audio officiel de la Fondation Urantia. Pour les autres langues, des solutions automatisées seront recherchées. (`UB Audio`)
+- :sunrise_over_mountains: Créez un catalogue d'images pour illustrer _Le Livre d'Urantia_, la _Bible_ et l'_Index des sujets_. C'est actuellement fait avec la partie IV du _Livre d'Urantia_. (`Images UB`)
 
 Tableau des tâches et des langues à prendre en charge, montrant les progrès actuels :
 
-| Langue      | Codage | :ledger: Paramonie | :card_index: Sujets  | :closed_book: Bible  | :blue_book: UB     | :blue_book: :ledger: UB <br> Paramony | :blue_book: UB<br>Wiki | :closed_book: Bible<br>Wiki  | :sound: UB Audio   | :sunrise_over_mountains: images UB  |
+| Langue      | Codage | :ledger: Paramonie | :card_index: Sujets  | :closed_book: Bible  | :blue_book: UB     | :blue_book: :ledger: UB <br> Paramony | :blue_book: UB<br>Wiki | :closed_book: Bible<br>Wiki  | :sound: UB Audio   | :sunrise_over_mountains: Images UB  |
 | ----------- | :----: | :----------------: | :------------------: | :------------------: | :----------------: | :-----------------------------------: | :--------------------: | :--------------------------: | :----------------: | :---------------------------------: |
 | Bulgare     | `bg`   | :heavy_check_mark: |                      |  :heavy_check_mark:  | :heavy_check_mark: |          :heavy_check_mark:           |   :heavy_check_mark:   |      :heavy_check_mark:      |                    |              :clock2:               |
 | Tchèque     | `cs`   | :heavy_check_mark: |                      |  :heavy_check_mark:  | :heavy_check_mark: |          :heavy_check_mark:           |   :heavy_check_mark:   |      :heavy_check_mark:      |                    |              :clock2:               |
@@ -73,9 +73,9 @@ Tableau des tâches et des langues à prendre en charge, montrant les progrès a
 Pour chaque langue, le contenu attendu dans cette étape est :
 
 - Livres:
-  - :green_book: Livres extra-bibliques: 11 livres prévus
-  - :books: Autres livres censés être des sources: 17 livres prévus
-- :page_with_curl: Articles:
+  - :green_book: Livres extra-bibliques: 11 livres prévus. (`Extra-biblique`)
+  - :books: Autres livres censés être des sources: 17 livres prévus. (`Sources de livres`)
+- :page_with_curl: Articles (`Articles`):
   - Face intérieure: 510 prévues
   - Urantian Journal: 11 prévus
   - Fellowship Journal: 23 prévus
@@ -84,11 +84,11 @@ Pour chaque langue, le contenu attendu dans cette étape est :
   - Articles de Jan Herca: 41 prévus
   - Autre: 100 prévus
   - TOTAL: 927 prévus
-- :notebook: Aides à l'étude: Prévu environ 20 d'entre eux, disponible en `en`.
-- :memo: Schémas: pas de prévu, uniquement des tests.
-- :capital_abcd: Index: actuellement, les index des sujets sont disponibles. D'autres doivent être planifiés.
+- :notebook: Aides à l'étude: Prévu environ 20 d'entre eux, disponible en `en`. (`Aides à l'étude`)
+- :memo: Schémas: pas de prévu, uniquement des tests. (`Diagrammes`)
+- :capital_abcd: Index: actuellement, les index des sujets sont disponibles. D'autres doivent être planifiés. (`Index`)
 
-| Langue | Codage | :green_book: extra-biblique    | :books: Sources de livres | :page_with_curl: articles | :notebook: Aides à l'étude | :memo: Diagrammes | :capital_abcd: Index   |
+| Langue | Codage | :green_book: Extra-biblique    | :books: Sources de livres | :page_with_curl: Articles | :notebook: Aides à l'étude | :memo: Diagrammes | :capital_abcd: Index   |
 | ----------- | :--: | :-------------------------: | :-----------------------: | :-----------------------: | :------------------------: | :---------------: | :--------------------: |
 | Bulgare     | `bg` |                             |                           |                           |                            |                   |                        |
 | Tchèque     | `cs` |                             |                           |                           |                            |                   |                        |
@@ -126,8 +126,8 @@ Cette étape comprend des développements qui ne sont actuellement pas prévus.
 
 Pour chaque langue, le contenu attendu dans cette étape est :
 
-- :globe_with_meridians : Cartes statiques : 100 prévues.
-- :earth_americas : Cartes interactives : 20 prévues. Pour l'instant, une carte a été créée pour les tests.
+- :globe_with_meridians: `Cartes statiques` : 100 prévues.
+- :earth_americas: `Cartes interactives` : 20 prévues. Pour l'instant, une carte a été créée pour les tests.
 
 | Langue | Codage | :globe_with_meridians : Cartes statiques | :earth_americas : Cartes interactives |
 | ---------- | :--: | :---------: | :-------------: |
