@@ -22,6 +22,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 ## Jalon I - Le Livre d'Urantia, la Bible et l'index des sujets
 
+Cette jalon est expliquée en détail ici: [Jalon I](/fr/help/phases#jalon-i-le-livre-durantia-la-bible-et-lindex-des-sujets).
+
+### Tâches de développement logiciel
+
+Dans cette phase les développements à réaliser sont :
+
+Tâche                                                                                                         | État               |
+------------------------------------------------------------------------------------------------------------- | ------------------ |
+Développement de convertisseurs de fichiers vers Wiki.js                                                      | :heavy_check_mark: |
+Développement du _Topic Index Editor_, un assistant qui permet d'accélérer le travail avec l'Index des sujets | :clock2:           |
+
+### Tâches d'ajout de contenu
+
 Pour chaque langue prise en charge, la liste des tâches pour terminer le jalon I est la suivante :
 
 1. Traduction de _Paramony_ :ledger: de l'anglais vers la langue cible (`Paramony`).
@@ -69,6 +82,18 @@ Tableau des tâches et des langues à prendre en charge, montrant les progrès a
 | Turc        | `tr`   | :heavy_check_mark: |                      |  :heavy_check_mark:  | :heavy_check_mark: |          :heavy_check_mark:           |   :heavy_check_mark:   |      :heavy_check_mark:      |                    |              :clock2:               |
 
 ## Jalon II - Livres, articles, aides à l'étude, schémas et index
+
+Cette jalon est expliquée en détail ici: [Jalon II](/fr/help/phases#milestone-ii-livres-articles-aides-%C3%A0-l%C3%A9tude-sch%C3%A9mas-et-index).
+
+### Tâches de développement logiciel
+
+Dans cette phase les développements à réaliser sont :
+
+Tâche                                                               | État               |
+--------------------------------------------------------------------| ------------------ |
+Développement pour la conversion de livres et d'articles en Wiki.js | :clock2:           |
+
+### Tâches d'ajout de contenu
 
 Pour chaque langue, le contenu attendu dans cette étape est :
 
@@ -118,9 +143,20 @@ Pour chaque langue, le contenu attendu dans cette étape est :
 
 ## Jalon III - Traducteur
 
-Cette étape comprend des développements qui ne sont actuellement pas prévus.
+Cette jalon est expliquée en détail ici: [Jalon III](/fr/help/phases#milestone-iii-traducteur).
+
+Dans cette phase, les développements ne seront effectués que dans les applications, ce sera donc une phase en parallèle des autres. Les tâches prévues sont celles-ci:
+
+Tâche                                                                                                                                                        | État |
+------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---- |
+Développement dans Urantiapedia Outils d'un traducteur de page massif                                                                                        |      |
+Développement sous Wiki.js d'un nouvel éditeur permettant des traductions assistées directement sur le web                                                   |      |
+Développement en Wiki.js d'un mode d'affichage pour Le Livre d'Urantia et tout autre contenu en deux à quatre langues                                        |      |
+Développement dans Wiki.js d'un sélecteur de préférence dans la traduction à l'usage du *Livre d'Urantia* (pour des langues comme l'espagnol avec plusieurs) |      |
 
 ## Jalon IV - Cartes interactives
+
+Cette jalon est expliquée en détail ici: [Jalon IV](/fr/help/phases#milestone-iv-cartes-interactives).
 
 Cette étape comprend des développements qui ne sont actuellement pas prévus.
 
@@ -129,39 +165,43 @@ Pour chaque langue, le contenu attendu dans cette étape est :
 - :globe_with_meridians: `Cartes statiques` : 100 prévues.
 - :earth_americas: `Cartes interactives` : 20 prévues. Pour l'instant, une carte a été créée pour les tests.
 
-| Langue | Codage | :globe_with_meridians : Cartes statiques | :earth_americas : Cartes interactives |
-| ---------- | :--: | :---------: | :-------------: |
-| Bulgare     | `bg` |             |                  |
-| Tchèque     | `cs` |             |                  |
-| Danois      | `da` |             |                  |
-| Allemand    | `de` |             |                  |
-| Grec        | `el` |             |                  |
-| Anglais     | `en` |             | :clock2: 1 / 20  |
-| Espagnol    | `es` |             | :clock2: 1 / 20  |
-| Estonien    | `et` |             |                  |
-| Persan      | `fa` |             |                  |
-| Finnois     | `fi` |             |                  |
-| Français    | `fr` |             |                  |
-| Hébreu      | `he` |             |                  |
-| Hongrois    | `hu` |             |                  |
-| Indonésien  | `id` |             |                  |
-| Italien     | `it` |             |                  |
-| Japonais    | `ja` |             |                  |
-| Coréen      | `ko` |             |                  |
-| Lituanien   | `lt` |             |                  |
-| Néerlandais | `nl` |             |                  |
-| Polonais    | `pl` |             |                  |
-| Portugais   | `pt` |             |                  |
-| Roumain     | `ro` |             |                  |
-| Russe       | `ru` |             |                  |
-| Suédois     | `sv` |             |                  |
-| Turc        | `tr` |             |                  |
+| Langue      | Codage | :globe_with_meridians : Cartes statiques | :earth_americas : Cartes interactives |
+| ----------- | :--:   | :--------------------------------------: | :-----------------------------------: |
+| Bulgare     | `bg`   |                                          |                                       |
+| Tchèque     | `cs`   |                                          |                                       |
+| Danois      | `da`   |                                          |                                       |
+| Allemand    | `de`   |                                          |                                       |
+| Grec        | `el`   |                                          |                                       |
+| Anglais     | `en`   |                                          | :clock2: 1 / 20                       |
+| Espagnol    | `es`   |                                          | :clock2: 1 / 20                       |
+| Estonien    | `et`   |                                          |                                       |
+| Persan      | `fa`   |                                          |                                       |
+| Finnois     | `fi`   |                                          |                                       |
+| Français    | `fr`   |                                          |                                       |
+| Hébreu      | `he`   |                                          |                                       |
+| Hongrois    | `hu`   |                                          |                                       |
+| Indonésien  | `id`   |                                          |                                       |
+| Italien     | `it`   |                                          |                                       |
+| Japonais    | `ja`   |                                          |                                       |
+| Coréen      | `ko`   |                                          |                                       |
+| Lituanien   | `lt`   |                                          |                                       |
+| Néerlandais | `nl`   |                                          |                                       |
+| Polonais    | `pl`   |                                          |                                       |
+| Portugais   | `pt`   |                                          |                                       |
+| Roumain     | `ro`   |                                          |                                       |
+| Russe       | `ru`   |                                          |                                       |
+| Suédois     | `sv`   |                                          |                                       |
+| Turc        | `tr`   |                                          |                                       |
 
 ## Jalon V - Diapositives
+
+Cette jalon est expliquée en détail ici: [Jalon V](/fr/help/phases#jalon-v-diapositives).
 
 Cette étape comprend certains développements qui ne sont actuellement pas prévus. Il est également nécessaire de planifier une liste de présentations à inclure.
 
 ## Jalon VI - Modèles 3D
+
+Cette jalon est expliquée en détail ici: [Jalon VI](/fr/help/phases#milestone-vi-mod%C3%A8les-interactifs-3d).
 
 Cette étape comprend certains développements qui ne sont actuellement pas prévus. Il est également nécessaire de prévoir une liste de modèles 3D à inclure.
 
@@ -190,7 +230,7 @@ Vous trouverez ici une liste des tâches qui ne sont actuellement pas actives. S
 
 ## Sommaire
 
-Le tableau suivant résume tous les progrès avec chaque type de contenu :
+Le tableau suivant résume tous les progrès avec chaque type de contenu:
 
 | Langue      | Codage |  :blue_book:       | :sound:            | :sunrise_over_mountains:  |  :card_index:  | :closed_book:      | :green_book:       |  :books:        | :page_with_curl:  | :notebook:           | :memo:  | :globe_with_meridians:   | :earth_americas: | :bar_chart: | :milky_way: |
 | ----------  | :--:   | :----------------: | :----------------: | :-----------------------: | :------------: | :----------------: | :------------:     | :-------------: | :---------------: | :------------------: | :-----: | :----------------------: | :--------------: | :---------: | :---------: |
