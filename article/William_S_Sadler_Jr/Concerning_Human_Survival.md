@@ -243,22 +243,26 @@ We must also wish to embark on the eternal adventure, the absolute mandate of fr
 
 Performance is brought into this discussion for the first time, and it plays an important part in the topic of personality survival. especially in the superuniverse of Orvonton. I say this because our superuniverse is the domain of Master Spirit Number Seven, and as we know the Master Spirit is representative of those qualities of the Father, Son, and Spirit, or more like the Supreme Being. The Supreme Being is the eventuating overcontrol of the seven superuniverses. We have all the personalities necessary to compute the spirit forces that are influential on all evolving mortals in time and space, and we can take the following inventory.
 
-1. The Spirit of the Father.........................The Adjuster
-2. The Spirit of the Conjoint Actor.............Absolute Mind--Adjutant Mind
-3. The Spirit of the Son..............................Spirit of Truth
-4. Spirit of the Master Spirits.....................Cosmic Mind
-5. The Spirit of the Divine Minister.............Seraphic Ministry--Adjutant Mind
-6. The Overcontrol of Evolving Deity.........Almighty Supreme--God the Supreme as the SUPREME BEING
+Spirit | Being
+--- | ---
+1\. The Spirit of the Father | The Adjuster
+2\. The Spirit of the Conjoint Actor | Absolute Mind--Adjutant Mind
+3\. The Spirit of the Son | Spirit of Truth
+4\. Spirit of the Master Spirits | Cosmic Mind
+5\. The Spirit of the Divine Minister | Seraphic Ministry--Adjutant Mind
+6\. The Overcontrol of Evolving Deity | Almighty Supreme--God the Supreme as the SUPREME BEING
 
 Consider if you will the expression of total Deity to mortals of time and space, that is the expression of GOD THE SEVENFOLD. I will hereby outline God the Sevenfold by two methods, by person--by geography.
 
-- Paradise Creator Sons...................................Local Universe
-- Ancients of Days...........................................Superuniverse (1 each)
-- Seven Master Spirits.....................................Superuniverse (1 to 7)
-- Supreme Being..............................................Grand Universe
-- Infinite Spirit..................................................Paradise-Havona
-- Eternal Son....................................................Paradise-Havona
-- Universal Father.............................................Paradise-Havona
+Person | Geography
+--- | ---
+Paradise Creator Sons | Local Universe
+Ancients of Days | Superuniverse (1 each)
+Seven Master Spirits | Superuniverse (1 to 7)
+Supreme Being | Grand Universe
+Infinite Spirit | Paradise-Havona
+Eternal Son | Paradise-Havona
+Universal Father | Paradise-Havona
 
 This expression is the ascending pathway to eternal life, the ladder to Finaiter Status, as well as the maximum of comprehension of Deity to finite beings. I will use this expression to demonstrate from the papers how each level is directly responsive to our ascension. The Creator Son said, "Even if the door to the way of life is narrow it is wide enough to admit all who sincerely seek to enter, for I am that door. And the Son will never refuse entrance to any child of the Universe who, by faith, seeks to find the Father through the Son." Analyzing this statement for a moment one can clearly see that the Creator Son has the authority to rule in favor of survival of any creature whether he be a qualified ascender or not, either for evenual Adjuster-fusion, or Son-fusion.
 
