@@ -732,7 +732,7 @@ Source:
 
 
 | Status                  | Source | Issue          | Title                                                                                                                                  | Author            | Tags |
-| ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------      -- | ----------------- | ---- |
+| ----------------------- | ------ | -------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ---- |
 | :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [The Challenge of the 21st Century](/en/article/Meredith_Sprunger/The_Challenge_of_the_Twenty_first_Century_2)                         | Meredith Sprunger |      |
 | :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [On Facing Millennial Change](/en/article/Byron_Belitsos/On_facing_millenial_change)                                                   | Byron Belitsos    |      |
 | :ballot_box_with_check: | Herald | Vol. 01, No. 2 | [Magisterial Missions](/en/article/Behzad_Sarmast/Magisterial_missions)                                                                | Behzad Sarmast    |      |
@@ -747,10 +747,10 @@ Source:
 
 | Status                  | Source | Issue          | Title                                                                                                                          | Author                  | Tags                                   |
 | ----------------------- | ------ | -------------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------- | -------------------------------------- |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | The Family: Birthplace of Cosmic Citizens                                                                                      | Paul Snider             |
+| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [The Family: Birthplace of Cosmic Citizens](/en/article/Paul_Snider/The_Family_Birthplace_of_Cosmic_Citizens)                  | Paul Snider             |                                        |
 | :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | Reflections on cosmic citizenship                                                                                              | Stephen Dreier          |
-| :white_square_button:   | Herald | Vol. 02, No. 1 | The Dual Nature of Supremacy                                                                                                   | Linda Buselli           |
+| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [Reflections on cosmic citizenship](/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship)                              | Stephen Dreier          |                                        |
+| :ballot_box_with_check: | Herald | Vol. 02, No. 1 | [The Dual Nature of Supremacy](/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy)                                         | Linda Buselli           |                                        |
 
 ### Volume 2, Number 2, 2000 (Summer)
 
