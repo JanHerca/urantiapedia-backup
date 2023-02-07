@@ -714,6 +714,8 @@ Source:
 
 ### Volume 1, Number 1, 1998 (Fall)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald1998Fall.jpg">
 </figure>
@@ -728,6 +730,8 @@ Source:
 
 
 ### Volume 1, Number 2, 1999 (Spring)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald1999Spring.jpg">
@@ -748,6 +752,8 @@ Source:
 
 ### Volume 2, Number 1, 1999 (Winter)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald1999Winter.jpg">
 </figure>
@@ -762,6 +768,8 @@ Source:
 <br>
 
 ### Volume 2, Number 2, 2000 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2000.jpg">
@@ -781,6 +789,8 @@ Source:
 
 ### Volume 3, Number 1, 2001 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2001.jpg">
 </figure>
@@ -796,6 +806,8 @@ Source:
 
 ### Volume 4, Number 1, 2002 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2002.jpg">
 </figure>
@@ -804,7 +816,6 @@ Source:
 | -------------------------------------------------- | ---------------- | ---- |
 | Reflections on the Urantia Movement in 2002        | Philip Calabrese |
 | Centering — A Method of Divine Embrace             | Marvin Gawryn    |
-| Reflections on the Urantia Movement in 2002        | Philip Calabrese |
 | Eugenics and The Urantia Book: Another Perspective | Paul Premsagar   |
 | Revelatory Mouthpiecing                            | Finlan           |
 | Faith Wiring in the Brain                          | Sara Blackstock  |
@@ -818,6 +829,8 @@ Source:
 <br>
 
 ### Volume 5, Number 1, 2003 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2003.jpg">
@@ -840,6 +853,8 @@ Source:
 
 ### Volume 5, Number 2, 2004 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2004.jpg">
 </figure>
@@ -859,6 +874,8 @@ Source:
 <br>
 
 ### Volume 6, Number 1, 2005 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2005.jpg">
@@ -884,6 +901,8 @@ Source:
 
 ### Volume 7, Number 1, 2006 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2006.jpg">
 </figure>
@@ -900,6 +919,8 @@ Source:
 <br>
 
 ### Volume 8, Number 1, 2007 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2007.jpg">
@@ -920,6 +941,8 @@ Source:
 <br>
 
 ### Volume 9, Number 1, 2008 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2008.jpg">
@@ -944,6 +967,8 @@ Source:
 
 ### Volume 10, Number 1, 2009 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2009.jpg">
 </figure>
@@ -967,6 +992,8 @@ Source:
 
 ### Volume 11, Number 1, 2010 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2010.jpg">
 </figure>
@@ -987,6 +1014,8 @@ Source:
 
 ### Volume 11, Number 2, 2011 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2011.jpg">
 </figure>
@@ -1002,6 +1031,8 @@ Source:
 <br>
 
 ### Volume 12, Number 1, 2012 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2012.jpg">
@@ -1022,6 +1053,8 @@ Source:
 
 ### Volume 13, Number 1, 2013 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2013.jpg">
 </figure>
@@ -1039,6 +1072,8 @@ Source:
 <br>
 
 ### Volume 14, Number 1, 2014 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2014.jpg">
@@ -1058,6 +1093,8 @@ Source:
 
 ### Volume 15, Number 1, 2015 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2015.jpg">
 </figure>
@@ -1076,6 +1113,8 @@ Source:
 <br>
 
 ### Volume 16, Number 1, 2016 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2016.jpg">
@@ -1097,6 +1136,8 @@ Source:
 
 ### Volume 17, Number 1, 2017 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2017.jpg">
 </figure>
@@ -1117,6 +1158,8 @@ Source:
 
 ### Volume 18, Number 1, 2018 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2018.jpg">
 </figure>
@@ -1136,6 +1179,8 @@ Source:
 <br>
 
 ### Volume 19, Number 1, 2019 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2019.jpg">
@@ -1162,8 +1207,10 @@ Source:
 
 ### Volume 20, Number 1, 2020 (Summer)
 
+<br>
+
 <figure class="image urantiapedia image-style-align-left">
-  <img src="/image/article/Herald_covers/Herald2020.jpg">
+  <img src="/image/article/Herald_covers/Herald2020Summer.jpg">
 </figure>
 
 | Title                                                                   | Author                                   | Tags |
@@ -1183,6 +1230,8 @@ Source:
 <br>
 
 ### Volume 21, Number 1, 2021 (Summer)
+
+<br>
 
 <figure class="image urantiapedia image-style-align-left">
   <img src="/image/article/Herald_covers/Herald2021.jpg">
