@@ -744,6 +744,8 @@ Source:
 | [The Seven Psychic Circles](/en/article/Linda_Buselli/The_seven_psychic_circles)                                                       | Linda Buselli     |      |
 | [On Removing The Barrier To A Civilized Discussion Of Eugenics](/en/article/Stephen/On_removing_the_barrier_to_discussion_of_eugenics) | Stephen           |      |
 
+<br>
+
 ### Volume 2, Number 1, 1999 (Winter)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -756,6 +758,8 @@ Source:
 | [Two Cosmologies — Astronomy and The Urantia Book](/en/article/Irwin_Ginsburgh/Two_Cosmologies_Astronomy_and_The_Urantia_Book) | Irwin Ginsburgh         | The Urantia Book, Astronomy, Cosmology |
 | [Reflections on cosmic citizenship](/en/article/Stephen_Dreier/Reflections_on_cosmic_citizenship)                              | Stephen Dreier          |                                        |
 | [The Dual Nature of Supremacy](/en/article/Linda_Buselli/The_Dual_Nature_of_Supremacy)                                         | Linda Buselli           |                                        |
+
+<br>
 
 ### Volume 2, Number 2, 2000 (Summer)
 
@@ -773,6 +777,8 @@ Source:
 | [The Ethics of Genetic Control and Social Engineering](/en/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering)     | Charles Laurence Olivea |
 | [The Intellectual Role of _The Urantia Book_](/en/article/Stephen/The_Intellectual_Role_of_The_Urantia_Book)                                         | Stephen                 |
 
+<br>
+
 ### Volume 3, Number 1, 2001 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -785,6 +791,8 @@ Source:
 | [Show Us A Miracle!](/en/article/Behzad_Sarmast/Show_Us_a_Miracle)                                                                                | B. Sarmast         |
 | [Universal Religion: An Interfaith Presentation](/en/article/Les_Jamieson/Universal_Religion_An_Interfaith_Presentation)                          | Les Jamieson       |
 | [Ethical Eugenics: A Modest Proposal For The 21st Century](/en/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century)| Charles Montgomery |
+
+<br>
 
 ### Volume 4, Number 1, 2002 (Summer)
 
@@ -806,6 +814,9 @@ Source:
 | A Demystification and Redefinition of Cult         | Alison Gardner   |
 | Religious Practice and the Urantia Revelation      | Byron Belitsos   |
 | The Gift of Tolerance                              | Karen Larson     |
+
+<br>
+
 ### Volume 5, Number 1, 2003 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -825,6 +836,8 @@ Source:
 | A Dialogue About The Kingdom                | Claudia Ayers and Lee Smith |
 | Anti-Terror Treatise                        | Stephen Zendt               |
 
+<br>
+
 ### Volume 5, Number 2, 2004 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -842,6 +855,9 @@ Source:
 | A Trace of God                              | Steven Hecht                |
 | The Golden Rule in Business                 | Larry Mullins               |
 | The Lighter Side                            | Charles Montgomery          |
+
+<br>
+
 ### Volume 6, Number 1, 2005 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -864,6 +880,8 @@ Source:
 | Science Cannot Replace Religion                               | Dr. Antti Roine     |
 | A Reed Singing                                                | Dave Holt           |
 
+<br>
+
 ### Volume 7, Number 1, 2006 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -878,6 +896,8 @@ Source:
 | Serving: A Cookbook for the Soul                     | Bill and Share Beasley |
 | What is Personality?                                 | Berkeley Elliott       |
 | The Coming Scientific Validation of The Urantia Book | Dr. Philip Calabrese   |
+
+<br>
 
 ### Volume 8, Number 1, 2007 (Summer)
 
@@ -896,6 +916,8 @@ Source:
 | Science Fiction for Agondonters             | Cece Forrester       |
 | Loving Service                              | Phil Taylor          |
 | The Kingdom and the Supreme                 | David Kantor         |
+
+<br>
 
 ### Volume 9, Number 1, 2008 (Summer)
 
@@ -918,6 +940,8 @@ Source:
 | The Roots of Morality                             | Henry Begemann         |
 | Casting Pearls Before Personality                 | David Elders           |
 
+<br>
+
 ### Volume 10, Number 1, 2009 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -939,6 +963,8 @@ Source:
 | Urantia University - U2                                    | David Nash       |
 | Our Creative Deities—A Supreme Relationship                | Linda Buselli    |
 
+<br>
+
 ### Volume 11, Number 1, 2010 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -957,6 +983,8 @@ Source:
 | The Problem of Business                                     | Dan Amyx                        |
 | Crouching Deity/Hidden Supreme                              | Bob Debold                      |
 
+<br>
+
 ### Volume 11, Number 2, 2011 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -970,6 +998,8 @@ Source:
 | Machiventa Melchizedek                                     | One of History's Mysteries       |
 | Getting Closer to God                                      | Approaching The Universal Father |
 | One Man's Tour Through The Evolutionary Debate             |                                  |
+
+<br>
 
 ### Volume 12, Number 1, 2012 (Summer)
 
@@ -988,6 +1018,8 @@ Source:
 | The Forgotten Urantian: Dr. Lena Sadler                                        | Larry Mullins    |
 | Cosmology in the Light of The Urantia Book                                     | Philip Calabrese |
 
+<br>
+
 ### Volume 13, Number 1, 2013 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -1003,6 +1035,8 @@ Source:
 | Spiritual Faith, Incertainty and Cosmic Citizenship                                      | David Kantor        |
 | Moods, Music and Magic of The Urantia Book                                               | David Glass         |
 | A Statistical Test of the Hypothesis the That Urantia Book was authored by a Human Being | Philip Calabrese    |
+
+<br>
 
 ### Volume 14, Number 1, 2014 (Summer)
 
@@ -1020,6 +1054,8 @@ Source:
 | Spiritual Unity                                                                 | Richard Goodman |
 | Prayer? Why Bother?                                                             | Linda Buselli   |
 
+<br>
+
 ### Volume 15, Number 1, 2015 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -1036,6 +1072,8 @@ Source:
 | Sixty-Four Original Urantia Book Concepts    | William S. Sadler       |
 | Society Evolving: Chaos, Progress, and Order | Lawrence Schkade        |
 | The Importance of Christian Ministry         | Preston Thomas          |
+
+<br>
 
 ### Volume 16, Number 1, 2016 (Summer)
 
@@ -1055,6 +1093,8 @@ Source:
 | Healing Meditation—A Poem                                                       | K. Brendi Poppel                      |
 | The Nature of Personal Reality                                                  | Byron Belitsos                        |
 
+<br>
+
 ### Volume 17, Number 1, 2017 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -1072,6 +1112,9 @@ Source:
 | Questions About Being Human                                                 | Michelle Klimesh        |
 | What Does The Urantia Book Tell Us Needs to be Accomplished?                | David Kantor            |
 | Twelve Ways I Hear From God                                                 | Richard Rosen           |
+
+<br>
+
 ### Volume 18, Number 1, 2018 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -1089,6 +1132,8 @@ Source:
 | Unsinkable and Unbreakable                         | James Perry                    |
 | The Supreme Being in My Life                       | Yvon Gagne                     |
 | The Eden-Atlantis Project                          | Commodore Robert Stanley Bates |
+
+<br>
 
 ### Volume 19, Number 1, 2019 (Summer)
 
@@ -1113,6 +1158,8 @@ Source:
 | Mobilizing a Dispensation of Planetary Rehabilitation | David Kantor                                                         |
 | Pipeline of Light                                     |                                                                      |
 
+<br>
+
 ### Volume 20, Number 1, 2020 (Summer)
 
 <figure class="image urantiapedia image-style-align-left">
@@ -1132,6 +1179,8 @@ Source:
 | Contrasting Jesus and Paul                                              | David Kantor                             |
 | Cosmic Canoe                                                            | Tom Choquette and Christilyn Biek Larson |
 | Remembering Those Who Have Gone On                                      | John Hales                               |
+
+<br>
 
 ### Volume 21, Number 1, 2021 (Summer)
 
@@ -1158,6 +1207,8 @@ Source:
 | Mighty Messenger Fall - Intro Edition                           | Jena Lassiter                    |
 | Foxy Parents                                                    | Mary Huggins                     |
 | Graduation Memorial Initiative                                  | Bobbie Dreier                    |
+
+<br>
 
 ## UB Annotaded & UBTheNews
 
