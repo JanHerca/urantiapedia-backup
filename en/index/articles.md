@@ -906,14 +906,14 @@ Source:
   <img src="/image/article/Herald_covers/Herald2006.jpg">
 </figure>
 
-| Title                                                | Author                 | Tags |
-| ---------------------------------------------------- | ---------------------- | ---- |
-| Guardian Angels                                      | Charles Olivea         |
-| Youth and The Urantia Book                           | Gina Buselli           |
-| Prophecy and The Urantia Book                        | Preston Thomas         |
-| Serving: A Cookbook for the Soul                     | Bill and Share Beasley |
-| What is Personality?                                 | Berkeley Elliott       |
-| The Coming Scientific Validation of The Urantia Book | Dr. Philip Calabrese   |
+| Title                                                                                                                                     | Author                 | Tags |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- | ---- |
+| [Guardian Angels](/en/article/Charles_Laurence_Olivea/Guardian_Angels.md)                                                                 | Charles Olivea         |
+| [Youth and The Urantia Book](/en/article/Gina_Buselli/Youth_and_The_Urantia_Book.md)                                                      | Gina Buselli           |
+| [Prophecy and The Urantia Book](/en/article/Preston_Thomas/Prophecy_and_The_Urantia_Book.md)                                              | Preston Thomas         |
+| [Serving: A Cookbook for the Soul](/en/article/Bill_and_Share_Beasley/Serving_A_Cookbook_for_the_Soul.md)                                 | Bill and Share Beasley |
+| [What is Personality?](/en/article/Berkeley_Elliott/What_is_Personality.md)                                                               | Berkeley Elliott       |
+| [The Coming Scientific Validation of The Urantia Book](/en/article/Philip_Calabrese/The_Coming_Scientific_Validation_of_The_Urantia_Book) | Dr. Philip Calabrese   |
 
 <br>
 
@@ -925,17 +925,18 @@ Source:
   <img src="/image/article/Herald_covers/Herald2007.jpg">
 </figure>
 
-| Title                                       | Author               | Tags |
-| ------------------------------------------- | -------------------- | ---- |
-| Amazing Human Aspects of Epochal Revelation | Paula Thompson       |
-| Archangels: Agents of Epochal Change        | Carolyn Kendall      |
-| Update: The Coming Scientific Validation    | Dr. Philip Calabrese |
-| Participatory Evolution                     | Jacob Dix            |
-| Personality and Man                         | George Park          |
-| The Golden Rule                             | Robert Burns         |
-| Science Fiction for Agondonters             | Cece Forrester       |
-| Loving Service                              | Phil Taylor          |
-| The Kingdom and the Supreme                 | David Kantor         |
+| Title                                                                                                                                                  | Author               | Tags |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- | ---- |
+| [Amazing Human Aspects of Epochal Revelation](/en/article/Paula_Thompson/Amazing_Human_Aspects_of_Epochal_Revelation.md)                               | Paula Thompson       |
+| [Archangels: Agents of Epochal Change](/en/article/Carolyn_Kendall/Archangels_Agents_of_Epochal_Change.md)                                             | Carolyn Kendall      |
+| [IC 08 —The Thrill of Loving Service](/en/article/Phil_Taylor/IC_08_The_Thrill_of_Loving_Service.md)                                                   | Phil Taylor          |
+| [Year 2006 Update on The Coming Scientific Validation of The Urantia Book](/en/article/Philip_Calabrese/Update_The_Coming_Scientific_Validation.md)    | Dr. Philip Calabrese |
+| [Participatory Evolution](/en/article/Jacob_Dix/Participatory_Evolution.md)                                                                            | Jacob Dix            |
+| [Personality and Man](/en/article/George_Park/Personality_and_Man.md)                                                                                  | George Park          |
+| [The Golden Rule](/en/article/Robert_Burns/The_Golden_Rule.md)                                                                                         | Robert Burns         |
+| [Science Fiction for Agondonters](/en/article/Cece_Forrester/Science_Fiction_for_Agondonters.md)                                                       | Cece Forrester       |
+| [Loving Service](/en/article/Phil_Taylor/Loving_Service.md)                                                                                            | Phil Taylor          |
+| [The Kingdom and the Supreme](/en/article/David_Kantor/The_Kingdom_and_the_Supreme.md)                                                                 | David Kantor         |
 
 <br>
 
