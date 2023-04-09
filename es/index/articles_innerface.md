@@ -531,7 +531,7 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 | [Mind and Consciousness](/es/article/Ken_Glasziou/Mind_and_Consciousness)                                                | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page3.html)  | Ken Glasziou | Jesus, Jesus teachings           |
 | [Personal Realities](/es/article/Personal_Realities)                                                                     | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page2.html)  |              | Morality, Spirituality, Theology |
 | [“Pity my Simplicity”](/es/article/Pity_my_Simplicity)                                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page14.html) |              |                                  |
-| [What Really Survives?](/es/article/Ken_Glasziou/What_Really_Survives)                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html) | Ken Glasziou | Spirituality                     |
+| [¿Qué es lo que sobrevive en realidad?](/es/article/Ken_Glasziou/What_Really_Survives)                                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol7_1/page15.html) | Ken Glasziou | Spirituality                     |
 
 ### Volumen 7 - No. 2
 
@@ -920,7 +920,7 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 | Título                                                                                                                       | Original                                                                            | Author | Tags |
 | --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
-| [Urantia Personality](/es/article/Urantia_Personality)                                                                      | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
+| [Personality, Identity, Mind, and Consciousness, in the Urantia Revelation](/en/article/Personality_Identity_Mind_and_Consciousness_in_the_Urantia_Revelation)                                                                      | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
 | [Identity and Personality](/es/article/Identity_and_Personality)                                                            | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page3.html)  |        |      |
 | [Urantia Personality](/es/article/Urantia_Personality)                                                                      | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page4.html)  |        |      |
 | [Life as Process](/es/article/Life_as_Process)                                                                              | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |

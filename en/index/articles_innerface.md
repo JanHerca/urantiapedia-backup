@@ -918,18 +918,18 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 ### Volume 12 - No. 1
 
-| Title                                                                                                                       | Webpage                                                                            | Author | Tags |
-| --------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
-| [Urantia Personality](/en/article/Urantia_Personality)                                                                      | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
-| [Identity and Personality](/en/article/Identity_and_Personality)                                                            | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page3.html)  |        |      |
-| [Urantia Personality](/en/article/Urantia_Personality)                                                                      | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page4.html)  |        |      |
-| [Life as Process](/en/article/Life_as_Process)                                                                              | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
-| [The Self](/en/article/The_Self)                                                                                            | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
-| [The Reality of Human Consciousness](/en/article/The_Reality_of_Human_Consciousness)                                        | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page6.html)  |        |      |
-| [The Soul of Man](/en/article/The_Soul_of_Man)                                                                              | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
-| [Can Universes and Life Self-generate from Nothingness?](/en/article/Can_Universes_and_Life_Self_generate_from_Nothingness) | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
-| [Creation of the Universe. Did God participate?](/en/article/Creation_of_the_Universe_Did_God_participate)                  | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html) |        |      |
-| [Communing with God—from the Urantia Revelation](/en/article/Communing_with_God_from_the_Urantia_Revelation)                | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html) |        |      |
+| Title                                                                                                                                                           | Webpage                                                                            | Author | Tags |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | ------ | ---- |
+| [Personality, Identity, Mind, and Consciousness, in the Urantia Revelation](/en/article/Personality_Identity_Mind_and_Consciousness_in_the_Urantia_Revelation)  | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page2.html)  |        |      |
+| [Identity and Personality](/en/article/Identity_and_Personality)                                                                                                | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page3.html)  |        |      |
+| [Urantia Personality](/en/article/Urantia_Personality)                                                                                                          | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page4.html)  |        |      |
+| [Life as Process](/en/article/Life_as_Process)                                                                                                                  | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
+| [The Self](/en/article/The_Self)                                                                                                                                | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page5.html)  |        |      |
+| [The Reality of Human Consciousness](/en/article/The_Reality_of_Human_Consciousness)                                                                            | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page6.html)  |        |      |
+| [The Soul of Man](/en/article/The_Soul_of_Man)                                                                                                                  | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
+| [Can Universes and Life Self-generate from Nothingness?](/en/article/Can_Universes_and_Life_Self_generate_from_Nothingness)                                     | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)  |        |      |
+| [Creation of the Universe. Did God participate?](/en/article/Creation_of_the_Universe_Did_God_participate)                                                      | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page11.html) |        |      |
+| [Communing with God—from the Urantia Revelation](/en/article/Communing_with_God_from_the_Urantia_Revelation)                                                    | [Link](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page14.html) |        |      |
 
 ### Volume 12 - No. 2
 
