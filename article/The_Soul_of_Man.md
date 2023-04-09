@@ -1,0 +1,21 @@
+---
+title: The Soul of Man
+description: 
+published: true
+date: 2023-04-09T09:43:25.011Z
+tags: 
+editor: markdown
+dateCreated: 2022-09-27T00:01:00.460Z
+---
+
+In responding to a question about the soul, Jesus said:
+
+"The soul is the self-reflective, truth-discerning, and spirit-perceiving part of man which forever elevates the human being above the level of the animal world. Self-consciousness, in and of itself, is not the soul. Moral self-consciousness is true human self-realization and constitutes the foundation of the human soul. The soul is that part of man which represents the potential survival value of human experience. Moral choice and spiritual attainment, the ability to know God and the urge to be like him, are the characteristics of the soul.
+
+“The soul of man cannot exist apart from moral thinking and spiritual activity. A stagnant soul is a dying soul. But the soul of man is distinct from the divine spirit which dwells within the mind. The divine spirit arrives simultaneously with the first moral activity of the human mind, and that is the occasion of the birth of the soul.”
+
+And: Upon your death, your records, identity specifications, and the soul–conjointly evolved by the ministry of mortal mind and indwelling Spirit-of-God–are faithfully conserved by the destiny guardian together with all other values related to your future existence, everything that constitutes you, the real you— except for the identity of continuing existence and the actuality of personality both of which are represented by the indwelling God-Spirit (who rejoins you upon your reconstitution.)([_UB 113:6.1_](/en/The_Urantia_Book/113#p6_1)_)_
+
+## External links
+
+-   Article in Innerface International: [https://urantia-book.org/archive/newsletters/innerface/vol12\_1/page7.html](https://urantia-book.org/archive/newsletters/innerface/vol12_1/page7.html)
