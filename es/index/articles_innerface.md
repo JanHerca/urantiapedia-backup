@@ -19,7 +19,7 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 | [¿Tiempo de cambio?](/es/article/Ken_Glasziou/A_Time_for_Change)                                                               | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page2.html)  | Ken Glasziou      | Religion, Revelation                             |
 | [¿Quieres que tus hijos te quieran? Jesús tiene un modo](/es/article/Ann_Bendall/Do_You_Want_Your_Children_to_Like_You) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page5.html)  | Ann Bendall       | Family, Jesus, Jesus life, Psychology, Sociology |
 | [Más comentarios sobre la canalización](/es/article/Meredith_Sprunger/Further_Comments_on_Channeling)                                 | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page8.html)  | Meredith Sprunger | Channeling                                       |
-| [InsightPercepcioness](/es/article/Everett_Sloffer/Insights)                                                                               | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html)  | Everett Sloffer   | Religion                                         |
+| [Percepciones](/es/article/Everett_Sloffer/Insights)                                                                               | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page4.html)  | Everett Sloffer   | Religion                                         |
 | [¡Quiero ser agresiva!](/es/article/Ann_Bendall/I_Want_to_be_Aggressive)                                                     | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page9.html)  | Ann Bendall       | Psychology, Religion                             |
 | [Sobre la urgente necesidad de obras secundarias](/es/article/On_the_Urgent_Need_for_Secondary_Works)                                   | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol1_1/page11.html) |                   | Religion, The Urantia Book                       |
 
@@ -838,7 +838,7 @@ Source: https://urantia-book.org/archive/newsletters/innerface/index.html
 
 | Título                                                                                                        | Original                                                                           | Author | Tags |
 | ------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- | ------ | ---- |
-| [The Spirituality Content of the Urantia Papers](/es/article/The_Spirituality_Content_of_the_Urantia_Papers) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html) |        |      |
+| [El contenido espiritual de los Documentos de Urantia](/es/article/The_Spirituality_Content_of_the_Urantia_Papers) | [Enlace](https://urantia-book.org/archive/newsletters/innerface/vol11_1/page2.html) |        |      |
 
 ### Volumen 11 - No. 2
 
