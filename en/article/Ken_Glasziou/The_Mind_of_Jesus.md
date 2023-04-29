@@ -31,13 +31,13 @@ The function of the indwelling Father-Spirit is described as: “The great goal 
 
 We start our synopsis as Jesus entered his 28^th^ year at which time he began to be certain that he was indwelt by the Spirit of God. As this relationship grew, he also became aware that this same Spirit of the Father indwells all of his earthly children as their mentor and guide.
 
-Jesus taught us: “The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God is the progressive experience of becoming more and more like God—who is the source and destiny of all that is good and beautiful and true.” ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
+> Jesus taught us: “The will of God is the way of God, partnership with the choice of God in the face of any potential alternative. To do the will of God is the progressive experience of becoming more and more like God—who is the source and destiny of all that is good and beautiful and true.” ([UB 130:2.7](/en/The_Urantia_Book/130#p2_7))
 
 > “Only in the perfection, harmony, and unanimity of will can the creature become as one with the Creator . . . always must the desire to do the Father's will be supreme in the soul and dominant over the mind of a mortal child of God.” ([UB 130:4.3](/en/The_Urantia_Book/130#p4_3))
 
-“Become interested in your fellows; learn how to love them and watch for the opportunity to do something for them that you are sure they want done. They who would have friends must first show themselves friendly.” ([UB 130:7.2](/en/The_Urantia_Book/130#p7_2))
+> “Become interested in your fellows; learn how to love them and watch for the opportunity to do something for them that you are sure they want done. They who would have friends must first show themselves friendly.” ([UB 130:7.2](/en/The_Urantia_Book/130#p7_2))
 
-“When wise men and women understand the inner impulses of their fellows, they will love them. And when you love your brothers and sisters, you have already forgiven them.”
+> “When wise men and women understand the inner impulses of their fellows, they will love them. And when you love your brothers and sisters, you have already forgiven them.”
 
 During a lengthy period of intimate association with religious leaders in his early career, never once did Jesus attack their errors or even mention the flaws in their teaching. In each case he would select the truth in what they taught and then proceed to embellish and illuminate this truth in their minds that in a very short time this enhancement of truth effectively crowded out the associated error.
 
@@ -232,7 +232,7 @@ Jesus' kingdom is founded on love, proclaimed in mercy, and established by unsel
 
 > “In bringing others into the kingdom, do not lesson or destroy their self-respect. It is the purpose of this gospel to restore self-esteem to those who have lost it and to restrain it in those who have it.” ([UB 159:3.3](/en/The_Urantia_Book/159#p3_3))
 
-“Do not make the mistake of only condemning the wrongs in peoples' lives. Accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-esteem to those who have lost it and who really desire to regain it.” ([UB 159:3.3](/en/The_Urantia_Book/159#p3_3))
+> “Do not make the mistake of only condemning the wrongs in peoples' lives. Accord generous recognition for the most praiseworthy things in their lives. Forget not that I will stop at nothing to restore self-esteem to those who have lost it and who really desire to regain it.” ([UB 159:3.3](/en/The_Urantia_Book/159#p3_3))
 
 > “Idleness is destructive to self-esteem; therefore encourage your brethren to ever keep busy at their chosen tasks.” ([UB 159:3.4](/en/The_Urantia_Book/159#p3_4))
 
