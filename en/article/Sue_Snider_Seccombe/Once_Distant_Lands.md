@@ -1,5 +1,5 @@
 ---
-title: "Translators"
+title: "Once-Distant Lands"
 description: "The Mighty Messenger — Spring 2023 Issue: News and opinions for Readers of The Urantia Book"
 published: true
 date: 2023-6-21T8:13:38Z
@@ -34,6 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/055.jpg">
 </figure>
@@ -59,6 +60,8 @@ Another _first_, inside is an extensive report on the first-ever Urantia confere
 * Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
 
 <br>
+
+
 
 <figure class="table chapter-navigator">
   <table>

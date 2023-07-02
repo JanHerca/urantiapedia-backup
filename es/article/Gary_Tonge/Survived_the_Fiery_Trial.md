@@ -1,6 +1,6 @@
 ---
 title: "Sobrevivió al juicio ardiente"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Life after death, Mighty Messenger, article
@@ -15,17 +15,17 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Cristina_Seaborn_and_Stephen_Sawyer/New_General_Councilors">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New General Councilors</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuevos Consejeros Generales</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Tom_Choquette/The_Will_of_God">
-          <span class="pr-2">The Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -34,13 +34,14 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
+
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2021_Spring/050.jpg">
 </figure>
 
 Hace poco pasé un tiempo reflexionando sobre un detalle curioso de El libro de Urantia, algo que ha causado una consternación considerable a varios estudiantes sinceros de El libro de Urantia. Durante mi reflexión, discusión y estudio tuve algo así como una revelación sobre esta aparente rareza en la Quinta Revelación de Época, sobre la cual he escrito aquí. A continuación se muestra el párrafo destacado:
 
-> «Fueron más de dos años de tiempo del sistema desde el comienzo de la “guerra en el cielo» hasta la instalación del sucesor de Lucifer. Pero por fin llegó el nuevo Soberano, aterrizando en el mar de cristal con su bastón. Estuve entre las reservas movilizadas en Edentia por Gabriel, y recuerdo bien el primer mensaje de Lanaforge al Padre de la Constelación de Norlatiadek. Decía: «No se perdió ni un solo ciudadano de Jerusem. Cada mortal ascendente sobrevivió a la prueba de fuego y salió triunfante y victorioso de la prueba crucial». Y a Salvington, Uversa y Paradise llegó este mensaje de seguridad de que la experiencia de supervivencia de la ascensión de los mortales es la mayor seguridad contra la rebelión y la salvaguardia más segura contra el pecado. Esta noble banda de Jerusem de fieles mortales contaba con solo 187.432.811 [énfasis añadido]” [[LU 53:7.
+> «Fueron más de dos años de tiempo del sistema desde el comienzo de la «guerra en el cielo» hasta la instalación del sucesor de Lucifer. Pero por fin llegó el nuevo Soberano, aterrizando en el mar de cristal con su bastón. Estuve entre las reservas movilizadas en Edentia por Gabriel, y recuerdo bien el primer mensaje de Lanaforge al Padre de la Constelación de Norlatiadek. Decía: «No se perdió ni un solo ciudadano de Jerusem. Cada mortal ascendente sobrevivió a la prueba de fuego y salió triunfante y victorioso de la prueba crucial». Y a Salvington, Uversa y Paradise llegó este mensaje de seguridad de que la experiencia de supervivencia de la ascensión de los mortales es la mayor seguridad contra la rebelión y la salvaguardia más segura contra el pecado. Esta noble banda de Jerusem de fieles mortales contaba con solo 187.432.811 [énfasis añadido]» [[LU 53:7.
 
 Puedo recordar una serie de otros lectores de revelación discutiendo este número aparentemente problemático, muchos de los cuales considero estudiantes sólidos: André Radatus, Chris Halvorson y otros lectores experimentados y sinceros que conozco han abordado esto o encontrado contención con el número. Recuerdo que hace unos años, Chris habló sobre este número en un estudio del Instituto Perfecting Horizons y postuló que «representaba una pequeña clase de graduación de Jerusem». Me acordé de sentir que la evaluación de Chris no cuadraba para mí. Siempre sentí que debemos pasar bastante tiempo en Jerusem como ciudadanos (relativamente hablando). Nuevamente, más recientemente, André estaba discutiendo el tiempo probablemente prolongado que pasamos como ciudadanos en Jerusem en un café del Instituto Universitario Urantia al que asistía. Entonces, ¿cuál es el significado de este número?
 
@@ -124,23 +125,25 @@ Nuestra calificación de fusión nos eleva más allá del potencial de la rebeli
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Cristina_Seaborn_and_Stephen_Sawyer/New_General_Councilors">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">New General Councilors</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nuevos Consejeros Generales</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Tom_Choquette/The_Will_of_God">
-          <span class="pr-2">The Will of God</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">La voluntad de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

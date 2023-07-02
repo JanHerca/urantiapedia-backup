@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2008</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2008 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2008-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2008 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2009_Winter">
-          <span class="pr-2">Invierno 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 ## ¡Oh mi Dios-Consciencia!
@@ -40,7 +35,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 «Espero que no te importe que lo diga, pero tu conciencia de Dios se está mostrando». ¿Ha notado que _El Libro de Urantia_ coloca definiciones de la conciencia de Dios de manera notoria en la última oración del Prólogo y la primera oración del último párrafo en todo el libro?
 
-> «…la realidad en constante progreso de la experiencia religiosa personal: la conciencia de Dios». [F:XII.12](/es/El_libro_de_Urantia/0#p12_12)
+> «…la realidad en constante progreso de la experiencia religiosa personal: la conciencia de Dios». [F:XII.12](/es/The_Urantia_Book/0#p12_12)
 
 > «Y la conciencia de Dios es equivalente a la integración del yo con el universo…» [[LU 196:3.32](/es/The_Urantia_Book/196#p3_32)]
 
@@ -371,24 +366,19 @@ www.urantiabook.org
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mightymessenger/winter0809.pdf
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2008_Spring">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Primavera 2008</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-invierno-de-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de invierno de 2008 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#winter-2008-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Invierno 2008 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2009_Winter">
-          <span class="pr-2">Invierno 2009</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

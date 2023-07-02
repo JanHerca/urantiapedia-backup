@@ -34,6 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
+
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/030.jpg">
 </figure>
@@ -71,6 +72,9 @@ From that moment my life began to change. Later I met Flor Robles in Santiago an
 * Newsletter in _The Urantia Book_ Fellowship: https://assetrepository.urantiabook.org/AssetRepository/Communications/Mighty-Messenger/MM-2023-05-English-Spring.pdf
 
 <br>
+
+
+
 
 <figure class="table chapter-navigator">
   <table>

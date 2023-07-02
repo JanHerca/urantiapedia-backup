@@ -1,5 +1,5 @@
 ---
-title: "The Mighty Messenger — Número de primavera de 2014"
+title: "The Mighty Messenger — Edición de primavera de 2014"
 description: "Noticias y opiniones para lectores de El Libro de Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,24 +14,19 @@ dateCreated: 2021-11-28T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Winter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invierno 2013</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2014 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2014-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2014 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Winter">
-          <span class="pr-2">Invierno 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 ## Únase a nosotros para un viaje inolvidable
 
@@ -187,7 +182,7 @@ Recientemente, nuestro grupo de estudio estaba dando un paseo de un año por el 
 
 «Bueno, si no está seguro, ¿cómo espera que yo lo entienda?» preguntó nuestro nuevo lector.
 
-Un dilema más común es generado por nuestras propias limitaciones. A lo largo del libro encontramos declaraciones como esta de un arcángel de Nebadon: «_Pero casi me desespero de poder transmitir a la mente material la naturaleza del trabajo de los artesanos celestiales._» [[LU 44:0.20]( /es/El_libro_de_Urantia/44#p0_20)]
+Un dilema más común es generado por nuestras propias limitaciones. A lo largo del libro encontramos declaraciones como esta de un arcángel de Nebadon: «_Pero casi me desespero de poder transmitir a la mente material la naturaleza del trabajo de los artesanos celestiales._» [[LU 44:0.20]( /es/The_Urantia_Book/44#p0_20)]
 
 Otro problema se reconoce en el segundo párrafo del libro y muchas, muchas veces después de eso: las limitaciones del lenguaje humano.
 
@@ -248,24 +243,19 @@ www.urantiabook.org
 * Boletín en la Fellowship de _El Libro de Urantia_: https://archive.urantiabook.org/archive/newsletters/mightymessenger/MMspring14.pdf
 
 
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2013_Winter">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Invierno 2013</span>
+        </td>
+        <td>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2014 — Índice</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2014-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Primavera 2014 — Index</span>
-        </a>
-        </td>
-        <td>
-        <a href="/es/article/The_Mighty_Messenger/The_Mighty_Messenger_2014_Winter">
-          <span class="pr-2">Invierno 2014</span><span class="mdi mdi-arrow-right-drop-circle"></span>
-        </a>
         </td>
       </tr>
     </tbody>

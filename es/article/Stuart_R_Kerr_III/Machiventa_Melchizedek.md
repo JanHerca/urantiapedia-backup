@@ -1,6 +1,6 @@
 ---
 title: "Maquiventa Melquisedec"
-description: "The Mighty Messenger — Número de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2021: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Machiventa, Mighty Messenger, article
@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book is Not a Cult</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia no es una secta</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Kulieke/Virtual_Summer_Study_Session">
-          <span class="pr-2">Virtual Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sesión de estudio virtual de verano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -74,7 +75,7 @@ Debido a que la verdad revelada estuvo amenazada de extinción durante los milen
 
 Los doce receptores de Melquisedec en nuestro mundo sabían del otorgamiento inminente de Miguel en su planeta, pero no sabían el momento exacto de su llegada; por lo tanto, se reunieron en consejo solemne y solicitaron a los Altísimos de Edentia que se tomaran medidas para mantener la luz de la verdad en Urantia. Se les aconsejó que a ellos, estos doce Melquisedec, se les dio el control de la custodia para conducir los asuntos de nuestro mundo y que «deberían continuar defendiendo la verdad en la forma de su propia elección 'hasta la llegada de un Hijo autootorgador', quien 'será rescatar los títulos planetarios de la confiscación y la incertidumbre'». [[LU 93:1.2](/es/The_Urantia_Book/93#p1_2)]
 
-Maquiventa Melquisedec, uno de los doce receptores planetarios, se ofreció como voluntario para personalizarse en la tierra como un hombre temporal del reino, otorgándose como Hijo de emergencia del ministerio mundial. Las autoridades de Salvington concedieron el permiso y la encarnación física de Maquiventa Melquisedec fue consumada por los receptores planetarios con la cooperación de los Portadores de Vida, algunos de los Controladores Maestros Físicos y otras personalidades celestiales residentes en Urantia necesarias para completar esta transformación. Maquiventa Melquisedec fue otorgado a las razas humanas de Urantia 1.973 años antes del nacimiento de Jesús. Entró en la tienda de Amdón, un pastor caldeo de origen sumerio, y proclamó: «Yo soy Melquisedec, sacerdote de El Elyon, el Altísimo, el único Dios». [[LU 93:2. 1](/es/El_libro_de_Urantia/93#p2_1)] Esta ocasión fue la primera vez en su larga carrera universal que Maquiventa había comido alimento material, "el alimento que lo sustentaría a lo largo de sus noventa y cuatro años de vida como ser material.” [[LU 93:2.2](/es/The_Urantia_Book/93#p2_2)]
+Maquiventa Melquisedec, uno de los doce receptores planetarios, se ofreció como voluntario para personalizarse en la tierra como un hombre temporal del reino, otorgándose como Hijo de emergencia del ministerio mundial. Las autoridades de Salvington concedieron el permiso y la encarnación física de Maquiventa Melquisedec fue consumada por los receptores planetarios con la cooperación de los Portadores de Vida, algunos de los Controladores Maestros Físicos y otras personalidades celestiales residentes en Urantia necesarias para completar esta transformación. Maquiventa Melquisedec fue otorgado a las razas humanas de Urantia 1.973 años antes del nacimiento de Jesús. Entró en la tienda de Amdón, un pastor caldeo de origen sumerio, y proclamó: «Yo soy Melquisedec, sacerdote de El Elyon, el Altísimo, el único Dios». [[LU 93:2. 1](/es/The_Urantia_Book/93#p2_1)] Esta ocasión fue la primera vez en su larga carrera universal que Maquiventa había comido alimento material, "el alimento que lo sustentaría a lo largo de sus noventa y cuatro años de vida como ser material.” [[LU 93:2.2](/es/The_Urantia_Book/93#p2_2)]
 
 Las enseñanzas de Dalamatia fueron promulgadas primero en Urantia por los cien miembros corpóreos del personal del príncipe Caligastia y después de eso, las enseñanzas edénicas de Adán y Eva retrataron el concepto del Padre celestial a todas las razas evolutivas de nuestro mundo. Melquisedec de Salem inauguró la tercera revelación de la verdad en Urantia. Enseñó la confianza en la omnipotente beneficencia de Dios y proclamó que la fe era el acto por el cual los hombres ganaban el favor de Dios. Sus enseñanzas se mezclaron gradualmente con las creencias y prácticas de varias religiones evolutivas; todas estas enseñanzas que retratan el monoteísmo se derivaron en gran medida, directa o indirectamente, de las predicaciones de los misioneros de Maquiventa Melquisedec, quienes salieron “desde su cuartel general de Salem para difundir la doctrina de un solo Dios, el Altísimo, hasta los confines de la tierra.
 
@@ -126,23 +127,26 @@ Hoy aguardamos una posible llegada formal de Maquiventa Melquisedec con el manda
 
 > Desde Palestina, algunos de los misioneros de Melquisedec pasaron por Mesopotamia y hasta la gran meseta iraní. Durante más de quinientos años los maestros de Salem se abrieron camino en Irán, y toda la nación estaba pleiteando a la religión de Melquisedec cuando un cambio de gobernantes precipitó una amarga persecución que prácticamente acabó con las enseñanzas monoteístas del culto de Salem. La doctrina del pacto abrahámico estaba virtualmente extinguida en Persia cuando, en ese gran siglo de renacimiento moral, el sexto antes de Cristo, apareció Zoroastro para revivir las brasas ardientes del evangelio de Salem. [[LU 95:6.1](/es/The_Urantia_Book/95#p6_1)]
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Pato_Banton/The_Urantia_Book_is_Not_a_Cult">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantia Book is Not a Cult</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El libro de Urantia no es una secta</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2021-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2021 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2021 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/David_Kulieke/Virtual_Summer_Study_Session">
-          <span class="pr-2">Virtual Summer Study Session</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Sesión de estudio virtual de verano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

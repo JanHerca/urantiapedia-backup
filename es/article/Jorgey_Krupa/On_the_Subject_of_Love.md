@@ -15,23 +15,24 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/David_Kulieke/Fellowship_Education_Committee">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fellowship Education Committee</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comité de Educación de la Fellowship</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Alice_Wood/Urantia_Life_Lessons">
-          <span class="pr-2">Urantia Life Lessons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Lecciones de vida de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia estilo-imagen-alinear-izquierda">
@@ -84,7 +85,7 @@ Entonces, ¿dónde entra mi responsabilidad hacia los demás? Soy consciente de 
 
 La respuesta es esta: puedo amar con intención. Mi intención puede ser uno de los ejemplos. Puedo tener la intención de mostrarles a todos los que conozco cómo es el amor y espero que esto encienda una chispa dentro de ellos y que sea suficiente para ayudarlos a encontrarlo dentro de sí mismos y aprender a implementarlo en sus propias vidas a su manera. No puedo hacer que cambien, pero puedo mostrarles cómo es la bondad del crecimiento y puedo esperar que de alguna manera encuentren el camino hacia él.
 
-> El acto es nuestro, las consecuencias de Dios. _El Libro de Urantia_ [LU 48:7.13](/es/El_libro_de_Urantia/48#p7_13)
+> El acto es nuestro, las consecuencias de Dios. _El Libro de Urantia_ [LU 48:7.13](/es/The_Urantia_Book/48#p7_13)
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2020_Fall/016.jpg">
@@ -96,23 +97,25 @@ La respuesta es esta: puedo amar con intención. Mi intención puede ser uno de 
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/David_Kulieke/Fellowship_Education_Committee">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fellowship Education Committee</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Comité de Educación de la Fellowship</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#fall-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Fall 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-otoño-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de otoño de 2020 — Índice</span>
         </a>
         </td>
         <td>
         <a href="/es/article/Alice_Wood/Urantia_Life_Lessons">
-          <span class="pr-2">Urantia Life Lessons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Lecciones de vida de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

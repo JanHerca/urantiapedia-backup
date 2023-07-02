@@ -1,6 +1,6 @@
 ---
 title: "Programa de trabajo de campo de la Fellowship"
-description: "The Mighty Messenger — Número de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
+description: "The Mighty Messenger — Edición de primavera de 2020: Noticias y opiniones para los lectores de El Libro de Urantia"
 published: true
 date: 2023-6-21T8:13:38Z
 tags: Fellowship, Mighty Messenger, article
@@ -15,12 +15,12 @@ dateCreated: 2023-6-21T8:13:38Z
       <tr>
         <td>
         <a href="/es/article/Michelle_Klimesh/Pipeline_of_Light">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El proyecto «Pipeline of Light»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
@@ -34,6 +34,7 @@ dateCreated: 2023-6-21T8:13:38Z
 </figure>
 
 
+
 por _Ted Blaney_ y _Brent St. Denis_
 
 En conferencias grandes y pequeñas nos reunimos para estudiar, adorar y tener compañerismo. En las encuestas posteriores a las conferencias internacionales de 2014 y 2017, «Compañerismo con otros lectores» fue la primera opción de quienes respondieron a una serie de preguntas sobre el valor de la conferencia para «fomentar su experiencia religiosa personal» y sus «partes favoritas de la conferencia». ¡Valoramos las relaciones que hacemos y renovamos! «... la memoria mortal de las relaciones tiene un valor cósmico y persistirá». [LU 12:5.22](/es/The_Urantia_Book/12#p5_22)
@@ -44,7 +45,7 @@ Ted Blaney en Ohio y Kentucky, y Brent St. Denis en Ontario, Canadá, han demost
 
 Se formó un comité ad hoc, presidido por Ted Blaney, para hacer recomendaciones al Consejo General, que incluyen cómo involucrar a las sociedades, encontrar AC/FW motivados, crear un proceso de búsqueda y determinar las zonas pobladas de lectores. El comité propondrá un régimen de informes eficiente y no oneroso, y considerará cómo AC/FW podría autoorganizarse en apoyo mutuo para fomentar reuniones y grupos de estudio y mantener la lista de contactos actualizada y en crecimiento. Comuníquese con Ted Blaney, tblaney@mykrcc.com si tiene interés en participar en el esfuerzo del coordinador de área/trabajador de campo.
 
-> El aislamiento tiende a agotar la carga energética del alma. La asociación con los compañeros de uno es esencial para la renovación del entusiasmo por la vida y es indispensable para mantener el coraje para pelear aquellas batallas que son consecuencia del ascenso a los niveles más altos de la vida humana. La amistad realza las alegrías y glorifica los triunfos de la vida. La asociación humana amorosa e íntima tiende a despojar al sufrimiento de su dolor y a las dificultades de gran parte de su amargura. La presencia de un amigo realza toda belleza y exalta toda bondad. Mediante símbolos inteligentes, el hombre puede acelerar y ampliar las capacidades apreciativas de sus amigos. Una de las glorias supremas de la amistad humana es este poder y posibilidad de estimulación mutua de la imaginación. Un gran poder espiritual es inherente a la conciencia de la devoción incondicional a una causa común, la lealtad mutua a una Deidad cósmica. [LU 160:28.par](/es/El_libro_de_Urantia/160#p28_par)
+> El aislamiento tiende a agotar la carga energética del alma. La asociación con los compañeros de uno es esencial para la renovación del entusiasmo por la vida y es indispensable para mantener el coraje para pelear aquellas batallas que son consecuencia del ascenso a los niveles más altos de la vida humana. La amistad realza las alegrías y glorifica los triunfos de la vida. La asociación humana amorosa e íntima tiende a despojar al sufrimiento de su dolor y a las dificultades de gran parte de su amargura. La presencia de un amigo realza toda belleza y exalta toda bondad. Mediante símbolos inteligentes, el hombre puede acelerar y ampliar las capacidades apreciativas de sus amigos. Una de las glorias supremas de la amistad humana es este poder y posibilidad de estimulación mutua de la imaginación. Un gran poder espiritual es inherente a la conciencia de la devoción incondicional a una causa común, la lealtad mutua a una Deidad cósmica. [LU 160:28.par](/es/The_Urantia_Book/160#p28_par)
 
 ## Enlaces externos
 
@@ -52,18 +53,20 @@ Se formó un comité ad hoc, presidido por Ted Blaney, para hacer recomendacione
 
 <br>
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
         <a href="/es/article/Michelle_Klimesh/Pipeline_of_Light">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pipeline of Light</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El proyecto «Pipeline of Light»</span>
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_mighty_messenger#spring-2020-issue">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Spring 2020 Issue — Index</span>
+        <a href="/es/index/articles_mighty_messenger#edición-de-primavera-de-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Edición de primavera de 2020 — Índice</span>
         </a>
         </td>
         <td>
