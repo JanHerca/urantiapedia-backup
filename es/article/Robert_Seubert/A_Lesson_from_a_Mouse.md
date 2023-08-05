@@ -14,8 +14,8 @@ dateCreated: 2023-02-14T14:02:03.086Z
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Descubrimientos del sistema solar que corroboran El libro de Urantia</span>
+        <a href="/es/article/M_Sanders/The_Book_a_Poem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro - un Poema</span>
         </a>
         </td>
         <td>
@@ -32,6 +32,7 @@ dateCreated: 2023-02-14T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
 
 
 Hace varios años leí el libro _Flowers for Algernon_ de Daniel Keyes. Era una novela ficticia sobre un hombre que tenía un coeficiente intelectual muy bajo y fue seleccionado para ser parte de un experimento científico para aumentar su inteligencia. El experimento había tenido bastante éxito con un ratón de laboratorio llamado Algernon. El experimento convirtió al hombre en un supergenio. No podía dejar el libro y no podía dejar de hablar de él.
@@ -65,13 +66,15 @@ Aprendí lo que significa ser digno de confianza. Aprendí que ser digno de conf
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
       <tr>
         <td>
-        <a href="/es/article/Philip_Calabrese/Solar_System_Discoveries_that_Corroborate_The_Urantia_Book">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Descubrimientos del sistema solar que corroboran El libro de Urantia</span>
+        <a href="/es/article/M_Sanders/The_Book_a_Poem">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El Libro - un Poema</span>
         </a>
         </td>
         <td>

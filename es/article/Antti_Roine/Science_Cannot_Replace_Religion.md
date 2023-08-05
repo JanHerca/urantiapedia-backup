@@ -24,11 +24,15 @@ dateCreated: 2023-02-09T14:02:03.086Z
         </a>
         </td>
         <td>
+        <a href="/es/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">Un canto de caña</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 La ciencia descubre cómo opera la naturaleza y luego da nombres a los nuevos problemas y fenómenos. Especifica las nuevas leyes naturales a través del trabajo experimental y utilizando cadenas de evidencia. Los problemas y métodos probados anteriormente siempre se utilizan como evidencia principal para los nuevos, porque los efectos no pueden existir sin causas. Si tenemos el coraje de seguir esta cadena de evidencia hasta el final y encontrar la causa original, entonces siempre terminaremos con Dios, es decir, encontraremos la razón primaria que no tiene causa. Los ateos intentan escabullirse de este problema lógico inventando algún nombre para esta razón principal, como el Big Bang.
@@ -60,6 +64,8 @@ Hace dos mil años los cobardes gritaban «Libertad para Barrabás» y «Crucif�
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -75,6 +81,9 @@ Hace dos mil años los cobardes gritaban «Libertad para Barrabás» y «Crucif�
         </a>
         </td>
         <td>
+        <a href="/es/article/Dave_Holt/A_Reed_Singing">
+          <span class="pr-2">Un canto de caña</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
         </td>
       </tr>
     </tbody>

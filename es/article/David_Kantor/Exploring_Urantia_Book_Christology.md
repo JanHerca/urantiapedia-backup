@@ -24,14 +24,16 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
-          <span class="pr-2">Trabajando con el Espíritu de la Madre para elevar el mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/es/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="pr-2">Había una vez un hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -92,6 +94,9 @@ El cristianismo en los primeros siglos de la era cristiana se caracterizó por m
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -107,8 +112,8 @@ El cristianismo en los primeros siglos de la era cristiana se caracterizó por m
         </a>
         </td>
         <td>
-        <a href="/es/article/Meredith_Tenney_and_others/Working_with_Mother_Spirit_to_Uplift_the_World">
-          <span class="pr-2">Trabajando con el Espíritu de la Madre para elevar el mundo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/es/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="pr-2">Había una vez un hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

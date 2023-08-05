@@ -24,14 +24,15 @@ dateCreated: 2023-02-19T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
-          <span class="pr-2">Viajero del alma: Jardinero de nuestros corazones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/es/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="pr-2">A Nuestra Madre Espíritu, el Espíritu Santo, el Dador de la Mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
     </tbody>
   </table>
 </figure>
+
 
 
 **La Resurrección y la Vida**
@@ -86,6 +87,8 @@ mayo | 18 | jueves | 13:00: **Espíritu de la Verdad** otorgado a Urantia. |
 
 - Artículo traducido. El original fue obtenido de: https://urantia-book.org/archive/newsletters/herald/
 
+
+
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -101,8 +104,8 @@ mayo | 18 | jueves | 13:00: **Espíritu de la Verdad** otorgado a Urantia. |
         </a>
         </td>
         <td>
-        <a href="/es/article/Tom_Choquette/Sojourner_of_the_Soul_Gardener_of_our_Hearts">
-          <span class="pr-2">Viajero del alma: Jardinero de nuestros corazones</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        <a href="/es/article/Mary_Huggins/To_Our_Mother_Spirit">
+          <span class="pr-2">A Nuestra Madre Espíritu, el Espíritu Santo, el Dador de la Mente</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
