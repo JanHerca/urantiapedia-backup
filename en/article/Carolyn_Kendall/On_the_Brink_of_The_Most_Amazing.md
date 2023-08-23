@@ -253,14 +253,16 @@ The Allenberry conference in Boiling Springs, PA, in May 1984, devoted its agend
 
 Neal Waldrup, who had recently returned from China, advanced the idea of a global perspective: “Energetically pursue translations into other non-Western languages so Christian linkage to Western culture doesn't rub off on the book. Don't follow narrow-minded traditions by denouncing vari­ant or divergent views.” Harry McMullan of Oklahoma City, OK, acknowledged the value of personal trans­formation when spreading the gospel, but urged that one should not hold back until he or she was trans­formed. “Many untransformed people have done im­pressive work: Omar Khyam, John the Baptist; John wasn't in the kingdom, but he transformed many.”
 
-Catholic priest, Robert Schuer, described how he labored in his vineyard: “I share *The Urantia Book* with my bishop and other priests every Wednesday. We for­mulate sermons and I always share my quotations. They are tolerant and listen. Each priest has his own favorite books that he uses in his sermons. The Holy Spirit is really moving.”
-
-“Bloom where you're planted,” Pat Devine of the Bronx, NY, stated simply. “Where you are—that's where you begin.”
-
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image2.png">
 <figcaption><em>Robert Schuer, Snowmass, 1990.</em></figcaption>
 </figure>
+
+Catholic priest, Robert Schuer, described how he labored in his vineyard: “I share *The Urantia Book* with my bishop and other priests every Wednesday. We for­mulate sermons and I always share my quotations. They are tolerant and listen. Each priest has his own favorite books that he uses in his sermons. The Holy Spirit is really moving.”
+
+“Bloom where you're planted,” Pat Devine of the Bronx, NY, stated simply. “Where you are—that's where you begin.”
+
+<br style="clear:both;"/>
 
 ## Promoting Spiritual Ideals in Entertainment and Broadcast Media
 
@@ -280,11 +282,11 @@ The *Urantia Book* has had a sizeable readership among country-western stars, in
 
 TV and movie celebrities have called or visited over the years, beginning with Lew “Dr. Kildare” Ayers in 1956, which thrilled then Secretary-General, Marian Rowley to pieces. They kept up a correspondence for several years. A few entertainers have mentioned in interviews that they read the book, but most seem to prefer that their names not be used as an inducement to others to read the book.
 
-> *“Throughout the journey to Paradise there will always be time for rest and spirit play; and in the career of light and life there is always time for worship and new achievement.”* (<a id="a282_184"></a>[UB 25:7.2](/en/The_Urantia_Book/25#p7_2))
+> *“Throughout the journey to Paradise there will always be time for rest and spirit play; and in the career of light and life there is always time for worship and new achievement.”* (<a id="a284_184"></a>[UB 25:7.2](/en/The_Urantia_Book/25#p7_2))
 
 
 > **Proclaiming the Coming Spiritual Renaissance on Radio**
-> _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ (<a id="a286_261"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
+> _“The quickest way to realize the brotherhood of man on Urantia is to effect the spiritual transformation of Present-day humanity. The only technique for accelerating the natural trend of social evolution is that of applying spiritual pressure from above;”_ (<a id="a288_261"></a>[UB 52:6.7](/en/The_Urantia_Book/52#p6_7))
 > 
 > 
 > Prior to his generating controversy among the reader community in 1983 with his predictions of the outbreak of World War III, Vern Grimsley had established himself as the foremost radio broadcaster of the teachings of Jesus according to *The Urantia Book.* As he had agreed with Dr. William Sadler and Christy, Vern did not mention *The Urantia Book* in his broadcasts and simply proclaimed the Fatherhood of God and the Brotherhood of Man as well as the coming-spiritual renaissance on this planet.
@@ -344,12 +346,14 @@ The Fellowship set up a booth at the World Parliament of Religions in Chicago in
 
 The Fellowship has also participated in book fairs around the world. An early booth set up by the Brotherhood and Foundation in Lon­don attracted the no­tice of a younger fe­male member of the Royal House of Windsor who  thumbed through the book and asked questions about it. The Fellowship and Foundation have even worked together in the same booth in recent months. A book fair in southeast Asia experienced an overwhelming number of book sales last yea; prompting an emergency shipment to fulfill or­ders.
 
-In June a group of 11 readers, along with family members, went cruising for potential readers. Waldine Stump, Oklahoma City, OK, arranged the itinerary to Greece, Turkey and Italy for the 20 travelers from the U.S., that included an Aegean cruise to islands and cit­ies visited by Jesus during his Mediterranean tout Tour guides were presented with a *Urantia Book* at the end of each day's excursion. Most were accepted graciously, but two recipients were “ecstatic” to get theirs. The bus driver in Athens had heard of the book and wanted to look at it (he got a copy). A book was added to the ship library's collection before debarkation.
-
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Linda_Buselli/On_the_Brink_of_The_Most_Amazing/image3.png">
 <figcaption><em>Mediterranean Tour Group, Rome, 1998.</em></figcaption>
 </figure>
+
+In June a group of 11 readers, along with family members, went cruising for potential readers. Waldine Stump, Oklahoma City, OK, arranged the itinerary to Greece, Turkey and Italy for the 20 travelers from the U.S., that included an Aegean cruise to islands and cit­ies visited by Jesus during his Mediterranean tout Tour guides were presented with a *Urantia Book* at the end of each day's excursion. Most were accepted graciously, but two recipients were “ecstatic” to get theirs. The bus driver in Athens had heard of the book and wanted to look at it (he got a copy). A book was added to the ship library's collection before debarkation.
+
+<br style="clear:both;"/>
 
 ## How Many Books Are Out There?
 
