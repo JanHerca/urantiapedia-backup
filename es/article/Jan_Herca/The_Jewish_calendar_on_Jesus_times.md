@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-Autor: **Jan Herca**
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
 En la época actual la mayoría de los países se rigen por el calendario denominado «gregoriano», que fue establecido por el papa Gregorio basándose, tras realizar ciertas correcciones, en el calendario juliano, en vigor desde el año 46 a.C., instaurado por Julio César, y que fue el calendario del imperio romano en la época de Jesús.
 
@@ -38,7 +38,7 @@ Las reglas de este calendario quedaban entonces como sigue:
 
 * Cada 19 años (lo que se conoce como «ciclo metónico») había ciertos años que tenían 13 meses. Los investigadores discuten cuáles de estos años fueron utilizados en esta época, pero casi todas las evidencias apuntan a que eran los años 3, 6, 8, 11, 14, 17, y 19 del ciclo. El resto tenían 12 meses.
 
-* Para que ciertas fiestas religiosas cayeran lo más próximas posibles a ciertos hechos astronómicos, algunos de esos 19 años debían tener un día más y otros un día menos. En concreto, algo muy importante era que la Pascua cayera después del equinoccio vernal. La fijación de estas adiciones o sustracciones al número de días ha divido a los expertos en dos posturas: la que considera que se seguían unas reglas conocidas como las «reglas de la posposición» (o _dechiyot_); y la contraria, que opina que estas reglas no se aplicaban en tiempos de Jesús, sino que se utilizaban criterios subjetivos (observaciones astronómicas, observación del momento en que los primeros frutos empezaban a estar maduros, la edad de los corderos, etc.), fijados por los escribas y los rabinos de entonces.
+* Para que ciertas fiestas religiosas cayeran lo más próximas posibles a ciertos hechos astronómicos, algunos de esos 19 años debían tener un día más y otros un día menos. En concreto, algo muy importante era que la Pascua cayera después del equinoccio vernal. La fijación de estas adiciones o sustracciones al número de días ha dividido a los expertos en dos posturas: la que considera que se seguían unas reglas conocidas como las «reglas de la posposición» (o _dechiyot_); y la contraria, que opina que estas reglas no se aplicaban en tiempos de Jesús, sino que se utilizaban criterios subjetivos (observaciones astronómicas, observación del momento en que los primeros frutos empezaban a estar maduros, la edad de los corderos, etc.), fijados por los escribas y los rabinos de entonces.
 
 Aquí no vamos a entrar a analizar cada una de estas posturas porque llevarían muy lejos las explicaciones. Tan sólo baste decir que todas las determinaciones estaban encaminadas a un mismo propósito: tratar de hacer coincidir el principio de cada año, el año nuevo judío, con una posición muy concreta de la Luna, conocida como _Molad_[^3], de modo que de año en año la sincronía lunar fuera perfecta.
 
@@ -57,7 +57,7 @@ Por tanto, y dada la imposibilidad actual de decantarse científicamente por una
 Debe anotarse aquí que los días judíos empezaban con un desfase de casi 18 horas con respecto a nuestros días actuales, pues los judíos empezaban a contar el comienzo del día a la puesta del sol. El gráfico muestra este desfase y aparece marcado el momento de la crucifixión.
 
 <figure id="Calendar_fig_1" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas.png">
+<img src="/image/article/Jan_Herca/The_Jewish_calendar_on_Jesus_times/fechas.jpg">
 </figure>
 
 Algunos calendarios consultados no ofrecen exactamente esta fecha para el 14 de nisán, pero como ha quedado explicado, puesto que todo son conjeturas, se ha tratado de elaborar un calendario «posible» que se ajustara a este 7 de abril como 14 de nisán.
@@ -120,7 +120,7 @@ Lo que sí está claro es que cualquier aproximación debe guiarse de los datos 
 
 ## Enlaces externos
 
-* Artículo original: https://buscandoajesus.wordpress.com/descargas/
+* Artículo original: https://buscandoajesus.wordpress.com/articulos/el-calendario-judio-de-la-epoca-de-jesus/
 
 ## Referencias
 
