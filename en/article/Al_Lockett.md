@@ -1,5 +1,5 @@
 ---
-title: Al Lockett
+title: "Al Lockett"
 description:
 published: true
 date: 2023-02-06T11:16:41.388Z
@@ -14,4 +14,4 @@ Al Lockett is a member of _The Urantia Book_ Society of Greater New York, and ha
 
 ## Articles
 
-- [When Belief Becomes Faith](/en/article/Al_Lockett/When_Belief_Becomes_Faith)
+- [When Belief Becomes Faith](/en/article/Al_Lockett/When_Belief_Becomes_Faith), Fellowship Herald, Volume 5, Number 1, 2003 (Summer)
