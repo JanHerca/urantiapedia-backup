@@ -16,8 +16,8 @@ dateCreated: 2022-10-08T14:02:03.086Z
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4">Part IV - The Sermons of Jesus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part IV - The Sermons of Jesus</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>
@@ -1833,8 +1833,8 @@ Commends them for their faith. Exhorts to faith, hope, and charity. Urges them t
 	<table>
 		<tbody>
 		<tr>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4">Part IV - The Sermons of Jesus</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index">Index</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus/4"><span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Part IV - The Sermons of Jesus</span></a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_4_Jesus#index"><span class="mdi mdi-book-open-variant"></span><span class="pl-2">Index</span></a></td>
 			<td></td>
 		</tr>
 		</tbody>
