@@ -180,7 +180,7 @@ Throughout the New Testament the Spirit of Truth is confused with the Holy Spiri
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_Power_Directors">The Power Directors</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_State">The_State</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/The_State">The State</a></td>
 		</tr>
 		</tbody>
 	</table>
