@@ -18,7 +18,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Angels">Angels</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Cosmology">Education</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Cosmology">Cosmology</a></td>
 		</tr>
 		</tbody>
 	</table>
@@ -107,7 +107,7 @@ dateCreated: 2022-10-08T14:02:03.086Z
 		<tr>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Angels">Angels</a></td>
 			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies#index">Index</a></td>
-			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Cosmology">Education</a></td>
+			<td><a href="/en/article/William_S_Sadler/Workbook_3_Topical_and_Doctrinal_Studies/Cosmology">Cosmology</a></td>
 		</tr>
 		</tbody>
 	</table>
