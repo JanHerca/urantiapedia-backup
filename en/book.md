@@ -666,7 +666,7 @@ Those books for which a digital version is available are indicated with a mark.
 
 ## Books from readers
 
-- [Science, Anthropology and Archaeology in The Urantia Book](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book)
+- [Science, Anthropology and Archaeology in The Urantia Book](/en/book/Ken_Glasziou/Science_Anthropology_and_Archaeology_in_The_Urantia_Book), by Ken Glasziou
 - [Eugenics Race and The Urantia Book](/en/book/Halbert_Katzen/Eugenics_Race_and_The_Urantia_Book), by Halbert Katzen
 
 These lists will grow with time.
