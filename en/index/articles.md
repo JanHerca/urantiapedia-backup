@@ -93,7 +93,7 @@ Sources:
 
 The Urantian was a quaterly journal of Urantia Brotherhood, former name of The Urantia Book Fellowship, from 1976 to 1994.
 
-The index of all available issues is here: [The Urantian — Journal of Urantia BrotherHood](/en/index/articles_urantian_journal).
+The index of all available issues is here: [The Urantian — Journal of Urantia BrotherHood](/en/index/articles_the_urantian).
 
 Sources: 
 - https://urantia-book.org/archive/newsletters/urantian_journal/
@@ -178,7 +178,7 @@ The index of all available issues is here: [The Arena Articles Index](/en/index/
 Sources: 
 - https://anzura.urantia-association.org/2022/01/01/about-arena-newsletter/
 
-### Sis-O-Six (6-0-6)
+### Six-O-Six (6-0-6)
 
 ![](/image/article/Group_banners/ANZURA_606.jpg)
 
