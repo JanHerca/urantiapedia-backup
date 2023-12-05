@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 The direct route to approaching this etymology is circular. Of course, we need to start at the beginning, but only for the purpose of explaining why we need to start at the end. If we do not start with an understanding of where this is going, then the ride at the beginning is not going to be nearly as much fun. I want inspire fun questions, not questions like “Are we having fun yet?” or “When are we going to get there? I’m hungry!”
 
@@ -18,7 +33,7 @@ So, take this moment, my blessed babes, and suckle yourselves on the etymology o
 
 By way of context, consider how _The Urantia Book_ references Isaiah 66 and then what is said shortly before what is referenced:
 
-> This is the same renovated earth, the advanced planetary stage, that the olden seer envisioned when he wrote: “‘For, as the new heavens and the new earth, which I will make, shall remain before me, so shall you and your children survive; and it shall come to pass that from one new moon to another and from one Sabbath to another all flesh shall come to worship before me,’ says the Lord.” ([Isaiah 66:22-23](/en/Bible/Isaiah/66#v22)) (<a id="a20_438"></a>[UB 52:7.12](/en/The_Urantia_Book/52#p7_12))
+> This is the same renovated earth, the advanced planetary stage, that the olden seer envisioned when he wrote: “‘For, as the new heavens and the new earth, which I will make, shall remain before me, so shall you and your children survive; and it shall come to pass that from one new moon to another and from one Sabbath to another all flesh shall come to worship before me,’ says the Lord.” ([Isaiah 66:22-23](/en/Bible/Isaiah/66#v22)) (<a id="a35_438"></a>[UB 52:7.12](/en/The_Urantia_Book/52#p7_12))
 
 Now consider these earlier passages from Isaiah 66:
 
@@ -26,9 +41,9 @@ Now consider these earlier passages from Isaiah 66:
 
 Note how the above passages from Isaiah add even more intrigue to these statements from _The Urantia Book_: 
 
-> … It is altogether possible that, in some future age when Urantia is approaching the era of light and life, after the affairs of the Lucifer rebellion … have been finally adjudicated, we may witness the presence on Urantia, simultaneously, of Machiventa, Adam, Eve, and Christ Michael \[Jesus\] … (<a id="a28_300"></a>[UB 93:10.8](/en/The_Urantia_Book/93#p10_8))
+> … It is altogether possible that, in some future age when Urantia is approaching the era of light and life, after the affairs of the Lucifer rebellion … have been finally adjudicated, we may witness the presence on Urantia, simultaneously, of Machiventa, Adam, Eve, and Christ Michael \[Jesus\] … (<a id="a43_300"></a>[UB 93:10.8](/en/The_Urantia_Book/93#p10_8))
 
-> When such an era is attained on your world, no doubt Machiventa Melchizedek, now the vicegerent Planetary Prince of Urantia, will occupy the seat of the Planetary Sovereign; and it has long been conjectured … that he will be accompanied by a son and daughter of the Urantia Adam and Eve … These children of Adam might so serve on Urantia in association with the Melchizedek-Sovereign **since they were deprived of procreative powers** almost 37,000 years ago at the time they gave up their material bodies on Urantia … \[Emphasis added.\] (<a id="a30_542"></a>[UB 55:7.3](/en/The_Urantia_Book/55#p7_3))
+> When such an era is attained on your world, no doubt Machiventa Melchizedek, now the vicegerent Planetary Prince of Urantia, will occupy the seat of the Planetary Sovereign; and it has long been conjectured … that he will be accompanied by a son and daughter of the Urantia Adam and Eve … These children of Adam might so serve on Urantia in association with the Melchizedek-Sovereign **since they were deprived of procreative powers** almost 37,000 years ago at the time they gave up their material bodies on Urantia … \[Emphasis added.\] (<a id="a45_542"></a>[UB 55:7.3](/en/The_Urantia_Book/55#p7_3))
 
 Similar to _\-ta_ but with a far less infantile overlay is the meaning of _ven_:
 
@@ -85,3 +100,19 @@ When it takes more than a man-made effort, when the team needs to use all the to
 ## External Links
 
 * This report in UBTheNews webpage: https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

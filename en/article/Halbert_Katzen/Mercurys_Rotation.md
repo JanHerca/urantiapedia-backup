@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2008 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Prepared by Halbert Katzen, J.D. with special thanks to Chris Halvorson, Ph.D.
 [Updated 8/10/08]
@@ -93,7 +108,7 @@ Still, even though opinions among astronomers on this subject today are about as
 
 ## Mercury's Rotation Additional Links
 
-- [UB 57:6.2](/en/The_Urantia_Book/57#p6_2)
+- <a id="a110_2"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2)
 - 1976 article on this subject by Charles (Chick) Montgomery: http://www.ubhistory.org/Documents/PA19761201_Agondonter_04.pdf
 - http://en.wikipedia.org/wiki/Planet_Mercury
 - http://www.obspm.fr/actual/nouvelle/jul04/merc.en.shtml
@@ -105,9 +120,25 @@ Still, even though opinions among astronomers on this subject today are about as
 
 * This report in UBTheNews webpage: https://ubannotated.com/wp-content/uploads/2018/03/Mercury.pdf
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Footnotes:
 
-[^1]: [UB 57:6.2](/en/The_Urantia_Book/57#p6_2) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number. “Urantia” is a coined word with the etymological meaning “(y)our place in heaven.”
+[^1]: <a id="a140_6"></a>[UB 57:6.2](/en/The_Urantia_Book/57#p6_2) This mode of citation to _The Urantia Book_ provides the chapter (referred to as “Papers” in _The Urantia Book_), then the section, followed by the paragraph number. “Urantia” is a coined word with the etymological meaning “(y)our place in heaven.”
 
 [^2]: Physics conventions regarding the use of the terms “rotation” and “revolution” have gravitated toward using the word “rotate” to reference what a sphere may do with respect to its own axis, while “revolution” is used to reference what such a body may do by way of orbiting around another body. Using the terms synonymously, _The Urantia Book_ clearly does not follow this convention. This makes no difference to the issues at hand and has never been a point of contention no matter what position people have had on this topic.
 

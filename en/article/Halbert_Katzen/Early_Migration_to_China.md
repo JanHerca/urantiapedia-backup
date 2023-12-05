@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Prepared by Halbert Katzen, J.D. [10/25/11]
 
@@ -175,20 +190,36 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
 - http://www.archaeologydaily.com/news/201104306509/Did-Peking-Man-wield-a-spear.htmlhttp://www.unreportedheritagenews.com/2011/04/did-peking-man-wield-spear-newresearch.html
 - http://www.archaeologydaily.com/news/200912032771/Mystery-Still-Shrouds-Peking-Man-80-Years-after-Discovery.html
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/en/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Footnotes
 
 [^1]: http://news.bbc.co.uk/2/hi/science/nature/7937351.stm
-[^2]: <a id="a180_6"></a>[UB 64:0.2](/en/The_Urantia_Book/64#p0_2)
-[^3]: <a id="a181_6"></a>[UB 64:3.4,5](/en/The_Urantia_Book/64#p3_4)
+[^2]: <a id="a211_6"></a>[UB 64:0.2](/en/The_Urantia_Book/64#p0_2)
+[^3]: <a id="a212_6"></a>[UB 64:3.4,5](/en/The_Urantia_Book/64#p3_4)
 [^4]: http://www.ubthenews.com/taxonomy.htm
-[^5]: <a id="a183_6"></a>[UB 64:4.1](/en/The_Urantia_Book/64#p4_1)
+[^5]: <a id="a214_6"></a>[UB 64:4.1](/en/The_Urantia_Book/64#p4_1)
 [^6]: http://www.nature.com/nature/journal/v458/n7235/full/nature07741.html
-[^7]: <a id="a185_6"></a>[UB 64:1.1-4](/en/The_Urantia_Book/64#p1_1)
-[^8]: <a id="a186_6"></a>[UB 64:4.2,3](/en/The_Urantia_Book/64#p4_2)
-[^9]: <a id="a187_6"></a>[UB 64:4.4-6](/en/The_Urantia_Book/64#p4_4)
-[^10]: <a id="a188_7"></a>[UB 64:4.3](/en/The_Urantia_Book/64#p4_3)
-[^11]: <a id="a189_7"></a>[UB 63:1.3](/en/The_Urantia_Book/63#p1_3)
-[^12]: <a id="a190_7"></a>[UB 68:5.4](/en/The_Urantia_Book/68#p5_4)
+[^7]: <a id="a216_6"></a>[UB 64:1.1-4](/en/The_Urantia_Book/64#p1_1)
+[^8]: <a id="a217_6"></a>[UB 64:4.2,3](/en/The_Urantia_Book/64#p4_2)
+[^9]: <a id="a218_6"></a>[UB 64:4.4-6](/en/The_Urantia_Book/64#p4_4)
+[^10]: <a id="a219_7"></a>[UB 64:4.3](/en/The_Urantia_Book/64#p4_3)
+[^11]: <a id="a220_7"></a>[UB 63:1.3](/en/The_Urantia_Book/63#p1_3)
+[^12]: <a id="a221_7"></a>[UB 68:5.4](/en/The_Urantia_Book/68#p5_4)
 [^13]: http://www.history.com/news/2011/04/28/did-homo-erectus-craft-complex-tools-and-weapons/
 [^14]: http://humanorigins.si.edu/research/asian-research/bose-china
 [^15]: http://en.wikipedia.org/wiki/Movius_Line
