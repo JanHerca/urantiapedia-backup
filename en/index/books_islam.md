@@ -16,8 +16,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Qur'an</text>
 						</g>
 					</svg>
@@ -37,8 +37,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Maulana Muhammad Ali (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1944</text>
 							<text style="font-size:9px" x="61" y="60">A Manual</text>
@@ -62,8 +62,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Hadith</text>
 							<text style="font-size:9px" x="61" y="70">of Bukhari</text>
 						</g>
@@ -89,8 +89,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Omar Khayyam</text>
 							<text style="font-size:4px" x="61" y="125">1859</text>
 							<text style="font-size:9px" x="61" y="60">The Rubayyat</text>
@@ -113,8 +113,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E.H. Palmer</text>
 							<text style="font-size:4px" x="61" y="125">1867</text>
 							<text style="font-size:9px" x="61" y="60">Oriental</text>
@@ -138,8 +138,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">H. G. Raverty</text>
 							<text style="font-size:4px" x="61" y="125">1867</text>
 							<text style="font-size:9px" x="61" y="60">Selections</text>
@@ -164,8 +164,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sir Richard Burton</text>
 							<text style="font-size:4px" x="61" y="125">1880</text>
 							<text style="font-size:9px" x="61" y="60">The Kasîdah</text>
@@ -190,8 +190,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Eflaki; James W. Redhouse (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1881</text>
 							<text style="font-size:9px" x="61" y="60">The Mesnevi</text>
@@ -217,8 +217,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Farid ud-Din Attar; Edward Fitzgerald (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1889</text>
 							<text style="font-size:9px" x="61" y="60">Bird Parliament</text>
@@ -241,8 +241,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Hafiz; Gertrude Lowthian Bell (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
 							<text style="font-size:9px" x="61" y="60">Poems from the</text>
@@ -266,8 +266,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">E.H. Whinfield (Abr. & tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1898</text>
 							<text style="font-size:9px" x="61" y="60">The Masnavi</text>
@@ -291,8 +291,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Edwin Arnold (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1899</text>
 							<text style="font-size:9px" x="61" y="60">The Gulistan</text>
@@ -316,8 +316,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Nur ad-Din Abd ar-Rahman Jami; Edward Fitzgerald (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1904</text>
 							<text style="font-size:9px" x="61" y="60">Salaman</text>
@@ -341,8 +341,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sadi; Arthur N. Wollaston (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1906</text>
 							<text style="font-size:9px" x="61" y="60">Sadi's Scroll</text>
@@ -366,8 +366,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Al-Ghazzali; Claud Field (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
 							<text style="font-size:9px" x="61" y="60">The Alchemy</text>
@@ -391,8 +391,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Hakîm Abû' L-Majd Majdûd Sanâ'î</text>
 							<text style="font-size:4px" x="61" y="125">1910</text>
 							<text style="font-size:9px" x="61" y="60">The Enclosed Garden</text>
@@ -418,8 +418,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sadi</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
 							<text style="font-size:9px" x="61" y="60">The Bustan</text>
@@ -443,8 +443,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">al-Arabi</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
 							<text style="font-size:9px" x="61" y="60">The Tarjuman</text>
@@ -468,8 +468,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Zeb-un-Nissa</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
 							<text style="font-size:9px" x="61" y="60">The Diwan of</text>
@@ -493,8 +493,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Reynold A. Nicholson.</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
 							<text style="font-size:9px" x="61" y="60">The Mystics</text>
@@ -518,8 +518,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Pir-o-Murshid Inayat Khan</text>
 							<text style="font-size:4px" x="61" y="125">1914</text>
 							<text style="font-size:9px" x="61" y="60">A Sufi Message</text>
@@ -543,8 +543,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rabindranath Tagore (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">New York, The Macmillan Company, 1915</text>
 							<text style="font-size:9px" x="61" y="60">Songs of Kabîr</text>
@@ -567,8 +567,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Sa'd Ud Din Mahmud Shabistari</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
 							<text style="font-size:9px" x="61" y="60">The Secret</text>
@@ -592,8 +592,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Muhammad Iqbal</text>
 							<text style="font-size:4px" x="61" y="125">1920</text>
 							<text style="font-size:9px" x="61" y="60">The Secrets</text>
@@ -617,8 +617,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Reynold Alleyne Nicholson</text>
 							<text style="font-size:4px" x="61" y="125">1921</text>
 							<text style="font-size:9px" x="61" y="60">Studies</text>
@@ -643,8 +643,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Al-Ghazzali</text>
 							<text style="font-size:4px" x="61" y="125">1924</text>
 							<text style="font-size:9px" x="61" y="60">The Mishkât</text>
@@ -675,8 +675,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Baerlein (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
 							<text style="font-size:9px" x="61" y="60">The Diwan</text>
@@ -700,8 +700,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Arthur N. Wollaston</text>
 							<text style="font-size:4px" x="61" y="125">1911</text>
 							<text style="font-size:9px" x="61" y="60">The Religion</text>
@@ -725,8 +725,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">De Lacy O'Leary</text>
 							<text style="font-size:4px" x="61" y="125">1922</text>
 							<text style="font-size:9px" x="61" y="60">Arabic Thought</text>
@@ -751,8 +751,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">P. M. Sykes and Khan Bhadur Ahmad din Khan</text>
 							<text style="font-size:4px" x="61" y="125">1910</text>
 							<text style="font-size:9px" x="61" y="60">The Glory of</text>
@@ -776,8 +776,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W. A. Clouston</text>
 							<text style="font-size:4px" x="61" y="125">1881</text>
 							<text style="font-size:9px" x="61" y="60">Arabian Poetry</text>
@@ -800,8 +800,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">T. J. De Boer</text>
 							<text style="font-size:4px" x="61" y="125">1903</text>
 							<text style="font-size:9px" x="61" y="60">The History</text>
@@ -826,8 +826,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John Wortabet</text>
 							<text style="font-size:4px" x="61" y="125">1913</text>
 							<text style="font-size:9px" x="61" y="60">Arabian Wisdom</text>
@@ -850,8 +850,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">W.J. Prendergast (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1915</text>
 							<text style="font-size:9px" x="61" y="60">The Maqámát</text>
@@ -877,8 +877,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">John A. Williams</text>
 							<text style="font-size:4px" x="61" y="125">1962, not renewed</text>
 							<text style="font-size:9px" x="61" y="60">Islam</text>
@@ -901,8 +901,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Robert Hammond</text>
 							<text style="font-size:4px" x="61" y="125">1947</text>
 							<text style="font-size:9px" x="61" y="60">The Philosophy</text>
@@ -926,8 +926,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Duncan B. MacDonald</text>
 							<text style="font-size:4px" x="61" y="125">1903</text>
 							<text style="font-size:9px" x="61" y="50">Development</text>
@@ -954,8 +954,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dr. G. Weil</text>
 							<text style="font-size:4px" x="61" y="125">1863</text>
 							<text style="font-size:9px" x="61" y="50">The Bible,</text>
@@ -982,8 +982,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">F.E. Johnson and Sheikh Faiz-ullah-bhai (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1917</text>
 							<text style="font-size:9px" x="61" y="60">The Hanged Poems</text>
@@ -1006,8 +1006,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. E. Hanauer</text>
 							<text style="font-size:4px" x="61" y="125">1909</text>
 							<text style="font-size:9px" x="61" y="60">Folk-lore</text>
@@ -1032,8 +1032,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Rev. James Robson</text>
 							<text style="font-size:4px" x="61" y="125">1929</text>
 							<text style="font-size:9px" x="61" y="60">Christ In Islâm</text>
@@ -1056,8 +1056,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Lonsdale and Laura Ragg (tr.)</text>
 							<text style="font-size:4px" x="61" y="125">1907</text>
 							<text style="font-size:9px" x="61" y="60">The Gospel</text>
@@ -1081,8 +1081,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Shiite Documents</text>
 						</g>
 					</svg>
@@ -1102,8 +1102,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-islam urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Ismā‛īlī</text>
 							<text style="font-size:9px" x="61" y="70">materials</text>
 						</g>

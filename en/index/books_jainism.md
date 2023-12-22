@@ -15,8 +15,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1884</text>
 							<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
 							<text style="font-size:9px" x="61" y="70">Part I</text>
@@ -39,8 +39,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:4px" x="61" y="125">1884</text>
 							<text style="font-size:9px" x="61" y="60">Jaina Sutras</text>
 							<text style="font-size:9px" x="61" y="70">Part II</text>
@@ -63,8 +63,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">A Treatise</text>
 							<text style="font-size:9px" x="61" y="70">on Jainism</text>
 						</g>
@@ -85,8 +85,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Ten Virtues </text>
 							<text style="font-size:9px" x="61" y="70">Of Monks</text>
 						</g>
@@ -107,8 +107,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Twelve Reflections</text>
 							<text style="font-size:9px" x="61" y="70">or Bhavnas</text>
 						</g>
@@ -129,8 +129,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Twelve Vows</text>
 							<text style="font-size:9px" x="61" y="70">Of Layperson</text>
 						</g>
@@ -151,8 +151,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Fourteen</text>
 							<text style="font-size:9px" x="61" y="70">Auspicious</text>
 							<text style="font-size:9px" x="61" y="80">Dreams</text>
@@ -174,8 +174,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Five Bodies</text>
 							<text style="font-size:9px" x="61" y="70">and Eight Vargnas</text>
 						</g>
@@ -196,8 +196,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Five Great Vows</text>
 							<text style="font-size:9px" x="61" y="70">(Maha-vratas)</text>
 						</g>
@@ -218,8 +218,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Six Universal</text>
 							<text style="font-size:9px" x="61" y="70">Substances</text>
 							<text style="font-size:9px" x="61" y="80">(Dravyas)</text>
@@ -241,8 +241,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Meaning Of</text>
 							<text style="font-size:9px" x="61" y="70">Ashta Prakari</text>
 							<text style="font-size:9px" x="61" y="80">Puja</text>
@@ -264,8 +264,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				<div class="urantiapedia-book-front urantiapedia-book-jain urantiapedia-card-top-image">
 					<svg xmlns="http://www.w3.org/2000/svg" width="205.6px" height="273.6px" viewBox="0 0 102.6 136.8" version="1.1">
 						<g transform="translate(-7,-5)">
-							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
-							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
+							<rect width="9.6" height="136.8" x="7" y="5" />
+							<rect width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:9px" x="61" y="60">Nine Tattvas</text>
 							<text style="font-size:9px" x="61" y="70">(Principles)</text>
 						</g>
