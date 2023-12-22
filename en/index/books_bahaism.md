@@ -9,7 +9,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -30,7 +30,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -51,7 +51,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -74,7 +74,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -103,7 +103,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Bab
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -131,7 +131,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Baha'u'llah
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -152,7 +152,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -175,7 +175,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -198,7 +198,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -220,7 +220,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -241,7 +241,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -263,7 +263,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -285,7 +285,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -308,7 +308,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -337,7 +337,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## 'Abdu'l-Baha
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -359,7 +359,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -381,7 +381,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -403,7 +403,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -424,7 +424,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -447,7 +447,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -470,7 +470,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -493,7 +493,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -515,7 +515,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -537,7 +537,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -559,7 +559,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -581,7 +581,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -603,7 +603,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -631,7 +631,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Shoghi Effendi
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -653,7 +653,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -676,7 +676,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -698,7 +698,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -719,7 +719,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -741,7 +741,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -763,7 +763,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -784,7 +784,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -807,7 +807,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -831,7 +831,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -854,7 +854,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -877,7 +877,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -899,7 +899,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -921,7 +921,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -942,7 +942,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -969,7 +969,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Others
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -993,7 +993,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1016,7 +1016,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1039,7 +1039,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1061,7 +1061,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1088,7 +1088,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Universal House of Justice
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1115,7 +1115,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 ## Compilations
 
 <div class="layout row wrap">
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1136,7 +1136,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1158,7 +1158,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1179,7 +1179,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1201,7 +1201,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1222,7 +1222,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
@@ -1243,7 +1243,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 			</div>
 		</div>
 	</div>
-	<div class="flex xs6 md4 lg3 xl2 d-flex">
+	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
 			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
 				<div class="urantiapedia-book-front urantiapedia-book-bahai urantiapedia-card-top-image">
