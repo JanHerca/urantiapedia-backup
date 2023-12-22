@@ -8,8 +8,6 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
-Those books for which a digital version is available are indicated with a mark.
-
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
@@ -121,7 +119,7 @@ Those books for which a digital version is available are indicated with a mark.
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">George P. Adams (ed.) and Wm. Pepperell Montague</text>
+							<text style="font-size:5px" x="61" y="22">G. P. Adams & Wm. Pepperell Montague</text>
 							<text style="font-size:4px" x="61" y="125">New York: Russell & Russell, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Contemporary</text>
 							<text style="font-size:9px" x="61" y="70">American Philosophy:</text>
@@ -201,7 +199,7 @@ Those books for which a digital version is available are indicated with a mark.
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Henry Fairfield Osborn</text>
-							<text style="font-size:4px" x="61" y="125">Princeton, New Jersey: Princeton University Press, 1927</text>
+							<text style="font-size:4px" x="61" y="125">Princeton, N. J.: Princeton University Press, 1927</text>
 							<text style="font-size:9px" x="61" y="60">Man Rises</text>
 							<text style="font-size:9px" x="61" y="70">to Parnassus</text>
 						</g>
@@ -307,7 +305,8 @@ Those books for which a digital version is available are indicated with a mark.
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D., F.A.C.S., with the collaboration of Lena K. Sadler, M.D., F.A.C.S.</text>
+							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D., F.A.C.S.</text>
+							<text style="font-size:5px" x="61" y="28">Lena K. Sadler, M.D., F.A.C.S.</text>
 							<text style="font-size:4px" x="61" y="125">New York: Funk & Wagnalls Company, 1931</text>
 							<text style="font-size:9px" x="61" y="50">Piloting Modern</text>
 							<text style="font-size:9px" x="61" y="60">Youth: A Guide</text>
@@ -517,7 +516,8 @@ Those books for which a digital version is available are indicated with a mark.
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D. and Lena K. Sadler, M.D.</text>
+							<text style="font-size:5px" x="61" y="22">William S. Sadler, M.D.</text>
+							<text style="font-size:5px" x="61" y="28">and Lena K. Sadler, M.D.</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: The Health Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">The Woman</text>
 							<text style="font-size:9px" x="61" y="70">and the Home</text>
@@ -545,7 +545,7 @@ Those books for which a digital version is available are indicated with a mark.
 							<text style="font-size:5px" x="61" y="22">H. A. Overstreet</text>
 							<text style="font-size:4px" x="61" y="125">New York: W. W. Norton & Company, Inc., 1933</text>
 							<text style="font-size:9px" x="61" y="60">We Move in</text>
-							<text style="font-size:9px" x="61" y="60">New Directions</text>
+							<text style="font-size:9px" x="61" y="70">New Directions</text>
 						</g>
 					</svg>
 				</div>

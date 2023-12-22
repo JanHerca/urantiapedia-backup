@@ -8,6 +8,8 @@ editor: markdown
 dateCreated: 2023-12-12T14:02:03.086Z
 ---
 
+## Religions
+
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
 		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
@@ -234,7 +236,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">J. R. Illingworth, M.A.</text>
-							<text style="font-size:4px" x="61" y="125">London and New York: The Macmillan Company, 1894</text>
+							<text style="font-size:4px" x="61" y="125">London & N.Y.: The Macmillan Company, 1894</text>
 							<text style="font-size:9px" x="61" y="60">Personality</text>
 							<text style="font-size:9px" x="61" y="70">Human and Divine</text>
 						</g>
@@ -289,9 +291,9 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">George H. Betts, Frederick C. Eiselen, George A. Coe. (ed.)</text>
 							<text style="font-size:4px" x="61" y="125">New York: The Abingdon Press, 1930</text>
 							<text style="font-size:9px" x="61" y="60">Religion</text>
-							<text style="font-size:9px" x="61" y="60">and Conduct:</text>
-							<text style="font-size:9px" x="61" y="60">The Report of</text>
-							<text style="font-size:9px" x="61" y="60">a Conference</text>
+							<text style="font-size:9px" x="61" y="70">and Conduct:</text>
+							<text style="font-size:9px" x="61" y="80">The Report of</text>
+							<text style="font-size:9px" x="61" y="90">a Conference</text>
 						</g>
 					</svg>
 				</div>
@@ -367,7 +369,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Dr. William S. Sadler</text>
-							<text style="font-size:4px" x="61" y="125">Chicago: The Central Bible Supply Company, 1909</text>
+							<text style="font-size:4px" x="61" y="125">Chicago: The Central Bible Supply Co., 1909</text>
 							<text style="font-size:9px" x="61" y="60">Soul Winning</text>
 							<text style="font-size:9px" x="61" y="70">Texts, or</text>
 							<text style="font-size:9px" x="61" y="80">Bible Helps</text>
@@ -394,7 +396,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ellen G. White</text>
-							<text style="font-size:4px" x="61" y="125">Battle Creek, Mich.: 7th-Day Adventist Pub. Assoc., 1864</text>
+							<text style="font-size:4px" x="61" y="125">Battle Creek, Mich.:</text>
+							<text style="font-size:4px" x="61" y="130">7th-Day Adventist Pub. Assoc., 1864</text>
 							<text style="font-size:9px" x="61" y="60">Spiritual Gifts</text>
 							<text style="font-size:9px" x="61" y="70">Vol. 4a</text>
 						</g>
@@ -445,7 +448,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">John Laird, LL.D., F.B.A.</text>
 							<text style="font-size:4px" x="61" y="125">London: George Allen and Unwin Ltd, 1940</text>
 							<text style="font-size:9px" x="61" y="60">Theism</text>
-							<text style="font-size:9px" x="61" y="60">and Cosmology</text>
+							<text style="font-size:9px" x="61" y="70">and Cosmology</text>
 						</g>
 					</svg>
 				</div>
@@ -471,7 +474,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1928</text>
 							<text style="font-size:9px" x="61" y="50">The Interpretation</text>
 							<text style="font-size:9px" x="61" y="60">of Religion:</text>
-							<text style="font-size:9px" x="61" y="i70">An Introductory</text>
+							<text style="font-size:9px" x="61" y="70">An Introductory</text>
 							<text style="font-size:9px" x="61" y="80">Study of</text>
 							<text style="font-size:9px" x="61" y="90">Theological</text>
 							<text style="font-size:9px" x="61" y="100">Principles</text>
@@ -496,7 +499,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Henry Nelson Wieman and Walter Marshall Horton</text>
+							<text style="font-size:5px" x="61" y="22">H. N. Wieman & W. Marshall Horton</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: Willett, Clark & Company, 1938</text>
 							<text style="font-size:9px" x="61" y="60">The Growth</text>
 							<text style="font-size:9px" x="61" y="70">of Religion</text>
@@ -607,7 +610,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">The Perfect</text>
 							<text style="font-size:9px" x="61" y="70">Calendar for</text>
 							<text style="font-size:9px" x="61" y="80">Every Year of the</text>
-							<text style="font-size:9px" x="61" y="60">Christian Era</text>
+							<text style="font-size:9px" x="61" y="90">Christian Era</text>
 						</g>
 					</svg>
 				</div>
@@ -786,7 +789,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 	</div>
 </div>
 
-### Jesus Studies
+## Jesus Studies
 
 <div class="layout row wrap">
 	<div class="flex xs6 md4 lg3 xl3 d-flex">
@@ -797,7 +800,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Arthur S. Peake, James Hastings, D.D. (ed.)</text>
+							<text style="font-size:5px" x="61" y="22">A. S. Peake, James Hastings</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1908</text>
 							<text style="font-size:9px" x="61" y="60">A Dictionary</text>
 							<text style="font-size:9px" x="61" y="70">of Christ and</text>
@@ -824,7 +827,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Arnold Stevens y Ernest DeWitt Burton</text>
+							<text style="font-size:5px" x="61" y="22">A. Stevens & E. DeWitt Burton</text>
 							<text style="font-size:4px" x="61" y="125">New York: Charles Scribner’s Sons, 1904, 1932</text>
 							<text style="font-size:9px" x="61" y="60">A Harmony</text>
 							<text style="font-size:9px" x="61" y="70">of the Gospels</text>
@@ -835,7 +838,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 				</div>
 			</div>
 			<div class="urantiapedia-card-title urantiapedia-book pt-4">A Harmony of the Gospels for Historical Study</div>
-			<div class="urantiapedia-card-subtitle urantiapedia-book">Arnold Stevens y Ernest DeWitt Burton</div>
+			<div class="urantiapedia-card-subtitle urantiapedia-book">Arnold Stevens & Ernest DeWitt Burton</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
 					<span class="v-btn__content"><div class="caption"><strong>Read</strong></div></span>
@@ -852,7 +855,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Daniel A. Poling</text>
-							<text style="font-size:4px" x="61" y="125">ew York: Harper & Brothers Publishers, 1931</text>
+							<text style="font-size:4px" x="61" y="125">New York: Harper & Brothers Publishers, 1931</text>
 							<text style="font-size:9px" x="61" y="60">Between</text>
 							<text style="font-size:9px" x="61" y="70">Two Worlds:</text>
 							<text style="font-size:9px" x="61" y="80">The Romance</text>
@@ -878,7 +881,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Ernest Dewitt Burton and Shailer Mathews</text>
+							<text style="font-size:5px" x="61" y="22">E. Dewitt Burton and S. Mathews</text>
 							<text style="font-size:4px" x="61" y="125">Chicago: University of Chicago Press, 1900</text>
 							<text style="font-size:9px" x="61" y="60">Constructive</text>
 							<text style="font-size:9px" x="61" y="70">Studies in the</text>
@@ -1426,7 +1429,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Alfred Edersheim</text>
-							<text style="font-size:4px" x="61" y="125">New York: Longman, Green, & Co., Eighth Edition, Revised, 1899</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Longman, Green, & Co., 1899</text>
 							<text style="font-size:9px" x="61" y="60">The Life and Times</text>
 							<text style="font-size:9px" x="61" y="70">of Jesus</text>
 							<text style="font-size:9px" x="61" y="80">the Messiah</text>
@@ -1434,7 +1437,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 					</svg>
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life and Times of Jesus the Messiah, Two volumes</div>
+			<div class="urantiapedia-card-title urantiapedia-book pt-4">The Life and Times of Jesus the Messiah, Two volumes (Eighth Edition, Revised)</div>
 			<div class="urantiapedia-card-subtitle urantiapedia-book">Alfred Edersheim</div>
 			<div class="urantiapedia-card-actions">
 				<a href="" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text v-btn--disabled">
@@ -1530,8 +1533,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Charles Fiske and Burton Scott Easton</text>
-							<text style="font-size:4px" x="61" y="125">New York and London, Harper & Brothers Publishers, 1929</text>
+							<text style="font-size:5px" x="61" y="22">Charles Fiske & Burton Scott Easton</text>
+							<text style="font-size:4px" x="61" y="125">N.Y. & London, Harper & Brothers Publishers, 1929</text>
 							<text style="font-size:9px" x="61" y="60">The Real Jesus</text>
 							<text style="font-size:9px" x="61" y="70">What He Taught</text>
 							<text style="font-size:9px" x="61" y="80">What He Did:</text>
@@ -1818,7 +1821,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Orville J. Nave, A.M., D.D., LL.D.</text>
-							<text style="font-size:4px" x="61" y="125">New York: Topical Bible Publishing Company, 1897</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Topical Bible Publishing Company, 1897</text>
 							<text style="font-size:9px" x="61" y="60">Nave’s Topical</text>
 							<text style="font-size:9px" x="61" y="70">Bible: A Digest of</text>
 							<text style="font-size:9px" x="61" y="80">the Holy Scriptures</text>
@@ -1843,7 +1846,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 						<g transform="translate(-7,-5)">
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
-							<text style="font-size:5px" x="61" y="22">Herbert Edward Ryle, M.A., and Montague Rhodes James, M.A., editors</text>
+							<text style="font-size:5px" x="61" y="22">H. E. Ryle, M.A., & M. Rhodes James, M.A.</text>
 							<text style="font-size:4px" x="61" y="125">Cambridge: At the University Press, 1891</text>
 							<text style="font-size:9px" x="61" y="60">Psalms of</text>
 							<text style="font-size:9px" x="61" y="70">the Pharisees,</text>
@@ -1924,7 +1927,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Julius A. Bewer</text>
-							<text style="font-size:4px" x="61" y="125">New York: Columbia University Press, 1922, 1935</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia University Press, 1922, 1935</text>
 							<text style="font-size:9px" x="61" y="60">The Literature of</text>
 							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
 						</g>
@@ -1949,7 +1952,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<rect style="fill:#301602" width="9.6" height="136.8" x="7" y="5" />
 							<rect style="fill:#F9F1D2" width="96.9" height="136.8" x="17" y="5" />
 							<text style="font-size:5px" x="61" y="22">Ernest Findlay Scott</text>
-							<text style="font-size:4px" x="61" y="125">New York: Columbia Univeristy Press, 1932, 1936</text>
+							<text style="font-size:4px" x="61" y="125">N.Y.: Columbia Univeristy Press, 1932, 1936</text>
 							<text style="font-size:9px" x="61" y="60">The Literature of</text>
 							<text style="font-size:9px" x="61" y="70">the Old Testament</text>
 						</g>

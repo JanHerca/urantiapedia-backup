@@ -1068,7 +1068,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Lafcadio Hearn</text>
 							<text style="font-size:4px" x="61" y="125">1897</text>
 							<text style="font-size:9px" x="61" y="60">Gleanings In</text>
-							<text style="font-size:9px" x="61" y="60">Buddha-Fields</text>
+							<text style="font-size:9px" x="61" y="70">Buddha-Fields</text>
 						</g>
 					</svg>
 				</div>
@@ -1243,8 +1243,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22"></text>
 							<text style="font-size:4px" x="61" y="125"></text>
 							<text style="font-size:9px" x="61" y="60">Journal</text>
-							<text style="font-size:9px" x="61" y="60">Articles</text>
-							<text style="font-size:9px" x="61" y="60">about Buddhism</text>
+							<text style="font-size:9px" x="61" y="70">Articles</text>
+							<text style="font-size:9px" x="61" y="80">about Buddhism</text>
 						</g>
 					</svg>
 				</div>
