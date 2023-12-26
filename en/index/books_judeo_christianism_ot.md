@@ -1546,7 +1546,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">The Odes of Solomon</text>
+							<text style="font-size:9px" x="61" y="60">The Odes</text>
+							<text style="font-size:9px" x="61" y="70">of Solomon</text>
 						</g>
 					</svg>
 				</div>
@@ -1594,7 +1595,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">The Story of Ahikar</text>
+							<text style="font-size:9px" x="61" y="60">The Story</text>
+							<text style="font-size:9px" x="61" y="70">of Ahikar</text>
 						</g>
 					</svg>
 				</div>
@@ -1618,7 +1620,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Reuben</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Reuben</text>
 						</g>
 					</svg>
 				</div>
@@ -1642,7 +1645,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Simeon</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Simeon</text>
 						</g>
 					</svg>
 				</div>
@@ -1666,7 +1670,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Levi</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Levi</text>
 						</g>
 					</svg>
 				</div>
@@ -1690,7 +1695,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Judah</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Judah</text>
 						</g>
 					</svg>
 				</div>
@@ -1714,7 +1720,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Issachar</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Issachar</text>
 						</g>
 					</svg>
 				</div>
@@ -1738,7 +1745,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Zebulun</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Zebulun</text>
 						</g>
 					</svg>
 				</div>
@@ -1762,7 +1770,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Dan</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Dan</text>
 						</g>
 					</svg>
 				</div>
@@ -1786,7 +1795,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Naphtali</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Naphtali</text>
 						</g>
 					</svg>
 				</div>
@@ -1810,7 +1820,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Gad</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Gad</text>
 						</g>
 					</svg>
 				</div>
@@ -1834,7 +1845,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Asher</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Asher</text>
 						</g>
 					</svg>
 				</div>
@@ -1858,7 +1870,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Joseph</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Joseph</text>
 						</g>
 					</svg>
 				</div>
@@ -1882,7 +1895,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Forgotten Books of Eden, 1926</text>
 							<text style="font-size:4px" x="61" y="130">Rutherford H. Platt, Jr.</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Benjamin</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Benjamin</text>
 						</g>
 					</svg>
 				</div>
@@ -1931,7 +1945,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Ante-Nicene Fathers, 1885-1903</text>
 							<text style="font-size:4px" x="61" y="130">Arthur Cleveland Coxe & Allan Menzies</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Abraham</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Abraham</text>
 						</g>
 					</svg>
 				</div>
@@ -1955,7 +1970,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">Nag Hammadi Library, 1981</text>
 							<text style="font-size:4px" x="61" y="130">George W. MacRae</text>
-							<text style="font-size:9px" x="61" y="60">Apocalypse of Adam</text>
+							<text style="font-size:9px" x="61" y="60">Apocalypse</text>
+							<text style="font-size:9px" x="61" y="70">of Adam</text>
 						</g>
 					</svg>
 				</div>
@@ -1979,7 +1995,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">APOCRYPHA</text>
 							<text style="font-size:4px" x="61" y="125">The Book of the Cave of Treasures, 1927</text>
 							<text style="font-size:4px" x="61" y="130">E. A. Wallis Budge</text>
-							<text style="font-size:9px" x="61" y="60">Testament of Adam</text>
+							<text style="font-size:9px" x="61" y="60">Testament</text>
+							<text style="font-size:9px" x="61" y="70">of Adam</text>
 						</g>
 					</svg>
 				</div>
@@ -2004,7 +2021,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
 							<text style="font-size:4px" x="61" y="125">Oxford: University Press, 1913</text>
 							<text style="font-size:4px" x="61" y="130">R. H. Charles</text>
 							<text style="font-size:3px" x="61" y="135">The Apocrypha and Pseudepigrapha of the Old Testament</text>
-							<text style="font-size:9px" x="61" y="60">Life of Adam and Eve</text>
+							<text style="font-size:9px" x="61" y="60">Life of</text>
+							<text style="font-size:9px" x="61" y="70">Adam and Eve</text>
 						</g>
 					</svg>
 				</div>
