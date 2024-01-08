@@ -17,7 +17,8 @@ dateCreated: 2021-11-28T13:55:38.362Z
 		<rect width="96.9" height="136.8" x="17" y="5" />
 		<text style="font-size:5px" x="61" y="22">LA BIBLIA</text>
 		<text style="font-size:4px" x="61" y="125">Biblia Reina Valera, 1960</text>
-		<text style="font-size:9px" x="61" y="60">Epístola de Santiago</text>
+		<text style="font-size:9px" x="61" y="60">Epístola</text>
+		<text style="font-size:9px" x="61" y="70">de Santiago</text>
 	</g>
 </svg>
 </div>
@@ -35,7 +36,7 @@ En su mayor parte, hasta finales del siglo XX, la epístola de Santiago fue rele
 
 La epístola tiene como objetivo llegar a una amplia audiencia judía. Durante las últimas décadas, la epístola de Santiago ha atraído un creciente interés académico debido a un aumento en la búsqueda del Santiago histórico, su papel dentro del movimiento de Jesús, sus creencias y sus relaciones y puntos de vista. Este avivamiento de Santiago también está asociado con un nivel creciente de conciencia de la base judía tanto de la epístola como del movimiento de Jesús temprano. 
 
-## Index
+## Índice
 
 - [Capítulo 1](/es/Bible/James/1)
 - [Capítulo 2](/es/Bible/James/2)
@@ -48,6 +49,6 @@ La epístola tiene como objetivo llegar a una amplia audiencia judía. Durante l
 [Índice completo de la Biblia](/es/index/bible)
 
 
-## External links
+## Enlaces externos
 
-- https://en.wikipedia.org/wiki/Epistle_of_James
+- [Wikipedia](https://es.wikipedia.org/wiki/Ep%C3%ADstola_de_Santiago)
