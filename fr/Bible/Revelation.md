@@ -3,7 +3,7 @@ title: Apocalypse de Jean
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -62,6 +62,6 @@ L'imagerie obscure et extravagante a conduit à une grande variété d'interpré
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Book_of_Revelation
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Revelation)

@@ -3,7 +3,7 @@ title: Épître de Paul aux Philippiens
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -41,6 +41,6 @@ Il existe un consensus général sur le fait que Philippiens se compose de maté
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Epistle_to_the_Philippians
+- [Wikipédia](https://en.wikipedia.org/wiki/Epistle_to_the_Philippians)

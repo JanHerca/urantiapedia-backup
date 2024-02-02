@@ -3,7 +3,7 @@ title: Lévitique
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -65,6 +65,6 @@ Les instructions du Lévitique mettent l'accent sur les pratiques rituelles, lé
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Book_of_Leviticus
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Leviticus)

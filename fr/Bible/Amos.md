@@ -3,7 +3,7 @@ title: Amos
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -43,6 +43,6 @@ Le Livre d'Amos est le troisième des Douze Petits Prophètes de l'Ancien Testam
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Book_of_Amos
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Amos)

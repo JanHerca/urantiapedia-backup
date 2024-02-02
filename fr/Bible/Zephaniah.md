@@ -3,7 +3,7 @@ title: Sophonie
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -37,6 +37,6 @@ Le Livre de Sophonie /ˌzɛfəˈnaɪ.ə/ (Hébreu : צְפַנְיָה, Ṣəfan
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Book_of_Zephaniah
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Zephaniah)

@@ -1,9 +1,9 @@
 ---
-title: IIIe Épître de Jean
+title: "IIIe Épître de Jean"
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -37,6 +37,6 @@ La littérature de l'Église primitive ne contient aucune mention de l'épître,
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Third_Epistle_of_John
+- [Wikipédia](https://en.wikipedia.org/wiki/Third_Epistle_of_John)

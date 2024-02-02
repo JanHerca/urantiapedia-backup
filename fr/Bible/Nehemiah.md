@@ -3,7 +3,7 @@ title: Néhémie
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -47,6 +47,6 @@ Le livre de Néhémie dans la Bible hébraïque, prend en grande partie la forme
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Book_of_Nehemiah
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Nehemiah)

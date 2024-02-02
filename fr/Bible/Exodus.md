@@ -3,7 +3,7 @@ title: Exode
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -75,6 +75,6 @@ Traditionnellement attribuée à Moïse lui-même, les érudits modernes voient 
 - [Chapitre 39](/fr/Bible/Exodus/39)
 - [Chapitre 40](/fr/Bible/Exodus/40)
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Book_of_Exodus
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Exodus)

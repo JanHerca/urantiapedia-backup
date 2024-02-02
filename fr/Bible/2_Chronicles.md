@@ -3,7 +3,7 @@ title: II Chroniques
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -72,6 +72,6 @@ Le livre a été divisé en deux livres dans la Septante et traduit au milieu du
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Books_of_Chronicles
+- [Wikipédia](https://en.wikipedia.org/wiki/Books_of_Chronicles)

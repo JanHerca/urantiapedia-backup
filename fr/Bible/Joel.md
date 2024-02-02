@@ -3,7 +3,7 @@ title: Joël
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -37,6 +37,6 @@ Le Livre de Joël est rassemblé comme l'un des douze prophètes mineurs des Nev
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/Book_of_Joel
+- [Wikipédia](https://en.wikipedia.org/wiki/Book_of_Joel)

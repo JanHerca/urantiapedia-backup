@@ -3,7 +3,7 @@ title: Ire Épître de Jean
 description: 
 published: true
 date: 2021-12-08T13:55:38.362Z
-tags: 
+tags: Bible
 editor: markdown
 dateCreated: 2021-11-28T13:55:38.362Z
 ---
@@ -42,6 +42,6 @@ Cette épître a probablement été écrite à Éphèse entre 95 et 110 après J
 [Table des matières complet de la Bible](/fr/index/bible)
 
 
-## External links
+## Liens externes
 
-- https://en.wikipedia.org/wiki/First_Epistle_of_John
+- [Wikipédia](https://en.wikipedia.org/wiki/First_Epistle_of_John)
