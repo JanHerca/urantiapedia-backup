@@ -20,7 +20,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>
@@ -68,8 +68,8 @@ Swedish | 2010 | Joel Rehnström | Urantiaboken
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-08/timeline-urantia-book-and-its-translations
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-08/timeline-urantia-book-and-its-translations)
 
 <figure class="table chapter-navigator">
   <table>
@@ -82,7 +82,7 @@ Swedish | 2010 | Joel Rehnström | Urantiaboken
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>

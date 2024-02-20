@@ -15,7 +15,7 @@ dateCreated: 2023-8-29T10:55:6Z
       <tr>
         <td>
         <a href="/en/article/Dan_Macias/Engineering_the_Audio_O_Livro_de_Urantia">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engineering the Audio _O Livro de Urântia_</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engineering the Audio O Livro de Urântia</span>
         </a>
         </td>
         <td>
@@ -111,8 +111,8 @@ After five years of tireless service, Olga López from Barcelona, Spain, retired
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-11/noteworthy-decisions-october-2012-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-11/noteworthy-decisions-october-2012-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>
@@ -120,7 +120,7 @@ After five years of tireless service, Olga López from Barcelona, Spain, retired
       <tr>
         <td>
         <a href="/en/article/Dan_Macias/Engineering_the_Audio_O_Livro_de_Urantia">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engineering the Audio _O Livro de Urântia_</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Engineering the Audio O Livro de Urântia</span>
         </a>
         </td>
         <td>

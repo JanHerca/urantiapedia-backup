@@ -40,6 +40,7 @@ dateCreated: 2023-8-29T10:55:6Z
 
 _By Brad Garner, Urantia Foundation, Arizona, United States_
 <br style="clear:both;"/>
+
 > “No chick may be had without the shell, and no shell is of any worth after the chick is hatched.” <a id="a42_100"></a>[UB 48:6.32](/en/The_Urantia_Book/48#p6_32)
 
 As a lifelong secondgeneration student of _The Urantia Book_, I'm the newest addition to the staff of Urantia Foundation. Until a few years ago I was an employee of the federal government, working on various natural-science projects and helping publish that material online. It was a rewarding job, and I am grateful for both the salary and the experience it provided me.
@@ -60,8 +61,8 @@ This year Urantia Foundation offered me a full-time position, meaning I can cont
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2022-03/joining-team-urantia-foundation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2022-03/joining-team-urantia-foundation)
 
 <figure class="table chapter-navigator">
   <table>

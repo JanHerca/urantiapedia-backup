@@ -95,14 +95,12 @@ Urantia Foundation participated in two book fairs during May and June.
 
 ## 5. Public Relations
 
-Richard Jernigan made a presentation for a style guide that Urantia Foundation would use for organizational identification. The purpose of the style guide is to help Urantia Foundation ensure a dependable degree of dignity, professionalism, and graphic consistency in its work, programs, and dissemination activities. Our desire is that
+Richard Jernigan made a presentation for a style guide that Urantia Foundation would use for organizational identification. The purpose of the style guide is to help Urantia Foundation ensure a dependable degree of dignity, professionalism, and graphic consistency in its work, programs, and dissemination activities. Our desire is that Urantia Foundation presents an image that is consistent with the dignity and values of the fifth epochal revelation.
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2015_06/017.jpg">
 <figcaption><em>Richard Jernigan</em></figcaption>
 </figure>
-
-Urantia Foundation presents an image that is consistent with the dignity and values of the fifth epochal revelation.
 
 ## 6. Future Use of the
 
@@ -127,8 +125,8 @@ Recently the committee found five more minor errors of grammar and punctuation i
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2015-06/noteworthy-decisions-april-2015-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2015-06/noteworthy-decisions-april-2015-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

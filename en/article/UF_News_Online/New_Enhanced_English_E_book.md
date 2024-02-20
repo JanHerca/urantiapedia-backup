@@ -66,7 +66,9 @@ Conveniently jump from one section to another while crossreferencing topics.
 <img src="/image/article/UF_News_Online/2021_04/050.jpg">
 </figure>
 
-[Click to see Ashley demo how the book works](https://www.youtube.com/watch?v=BvsP9kXnnZw)
+Click to see Ashley demo how the book works
+
+https://www.youtube.com/watch?v=BvsP9kXnnZw
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/046.jpg">
@@ -79,8 +81,8 @@ _The Urantia Book_ Enhanced Edition will make studying the book easier. Buy your
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-04/new-enhanced-english-e-book
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-04/new-enhanced-english-e-book)
 
 <figure class="table chapter-navigator">
   <table>

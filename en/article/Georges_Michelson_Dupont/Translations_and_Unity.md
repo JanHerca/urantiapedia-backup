@@ -42,6 +42,7 @@ _By Georges Michelson-Dupont, trustee, manager of translations, Recloses, France
 
 When discussing translations, as is planned to take place at the Urantia Book Fellowship IC'17 conference, one ought to consider this important topic in its context of desirable spiritual unity and long-term perspective of service to our communities of readers.
 <br style="clear:both;"/>
+
 ## Some Historical Considerations
 
 After a long revelatory process, the fifth epochal revelation came to Urantia as a book, in English, from higher beings, and through a human subject. In 1950, the revelators requested the creation of a formal organization charged with the responsibility of protecting the text, disseminating the teachings, and making translations—as stated in the Declaration of Trust (DOT) Article III.3—thus giving Urantia Foundation the legitimacy to act accordingly. Also, the responsibility of translating _The Urantia Book_ was granted to Urantia Foundation before the book was printed and reader organizations came into existence. There are many reasons for that, which I shall discuss in this article.
@@ -131,8 +132,8 @@ Throughout the earlier ages of any world, competition is essential to progressiv
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-06/translations-and-unity
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-06/translations-and-unity)
 
 <figure class="table chapter-navigator">
   <table>

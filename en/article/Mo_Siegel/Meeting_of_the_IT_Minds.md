@@ -42,13 +42,13 @@ Upon conclusion of the October 2009 meeting of Urantia Foundation's Board of Tru
 The IT specialists participating in the Round Table came together to share best practices, experiences, strategies, and new ideas for internet technologies to serve the community of potential and current readers of _The Urantia Book_. The group, including four trustees, spent their time discussing various strategic IT/internet alternatives that maximize reader benefits while minimizing redundancies, over expenditures, and conflicts. The simple object of the meeting was to efficiently and effectively maximize service to the Urantia Revelation in the digital age. Without exception, the diverse group worked in harmony, friendship, and dedication to a higher cause.
 
 
-
+> “The simple object of the meeting was to efficiently and effectively maximize service to the Urantia Revelation in the digital age.”
 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/meeting-it-minds
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/meeting-it-minds)
 
 <figure class="table chapter-navigator">
   <table>

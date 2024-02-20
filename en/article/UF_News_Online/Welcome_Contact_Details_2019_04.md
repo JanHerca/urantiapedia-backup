@@ -81,8 +81,7 @@ Email: urantia@urantia.org
 **Credits for News Online**
 
 Editors: Lainey Doremus, Cece Forrester Marilynn Kulieke, Tamara Strumfeld
-Writers: Georges Michelson-Dupont, Judy Van Cleave, Jim English, Marta Elders, Michael Zehr,
-Simonas Jurgionis
+Writers: Georges Michelson-Dupont, Judy Van Cleave, Jim English, Marta Elders, Michael Zehr, Simonas Jurgionis
 Production: Urantia Foundation
 
 **Urantia Foundation Trustees**
@@ -104,7 +103,7 @@ This is a Urantian &reg; publication.
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 
 <figure class="table chapter-navigator">
   <table>

@@ -52,13 +52,13 @@ The next fair we are planning to attend will be in Zurich, Switzerland, in March
 <figcaption><em>Reinhard Schneider, Ivalo-Sjölie and Werner Sutter</em></figcaption>
 </figure>
 
-> “The simple object of the meeting was to efficiently and effectively maximize service to the Urantia Revelation in the digital age.”
+
 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-12/das-urantia-buch-in-munich
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-12/das-urantia-buch-in-munich)
 
 <figure class="table chapter-navigator">
   <table>

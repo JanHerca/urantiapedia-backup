@@ -76,7 +76,7 @@ Updating translations is a high priority of Urantia Foundation. A revision proce
 <img src="/image/article/UF_News_Online/2011_09/008.jpg">
 </figure>
 
-1. Continue refining the new translation software.
+2. Continue refining the new translation software.
 
 Translation software to support translation projects and translation revision projects has been developed. This software improves the efficiency and accuracy of these projects.
 
@@ -191,8 +191,8 @@ The team at Urantia Foundation deeply appreciates your continued support. Thanks
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-09/noteworthy-goals-and-decisions-july-2011-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-09/noteworthy-goals-and-decisions-july-2011-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

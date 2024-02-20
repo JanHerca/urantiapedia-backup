@@ -76,7 +76,9 @@ For the past five years, Board committees have become increasingly important in 
 
 **Education Committee:** Chair: Gard Jameson; members: Marta Elders, Marilynn Kulieke, Georges MichelsonDupont, Claire Mylanus, and Jane Ploetz.
 
-**Book Committee:** Chair: Mo Siegel; members: Jan Bernard, Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, and Tamara Wood. Committee on the Standard Reference Text: Chair Seppo Kanerva; members: Marvin Gawryn, Merritt Horn, Nancy Johnson, Marilynn Kulieke, and Jay Peregrine.
+**Book Committee:** Chair: Mo Siegel; members: Jan Bernard, Marilynn Kulieke, Georges Michelson-Dupont, Jay Peregrine, and Tamara Wood. 
+
+**Committee on the Standard Reference Text:** Chair Seppo Kanerva; members: Marvin Gawryn, Merritt Horn, Nancy Johnson, Marilynn Kulieke, and Jay Peregrine.
 
 **Fund-raising Committee:** Chair: Jay Peregrine; members: Gard Jameson, Richard Keeler, Marjorie Reed, Betty Zehr, and Ralph Zehr.
 
@@ -113,8 +115,8 @@ Based on the Translation Committee's recommendation, the Board decided not to di
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2008-03/newsworthy-decisions-urantia-foundations-january-2008-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2008-03/newsworthy-decisions-urantia-foundations-january-2008-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

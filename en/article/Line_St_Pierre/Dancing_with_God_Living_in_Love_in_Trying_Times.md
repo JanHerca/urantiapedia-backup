@@ -66,14 +66,14 @@ All of us appreciated the level of trust, respect, and vulnerability in our shar
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2021_04/039.jpg">
-<figcaption><em>Top row: Katharina Becker, Line St-Pierre, Doreen Heyne, Carolyn Prentice Middle row: Charlene Lutes, Karen Larsen, Peggy Brown, Bobbie Dreier Bottom row: Lila Dogim, Angela Lippi, Cecelia Lampley</em></figcaption>
+<figcaption><em>Top row: Katharina Becker, Line St-Pierre, Doreen Heyne, Carolyn Prentice. Middle row: Charlene Lutes, Karen Larsen, Peggy Brown, Bobbie Dreier. Bottom row: Lila Dogim, Angela Lippi, Cecelia Lampley</em></figcaption>
 </figure>
 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2021-04/dancing-god-living-in-love-in-trying
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2021-04/dancing-god-living-in-love-in-trying)
 
 <figure class="table chapter-navigator">
   <table>

@@ -86,7 +86,7 @@ The chart labelled “Number of countries in which this language is spoken” sh
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2017_12/062.jpg">
-<figcaption><em>Population growth by Continent 1750-2100 (Trend)</em></figcaption>
+<figcaption><em>Population growth by Continent 1950-2100 (Trend)</em></figcaption>
 </figure>
 
 The current and future radical population growth in Africa projects language usage in Africa at 2100 as:
@@ -111,8 +111,8 @@ If we were in the year 2100 with the above translations available, 70 percent of
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2017-12/look-future
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2017-12/look-future)
 
 <figure class="table chapter-navigator">
   <table>

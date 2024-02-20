@@ -50,14 +50,14 @@ Please contact Line St-Pierre for more information at line.stpierre@gmail.com.
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2019_12/030.jpg">
-<figcaption><em>Back: Mary Fedus, Teresa Mathias, Jane Ploetz, Carrie Prentice, Melinda Watson<br>Middle: Sue Frogg, Peggy Brown, Katharina Becker, Geri Posner Front: Angela Lippi, Doreen Heyne, Jennifer Martin, Line St-Pierre</em></figcaption>
+<figcaption><em>Back: Mary Fedus, Teresa Mathias, Jane Ploetz, Carrie Prentice, Melinda Watson<br>Middle: Sue Frogg, Peggy Brown, Katharina Becker, Geri Posner<br>Front: Angela Lippi, Doreen Heyne, Jennifer Martin, Line St-Pierre</em></figcaption>
 </figure>
 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2019-12/dancing-god-our-supreme-calling-retreat
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2019-12/dancing-god-our-supreme-calling-retreat)
 
 <figure class="table chapter-navigator">
   <table>

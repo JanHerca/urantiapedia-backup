@@ -1,5 +1,5 @@
 ---
-title: "Printing Of _El Libro De Urantia_ European Edition"
+title: "Printing Of El Libro De Urantia European Edition"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -102,8 +102,8 @@ _Editors Note: Trustee Georges Michelson-Dupont has provided pictures of the pri
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2009-06/printing-el-libro-de-urantia-european-edition
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2009-06/printing-el-libro-de-urantia-european-edition)
 
 <figure class="table chapter-navigator">
   <table>

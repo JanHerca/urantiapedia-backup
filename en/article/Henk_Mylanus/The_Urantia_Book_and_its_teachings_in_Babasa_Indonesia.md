@@ -20,7 +20,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>
@@ -75,8 +75,8 @@ Please consider a donation and send your gift to Urantia Foundation earmarked fo
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-08/urantia-book-and-its-teachings-in-bahasa-indonesia
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-08/urantia-book-and-its-teachings-in-bahasa-indonesia)
 
 <figure class="table chapter-navigator">
   <table>
@@ -89,7 +89,7 @@ Please consider a donation and send your gift to Urantia Foundation earmarked fo
         </td>
         <td>
         <a href="/en/index/articles_uf_news_online#volume-6-issue-3-oct-2012">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Oct. 2012 — Index</span>
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 6, Issue 3, Aug. 2012 — Index</span>
         </a>
         </td>
         <td>

@@ -65,7 +65,7 @@ http://www.urantia.org/news/2013-03/half-price-books-opportunity-urantiabook-dis
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2013_09/040.jpg">
-<figcaption><em>Olga López of Barcelona, Spain, sent word to Irmeli that she found 30 copies of _El Libro de Urantia_ in a FNAC store. She has never seen so many Urantia Books in one store before.</em></figcaption>
+<figcaption><em>Olga López of Barcelona, Spain, sent word to Irmeli that she found 30 copies of El Libro de Urantia in a FNAC store. She has never seen so many Urantia Books in one store before.</em></figcaption>
 </figure>
 
 <figure id="Figure_8" class="image urantiapedia">
@@ -76,8 +76,8 @@ http://www.urantia.org/news/2013-03/half-price-books-opportunity-urantiabook-dis
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2013-09/around-world-urantia-book-ambassador-irmeli-ivalo-sjolie
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2013-09/around-world-urantia-book-ambassador-irmeli-ivalo-sjolie)
 
 <figure class="table chapter-navigator">
   <table>

@@ -76,7 +76,8 @@ The board accepted a restricted gift of $20,000 to create a space in the basemen
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/005.jpg">
-Claire Mylanus</figure>
+<figcaption><em>Claire Mylanus</em></figcaption>
+</figure>
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2016_06/006.jpg">
@@ -93,8 +94,8 @@ The board reviewed current trademark practices and made needed modifications to 
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2016-06/noteworthy-decisions-march-2016-board-trustees-meeting
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2016-06/noteworthy-decisions-march-2016-board-trustees-meeting)
 
 <figure class="table chapter-navigator">
   <table>

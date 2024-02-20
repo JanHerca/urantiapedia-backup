@@ -73,7 +73,7 @@ A revision of a translation of _The Urantia Book_ is a difficult task requiring 
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/UF_News_Online/2011_12/021.jpg">
-<figcaption><em>Caio Mario Caffee, Susana Hüttner Palaia, Carlos Leite da Silva Portuguese speaking peoples</em></figcaption>
+<figcaption><em>Caio Mario Caffee, Susana Hüttner Palaia, Carlos Leite da Silva</em></figcaption>
 </figure>
 
 The revisers will use Urantia Foundation's Translation website. This website has been designed to offer translators and revisers a safe and efficient environment with many beneficial features to produce and revise translations.
@@ -83,8 +83,8 @@ The meeting was very positive and productive. The members of the revision team a
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2011-12/report-kickoff-meeting-revision-portuguese-translation
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2011-12/report-kickoff-meeting-revision-portuguese-translation)
 
 <figure class="table chapter-navigator">
   <table>

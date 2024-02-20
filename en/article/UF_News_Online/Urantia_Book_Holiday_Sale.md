@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
 
-<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2014 Urantia Foundation</p>
+<p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2012 Urantia Foundation</p>
 <figure class="table chapter-navigator">
   <table>
     <tbody>
@@ -61,8 +61,8 @@ This special offer ends December 31, 2012
 
 ## References
 
-- Urantia Foundation's News Online: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
-- This article: https://www.urantia.org/news/2012-11/urantia-book-holiday-sale-give-gift-keeps-giving
+- [Urantia Foundation's News Online](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
+- [This article](https://www.urantia.org/news/2012-11/urantia-book-holiday-sale-give-gift-keeps-giving)
 
 <figure class="table chapter-navigator">
   <table>
