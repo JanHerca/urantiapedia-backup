@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-6-issue-2-june-2012">
+        <a href="/es/index/articles_uf_news_online#volumen-6-número-2-junio-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 2, Junio 2012 — Índice</span>
         </a>
         </td>
@@ -74,7 +74,7 @@ Cuanto más leo, más me doy cuenta de que este libro enseña sobre el amor del 
 ## Referencias
 
 - [Noticias en Línea de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
-- [Este artículo](https://www.urantia.org/es/news/2012-06/lo-que-el-libro-de-urantia-significa-para-mi-de-graciela-cristina-benedetti)
+- [Este artículo](https://www.urantia.org/es/news/2012-06/lo-que-el-libro-de-urantia-significa-para-mi-de-graciela-cristina-benedetti) y [este artículo](https://www.urantia.org/es/news/2012-06/la-perfeccion-del-libro)
 
 <figure class="table chapter-navigator">
   <table>
@@ -86,7 +86,7 @@ Cuanto más leo, más me doy cuenta de que este libro enseña sobre el amor del 
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-6-issue-2-june-2012">
+        <a href="/es/index/articles_uf_news_online#volumen-6-número-2-junio-2012">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 6, Número 2, Junio 2012 — Índice</span>
         </a>
         </td>

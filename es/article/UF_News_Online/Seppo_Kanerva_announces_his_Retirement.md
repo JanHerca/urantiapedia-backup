@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-2-issue-3-sept-2008">
+        <a href="/es/index/articles_uf_news_online#volumen-2-número-3-sept-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 3, Sept. 2008 — Índice</span>
         </a>
         </td>
@@ -46,7 +46,7 @@ Estas fueron sus palabras de renuncia: «Siento que he dado todo lo que podía d
 
 La junta aprecia enormemente el trabajo que Seppo ha hecho como fideicomisario. Todos los que han trabajado con él tienen el recuerdo de un hombre leal, brillante, humilde, trabajador incansable y amable. Su liderazgo equilibrado ha ayudado enormemente a la Fundación Urantia en su tarea de promover las enseñanzas del _Libro de Urantia_ en todo el mundo, y de mejorar las relaciones dentro de la comunidad del _Libro de Urantia_.
 
-<figure id="Figure_1" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/UF_News_Online/2008_09/001.jpg">
 </figure>
 
@@ -66,7 +66,7 @@ La junta aprecia enormemente el trabajo que Seppo ha hecho como fideicomisario. 
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-2-issue-3-sept-2008">
+        <a href="/es/index/articles_uf_news_online#volumen-2-número-3-sept-2008">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 2, Número 3, Sept. 2008 — Índice</span>
         </a>
         </td>

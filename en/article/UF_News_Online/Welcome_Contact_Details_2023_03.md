@@ -72,9 +72,7 @@ Email: urantia@urantia.org
 
 Editors: Cece Forrester, Marilynn Kulieke, Joanne Strobel, Tamara Strumfeld
 
-Contributors: Judy Van Cleave, Gard Jameson, Erika Webster, Sheila
-
-Schneider, Mirela Gradinariu-Kelpin
+Contributors: Judy Van Cleave, Gard Jameson, Erika Webster, Sheila Schneider, Mirela Gradinariu-Kelpin
 
 Production: Urantia Foundation
 

@@ -3,7 +3,7 @@ title: "El libro de Urantia en Corea"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
-tags: Urantia Foundation, Urantia Foundation News Online, article
+tags: Korea, Urantia Foundation, Urantia Foundation News Online, article
 editor: markdown
 dateCreated: 2023-8-29T10:55:6Z
 ---
@@ -19,7 +19,7 @@ dateCreated: 2023-8-29T10:55:6Z
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-7-issue-3-sept-2013">
+        <a href="/es/index/articles_uf_news_online#volumen-7-número-3-sept-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 3, Sept. 2013 — Índice</span>
         </a>
         </td>
@@ -88,7 +88,7 @@ Después de esa reunión, los traductores hablaron de trabajar de manera colabor
         </a>
         </td>
         <td>
-        <a href="/es/index/articles_uf_news_online#volume-7-issue-3-sept-2013">
+        <a href="/es/index/articles_uf_news_online#volumen-7-número-3-sept-2013">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volumen 7, Número 3, Sept. 2013 — Índice</span>
         </a>
         </td>
