@@ -1,5 +1,5 @@
 ---
-título: "Distribución: El Libro De Urantia"
+title: "Distribución: El Libro De Urantia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -37,7 +37,7 @@ _El Libro de Urantia_ está disponible en México, y cualquiera que quiera/neces
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2007-09/distribution-el-libro-de-urantia)
 
 

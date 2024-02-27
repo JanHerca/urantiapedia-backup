@@ -1,5 +1,5 @@
 ---
-título: "La Fundación imprime una traducción al portugués"
+title: "La Fundación imprime una traducción al portugués"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -51,6 +51,6 @@ Suzana trabaja con Luiz Carlos desde el inicio del proyecto hace más de diez a�
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - Este artículo:
 

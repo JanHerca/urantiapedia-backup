@@ -1,5 +1,5 @@
 ---
-título: "Una breve historia de los propietarios de la sede de la Fundación Urantia"
+title: "Una breve historia de los propietarios de la sede de la Fundación Urantia"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -40,7 +40,7 @@ Un examen de las escrituras, registros y dibujos originales almacenados en una c
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2007-09/short-history-owners-urantia-foundation-s-head-office)
 
 

@@ -1,5 +1,5 @@
 ---
-título: "Neal Waldrop concluye cuatro años de participación activa"
+title: "Neal Waldrop concluye cuatro años de participación activa"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -30,7 +30,7 @@ Neal vive con su esposa, la ex Vanessa Wong, en un suburbio de Maryland en Washi
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en línea» de la Fundación Urantia](https://www.urantia.org/urantia-foundation/newsletter-pdf-archives)
 - [Este artículo](https://www.urantia.org/news/2007-12/neal-waldrop-concludes-four-years-active-participation)
 
 

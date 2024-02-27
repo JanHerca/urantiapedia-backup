@@ -1,5 +1,5 @@
 ---
-título: "La Fundación Urantia lanza una campaña de recaudación de fondos de contrapartida en diciembre de 2007"
+title: "La Fundación Urantia lanza una campaña de recaudación de fondos de contrapartida en diciembre de 2007"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -48,7 +48,7 @@ Póngase en contacto con la Fundación Urantia para obtener más información so
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2007-12/urantia-foundation-launches-matching-fundraising-campaign-in-december-2007)
 
 

@@ -1,5 +1,5 @@
 ---
-título: "Bienvenida e información de contacto"
+title: "Bienvenida e información de contacto"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -61,6 +61,6 @@ En la web www.urantia.org
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 
 

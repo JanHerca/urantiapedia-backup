@@ -1,5 +1,5 @@
 ---
-título: "Se busca ayuda"
+title: "Se busca ayuda"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -26,7 +26,7 @@ Apreciamos profundamente y necesitamos su ayuda. Tus palabras inspirarán a otro
 
 ## Referencias
 
-- Noticias en línea de la Fundación Urantia: https://www.urantia.org/urantia-foundation/newsletter-pdf-archives
+- [«Noticias en Línea» de la Fundación Urantia](https://www.urantia.org/es/fundacion-urantia/archivos-de-boletin)
 - [Este artículo](https://www.urantia.org/news/2007-09/help-wanted)
 
 
