@@ -1,6 +1,6 @@
 ---
 title: "Le contenu scientifique et historique du Livre d'Urantia"
-description : « Fait, ou fait ponctué de symbolisme, de mythologie et d'allégorie ?
+description: "Fait, ou fait ponctué de symbolisme, de mythologie et d'allégorie ?"
 published: true
 date: 2023-01-21T14:02:03.086Z
 tags: The Urantia Book, Innerface International, article
