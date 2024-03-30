@@ -1,5 +1,5 @@
 ---
-title: El monte Hermón. Pero, ¿dónde estuvo Jesús?
+title: "El monte Hermón. Pero, ¿dónde estuvo Jesús?"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -14,11 +14,11 @@ Con tantos detalles como ofrece _El Libro de Urantia_ sobre el lugar donde perma
 
 En <a id="a14_3"></a>[LU 134:8](/es/The_Urantia_Book/134#p8) («Los años de transición»), se nos dice que Jesús y Tiglat construyeron un depósito de piedra en un lugar situado a 2000 metros de altitud. También se nos comenta que para ascender hasta allí pasaron por una aldea conocida entonces como Beit Jenn.[^1] [^2]
 
-No me costó mucho encontrar Beit Jenn en un mapa. En una carta general del Líbano a escala 1:200.000 del Instituto Geográfico Nacional[^3] francés aparecía clarísima la aldea, que todavía hoy existe y se llama Beït Jinn. Además, cerca de la aldea se alza una cumbre de 2224 metros (pero no es la cumbre más alta, que se alza hasta los 2814 metros). Era fácil suponer que la ascensión de Jesús a la que se refiere _El Libro de Urantia_ es esta «pequeña» cumbre. Consultando otros datos, averigüé que en total, desde Beit Jenn, que está situado a 1100 metros, fueron unos 900 metros de ascensión hasta el lugar en el que construyeron el depósito de alimentos.
+No me costó mucho encontrar Beit Jenn en un mapa. En una carta general del Líbano a escala 1:200.000 del Instituto Geográfico Nacional francés[^3] aparecía clarísima la aldea, que todavía hoy existe y se llama Beït Jinn. Además, cerca de la aldea se alza una cumbre de 2224 metros (pero no es la cumbre más alta, que se alza hasta los 2814 metros). Era fácil suponer que la ascensión de Jesús a la que se refiere _El Libro de Urantia_ es esta «pequeña» cumbre. Consultando otros datos averigüé que en total, desde Beit Jenn, que está situado a 1100 metros, fueron unos 900 metros de ascensión hasta el lugar en el que construyeron el depósito de alimentos.
 
 <figure id="Hermon_figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/libano-eng-m06.jpg">
-<figcaption><em>El recuadro rojo marca Beit Jenn, la línea roja la posible ruta de Jesús y Tiglat y el círculo rojo el posible lugar del depósito. Carta general del Líbano, IGN francés.</em></figcaption>
+<figcaption><em>El recuadro rojo marca Beit Jenn; la línea roja la posible ruta de Jesús y Tiglat; y el círculo rojo el posible lugar del depósito. Carta general del Líbano, IGN francés.</em></figcaption>
 </figure>
 
 También se puede apreciar en el mapa que desde esta cumbre de 2224 metros descendían hasta Beit Jenn dos torrentes, uno de ellos siguiendo una pendiente más suave, que fue por la que probablemente ascendió Jesús.
@@ -29,7 +29,7 @@ El punto exacto quedaba de este modo un poco más claro. Pero, ¿cómo era en aq
 
 <figure id="Hermon_figure_2" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/Mount_Hermon_But_where_was_Jesus/800px-Hermonsnow.jpg">
-<figcaption><em>Monte Hermón visto del monte Bental</em>, <a href="http://en.wikipedia.org/wiki/File:Hermonsnow.jpg" target="_blank">Wikipedia</a></figcaption>
+<figcaption><em>Monte Hermón visto desde el monte Bental</em>, <a href="http://en.wikipedia.org/wiki/File:Hermonsnow.jpg" target="_blank">Wikipedia</a></figcaption>
 </figure>
 
 El Hermón es en realidad una extensa cordillera conocida como Jabal Ech Cheikh con varias cumbres permanentemente nevadas y que cuenta hoy en día con una estación de esquí. Debido a la tala intensiva, los frondosos bosques de cedros han quedado desolados, dejando sólo pequeñas zonas de este fantástico árbol.[^4] Por eso, las fotografías que unas viajeras nos han brindado sólo muestran laderas descarnadas y solitarias.[^5]
@@ -50,29 +50,29 @@ Me pareció una buena idea hacer en mi novela[^7] que Jesús tuviera un gesto de
 
 En mi novela[^7], Jesús le cuenta a Tiglat leyendas acerca del monte Hermón. Este monte siempre estuvo asociado en la literatura judía con historias mitológicas. En el _Libro de Enoc_, un apócrifo de la época de Jesús, podemos leer:
 
-> Entonces juraron todos de consuno y se comprometieron a ello bajo anatema. Eran doscientos los que bajaron a Ardis, que es la cima del monte Hermón, al que llamaron así porque en él juraron y se comprometieron bajo anatema. Estos eran los nombres de sus jefes: Semyaza, que era su jefe supremo; Urakiva, Rameel, Kokabiel, Tamiel, Ramiel, Daniel, Ezequiel, Baraquiel, Asael, Armaros, Batriel, Ananel, Zaquiel, Samsiel, Sartael, Turiel, Yomiel y Araziel: éstos eran sus decuriones. [1 Enoc 6:5-8](/es/Bible/Enoch/6#v5) [^8]
+> Entonces juraron todos juntos y se comprometieron con anatema. Y eran en total doscientos; quienes descendieron en los días de Jared a la cumbre del Monte Hermón, y lo llamaron Monte Hermón, porque habían jurado y se habían obligado mediante mutuas imprecaciones sobre él. Y estos eran los nombres de sus líderes: Semiazaz, su líder, Arakiba, Rameel, Kokabiel, Tamiel, Ramiel, Danel, Ezeqeel, Baraqijal, Asael, Armaros, Batarel, Ananel, Zaqiel, Samsapeel, Satarel, Turel, Jomjael, Sariel. Estos eran sus decuriones [1 Enoc 6:5-8](/es/Bible/Book_of_Enoch/6#v5) [^8]
 
-Es curioso pero este libro narra que seres venidos del cielo, a los que el _Libro de Enoc_ llama «los Vigilantes», desciendieron al monte Hermón, donde planearon su modo de actuación hacia los hombres. Una historia de contenido muy parecido con lo que le ocurre a Jesús en la montaña. ¿Quizás eligió Jesús el monte Hermón por esta significación, o era un lugar retirado como otro cualquiera?
+Es curioso pero este libro narra que seres venidos del cielo, a los que el _Libro de Enoc_ llama «los Vigilantes», descendieron al monte Hermón, donde planearon su modo de actuación hacia los hombres. Una historia de contenido muy parecido con lo que le ocurre a Jesús en la montaña. ¿Quizás eligió Jesús el monte Hermón por esta significación, o era un lugar retirado como otro cualquiera?
 
 ## Enlaces externos
 
-* Artículo original: https://buscandoajesus.wordpress.com/articulos/el-monte-hermon-pero-donde-estuvo-jesus/
+* [Artículo original](https://buscandoajesus.wordpress.com/articulos/el-monte-hermon-pero-donde-estuvo-jesus/)
 
 ## Referencias y Notas
 
-[^1]: Visualizar Beit Jenn en Google Earth: introduzca «Bayt Jinn, Syria» en la casilla de búsqueda.
+[^1]: [Visualizar Beit Jinn en Google Earth](https://earth.google.com/web/search/Beit+Jinn/@33.30893515,35.90933815,1095.75467981a,7526.62686461d,35y,-27.90186367h,40.84939154t,0r/data=CnMaSRJDCiQweDE1MTkzNGIxYTZkMDY0NGI6MHg5YWNiYWE2MDM2ZjVhNmMZuHx_3q-nQEAhxm9l5If1QUAqCUJlaXQgSmlubhgBIAEiJgokCco_acyKtkBAERHW-hz1pUBAGRLnDt6BAUJAIXy469GY6kFAOgMKATA): resultado de introducir «Beit Jinn, Syria» en la casilla de búsqueda.
 
-[^2]: http://www.fallingrain.com/world/SY/8/Bayt_Jinn.html, información de localización de Beit Jenn.
+[^2]: [Información de localización de Beit Jenn.](http://www.fallingrain.com/world/SY/8/Bayt_Jinn.html)
 
 [^3]: Institut Geographique National du France, _Liban. Carte Générale au 1:200.000_.
 
-[^4]: http://www.imagenesdeisrael.com/Imagen-988.html, imágenes de una montaña que ha cambiado mucho en la actualidad.
+[^4]: [Imágenes de una montaña](http://www.imagenesdeisrael.com/Imagen-988.html) que ha cambiado mucho en la actualidad.
 
-[^5]: http://www.squarecircles.com/articles/joysastrip/joysastoryD2.htm, el interesante viaje de dos entusiastas lectoras de _El Libro de Urantia_.
+[^5]: [El interesante viaje de dos entusiastas lectoras](http://www.squarecircles.com/articles/joysastrip/joysastoryD2.htm) de _El Libro de Urantia_.
 
 [^6]: J.J. Benítez, _Caballo de Troya 6_, Editorial Planeta, 1999.
 
 [^7]: Este libro es la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.
 
-[^8]: A. Diez Macho, Federico Corriente, Antonio Piñero, _Apocrifos del Antiguo Testamento_, _Libro 1 de Enoc o Enoc etiópico_ 6:5-8, Ediciones Cristiandad, 1984. Existen fragmentos de este versículo en el manuscrito 4QEna y 4QEnb de Qumran.
+[^8]: _Libro 1 de Enoc o Enoc etiópico_ 6:5-8, _Traducido de «Los apócrifos y pseudoepígrafos del Antiguo Testamento», por R.H. Charles [1913]_ Existen fragmentos de este versículo en el manuscrito 4QEna y 4QEnb de Qumran.
 
