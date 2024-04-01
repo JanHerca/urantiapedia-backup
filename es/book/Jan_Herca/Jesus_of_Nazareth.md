@@ -124,7 +124,8 @@ dateCreated: 2024-03-28T14:02:03.086Z
 							<text style="font-size:9px" x="61" y="60">Jesús de Nazaret</text>
 							<text style="font-size:9px" x="61" y="70">Volumen 4</text>
 							<text style="font-size:7px" x="61" y="90">VII. En Roma</text>
-							<text style="font-size:7px" x="61" y="100">VIII. De Roma a Mesopotamia</text>
+							<text style="font-size:7px" x="61" y="100">VIII. De Roma a</text>
+							<text style="font-size:7px" x="61" y="110">Mesopotamia</text>
 						</g>
 					</svg>
 				</div>
@@ -235,8 +236,9 @@ dateCreated: 2024-03-28T14:02:03.086Z
 							<text style="font-size:5px" x="61" y="22">Jan Herca</text>
 							<text style="font-size:9px" x="61" y="60">Jesús de Nazaret</text>
 							<text style="font-size:9px" x="61" y="70">Volumen 8</text>
-							<text style="font-size:7px" x="61" y="90">XV. En la tierra de los gentiles</text>
-							<text style="font-size:7px" x="61" y="100">XVI. En Galilea</text>
+							<text style="font-size:7px" x="61" y="90">XV. En la tierra de</text>
+							<text style="font-size:7px" x="61" y="100">los gentiles</text>
+							<text style="font-size:7px" x="61" y="110">XVI. En Galilea</text>
 						</g>
 					</svg>
 				</div>
