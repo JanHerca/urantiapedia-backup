@@ -67,7 +67,7 @@ Of course, we are free to make a mess of this interior design. But remember, the
 
 Recently we have been exploring the idea that humanity needs an epic backdrop, a description of reality that is consistent, describable, sharable and arousing. In past epochs, cultures spun myths to act as their universe.
 
-> _When the spiritual tests of greatness are applied, the moral elements are not disregarded, but the quality of unselfishness revealed in disinterested labour for the welfare of one’s earthly fellows, particularly worthy beings in need and in distress, that is the real measure of planetary greatness…_<a id="a69_303"></a>[[UB 28:6.2](/en/The_Urantia_Book/28#p6_2)]
+> _When the spiritual tests of greatness are applied, the moral elements are not disregarded, but the quality of unselfishness revealed in disinterested labour for the welfare of one’s earthly fellows, particularly worthy beings in need and in distress, that is the real measure of planetary greatness…_<a id="a69_303"></a>[[UB 28:6.20](/en/The_Urantia_Book/28#p6_20)]
 
 > _Revelation is a technique whereby ages upon ages of time are saved in the necessary work of sorting and sifting the errors of evolution from…_ <a id="a71_146"></a>[[UB 101:5.1](/en/The_Urantia_Book/101#p5_1)]
 
@@ -99,7 +99,7 @@ Future generations will live within some paradigm. As readers dedicated to the F
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/12/16/inner-world-of-mankind
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/12/16/inner-world-of-mankind)
 
 <figure class="table chapter-navigator">
   <table>

@@ -44,7 +44,7 @@ By Neil Francey, Queensland
 
 _(Presented at Urantia Association’s International Conference in Dourdan, France, July 2002)_
 
-> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ <a id="a46_488"></a>[[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
+> _With your spiritual eyes anointed, you would see the heavens open and behold the angels of God ascending and descending.  And many of us, while functioning in the government of the Father and the universes of the Sons, are assigned to the service of the human races.  We have ministered on Urantia since the earliest times of human intelligence. We inform heaven about this remote part of the universe.  We are the angels of heaven. In the words of Jesus, we are ministering spirits._ <a id="a46_488"></a>[[UB 167:7.4](/en/The_Urantia_Book/167#p7_4)]
 
 In recent days we have learnt of the brilliant plans of the Father and of the Son. Now we shall see the correlation of these plans with the plan of the Infinite Spirit.
 
@@ -67,11 +67,11 @@ Initially, God the Father created the Infinite Spirit in order to be free from t
 
 …act as living mirrors to the Ancients of Days who are positioned midway between the inhabited worlds and Paradise—between man and God. Thus, the Ancient of Days
 
-> …_can instantly look both ways, hear both ways, and_ know _both ways_. <a id="a69_73"></a>[[UB 28:4.2](/en/The_Urantia_Book/28#p4_2)]
+> …_can instantly look both ways, hear both ways, and_ know _both ways_. <a id="a69_73"></a>[[UB 28:4.1](/en/The_Urantia_Book/28#p4_1)]
 
 The seconaphim interpret the mind of the Infinite Spirit to the Ancients of Days. They are the personal representatives of the Third Source and Center. They can also reflect the minds of the Creator Sons. For example, if the Ancients of Days want to know Michael’s attitude about a certain matter,
 
-> …_they need only call for the Chief of Nebadon Voices, who, upon request, will present the Michael seconaphim of record; and right then and there the Ancients of Days will perceive the voice of the Master Son of Nebadon_. <a id="a73_224"></a>[[UB 28:4.2](/en/The_Urantia_Book/28#p4_2)]
+> …_they need only call for the Chief of Nebadon Voices, who, upon request, will present the Michael seconaphim of record; and right then and there the Ancients of Days will perceive the voice of the Master Son of Nebadon_. <a id="a73_224"></a>[[UB 28:4.6](/en/The_Urantia_Book/28#p4_6)]
 
 The Father’s will for the administrative affairs of Urantia is thereby perfectly known.
 
@@ -87,7 +87,7 @@ The Father’s will for the administrative affairs of Urantia is thereby perfect
 
 ## Tertiary Seconaphim
 
-> _…are everlasting guideposts … at the crossroads of time, there to guide the feet of anxious pilgrims in moments of great perplexity and spiritual uncertainty._ <a id="a89_163"></a>[[UB 28:7.4](/en/The_Urantia_Book/28#p7_4)]
+> _…are everlasting guideposts … at the crossroads of time, there to guide the feet of anxious pilgrims in moments of great perplexity and spiritual uncertainty._ <a id="a89_163"></a>[[UB 28:7.3](/en/The_Urantia_Book/28#p7_3)]
 
 We are certainly blessed. The ministrations of these spirits comfort us in our long journey inwards through space. 
 
@@ -135,7 +135,7 @@ _(We need to work together)_
 
 ## Guardian Angels
 
-Guardian angels are seraphim devoted to the ministry to individual mortals. They are only assigned as guardian seraphim when appointed to a human soul who has realized one or more of three achievements:
+Guardian angels are seraphim devoted to the ministry to individual mortals. They are only assigned as guardian seraphim when appointed to a human soul who has realized one or more of three achievements:
 
 - ‘has made a supreme decision to become Godlike,
 - has entered the third circle, or
@@ -232,7 +232,7 @@ Thank you.
 
 ## References
 
-- Article of the newsletter online: https://anzura.urantia-association.org/2019/05/02/living-ascension-plan-terrestrial-human-experience
+- [Article of the newsletter online](https://anzura.urantia-association.org/2019/05/02/living-ascension-plan-terrestrial-human-experience)
 
 <figure class="table chapter-navigator">
   <table>
