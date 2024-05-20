@@ -11,7 +11,7 @@ dateCreated: 2023-9-16T10:55:6Z
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2019 Moustapha N’diaye<br>© 2019 Asociación Internacional Urantia (IUA)</p>
 
 
-> _Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús._ [[Filipenses 4:7](/en/Bible/Philippians/4#v7)]
+> _Y la paz de Dios, que sobrepasa todo entendimiento, guardará vuestros corazones y vuestros pensamientos en Cristo Jesús._ [[Filipenses 4:7](/es/Bible/Philippians/4#v7)]
 
 > _Oh, concede a tu pueblo Israel una gran paz perpetua, pues tú eres el Rey y el Señor de toda paz… Bendito seas, Yahvé, que bendices con la paz a tu pueblo Israel._ <a id="a35_169"></a>[[LU 150:8.7](/es/The_Urantia_Book/150#p8_7)]
 
@@ -43,7 +43,7 @@ En pocas palabras, opino que los hombres y mujeres que no están en paz consigo 
 <img src="/image/article/IUA_Journal/Peace-dove.jpg">
 </figure>
 
-Si bien la paz es tanto el estado natural como la característica definitoria del Espíritu, solo a través de la revelación (autorevelación o revelación de época) y de la experiencia espiritual personal  llegamos a comprender su propósito y alcance.
+Si bien la paz es tanto el estado natural como la característica definitoria del Espíritu, solo a través de la revelación (autorevelación o revelación de época) y de la experiencia espiritual personal  llegamos a comprender su propósito y alcance.
 
 La paz en su forma externa y social es un proceso dinámico que está marcado por las influencias de los Hijos divinos, ya que se integra en la dinámica de las religiones evolutivas. Del mismo modo que los hombres y las mujeres estresados buscan el consejo de los que parecen estar más en paz, el plan de Dios proporciona una tutoría experimentada que nos ayuda a afrontar los desafíos que surgen cuando nos alejamos de la seguridad divina que solo la paz viva y dinámica puede conferir.
 
@@ -119,15 +119,15 @@ El salmo 46 es un versículo popular que nunca falla en traer consuelo a estos t
 <img src="/image/article/IUA_Journal/Psalms-267x400.jpg">
 </figure>
 
-> _Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones._  
-> _Por tanto, no temeremos, aunque la tierra sea removida, y se traspasen los montes al corazón del mar;_  
-> _Aunque bramen y se turben sus aguas, Y tiemblen los montes a causa de su braveza. Selah._  
-> _Del río sus corrientes alegran la ciudad de Dios, el santuario de las moradas del Altísimo._  
-> _Dios está en medio de ella; no será conmovida. Dios la ayudará al clarear la mañana._  
-> _Bramaron las naciones, titubearon los reinos; Dio él su voz, se derritió la tierra._  
-> _JEHOVÁ de los ejércitos está con nosotros; nuestro refugio es el Dios de Jacob. Selah._  
-> _Venid, ved las obras de JEHOVÁ, que ha puesto asolamientos en la tierra._  
-> _Que hace cesar las guerras hasta los fines de la tierra. Que quiebra el arco, corta la lanza, y quema los carros en el fuego.  
+> _Dios es nuestro amparo y fortaleza, nuestro pronto auxilio en las tribulaciones._
+> _Por tanto, no temeremos, aunque la tierra sea removida, y se traspasen los montes al corazón del mar;_
+> _Aunque bramen y se turben sus aguas, Y tiemblen los montes a causa de su braveza. Selah._
+> _Del río sus corrientes alegran la ciudad de Dios, el santuario de las moradas del Altísimo._
+> _Dios está en medio de ella; no será conmovida. Dios la ayudará al clarear la mañana._
+> _Bramaron las naciones, titubearon los reinos; Dio él su voz, se derritió la tierra._
+> _JEHOVÁ de los ejércitos está con nosotros; nuestro refugio es el Dios de Jacob. Selah._
+> _Venid, ved las obras de JEHOVÁ, que ha puesto asolamientos en la tierra._
+> _Que hace cesar las guerras hasta los fines de la tierra. Que quiebra el arco, corta la lanza, y quema los carros en el fuego.
 > **Estad quietos, y conoced que yo soy Dios**; seré exaltado entre las naciones; enaltecido seré en la tierra._
 
 La expresión «_**Estad quietos y conoced que yo soy Dios**_» está resaltada porque es uno de los versículos de la Biblia más conocidos y queridos. Este versículo es en realidad más una llamada de atención para estar asombrado que una suave llamada para descansar. Comprender su mensaje nos permite acercarnos y comprender las obras inspiradas en Asia que se analizan más adelante en este ensayo.
