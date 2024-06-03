@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1983 Jeff Wattles<br>© 1983 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Ninteman/Persons_are_gifts">
+          <span class="pr-2">Las personas son regalos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La oración es la forma más importante de descubrir la voluntad de Dios; pero encontrar la voluntad del Padre no es sólo cuestión de escucha, de apertura interior. ¿Qué más está involucrado? buscar la voluntad de Dios cae bajo las «leyes de las peticiones prevalecientes» establecidas en _El Libro de URANTIA_. La segunda de estas condiciones afirma: «_Tenéis que haber agotado honradamente todas las capacidades humanas de adaptación. Tenéis que haber sido laboriosos._» ([LU 91:9.3](/es/The_Urantia_Book/91#p9_3))
@@ -19,7 +43,7 @@ Entonces, una fase esencial de un proceso de oración responsable es el uso de l
 
 ## Cómo razonó Jesús
 
-Cuando Miguel de Nebadón fue a vivir en Josué ben José, recibió este consejo de Emanuel: «_Para todos los demás detalles de tu próxima donación, quisiéramos confiarte a la dirección de tu Ajustador interior, a las enseñanzas del espíritu divino siempre presente que guía a los hombres, y al juicio razonable de tu mente humana de origen hereditario y en expansión._» ([LU 120:3.9](/es/The_Urantia_Book/120#p3_9)) ¿Cómo usó Jesús el juicio-razón?
+Cuando Miguel de Nebadón fue a vivir como Josué ben José, recibió este consejo de Emanuel: «_Para todos los demás detalles de tu próxima donación, quisiéramos confiarte a la dirección de tu Ajustador interior, a las enseñanzas del espíritu divino siempre presente que guía a los hombres, y al juicio razonable de tu mente humana de origen hereditario y en expansión._» ([LU 120:3.9](/es/The_Urantia_Book/120#p3_9)) ¿Cómo usó Jesús el juicio-razón?
 
 1. Cuando Jesús tenía siete años, uno de sus maestros le propuso dejar su casa de Nazaret para estudiar en Jerusalén. La decisión fue controvertida; Jesús habló con su madre, que estaba algo a favor de la idea, y con su padre, que dudaba; Luego habló con un vecino de confianza. Aún así la respuesta no estaba clara, entonces Jesús fue al Padre en el cielo. Y aunque la percepción de Jesús sobre la guía espiritual no era segura, expresó su conclusión con un razonamiento: «_...Ellos que me quieren tanto, serán capaces de hacer más por mí y de guiarme con más seguridad que unos extraños que sólo pueden ver mi cuerpo y observar mi mente, pero que difícilmente pueden conocerme de verdad._» ([LU 123:6.9](/es/The_Urantia_Book/123#p6_9)) Este razonamiento refleja percepciones claras de (1) el objetivo que se busca, (2) la ventaja crucial de la alternativa preferida, y (3) la debilidad fundamental de la alternativa rechazada.
 	Se podía llegar a una conclusión diferente: un muchacho destinado a ser un gran maestro podría beneficiarse de una educación en el centro del aprendizaje religioso. Jesús requirió un agudo sentido de medición para discernir qué hechos y valores eran los más importantes en esta situación. Se necesita sabiduría para seleccionar qué ideas utilizar como premisas principales cuando sacamos deducciones en el razonamiento práctico.
@@ -59,3 +83,28 @@ Disfrutemos todos del ejercicio pleno y armonioso de nuestras facultades mientra
 — _Jeffrey Wattles_
 _Concordia, California_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1983_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1983</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1983">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1983 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/George_Ninteman/Persons_are_gifts">
+          <span class="pr-2">Las personas son regalos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

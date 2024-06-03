@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Martin W. Myers, Henry Begemann<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">La Hermandad Urantia: las posibilidades de un servicio planetario significativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Hermandad Urantia: las posibilidades de un servicio planetario significativo
@@ -30,7 +51,7 @@ _Chicago, Illinois_
 
 ## Romanticismo y realidad
 
-_La siguiente charla fue dada en el cumpleaños de Jesús. 21 de agosto de 1979, en una reunión de estudiantes de _El Libro de URANTIA_ en la casa del autor en los Países Bajos. Su tema es apropiado para nuestra celebración histórica de este evento trascendental en esta época del año.
+_La siguiente charla fue dada en el cumpleaños de Jesús. 21 de agosto de 1979, en una reunión de estudiantes de El Libro de URANTIA en la casa del autor en los Países Bajos. Su tema es apropiado para nuestra celebración histórica de este evento trascendental en esta época del año._
 
 La Navidad nos es querida a todos porque no somos insensibles a su atmósfera romántica. Pero el romanticismo a menudo está en desacuerdo con la realidad, aunque la realidad ya es bastante maravillosa. Mucha gente ni siquiera puede aceptar la realidad de la Navidad debido a sus aspectos milagrosos, el nacimiento de un Dios-hombre en nuestro planeta. Pero incluso si se acepta este hecho, el romanticismo puede cubrirlo con un velo tejido por los poderes imaginativos de las emociones humanas. El romanticismo puede conducir fácilmente a un escape de la realidad.
 
@@ -65,6 +86,28 @@ Gracias.
 > «_La prueba decisiva para cualquier filosofía religiosa consiste en saber si distingue o no entre las realidades del mundo material y las del mundo espiritual, reconociendo al mismo tiempo su unificación en el esfuerzo intelectual y el servicio social._» ([LU 101:7.5](/es/The_Urantia_Book/101#p7_5))
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">La Hermandad Urantia: las posibilidades de un servicio planetario significativo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

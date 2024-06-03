@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Eugene Frazier, Charles Laurence Olivea, India Margaret Sperry, Linda Buselli<br>© 1979 The Urantia Book Fellowship (anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eugene_Frazier/Ganid_Of_India">
+          <span class="pr-2">Ganid de la India</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Ganid de la India
@@ -47,7 +68,7 @@ Si los comparamos con los miembros del personal corpóreo del príncipe y sus ci
 
 — _Anónimo_
 
-## norana
+## Norana
 
 El episodio de Norana es una joya de historia y podría compararse con una obra dramática de un acto. Norana y Jesús son las estrellas y los demás son jugadores secundarios.
 
@@ -68,7 +89,7 @@ Quizás porque los entendía tan bien, Andrew era un experto juez de hombres. En
 
 [Leer más](/es/article/Linda_Buselli/The_Apostle_Andrew)
 
-- _Linda Buselli_
+— _Linda Buselli_
 _Pittsburgh. Pensilvania_
 
 ## En el futuro
@@ -81,3 +102,25 @@ _Pittsburgh. Pensilvania_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Eugene_Frazier/Ganid_Of_India">
+          <span class="pr-2">Ganid de la India</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

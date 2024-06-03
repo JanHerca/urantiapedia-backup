@@ -8,7 +8,28 @@ editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
-<p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1979 Jim McNelly, Paul Knott, Bob Bruyn, Robert Walker, Ethel Zanoni, C. L. Van Sant<br>© 1979 The Beca del Libro de Urantia (anteriormente Hermandad Urantia)</p>
+<p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Jim McNelly, Paul Knott, Bob Bruyn, Robert Walker, Ethel Zanoni, C. L. Van Sant<br>© 1979 The Beca del Libro de Urantia (anteriormente Hermandad Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="pr-2">La Revelación del Hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## La Revelación del Hombre
@@ -62,7 +83,7 @@ Gloriosa y siempre presente es la luz de mi Padre celestial, Dios. La luz está 
 —_Ethel Zanoni_
 _Palo Alto, California_
 
-## Culto
+## Adoración
 
 > «_La experiencia de la adoración consiste en el intento sublime del Ajustador prometido por comunicar al Padre divino los anhelos inexpresables y las aspiraciones indecibles del alma humana ..._» ([LU 5:3.8](/es/The_Urantia_Book/5#p3_8))
 
@@ -79,3 +100,25 @@ _Bartlesville, Oklahoma_
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jim_McNelly/The_Revelation_of_Man">
+          <span class="pr-2">La Revelación del Hombre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

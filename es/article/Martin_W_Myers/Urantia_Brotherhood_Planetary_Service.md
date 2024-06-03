@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Martin W. Myers<br>© 1979 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Romanticism_And_Reality">
+          <span class="pr-2">Romanticismo y realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La siguiente charla se pronunció en agosto de 1979. En opinión de los editores, es una expresión clara y reflexiva de algunos de los desafíos, oportunidades y responsabilidades que acompañan al Libro de URANTIA y su misión a nuestro planeta.
@@ -63,7 +87,7 @@ Podemos ayudar a permanecer como algo único, algo diferente de una nueva iglesi
 
 La Hermandad URANTIA es única, pero esto no quiere decir que no habrá otras organizaciones cuyos objetivos y propósitos sean consistentes con los de la Hermandad URANTIA. A ellos debemos tenderles la mano de la amistad en la medida en que quieran trabajar en la viña del Padre. De esta manera la Hermandad URANTIA cumplirá su función de coordinadora planetaria y evitará convertirse en una religión separada.
 
-La Hermandad URANTIA no debe dominar; es coordinar.
+La Hermandad URANTIA no está para dominar; está para coordinar.
 
 Ahora que hemos considerado el pasado inmediato y esos acontecimientos y la filosofía que sugirieron y guiaron la formación de la Hermandad Urantia, miremos hacia el pasado más profundo mientras preparamos nuestra «sabiduría previsión» en cuanto al futuro de la Hermandad Urantia.
 
@@ -134,3 +158,28 @@ La paz sea con vosotros y que el progreso sea nuestra meta eterna.
 _Martin W. Myers_
 _Chicago, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1979_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de otoño de 1979</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-otoño-de-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de otoño de 1979 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Henry_Begemann/Romanticism_And_Reality">
+          <span class="pr-2">Romanticismo y realidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

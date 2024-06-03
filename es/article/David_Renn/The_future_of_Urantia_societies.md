@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 David Renn<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Self_realization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autorrealización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Al intentar comprender mejor el futuro de las Sociedades URANTIA, creo que es una buena idea volver a los orígenes de los grupos religiosos y examinar algunas de sus primeras funciones.
@@ -23,7 +44,7 @@ La vanidad, asociada con el orgullo, la ambición y el honor, siempre ha sido un
 
 Aprendemos que en la progresión gradual de las ideas religiosas de la humanidad, «_las palabras se volvieron finalmente fetiches, en particular aquellas que se consideraban como las palabras de Dios; los libros sagrados de muchas religiones se han convertido de esta manera en prisiones fetichistas que encarcelan la imaginación espiritual de los hombres._» ([LU 88:2.6](/es/The_Urantia_Book/88#p2_6)) Es evidente que todavía tenemos que consolidar los logros obtenidos con tanto esfuerzo por nuestros antepasados y que las semillas de La regresión está siempre presente.
 
-### Promocionar el estudio
+## Promocionar el estudio
 
 URANTIA Las sociedades del futuro deben promover diligentemente el estudio del libro. La exposición continua a la verdad genuina y la sabiduría duradera ayudará a salvaguardar los propósitos idealistas para los cuales se fundan las sociedades.
 
@@ -35,7 +56,7 @@ Las sociedades URANTIA tienen la oportunidad de proporcionar el núcleo del cult
 
 Debemos ser conscientes constantemente de las tendencias inconscientes y no planificadas en nuestras actitudes y actividades colectivas. Las cosas que nunca nos detenemos a examinar porque parecen inofensivas o porque siempre han sido así son las cosas que tomarán forma por sí mismas, vienen cristalizados y nos llevan al estancamiento. «_La religión oficial frena a los hombres en sus actividades espirituales personales, en lugar de liberarlos para un servicio más elevado como constructores del reino._» ([LU 99:6.4](/es/The_Urantia_Book/99#p6_4)) La planificación que hagamos debe consultarse con sabiduría. Debemos tener cuidado y al mismo tiempo evitar un estancamiento enervante disfrazado de precaución.
 
-### Evite el intelectualismo calambre
+## Evite el intelectualismo calambre
 
 Más orientación del libro nos dice que «_Los antiguos cultos eran demasiado egocéntricos_» ([LU 87:7.7](/es/The_Urantia_Book/87#p7_7)) Se centraban demasiado en sí mismos y descuidaban las necesidades reales de sus participantes y del mundo que los rodeaba. Nosotros también podemos enterrar nuestros rostros entre mantas azules y descuidar al alma que sufre entre nosotros y a las tímidas que están afuera de nuestras puertas. Sí, debemos estudiar _El Libro de URANTIA_, pero debemos utilizar este estudio como trampolín hacia logros colectivos más elevados y evitar las trampas del intelectualismo restrictivo. Podemos prepararnos hasta que venga el reino y nunca ver ese día amorfo en el que las Sociedades URANTIA estén listas para dirigir sus esfuerzos al mundo que las rodea. Las sociedades URANTIA tendrán que empezar a convertir parte de su esfuerzo grupal de la actividad egocéntrica al amor aplicado del que, según nos dicen, debe surgir el nuevo culto.
 
@@ -45,7 +66,7 @@ Webster nos dice que una base es «la parte fundamental de algo, la base, el pun
 
 Si queremos avanzar, si queremos evolucionar de manera significativa, entonces debemos prestar atención a estas advertencias como si fueran luces que nos guían en una costa oscura. «_La vida familiar_», nos dicen, «_junto con la experiencia religiosa personal, es la que más sufre la decadencia resultante de la transición entre las antiguas lealtades religiosas y los nuevos significados y valores emergentes._» ([LU 99:4.2](/es/The_Urantia_Book/99#p4_2))
 
-### Fomentar la adoración
+## Fomentar la adoración
 
 En [LU 99:6.2](/es/The_Urantia_Book/99#p6_2) encontramos más pistas que guían nuestros pasos hacia el futuro. Aquí se nos dice «_Es el propósito de las actividades religiosas grupales..._» y sigue una lista de ocho funciones. El último de ellos, casi enfatizado por su ubicación final, es «_...fomentar la adoración en grupo._» ([LU 99:6.2](/es/The_Urantia_Book/99#p6_2)) Uno de los propósitos de las actividades religiosas en grupo es fomentar la adoración en grupo. Refresquemos nuestra comprensión de la importancia de la oración y la adoración para el individuo. Agrego oración porque en la experiencia humana la oración y la adoración son como pan y mantequilla, o niños y niñas. Siempre encuentran la manera de reunirse.
 
@@ -62,3 +83,25 @@ Podemos sentirnos satisfechos con el status quo o podemos tomar medidas con las 
 _David Renn_
 _Evanston, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Henry_Begemann/Self_realization">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autorrealización</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-primavera-de-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de primavera de 1981 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

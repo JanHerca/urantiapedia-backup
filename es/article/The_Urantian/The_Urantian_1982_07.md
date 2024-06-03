@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1982 Ronald D. Louie, Sally Schlundt<br>© 1982 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="pr-2">Reflexiones sobre la difusión de las enseñanzas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Reflexiones sobre la difusión de las enseñanzas del _Libro de Urantia_
@@ -32,7 +53,7 @@ Anticipo que muchos de los diversos problemas que encontraremos cuando nos acerq
 
 [Leer más](/es/article/Sally_Schlundt/The_quality_of_our_interface)
 
-_Sally Schlundt_
+— _Sally Schlundt_
 _Fuerte Wayne, Indiana_
 
 > «_Os declaro a todos que el Padre ha abierto las puertas del reino celestial a todos los que tienen la fe necesaria para entrar, y ningún hombre o asociación de hombres podrán cerrar esas puertas ni siquiera al alma más humilde o al pecador supuestamente más flagrante de la Tierra, si sinceramente aspiran a entrar._» ([LU 147:5.6](/es/The_Urantia_Book/147#p5_6))
@@ -40,3 +61,25 @@ _Fuerte Wayne, Indiana_
 > Jesús a Simón, Pedro, Santiago y Juan en casa de Simón
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1982 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ronald_D_Louie/Thoughts_on_the_dissemination_of_the_teachings_of_UB">
+          <span class="pr-2">Reflexiones sobre la difusión de las enseñanzas del libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

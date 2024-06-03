@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Gloriann Harris<br>© 1984 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1984_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1984 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Lo siguiente fue adaptado de un discurso pronunciado en la Conferencia General de la Hermandad Urantia de 1984, Green Lake, Wisconsin_
@@ -39,7 +60,7 @@ Cada uno de nosotros tiene dotes mentales cósmicas que nos permiten reconocer (
 
 El Dr. Preston Bradley expresó los siguientes pensamientos en una reciente charla radiofónica. «Como crees que viajas. Y mientras vives, atraes, estás hoy donde te llevan tus pensamientos. No puedes escapar de los resultados de tus pensamientos... Realizarás la visión, no el deseo vano, de tu corazón, ya sea vil, hermoso o una mezcla de ambos. Porque siempre gravitarás hacia aquello que más amas en secreto. En tus manos se colocarán los resultados exactos de tus pensamientos. Recibirás lo que aprendas, ni más ni menos... Te volverás tan pequeño como tu deseo controlador, tan grande como tus aspiraciones dominantes».
 
-Las dotaciones de la mente cósmica que nos permiten reconocer que somos hijos de Dios nos permiten tomar la decisión de amar y servir a «los demás». El empuje viene de Dios a través de nosotros. El amor del Padre se vuelve real cuando pasa a través de vuestro corazón hacia vuestros semejantes. «El gran circuito del amor va desde el Padre, pasando por los hijos hasta los hermanos y, por tanto, hasta el Supremo». (1289.4) Revela el amor que el Padre te da a través de tu interacción amorosa con tus semejantes. Deja que el amor de Dios te atraviese. Deja que Dios obre a través de ti. El amor de Dios es un don ilimitado, más de lo que jamás puedas exceder.
+Las dotaciones de la mente cósmica que nos permiten reconocer que somos hijos de Dios nos permiten tomar la decisión de amar y servir a «los demás». El empuje viene de Dios a través de nosotros. El amor del Padre se vuelve real cuando pasa a través de vuestro corazón hacia vuestros semejantes. «El gran circuito del amor va desde el Padre, pasando por los hijos hasta los hermanos y, por tanto, hasta el Supremo». ([LU 117:6.10](/es/The_Urantia_Book/117#p6_10)) Revela el amor que el Padre te da a través de tu interacción amorosa con tus semejantes. Deja que el amor de Dios te atraviese. Deja que Dios obre a través de ti. El amor de Dios es un don ilimitado, más de lo que jamás puedas exceder.
 
 En el tiempo y el espacio, lo hacemos real,
 Nosotros haremos que pase,
@@ -175,3 +196,25 @@ voluntad de Dios.
 —_Glorian Harris_
 _Chicago, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/The_Urantian/The_Urantian_1984_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">The Urantian - Número de invierno de 1984</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-invierno-de-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de invierno de 1984 — Índice</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

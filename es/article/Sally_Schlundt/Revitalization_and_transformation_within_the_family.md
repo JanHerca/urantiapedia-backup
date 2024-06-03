@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Sally Schlundt<br>© 1981 The Urantia Book Fellowship (anteriormente Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir la vida interior: la psicología de la comunión del Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="pr-2">Revolución espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Prefiero que el título de esta charla sea revitalización y transformación dentro de la familia en lugar de revitalización y transformación de la familia porque pone el énfasis y la responsabilidad de la mejora en la familia misma, creo que para que se dé cualquier transformación la iniciativa tiene que ser venir desde dentro, no como resultado de fuerzas externas.
@@ -55,7 +79,7 @@ Hoy necesitamos una nueva ética. Necesitamos una ética centrada nuevamente en 
 
 Eric Hoffer, el conocido filósofo estibador, comprende la naturaleza de esta nueva ética que hoy se necesita: «Tal como están las cosas ahora, bien puede ser que la supervivencia de la especie dependa de la capacidad de fomentar una capacidad ilimitada de compasión». La familia, debido a sus estrechas asociaciones íntimas, es la principal institución que encarna esta nueva ética. La familia es la institución más competente capaz de activar una capacidad de intimidad y sensibilidad que a su vez proporciona el desarrollo integral del carácter y la personalidad. Sólo la familia genera individuos que se preocupan íntimamente; es la única institución que se ocupa de inquietudes verdaderamente individuales. En última instancia, es la familia la que es capaz de liberar a las personas entre sí, entre sí y con Dios. En efecto, otras instituciones están despersonalizadas. Es la única institución que puede crear amor. Para citar a mi marido, «las instituciones no pueden amar, sólo las personas aman». La institución familiar es la única excepción, pues cuando funciona como debe, ¡sólo ella fomenta un amor íntimo y personal profundo!
 
-Estoy convencido de que el principal problema de la familia hoy (y por lo tanto de nuestra cultura) es simplemente que la familia no se aprecia a sí misma (su importancia) y no se da cuenta de la enormidad de su influencia. Según _El Libro de URANTIA_, la familia está lejos de ser insignificante: de hecho, se gana la única distinción de ser «...la adquisición evolutiva suprema del hombre y la única esperanza de supervivencia de la civilización». (943.2) Irónicamente, en la institución menos comprendida y apreciada reside en gran medida la solución a los múltiples problemas que aquejan al mundo hoy. La familia y su capacidad de crecimiento y cambio es la educadora suprema de la sociedad y, finalmente, del universo. Las familias son los centros de enseñanza de la educación real y modelos para todas las estructuras sociales. Es la familia de la que aprendemos o no la responsabilidad individual, la cooperación, el amor y el cuidado, la equidad, la justicia, la compasión, el perdón y la gracia. Es de la familia que aprendemos a considerar y finalmente tratar a nuestro prójimo. Como se encuentra en _El Libro de URANTIA_, la familia es absolutamente esencial para revelar el verdadero carácter de Dios. «_La relación entre hijo y padre es fundamental para el concepto esencial del Padre Universal..._» ([LU 45:6.4](/es/The_Urantia_Book/45#p6_4))
+Estoy convencido de que el principal problema de la familia hoy (y por lo tanto de nuestra cultura) es simplemente que la familia no se aprecia a sí misma (su importancia) y no se da cuenta de la enormidad de su influencia. Según _El Libro de URANTIA_, la familia está lejos de ser insignificante: de hecho, se gana la única distinción de ser «...la adquisición evolutiva suprema del hombre y la única esperanza de supervivencia de la civilización». ([LU 84:8.6](/es/The_Urantia_Book/84#p8_6)) Irónicamente, en la institución menos comprendida y apreciada reside en gran medida la solución a los múltiples problemas que aquejan al mundo hoy. La familia y su capacidad de crecimiento y cambio es la educadora suprema de la sociedad y, finalmente, del universo. Las familias son los centros de enseñanza de la educación real y modelos para todas las estructuras sociales. Es la familia de la que aprendemos o no la responsabilidad individual, la cooperación, el amor y el cuidado, la equidad, la justicia, la compasión, el perdón y la gracia. Es de la familia que aprendemos a considerar y finalmente tratar a nuestro prójimo. Como se encuentra en _El Libro de URANTIA_, la familia es absolutamente esencial para revelar el verdadero carácter de Dios. «_La relación entre hijo y padre es fundamental para el concepto esencial del Padre Universal..._» ([LU 45:6.4](/es/The_Urantia_Book/45#p6_4))
 
 De hecho, Jesús consideraba a la familia tan altamente que «_la familia ocupaba el centro mismo de la filosofía de vida de Jesús, aquí y en el más allá._» ([LU 140:8.14](/es/The_Urantia_Book/140#p8_14)) Jesús nunca subestimó el valor de la familia; veía a la familia como representativo de los niveles más elevados de existencia — refiriéndose incluso al reino como una familia divina, Jesús dijo: «_... (el) Padre ha ordenado la creación del hombre y de la mujer, y es voluntad divina que los hombres y las mujeres encuentren su servicio más elevado, y la alegría consiguiente, estableciendo un hogar para recibir y criar a los hijos, en cuya creación estos padres se convierten en asociados de los Hacedores del cielo y de la Tierra._» ([LU 167:5.7](/es/The_Urantia_Book/167#p5_7)) Por lo que dijo y cómo vivió Jesús elevó la unión entre el hombre y la mujer y la familia subsiguiente a un nivel que supera con creces el estatus de esa época e incluso de la era actual. Dio significado a la afirmación de que «_La familia es la realización puramente humana más importante del hombre..._» ([LU 84:6.8](/es/The_Urantia_Book/84#p6_8)).
 
@@ -104,3 +128,28 @@ Y, finalmente, la familia no es un fin en sí misma sino un patrón, un patrón 
 - _Sally Schlundt_
 _F. Wayne, Indiana_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Marvin_Gawryn/Sharing_The_Inner_Life_The_Psychology_of_Adjuster_Communion">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Compartir la vida interior: la psicología de la comunión del Ajustador</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_the_urantian#número-de-verano-de-1981-número-especial-de-la-conferencia">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Número de verano de 1981 - Número Especial de la Conferencia — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Carolyn_Kendall/Spiritual_Revolution">
+          <span class="pr-2">Revolución espiritual</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
