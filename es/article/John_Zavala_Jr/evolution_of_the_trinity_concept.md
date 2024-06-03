@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Suzanne Kelly<br>© 2015 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_december_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – Diciembre 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Perron/the_eternal_quest">
+          <span class="pr-2">La búsqueda eterna</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right" alt="Paradise Trinity">
@@ -47,9 +71,9 @@ Si se le da suficiente tiempo, el monoteísmo se desarrollará por sí mismo, bi
 
 Sin embargo, pasar de generación en generación la antorcha del monoteísmo no fue en absoluto una transición tranquila. El progreso del concepto hebraico se estorbaba constantemente, y retrocedía así en algunos momentos debido a las repercusiones inevitables de lo cultural y lo tribal. Una de estas repercusiones fue la idea de un Dios celoso. Puede que, en verdad, Moisés hubiera enseñado algo así, pero _Ningún profeta o instructor religioso, desde Maquiventa hasta el tiempo de Jesús, alcanzó el alto concepto de Dios que proclamó Isaías segundo durante estos días del cautiverio”_ <a id="a70_528"></a>[[LU 97:7.5](/es/The_Urantia_Book/97#p7_5)] ni acentuó el hecho de que Dios es todopoderoso, un padre amoroso, un Dios de todos los pueblos.
 
-Se puede observar que, cuando dos culturas empiezan a mezclarse, sea por imaginaciones políticas o por religiosas, la menos evolucionada no puede asimilar mucho de la más evolucionada, incluso si esta presenta su conocimiento de forma adecuada para aquella. En consecuencia, la profundidad con que el receptor asimila se puede medir por **_«…aquello que es razonablemente coherente y compatible con su estatus evolutivo en curso, más su habilidad para adaptarse_****_»_** <a id="a72_435"></a>[[LU 92:2.4](/es/The_Urantia_Book/92#p2_4)] Basta esto para decir que la cultura protoislámica entró en una gloriosa era monoteísta por estar preparada para hacerlo, pero debido a la cantidad inusual de factores que contribuyeron a ello, incluida la ausencia de todo tipo de fomento espiritual por parte de las religiones más maduras, su nuevo concepto del Dios único fue propenso a sufrir las fragilidades de una fe nueva. Si al concepto islámico de Alá se le hubiera dado suficiente tiempo para que se desarrollara en el corazón de los mahometanos, la predicación de que Jesucristo era la segunda persona de la Deidad no habría supuesto una amenaza tan directa a la fe musulmana. El rechazo de La Meca no fue al Señor en sí mismo, sino más bien porque en la infantil mente islámica eso iba contra la idea de un Dios único, que era, de hecho, un Dios celoso.
+Se puede observar que, cuando dos culturas empiezan a mezclarse, sea por imaginaciones políticas o por religiosas, la menos evolucionada no puede asimilar mucho de la más evolucionada, incluso si esta presenta su conocimiento de forma adecuada para aquella. En consecuencia, la profundidad con que el receptor asimila se puede medir por _«…aquello que es razonablemente coherente y compatible con su estatus evolutivo en curso, más su habilidad para adaptarse»_ <a id="a72_435"></a>[[LU 92:2.4](/es/The_Urantia_Book/92#p2_4)] Basta esto para decir que la cultura protoislámica entró en una gloriosa era monoteísta por estar preparada para hacerlo, pero debido a la cantidad inusual de factores que contribuyeron a ello, incluida la ausencia de todo tipo de fomento espiritual por parte de las religiones más maduras, su nuevo concepto del Dios único fue propenso a sufrir las fragilidades de una fe nueva. Si al concepto islámico de Alá se le hubiera dado suficiente tiempo para que se desarrollara en el corazón de los mahometanos, la predicación de que Jesucristo era la segunda persona de la Deidad no habría supuesto una amenaza tan directa a la fe musulmana. El rechazo de La Meca no fue al Señor en sí mismo, sino más bien porque en la infantil mente islámica eso iba contra la idea de un Dios único, que era, de hecho, un Dios celoso.
 
-Dado que el monoteísmo surge de una protesta contra la incoherencia del politeísmo, hay una repercusión inevitable de su desarrollo evolutivo normal, el trinitarismo, que se desarrolla de igual modo a partir de «la imposibilidad de concebir la unidad de una Deidad solitaria desantropomorfizada cuya relevancia carece de relación con el universo.» <a id="a74_475"></a>[[LU 104:2.2](/es/The_Urantia_Book/104#p2_2)] Sin embargo, el trinitarismo no tuvo nunca ninguna posibilidad en los tiempos de Mahoma por las razones ya tratadas. Además, los mahometanos no pudieron asentar su nuevo concepto monoteísta, que se manifestaba en tres canales de naturaleza eterna, y colocarlo en contraposición a distinguir tres dioses como si fueran uno.  «_Es siempre difícil para un monoteísmo emergente tolerar el trinitarismo cuando este se enfrenta con el politeísmo_.» <a id="a74_938"></a>[[LU 104:1.9](/es/The_Urantia_Book/104#p1_9)] _El libro de Urantia_ sugiere que la idea de la Trinidad arraiga mejor cuando hay una firme tradición monoteísta unida a algún grado de elasticidad doctrinal, como la que se ve en el nacimiento del cristianismo, y en él mismo, dentro de los ámbitos hebraicos del judaísmo. Para estar seguros, recordemos brevemente la evolución del concepto de dios entre los hebreos.
+Dado que el monoteísmo surge de una protesta contra la incoherencia del politeísmo, hay una repercusión inevitable de su desarrollo evolutivo normal, el trinitarismo, que se desarrolla de igual modo a partir de «la imposibilidad de concebir la unidad de una Deidad solitaria desantropomorfizada cuya relevancia carece de relación con el universo.» <a id="a74_475"></a>[[LU 104:2.2](/es/The_Urantia_Book/104#p2_2)] Sin embargo, el trinitarismo no tuvo nunca ninguna posibilidad en los tiempos de Mahoma por las razones ya tratadas. Además, los mahometanos no pudieron asentar su nuevo concepto monoteísta, que se manifestaba en tres canales de naturaleza eterna, y colocarlo en contraposición a distinguir tres dioses como si fueran uno.  «_Es siempre difícil para un monoteísmo emergente tolerar el trinitarismo cuando este se enfrenta con el politeísmo_.» <a id="a74_938"></a>[[LU 104:1.9](/es/The_Urantia_Book/104#p1_9)] _El Libro de Urantia_ sugiere que la idea de la Trinidad arraiga mejor cuando hay una firme tradición monoteísta unida a algún grado de elasticidad doctrinal, como la que se ve en el nacimiento del cristianismo, y en él mismo, dentro de los ámbitos hebraicos del judaísmo. Para estar seguros, recordemos brevemente la evolución del concepto de dios entre los hebreos.
 
 ## El concepto de Elohim
 
@@ -85,3 +109,28 @@ Como hijo, aprendo acerca de Dios de Jesús, observando la divinidad de su vida.
 - [Este número](https://urantia-association.org/newsletter/journal-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/evolucion-del-concepto-de-trinidad/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Suzanne_Kelly/journal_editorial_december_2015">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial del Journal – Diciembre 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Perron/the_eternal_quest">
+          <span class="pr-2">La búsqueda eterna</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

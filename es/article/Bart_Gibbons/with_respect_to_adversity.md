@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Bart Gibbons<br>© 2015 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Hanian/cultivating_mind_choosing_the_right_tool">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultivar la mente: elegir la herramienta adecuada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Vern_Verass/the_door_is_open">
+          <span class="pr-2">La puerta está abierta, todo el que quiera puede entrar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -133,13 +157,13 @@ _El libro de Urantia_ tiene buenos consejos prácticos sobre cómo salir adelant
 
 Jesús hizo hincapié en el valor de la diversión y la relajación. Los apóstoles tenían problemas para llevarse bien entre ellos, así como con los discípulos de Juan. Jesús los llevó a todos al monte Sartaba para pasar un periodo de descanso. Se nos dice que
 
-> _“…fue un acontecimiento maravilloso en la experiencia de cada uno de ellos; jamás olvidaron el día que subieron a la montaña. A lo largo de todo el trayecto apenas dijeron una sola palabra de sus dificultades. Al llegar a la cima de la montaña, Jesús los sentó a su alrededor mientras les decía: «Hermanos míos, todos debéis aprender el valor del descanso y la eficacia del esparcimiento. Debéis comprender que el mejor método para resolver algunos problemas embrollados consiste en alejarse de ellos durante algún tiempo. Luego, cuando volvéis renovados por el descanso o la adoración, sois capaces de atacar vuestras dificultades con una cabeza más despejada y una mano más firme, sin mencionar un corazón más resuelto. Además, muchas veces encontraréis que el tamaño y las proporciones de vuestro problema ha disminuido mientras descansabais vuestra mente y vuestro cuerpo.” _  <a id="a158_761"></a>[[LU 143:3.3](/es/The_Urantia_Book/143#p3_3)]
+> _“…fue un acontecimiento maravilloso en la experiencia de cada uno de ellos; jamás olvidaron el día que subieron a la montaña. A lo largo de todo el trayecto apenas dijeron una sola palabra de sus dificultades. Al llegar a la cima de la montaña, Jesús los sentó a su alrededor mientras les decía: «Hermanos míos, todos debéis aprender el valor del descanso y la eficacia del esparcimiento. Debéis comprender que el mejor método para resolver algunos problemas embrollados consiste en alejarse de ellos durante algún tiempo. Luego, cuando volvéis renovados por el descanso o la adoración, sois capaces de atacar vuestras dificultades con una cabeza más despejada y una mano más firme, sin mencionar un corazón más resuelto. Además, muchas veces encontraréis que el tamaño y las proporciones de vuestro problema ha disminuido mientras descansabais vuestra mente y vuestro cuerpo.”_  <a id="a158_761"></a>[[LU 143:3.3](/es/The_Urantia_Book/143#p3_3)]
 
 En la segunda gira de predicación, Jesús nos da una lección respecto a la alegría:
 
 > _Un día que Jesús estaba visitando al grupo de evangelistas que trabajaba bajo la supervisión de Simón Celotes, éste le preguntó al Maestro durante la conferencia nocturna: « ¿Por qué algunas personas están mucho más felices y contentas que otras? ¿Es el contentamiento un asunto de experiencia religiosa?» En respuesta a la pregunta de Simón, Jesús dijo entre otras cosas:_
 > 
-> _“Simón, algunas personas son por naturaleza más felices que otras. Eso depende muchísimo de la buena voluntad del hombre a dejarse conducir y dirigir por el espíritu del Padre que vive dentro de él. ¿No has leído en las Escrituras las palabras del sabio: ‘El espíritu del hombre es la vela del Señor que examina todo su interior`? Y también que estos mortales conducidos así por el espíritu dicen: ‘Me conformo gustosamente con lo que tengo; sí, poseo una herencia excelente.` ‘Lo poco que posee un justo es mejor que las riquezas de muchos malvados,` porque ‘un hombre bueno obtiene la satisfacción de su propio interior.` ‘Un corazón alegre produce un semblante jovial y es una fiesta continua. Es mejor tener un poco con veneración al Señor, que un gran tesoro con sus problemas incluidos. Es mejor una comida de legumbres con amor, que un buey engordado acompañado de odio. Es mejor poseer un poco con justicia, que grandes ingresos sin rectitud.` ‘Un corazón alegre hace bien como un medicamento.` ‘Es mejor tener un puñado con serenidad, que una gran abundancia con penas y vejación de espíritu.`_ <a id="a164_1046"></a>[[LU 149:5.1–2](/es/The_Urantia_Book/149#p5_1)]
+> _“Simón, algunas personas son por naturaleza más felices que otras. Eso depende muchísimo de la buena voluntad del hombre a dejarse conducir y dirigir por el espíritu del Padre que vive dentro de él. ¿No has leído en las Escrituras las palabras del sabio: ‘El espíritu del hombre es la vela del Señor que examina todo su interior ? Y también que estos mortales conducidos así por el espíritu dicen: ‘Me conformo gustosamente con lo que tengo; sí, poseo una herencia excelente.’ ‘Lo poco que posee un justo es mejor que las riquezas de muchos malvados,’ porque ‘un hombre bueno obtiene la satisfacción de su propio interior.’ ‘Un corazón alegre produce un semblante jovial y es una fiesta continua. Es mejor tener un poco con veneración al Señor, que un gran tesoro con sus problemas incluidos. Es mejor una comida de legumbres con amor, que un buey engordado acompañado de odio. Es mejor poseer un poco con justicia, que grandes ingresos sin rectitud.’ ‘Un corazón alegre hace bien como un medicamento.’ ‘Es mejor tener un puñado con serenidad, que una gran abundancia con penas y vejación de espíritu.’_ <a id="a164_1046"></a>[[LU 149:5.1–2](/es/The_Urantia_Book/149#p5_1)]
 > 
 > _Una gran parte de las penas del hombre provienen de la frustración de sus ambiciones y de las ofensas a su orgullo. Aunque los hombres tienen consigo mismos el deber de llevar la mejor vida posible en la Tierra, una vez que han hecho ese esfuerzo sincero, deberían aceptar su suerte con alegría y ejercitar su ingenio para sacar el mejor partido a lo que tienen entre sus manos._ <a id="a166_348"></a>[[LU 149:5.3](/es/The_Urantia_Book/149#p5_3)] 
 > 
@@ -159,11 +183,11 @@ En la ordenación de los doce, Jesús les aconseja:
 
 En el Documento 26 (Los espíritus ministrantes del universo central), un Perfeccionador de la Sabiduría de Uversa describe a los Ayudantes de los Peregrinos, cuyo papel es:
 
-_“…dar la bienvenida a los ascendentes del espacio, que tanto han viajado, a los mundos estabilizados y a la economía asentada del universo central.” _ <a id="a184_120"></a>[[LU 26:5.1](/es/The_Urantia_Book/26#p5_1)]
+_“…dar la bienvenida a los ascendentes del espacio, que tanto han viajado, a los mundos estabilizados y a la economía asentada del universo central.”_ <a id="a184_120"></a>[[LU 26:5.1](/es/The_Urantia_Book/26#p5_1)]
 
 Dos párrafos más adelante, leemos: 
 
-> _“… Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada — absolutamente nada — es imposible.” _ <a id="a188_495"></a>[[LU 26:5.3](/es/The_Urantia_Book/26#p5_3)]
+> _“… Pero mucho antes de llegar a Havona, estos hijos ascendentes del tiempo han aprendido a deleitarse con las incertidumbres, a enriquecerse con las decepciones, a entusiasmarse con los fracasos aparentes, a estimularse en presencia de las dificultades, a mostrar un valor indomable frente a la inmensidad, y a ejercer una fe invencible cuando se enfrentan con el desafío de lo inexplicable. Hace mucho tiempo que el grito de guerra de estos peregrinos se ha vuelto: «En unión con Dios, nada — absolutamente nada — es imposible.”_ <a id="a188_495"></a>[[LU 26:5.3](/es/The_Urantia_Book/26#p5_3)]
 
 Evidentemente, es una parte esencial de nuestro desarrollo, tanto como mortales como en la eternidad, construir un carácter fuerte y una fe inquebrantable.
 
@@ -187,3 +211,28 @@ Escrito por un agondontero americano para beneficio de todos los compañeros ura
 - [Este número](https://urantia-association.org/newsletter/journal-december-2015/)
 - [Este artículo](https://urantia-association.org/respecto-a-la-adversidad/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michael_Hanian/cultivating_mind_choosing_the_right_tool">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cultivar la mente: elegir la herramienta adecuada</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Vern_Verass/the_door_is_open">
+          <span class="pr-2">La puerta está abierta, todo el que quiera puede entrar</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

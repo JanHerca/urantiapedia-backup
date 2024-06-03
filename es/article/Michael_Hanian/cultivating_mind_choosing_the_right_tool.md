@@ -9,6 +9,30 @@ dateCreated: 2023-9-16T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2015 Michael Hanian<br>© 2015 Asociación Internacional Urantia (IUA)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Perron/the_eternal_quest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La búsqueda eterna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bart_Gibbons/with_respect_to_adversity">
+          <span class="pr-2">Respecto a la adversidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Relato personal de la fe como herramienta para cultivar la mente
@@ -135,7 +159,7 @@ Si tuviera que señalar solo una cualidad negativa que afectara a mi vida entera
 
 Qué hace exactamente el miedo con nuestra mente y nuestra personalidad? Un Consejero Divino nos avisa de que **desvirtuamos** nuestra mente con **_«… ansiedades inútiles.»_** <a id="a158_144"></a>[[LU 9:5.7](/es/The_Urantia_Book/9#p5_7)] Y la ansiedad es un subproducto del miedo. Un Mensajero Solitario afirma que el miedo **contamina** la fuente de la fe,**_«… la fuente de la fe contaminada por los venenos del miedo.»_** <a id="a158_361"></a>[[LU 111:7.5](/es/The_Urantia_Book/111#p7_5)] Los intermedios señalan sobre el miedo que **_«… impide eficazmente que las almas honradas… acepten la nueva luz del evangelio…»_** <a id="a158_516"></a>[[LU 159:4.9](/es/The_Urantia_Book/159#p4_9)] negrita añadida
 
-Entonces, ¿qué es el miedo? El miedo es lo opuesto al amor.  Amor y miedo se excluyen mutuamente. Estas dos sustancias no se mezclan. Donde hay miedo, no hay amor. Donde hay amor, no hay miedo. Es eternamente cierto que **«****_… el amor de Dios… expulsa todo temor.”_** <a id="a160_264"></a>[[LU 48:6.8](/es/The_Urantia_Book/48#p6_8)] Por eso a los Ajustadores **«****_… les gustaría cambiar…_** \[nuestros\]**_… sentimientos de temor en convicciones de amor…”_** <a id="a160_418"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
+Entonces, ¿qué es el miedo? El miedo es lo opuesto al amor.  Amor y miedo se excluyen mutuamente. Estas dos sustancias no se mezclan. Donde hay miedo, no hay amor. Donde hay amor, no hay miedo. Es eternamente cierto que **«****_… el amor de Dios… expulsa todo temor.”_** <a id="a160_264"></a>[[LU 48:6.8](/es/The_Urantia_Book/48#p6_8)] Por eso a los Ajustadores **«_… les gustaría cambiar…_** \[nuestros\]**_… sentimientos de temor en convicciones de amor…”_** <a id="a160_418"></a>[[LU 108:5.8](/es/The_Urantia_Book/108#p5_8)]
 
 ¿Pero puede ser útil el miedo? Claro que sí. Para el cuerpo. Avisa, previene, nos hace pedir ayuda. Pero cuanto más comprendemos las palabras del Maestro de que **«no solo de pan vive el hombre****_.”_** <a id="a162_199"></a>[[LU 160:3.1](/es/The_Urantia_Book/160#p3_1)] menos necesitamos el miedo. Y más necesitamos amor. Y más se convierte la fe en el puente sobre aguas turbulentas de nuestra mente.
 
@@ -201,3 +225,28 @@ La mente elige no temer.
 - [Este número](https://urantia-association.org/newsletter/journal-diciembre-2015/?lang=es)
 - [Este artículo](https://urantia-association.org/cultivar-la-mente-elegir-la-herramienta-adecuada/?lang=es)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_Perron/the_eternal_quest">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La búsqueda eterna</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_iua_journal#journal-diciembre-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Journal — Diciembre 2015 — Índice</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Bart_Gibbons/with_respect_to_adversity">
+          <span class="pr-2">Respecto a la adversidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
