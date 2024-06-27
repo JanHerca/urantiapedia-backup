@@ -9,6 +9,30 @@ dateCreated: 2023-01-25T11:12:37.284Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Richard S. Omura<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À l’aube de l’époque la plus étonnante et la plus passionnante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="pr-2">Les Cahiers d'Urantia d'un point de vue juif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Ne serait-il pas formidable si nous pouvions quitter chaque groupe d'étude et présentation du *Livre d'Urantia* avec un sentiment d'espoir retrouvé, d'autonomisation, de revigoration spirituelle et d'augmentation de notre sentiment de bien-être ?** Il y a un certain j'en ai parfois l'impression, mais à mon avis, ce n'est pas suffisant. Ce qui est triste, c'est lorsqu'un nouveau venu assiste à une présentation très spécifique sur *Le Livre d'Urantia* seulement pour découvrir qu'il ou elle ne peut pas s'y identifier du tout parce qu'elle est trop intellectuelle et ne fait pas appel à l'âme.
@@ -31,15 +55,15 @@ Ce sont toutes des philosophies valables, vraies et applicables, mais elles ne s
 
 Une révélation très pragmatique, nouvelle et originale du livre est le concept global de l'origine, de la croissance et du destin de l'âme. De nombreux lecteurs du Livre d'Urantia avec lesquels j'ai parlé avaient une idée fausse de ce qu'est l'âme. J'ai parlé à des gens qui pensaient que l'âme était une page vierge sans volonté, juste un embryon attendant de naître dans les mondes des maisons. C'est comme un embryon, selon *Le Livre d'Urantia* mais il a une volonté et il peut prendre des décisions, bien qu'avec l'assentiment de l'esprit.
 
-> Dieu le Suprême est lui-même un participant volitif et créateur de l’actualisation de sa propre déité. D’une manière homologue, l’âme morontielle humaine est un partenaire **volitif, cocréateur de sa propre immortalisation**. ([LU 117:3.7](/fr/The_Urantia_Book/117#p3_7))
+> Dieu le Suprême est lui-même un participant volitif et créateur de l’actualisation de sa propre déité. D’une manière homologue, l’âme morontielle humaine est un partenaire **volitif, cocréateur de sa propre immortalisation**. (<a id="a57_229"></a>[LU 117:3.7](/fr/The_Urantia_Book/117#p3_7))
 
 L'âme est votre partenaire co-créatif ! Aussi,
 
-> « Durant la vie dans la chair, l’âme en évolution a la faculté de renforcer les décisions supramatérielles du mental humain. Étant supramatérielle, l’âme ne fonctionne pas par elle-même sur le niveau matériel de l’expérience humaine. » ([LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
+> « Durant la vie dans la chair, l’âme en évolution a la faculté de renforcer les décisions supramatérielles du mental humain. Étant supramatérielle, l’âme ne fonctionne pas par elle-même sur le niveau matériel de l’expérience humaine. » (<a id="a61_239"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
 
 En d’autres termes, au niveau matériel de l’expérience humaine, l’âme renforce l’esprit lorsque celui-ci prend des décisions supramatérielles. Par décisions « supermatérielles », je pense qu’ils entendent les décisions qui ont un impact sur notre carrière d’ascension ; ces décisions qui créent de la valeur dans le Suprême. Et l’âme ne peut pas fonctionner toute seule sur le plan matériel. Alors, de quoi a-t-il besoin pour fonctionner ici ? L'esprit!
 
-> « Sans la collaboration d’un esprit de la Déité tel que l’Ajusteur, cette âme subspirituelle ne peut pas non plus fonctionner au-dessus du niveau morontiel. De même, l’âme ne prend pas de décisions finales avant que la mort ou le transfert n’ait rompu son association matérielle avec le mental mortel, à moins que ce mental matériel n’ait librement et volontairement délégué l’autorité nécessaire à son âme morontielle fonctionnellement associée. » ([LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
+> « Sans la collaboration d’un esprit de la Déité tel que l’Ajusteur, cette âme subspirituelle ne peut pas non plus fonctionner au-dessus du niveau morontiel. De même, l’âme ne prend pas de décisions finales avant que la mort ou le transfert n’ait rompu son association matérielle avec le mental mortel, à moins que ce mental matériel n’ait librement et volontairement délégué l’autorité nécessaire à son âme morontielle fonctionnellement associée. » (<a id="a65_452"></a>[LU 111:3.2](/fr/The_Urantia_Book/111#p3_2))
 
 Même avant la mort ou la translation, l’âme peut prendre des décisions finales si et quand l’esprit lui délègue librement cette autorité. J'ai réfléchi à ce qu'ils entendent par décisions « finales ». Je crois qu'il s'agit de décisions morales finales que nous ne pouvons pas « reprendre », c'est-à-dire de décisions morales qui engagent l'action.
 
@@ -63,3 +87,28 @@ Assurez-vous de prier à ce sujet aujourd’hui. Dirigons depuis notre âme dans
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/On_the_Brink_of_The_Most_Amazing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À l’aube de l’époque la plus étonnante et la plus passionnante</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-1-numéro-1-1998-automne">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 1, numéro 1, 1998 (automne) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_Greenhut/The_Urantia_Papers_From_a_Jewish_Perspective">
+          <span class="pr-2">Les Cahiers d'Urantia d'un point de vue juif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

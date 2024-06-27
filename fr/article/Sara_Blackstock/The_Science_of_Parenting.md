@@ -9,6 +9,30 @@ dateCreated: 2023-02-06T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Sara Blackstock<br>© 2000 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Je vais leur raconter une histoire»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">L'éthique du contrôle génétique et de l'ingénierie sociale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La parentalité a toujours été un étrange mélange de tradition et de mythe (qui n'est souvent pas différent du hasard). Les parents s’efforcent d’exprimer l’une des émotions les plus puissantes et les plus enracinées – l’amour parental – à et à travers leurs enfants. Nous voilà - des milliers et des milliers de livres et de méthodes plus tard, et des milliards de conseils de grands-parents et d'autres membres de la famille et amis bien intentionnés - toujours dans la confusion sur la façon de « faire » ce travail le plus difficile qui, une fois terminé, bien apporte beaucoup de joie et de satisfaction. Cela contribue au bien-être de la famille et de la communauté et, lorsque cela ne semble pas bien fonctionner, cela entraîne de la culpabilité et de grandes épreuves dans la famille et la communauté.
@@ -19,19 +43,19 @@ La préparation à la parentalité sur Urantia va de « Cela vient de m'arriver 
 
 Jusqu'à ce que je prenne conscience des contributions des nombreux domaines scientifiques qui peuvent être appliqués à la parentalité, en particulier dans les neurosciences, je me suis souvent demandé quelles matières pouvaient prendre autant de temps dans les écoles exigeantes et obligatoires de parentalité mentionnées dans _Le Livre d'Urantia_ :
 
-> ... L’autorisation de se marier n’est accordée qu’un an après le préavis d’intention, et après que les deux fiancés ont présenté des certificats montrant qu’ils ont été dument instruits dans les écoles de parents au sujet des responsabilités de la vie conjugale. ([LU 72:3.8](/fr/The_Urantia_Book/72#p3_8))
+> ... L’autorisation de se marier n’est accordée qu’un an après le préavis d’intention, et après que les deux fiancés ont présenté des certificats montrant qu’ils ont été dument instruits dans les écoles de parents au sujet des responsabilités de la vie conjugale. (<a id="a45_266"></a>[LU 72:3.8](/fr/The_Urantia_Book/72#p3_8))
 > 
-> La vie de famille de ce peuple s’est grandement améliorée au cours du dernier siècle. Il est obligatoire, aussi bien pour les pères que pour les mères, d’assister aux cours des écoles de puériculture pour parents. Même les agriculteurs qui résident dans de petits hameaux de campagne, suivent ces cours par correspondance et se rendent aux centres voisins d’instruction orale une fois tous les dix jours — toutes les deux semaines, car la semaine est de cinq jours. ([LU 72:3.2](/fr/The_Urantia_Book/72#p3_2))
+> La vie de famille de ce peuple s’est grandement améliorée au cours du dernier siècle. Il est obligatoire, aussi bien pour les pères que pour les mères, d’assister aux cours des écoles de puériculture pour parents. Même les agriculteurs qui résident dans de petits hameaux de campagne, suivent ces cours par correspondance et se rendent aux centres voisins d’instruction orale une fois tous les dix jours — toutes les deux semaines, car la semaine est de cinq jours. (<a id="a47_469"></a>[LU 72:3.2](/fr/The_Urantia_Book/72#p3_2))
 
 Qu'est-ce que les parents ou les futurs parents pourraient étudier et qui serait si crucial pour le développement des enfants qu'il serait « obligatoire » ? Est-il difficile d’apprendre à tenir un bébé et à lui donner une couche ? Qu'est-ce qui serait inclus dans le programme d'études aussi intenses pour le « Certificat parental » avant le mariage ? Quelles études nécessaires pourraient être entreprises pour améliorer considérablement la vie domestique des habitants de cette planète voisine ?
 
 Même si nous sommes loin de l'éducation parentale « obligatoire », certains membres de notre société se lancent volontiers dans les études de génétique, de sociologie, de psychologie, d'anthropologie, d'éducation, de physiologie, d'anatomie, de nutrition, de neurosciences et de médecine biomoléculaire. afin de nous éduquer pour pouvoir élever nos enfants avec le plus grand avantage, avec amour, sagesse et connaissance.
 
-Puisqu'on nous dit : « _Ce récit des affaires d’une planète voisine est fait par autorisation spéciale dans le but de faire progresser la civilisation et d’accélérer l’évolution gouvernementale sur Urantia_. » ([LU 72:12.3](/fr/The_Urantia_Book/72#p12_3)) il serait dans notre intérêt collectif de construire un programme pour les parents de notre planète qui souhaitent s'instruire et qui ont des valeurs et une loyauté spirituelles.
+Puisqu'on nous dit : « _Ce récit des affaires d’une planète voisine est fait par autorisation spéciale dans le but de faire progresser la civilisation et d’accélérer l’évolution gouvernementale sur Urantia_. » (<a id="a53_211"></a>[LU 72:12.3](/fr/The_Urantia_Book/72#p12_3)) il serait dans notre intérêt collectif de construire un programme pour les parents de notre planète qui souhaitent s'instruire et qui ont des valeurs et une loyauté spirituelles.
 
 Voulons-nous que nos enfants aient le plus grand potentiel pour recevoir la vérité ? Comment pouvons-nous leur offrir un environnement leur permettant de gravir les cercles ? Je crois que nous avons reçu une formule qui peut aider à unifier les domaines scientifiques qui s'appliquent à la « parentalité spirituelle ».
 
-> ...C’est à un mental parfaitement équilibré, logé dans un corps aux habitudes saines, aux énergies nerveuses stabilisées et aux fonctions chimiques équilibrées — quand les pouvoirs physiques, mentaux et spirituels se développent en harmonie trine — qu’un maximum de lumière et de vérité peut être communiqué avec un minimum de danger temporel et de risques pour le véritable bienêtre d’un tel être. C’est par cette croissance équilibrée que l’homme fait, un par un, l’ascension des cercles de progression planétaire, depuis le septième jusqu’au premier. ([LU 110:6.4](/fr/The_Urantia_Book/110#p6_4))
+> ...C’est à un mental parfaitement équilibré, logé dans un corps aux habitudes saines, aux énergies nerveuses stabilisées et aux fonctions chimiques équilibrées — quand les pouvoirs physiques, mentaux et spirituels se développent en harmonie trine — qu’un maximum de lumière et de vérité peut être communiqué avec un minimum de danger temporel et de risques pour le véritable bienêtre d’un tel être. C’est par cette croissance équilibrée que l’homme fait, un par un, l’ascension des cercles de progression planétaire, depuis le septième jusqu’au premier. (<a id="a57_557"></a>[LU 110:6.4](/fr/The_Urantia_Book/110#p6_4))
 
 Cette triodité des aspects physiques, mentaux et spirituels des enfants peut être utilisée comme modèle fondamental pour élaborer un programme parental, qui inclurait les connaissances acquises dans les nombreux domaines scientifiques mentionnés ci-dessus. ET le timing est parfait ! C'est un aspect fortuit du monde d'aujourd'hui que la recherche scientifique actuelle nous conduit très rapidement à un paradigme holistique consistant à examiner qui nous, les mortels, sommes et comment nous pouvons planifier le développement optimal de notre potentiel parental.
 
@@ -49,7 +73,7 @@ Quel est le rapport entre ces informations et la parentalité et l'enseignement 
 
 Une autre façon dont les résultats des études scientifiques pourraient s'appliquer à l'éducation des enfants est de comprendre que la santé physique, mentale, émotionnelle et spirituelle de nos enfants est directement liée à ce qu'ils SENTENT par rapport à ce que nous SENTONS à leur égard et à leur comportement. Cette compréhension concrète, appuyée par la science, pourrait nous aider à gérer nos émotions négatives parentales avec plus de contrôle. C'est notre teneur émotionnelle lorsque nous interagissons avec nos enfants, qui permet aux enfants d'assimiler des informations sans être gênés par des émotions négatives extérieures. Des recherches menées à l'Institute of Heartmath de Boulder Creek, en Californie, ont montré que le cœur est un organe équilibrant et produit l'hormone ANP, appelée « hormone équilibrante ». Cette recherche a montré que « les facultés de perception supérieures du cerveau fonctionnent mieux lorsque les rythmes électriques produits par le cœur sont équilibrés et harmonieux ». (_Enseigner aux enfants à aimer_, Doc Lew Childre, p. 16)
 
-À quoi servent les émotions négatives ? « _Tous les poisons physiques retardent grandement les efforts des Ajusteurs pour exalter le mental matériel et, par ailleurs, tous les poisons mentaux, tels que la peur, la colère, l’envie, la jalousie, la suspicion et l’intolérance, interfèrent prodigieusement aussi avec le progrès spirituel de l’âme évoluante._. » ([LU 110:1.5](/fr/The_Urantia_Book/110#p1_5)) La recherche Heartmath montre qu'il existe un aspect physiologique à l'effet des émotions positives et négatives, ainsi que spirituel. J'ai vu l'effet de la colère sur un enfant à la garderie. Un parent vient chercher l'enfant et ne retrouve pas son manteau. Le parent réprimande l'enfant pour sa négligence et lui demande de « réfléchir » à l'endroit où il pourrait se trouver. L’enfant ne s’intéresse pas à l’endroit où se trouve le manteau, mais plutôt à l’état émotionnel du parent. Si le parent réalisait que la colère ralentissait le processus de retour à la maison, il pourrait développer une conscience accrue. J'ai posé ma main sur la poitrine d'un enfant qui venait de ressentir des émotions négatives venant d'un autre enfant ou adulte. Ce cœur bat la chamade, et pourtant, d'après l'apparence de l'enfant, vous ne réaliserez peut-être pas que ce cœur battant produit des hormones qui affectent le cerveau. Souvenez-vous de la réponse de Jésus à la seule fois où il a vu son père en colère contre lui : « _Jésus fut stupéfait de la manifestation d’émotion de son père. Jamais auparavant il ne lui avait été donné de ressentir personnellement l’impact d’indignation de Joseph ; il en fut étonné et choqué au-delà de toute expression_. " ([LU 124:3.8](/fr/The_Urantia_Book/124#p3_8))
+À quoi servent les émotions négatives ? « _Tous les poisons physiques retardent grandement les efforts des Ajusteurs pour exalter le mental matériel et, par ailleurs, tous les poisons mentaux, tels que la peur, la colère, l’envie, la jalousie, la suspicion et l’intolérance, interfèrent prodigieusement aussi avec le progrès spirituel de l’âme évoluante._. » (<a id="a75_360"></a>[LU 110:1.5](/fr/The_Urantia_Book/110#p1_5)) La recherche Heartmath montre qu'il existe un aspect physiologique à l'effet des émotions positives et négatives, ainsi que spirituel. J'ai vu l'effet de la colère sur un enfant à la garderie. Un parent vient chercher l'enfant et ne retrouve pas son manteau. Le parent réprimande l'enfant pour sa négligence et lui demande de « réfléchir » à l'endroit où il pourrait se trouver. L’enfant ne s’intéresse pas à l’endroit où se trouve le manteau, mais plutôt à l’état émotionnel du parent. Si le parent réalisait que la colère ralentissait le processus de retour à la maison, il pourrait développer une conscience accrue. J'ai posé ma main sur la poitrine d'un enfant qui venait de ressentir des émotions négatives venant d'un autre enfant ou adulte. Ce cœur bat la chamade, et pourtant, d'après l'apparence de l'enfant, vous ne réaliserez peut-être pas que ce cœur battant produit des hormones qui affectent le cerveau. Souvenez-vous de la réponse de Jésus à la seule fois où il a vu son père en colère contre lui : « _Jésus fut stupéfait de la manifestation d’émotion de son père. Jamais auparavant il ne lui avait été donné de ressentir personnellement l’impact d’indignation de Joseph ; il en fut étonné et choqué au-delà de toute expression_. " (<a id="a75_1653"></a>[LU 124:3.8](/fr/The_Urantia_Book/124#p3_8))
 
 La nécessité d’un programme d’éducation parentale a été mentionnée plus tôt. Une science de la parentalité constituerait un élément important du programme. Si elle était élevée au rang de science, davantage de personnes pourraient être obligées de l’étudier comme elles étudient l’astronomie, la biophysique ou la psychologie. Les sciences se chevauchent : la biologie se combine avec la physique ; la théologie s'articule avec la physique quantique ; les neurosciences se mêlent aux sciences de la nutrition. Lorsque les parents comprendront qu'au moins un tiers de la parentalité est une science qui peut être étudiée, comprise et appliquée à la vie quotidienne avec les enfants, ils pourront alors ancrer leur « amour ». Tous les parents « aiment » leurs enfants, mais ce sentiment peut passer du domaine des sentiments aux arènes de la science avec des réalités qui peuvent être appliquées aux rigueurs de la vie quotidienne.
 
@@ -58,3 +82,28 @@ Je ne suis pas un scientifique. Je travaille avec des centaines d'enfants par jo
 > Sara Blackstock a travaillé avec des enfants pendant la majeure partie de sa vie. Actuellement, elle est directrice d'une grande garderie et son travail pour le mouvement Urantia tourne autour de son intérêt pour les familles et les enfants. Sara a un fils adulte qui a été élevé avec _Le Livre d'Urantia_. Elle se consacre à allumer l’étincelle de Dieu chez les enfants et les jeunes.
 {.is-info}
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/I_Will_Tell_Them_A_Story">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">«Je vais leur raconter une histoire»</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Ethics_of_Genetic_Control_and_Social_Engineering">
+          <span class="pr-2">L'éthique du contrôle génétique et de l'ingénierie sociale</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

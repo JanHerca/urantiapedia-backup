@@ -10,6 +10,27 @@ dateCreated: 2023-10-23T10:55:6Z
 
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Fellowship est maintenant sur le WWW</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Annonces
@@ -64,9 +85,31 @@ Les Whole Life Expos auront lieu ce printemps à Boston, Atlanta, Austin, West P
 <img src="/image/article/Study_Group_Herald/candle.jpg">
 </figure>
 
-> « De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers. » ([LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
+> « De ce Dieu qui est la plus inéluctable de toutes les présences, le plus réel de tous les faits, la plus vivante de toutes les vérités, le plus aimant de tous les amis, la plus divine de toutes les valeurs, nous avons le droit d’être certains comme de la plus certaine de toutes les expériences de l’univers. » (<a id="a87_315"></a>[LU 102:7.10](/fr/The_Urantia_Book/102#p7_10))
 
-> « Si vous désirez vraiment trouver Dieu, vous ne pouvez éviter de voir naitre dans votre mental la conscience du Suprême. De même que Dieu est votre Père divin, de même le Suprême est votre Mère divine, en qui vous êtes nourri pendant toute votre vie de créature de l’univers. « Combien le Suprême est universel — on le trouve de tous côtés ! Les choses innombrables de la création dépendent de sa présence pour vivre, et nul ne se la voit refuser. » » ([LU 117:6.2](/fr/The_Urantia_Book/117#p6_2))
+> « Si vous désirez vraiment trouver Dieu, vous ne pouvez éviter de voir naitre dans votre mental la conscience du Suprême. De même que Dieu est votre Père divin, de même le Suprême est votre Mère divine, en qui vous êtes nourri pendant toute votre vie de créature de l’univers. « Combien le Suprême est universel — on le trouve de tous côtés ! Les choses innombrables de la création dépendent de sa présence pour vivre, et nul ne se la voit refuser. » » (<a id="a89_456"></a>[LU 117:6.2](/fr/The_Urantia_Book/117#p6_2))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barry_D_Bradley/The_Fellowship_Is_Now_On_The_WWW">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La Fellowship est maintenant sur le WWW</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

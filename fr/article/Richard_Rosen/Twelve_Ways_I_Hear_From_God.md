@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Richard Rosen<br>© 2017 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que nous dit le Livre d’Urantia qui doit être accompli ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/A_Confederate_Soldiers_Prayer">
+          <span class="pr-2">La prière d'un soldat confédéré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -118,9 +142,9 @@ La révélation automatique ou personnelle (illumination spirituelle) ravit votr
 
 Cet exemple s’est produit lorsque Jésus et son père Joseph montèrent à Jérusalem vers l’âge de 13 ans. 
 
-> La veille du sabbat de la Pâque, un torrent d’illumination spirituelle traversa le mental mortel de Jésus et fit déborder son cœur de pitié affectueuse pour ces foules spirituellement aveugles et moralement ignorantes assemblées en vue de commémorer l’ancienne Pâque. ([LU 124:6.15](/fr/The_Urantia_Book/124#p6_15))
+> La veille du sabbat de la Pâque, un torrent d’illumination spirituelle traversa le mental mortel de Jésus et fit déborder son cœur de pitié affectueuse pour ces foules spirituellement aveugles et moralement ignorantes assemblées en vue de commémorer l’ancienne Pâque. (<a id="a144_271"></a>[LU 124:6.15](/fr/The_Urantia_Book/124#p6_15))
 
-> Autre exemple : Jésus demanda à ses apôtres « Mais qui dites-vous que je le suis ? »... Simon Pierre, se levant d'un bond, s'écria : « Vous êtes le Libérateur, le Fils du Dieu vivant. »... (Jésus) dit : « Ceci vous a été révélé par mon Père. » <a id="a145_236"></a>[[LU 157:3.5-6](/fr/The_Urantia_Book/157#p3_5)]
+> Autre exemple : Jésus demanda à ses apôtres « Mais qui dites-vous que je le suis ? »... Simon Pierre, se levant d'un bond, s'écria : « Vous êtes le Libérateur, le Fils du Dieu vivant. »... (Jésus) dit : « Ceci vous a été révélé par mon Père. » <a id="a146_246"></a>[[LU 157:3.5-6](/fr/The_Urantia_Book/157#p3_5)]
 
 Et une expérience personnelle : n’ayant que peu de souvenirs de mon père humain après sa mort quand j’avais sept ans, j’ai profondément ressenti le manque de soins de la part d’un père. Quel désir j’avais de recevoir les conseils d’un père aimant. C’est dans ce contexte que je raconte une matinée charnière il y a des années. 
 
@@ -132,7 +156,7 @@ Oh, comme je lui ai parlé, en déversant mon cœur et en le remerciant d'être 
 
 **En résumé**, ce sont les manières dont j'entends et suis guidé. Il n’en reste pas encore d’autres à révéler. La communication avec le Divin évolue. Cette citation du _Livre d'Urantia_ illustre ceci :
 
-> De cette position de vie supérieure, l’homme peut transcender les irritations matérielles des niveaux inférieurs de pensée — soucis, jalousie, envie, désir de revanche et l’orgueil d’une personnalité immature. Les âmes qui gravissent ces hauteurs se délivrent d’une multitude de conflits enchevêtrés concernant les vétilles de l’existence, et deviennent ainsi libres pour prendre conscience des courants supérieurs de concepts spirituels et de communications célestes.  ([LU 160:3.5](/fr/The_Urantia_Book/160#p3_5))
+> De cette position de vie supérieure, l’homme peut transcender les irritations matérielles des niveaux inférieurs de pensée — soucis, jalousie, envie, désir de revanche et l’orgueil d’une personnalité immature. Les âmes qui gravissent ces hauteurs se délivrent d’une multitude de conflits enchevêtrés concernant les vétilles de l’existence, et deviennent ainsi libres pour prendre conscience des courants supérieurs de concepts spirituels et de communications célestes.  (<a id="a158_473"></a>[LU 160:3.5](/fr/The_Urantia_Book/160#p3_5))
 
 Harry McMullen, lors d'une conférence du _Livre d'Urantia_, a présenté sa vision du discernement de la volonté de Dieu. Voici un paragraphe pour vous donner un avant-goût (voir la note de bas de page pour la référence à son discours ; cela vaut la peine d'être lu.) 
 
@@ -149,3 +173,28 @@ McMullen III, Harry. _Principes pour connaître la volonté de Dieu_. De la Conf
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Kantor/What_Does_The_Urantia_Book_Tell_Us_Needs_to_be_Accomplished">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Que nous dit le Livre d’Urantia qui doit être accompli ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/A_Confederate_Soldiers_Prayer">
+          <span class="pr-2">La prière d'un soldat confédéré</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-02-08T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2004 Arlene et Buck Weimer<br>© 2004 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méditation dans le Livre d'Urantia — À la manière de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Room_In_My_Heart">
+          <span class="pr-2">Chambre dans mon coeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -16,7 +40,7 @@ dateCreated: 2023-02-08T14:02:03.086Z
 
 ## Le motif
 
-Le Fils Créateur et l'Esprit-Mère de l'Univers de Nébadon ont publié leur « Proclamation d'Égalité » [[LU 33:3.5,6](/fr/The_Urantia_Book/33#p3_5)] après qu'Elle ait reconnu sa subordination et qu'Il ait reconnu sa dépendance éternelle à son égard. Ils ont l'égalité dans toutes les dotations de personnalité, les attributs du caractère divin et l'autorité, et sont co-créateurs, co-dirigeants, coopératifs, coordonnateurs et co-directeurs. C’est le modèle universel du mariage : pour obtenir l’égalité, chacun doit « donner » quelque chose pour y parvenir. Sinon, une certaine forme de relation dominant/soumis existe.
+Le Fils Créateur et l'Esprit-Mère de l'Univers de Nébadon ont publié leur « Proclamation d'Égalité » <a id="a42_101"></a>[[LU 33:3.5,6](/fr/The_Urantia_Book/33#p3_5)] après qu'Elle ait reconnu sa subordination et qu'Il ait reconnu sa dépendance éternelle à son égard. Ils ont l'égalité dans toutes les dotations de personnalité, les attributs du caractère divin et l'autorité, et sont co-créateurs, co-dirigeants, coopératifs, coordonnateurs et co-directeurs. C’est le modèle universel du mariage : pour obtenir l’égalité, chacun doit « donner » quelque chose pour y parvenir. Sinon, une certaine forme de relation dominant/soumis existe.
 
 ## Homme/Féminin
 
@@ -42,11 +66,11 @@ Intégrer la compétence personnelle d’affirmation de soi dans la croissance d
 
 Une compétence de couple importante est de connaître les règles d'un combat loyal. L’objectif est de négocier une solution « à notre façon » basée sur le « bien suprême » pour les deux. Tout d’abord, séparez-vous si vous êtes en colère et calmez-vous avant de revenir à une heure convenue pour clarifier vos sentiments et vos pensées. Concentrez-vous sur un conflit à la fois. Les capacités d'écoute sont essentielles. Chaque personne doit apaiser son esprit tout en faisant un effort sincère pour comprendre la position de l’autre avec compassion. Il est utile que chaque partenaire répète la position de son partenaire pour garantir la compréhension, ce qui conduit à la tolérance, à l’amitié, à l’amour et au pardon. Utiliser le langage « je » plutôt que « vous » est utile dans cet effort. Recherchez une résolution en réfléchissant à des solutions possibles, puis négociez, négociez, négociez jusqu'à ce qu'une décision convenue soit atteinte pour une conclusion gagnant-gagnant acceptable pour les deux partenaires. L’incapacité à parvenir à une résolution entraîne souvent la chute d’une relation. Cela signifie généralement que l’un ou les deux conjoints ont un « agenda caché » ou que quelque chose ou quelqu’un est plus important que leur relation et leur amour.
 
-L'art du mariage peut être mieux conclu avec cette citation : « _Le mariage, avec les enfants et la vie de famille qui s’ensuit, stimule les plus hauts potentiels de la nature humaine... de patience, d’altruisme, de tolérance et de longanimité_ ... _fraternité entre tous les hommes_. [[LU 84:7.28](/fr/The_Urantia_Book/84#p7_28)]
+L'art du mariage peut être mieux conclu avec cette citation : « _Le mariage, avec les enfants et la vie de famille qui s’ensuit, stimule les plus hauts potentiels de la nature humaine... de patience, d’altruisme, de tolérance et de longanimité_ ... _fraternité entre tous les hommes_. <a id="a68_285"></a>[[LU 84:7.28](/fr/The_Urantia_Book/84#p7_28)]
 
 ## Les réunions de famille très importantes
 
-Tout comme la prise de décision est importante pour chaque individu pour faire la volonté du Père et pour déterminer le cours d’une relation, la prise de décision est tout aussi importante pour le bien-être général d’une famille. « _La société humaine serait grandement améliorée si les races civilisées voulaient revenir, plus généralement, à la pratique du conseil de famille des Andites._ » [[LU 84:7.29](/fr/The_Urantia_Book/84#p7_29)]
+Tout comme la prise de décision est importante pour chaque individu pour faire la volonté du Père et pour déterminer le cours d’une relation, la prise de décision est tout aussi importante pour le bien-être général d’une famille. « _La société humaine serait grandement améliorée si les races civilisées voulaient revenir, plus généralement, à la pratique du conseil de famille des Andites._ » <a id="a72_394"></a>[[LU 84:7.29](/fr/The_Urantia_Book/84#p7_29)]
 
 L'instauration de réunions familiales représente un changement de paradigme dans la parentalité, à plusieurs niveaux ; c'est-à-dire des rassemblements physiques hebdomadaires, le partage intellectuel d'idées, l'égalité spirituelle et la démocratie sociale. Il enseigne l'équilibre entre soi et l'altruisme tout en donnant aux enfants l'expérience d'ajuster leur ego émergent pour le bien-être de la famille. Des attitudes tout au long de la vie sont adoptées lorsque les enfants apprennent à négocier pour obtenir ce qu’ils veulent, plutôt que de crier et de hurler ou d’être tranquillement soumis. Les réunions familiales favorisent le travail d’équipe et solidifient l’identité familiale. C'est le moment de se mettre d'accord sur les règles familiales et sur les conséquences en cas de violation ou de dépassement des règles.
 
@@ -84,7 +108,7 @@ Les réunions de famille évoluent avec le temps. Suivez les règles du « livre
 
 La discipline est l'un des points chauds de la parentalité, il est donc encore une fois crucial que les deux parents soient unis et sur la même longueur d'onde. L’un des principaux objectifs de la discipline est d’enseigner la maîtrise de soi. Christ Michael, lorsqu'il enseignait sur Urantia, utilisait la méthode faisant autorité et enseignait toujours de manière positive. L’enseignement faisant autorité se situe quelque part entre l’autoritaire et le laissez-faire. Autoritaire signifie montrer, autoritaire signifie dire, et laisser-faire signifie non-ingérence. Quel est ton choix?
 
-Un parent n’est pas obligé d’être d’accord ou d’aimer les décisions prises par un enfant, mais il est important de respecter et de favoriser le libre arbitre d’un enfant – après l’arrivée de l’Ajusteur de Pensée. Faites la différence entre l’enfant en tant que personne et son comportement, et faites savoir que c’est le comportement qui n’est pas acceptable. Il est important pour une bonne discipline que les parents aient une autodiscipline bien développée « …_les pères sages ne punissent pas avec colère._ » [[LU 188:4.10](/fr/The_Urantia_Book/188#p4_10)]
+Un parent n’est pas obligé d’être d’accord ou d’aimer les décisions prises par un enfant, mais il est important de respecter et de favoriser le libre arbitre d’un enfant – après l’arrivée de l’Ajusteur de Pensée. Faites la différence entre l’enfant en tant que personne et son comportement, et faites savoir que c’est le comportement qui n’est pas acceptable. Il est important pour une bonne discipline que les parents aient une autodiscipline bien développée « …_les pères sages ne punissent pas avec colère._ » <a id="a110_513"></a>[[LU 188:4.10](/fr/The_Urantia_Book/188#p4_10)]
 
 ## Une méthode en quatre étapes
 
@@ -100,7 +124,7 @@ Les réunions de famille et la méthode de discipline Respect offrent une situat
 > Arlene était une bonne juive de Brooklyn et Buck était un homme rebelle originaire d'une petite ville de Pennsylvanie lorsqu'ils se sont rencontrés sur une île des Caraïbes en 1964. Ils se sont mariés en 1970, ont beaucoup voyagé, puis se sont installés à Pueblo, Colorado, en 1974. En plus de co-créer trois fils (Jon, Matt et Adam, maintenant adultes), ils ont établi une carrière : Arlene en tant que psychologue et Buck en tant que thérapeute clinicien dans un hôpital local. Ils sont lecteurs du _Livre d'Urantia_ et se consacrent à ses enseignements depuis 1972.
 {.is-info}
 
-> Presque toutes les valeurs durables de la civilisation ont leurs racines dans la famille. ([LU 68:2.8](/fr/The_Urantia_Book/68#p2_8))
+> Presque toutes les valeurs durables de la civilisation ont leurs racines dans la famille. (<a id="a126_93"></a>[LU 68:2.8](/fr/The_Urantia_Book/68#p2_8))
 
 ## Références
 
@@ -108,3 +132,28 @@ Les réunions de famille et la méthode de discipline Respect offrent une situat
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Peter_Holley/Meditation_in_The_Urantia_Book_Jesus_Style">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Méditation dans le Livre d'Urantia — À la manière de Jésus</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-5-numéro-2-2004-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 5, numéro 2, 2004 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dave_Holt/Room_In_My_Heart">
+          <span class="pr-2">Chambre dans mon coeur</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

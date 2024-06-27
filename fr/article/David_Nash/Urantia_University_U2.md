@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 David Nash (voir note en bas de page)<br>© 2009 La Fellowship du «Livre d'Urantia»</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le spectre illimité de l’éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship">
+          <span class="pr-2">Nos divinités créatrices – Une relation suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Si c’est votre première prise de conscience de l’Université Urantia, nous vous souhaitons la bienvenue et vous encourageons à visiter www.urantiauniversity.org. Ou lisez le manuel de l'Université Urantia trouvé sur le site Web pour mieux comprendre les objectifs, les directives et la vision en fournissant une base pour créer des érudits et des émissaires des enseignements révélateurs du _Livre d'Urantia_. 
@@ -31,7 +55,7 @@ L’Université Urantia offre une opportunité extraordinaire
 
 Afin d'obtenir les bénéfices découlant d'une connaissance plus profonde de la cinquième révélation d'époque de la vérité fournie dans _Le Livre d'Urantia_, l'Université d'Urantia est proposée comme un régime éducatif d'étudiant-enseignant à plusieurs niveaux et progressif, conçu comme un mélange de connaissances révélées. modèles éducatifs et le meilleur des modèles humains d’enseignement supérieur. L'Université Urantia est une initiative éducative conçue pour offrir aux étudiants et aux enseignants du livre l'opportunité de mieux comprendre ses enseignements révélés sur Dieu et sa réalité, de les intégrer plus pleinement dans leur esprit, leur cœur et leur âme, et de les rendre capables d'être des émissaires du révélé la vérité pour partager ces enseignements avec leurs semblables. 
 
-> Cet entrainement du mental et cette éducation de l’esprit se poursuivent depuis les mondes d’origine humaine, en passant par les mondes des maisons du système et les autres sphères de progrès associées à Jérusem, jusqu’aux 70 royaumes de socialisation rattachés à Édentia et aux 490 sphères de progrès spirituel entourant Salvington. Au siège même de l’univers, il y a de nombreuses écoles Melchizédeks, les collèges des Fils de l’Univers, les universités séraphiques, et les écoles des Fils Instructeurs et de l’Union des Jours. Toutes les dispositions possibles sont prises pour mettre les diverses personnalités de l’Univers en état de rendre de meilleurs services et d’améliorer leurs fonctions. L’univers tout entier est une vaste école. ([LU 37:6.2](/fr/The_Urantia_Book/37#p6_2))
+> Cet entrainement du mental et cette éducation de l’esprit se poursuivent depuis les mondes d’origine humaine, en passant par les mondes des maisons du système et les autres sphères de progrès associées à Jérusem, jusqu’aux 70 royaumes de socialisation rattachés à Édentia et aux 490 sphères de progrès spirituel entourant Salvington. Au siège même de l’univers, il y a de nombreuses écoles Melchizédeks, les collèges des Fils de l’Univers, les universités séraphiques, et les écoles des Fils Instructeurs et de l’Union des Jours. Toutes les dispositions possibles sont prises pour mettre les diverses personnalités de l’Univers en état de rendre de meilleurs services et d’améliorer leurs fonctions. L’univers tout entier est une vaste école. (<a id="a57_746"></a>[LU 37:6.2](/fr/The_Urantia_Book/37#p6_2))
 
 ## Vision stratégique 
 
@@ -81,3 +105,28 @@ Les enseignants des trois niveaux seront affectés à d'autres épreuves/groupes
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Glass/The_Limitless_Spectrum_of_Education">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le spectre illimité de l’éducation</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-10-numéro-1-2009-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 10, numéro 1, 2009 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/Our_Creative_Deities_A_Supreme_Relationship">
+          <span class="pr-2">Nos divinités créatrices – Une relation suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

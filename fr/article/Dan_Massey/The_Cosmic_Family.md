@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Dan Massey<br>© 1997 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC_96_Coverage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Couverture IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Group_Directory">
+          <span class="pr-2">Répertoire des groupes d’étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Dan Massey
@@ -145,7 +169,7 @@ Trois personnes, une demeure et la quête de l’unité pouvoir-personnalité da
 
 Chez nos amis célestes, le modèle familial suprême semble apparaître dans de nombreuses situations. Par exemple, nous trouvons trois Anciens des Jours résidant sur Uversa, et nous trouvons trois classes d’êtres comprenant un trio juridique : le Conseiller Divin, le Perfecteur de Sagesse et le Censeur Universel. Là où les associations de modèles sont personnalisées, nous trouvons sept Maîtres Esprits, chacun résidant sur l’un des sept satellites paradisiaques de l’Esprit Infini. La manifestation la plus frappante du modèle d’organisation qui nous a été révélé est peut-être dans le quatuor d’êtres constituant une commission de conciliation, car nous trouvons ici trois êtres spirituels unis à un être semi-matériel, le Bourreau Divin. Et ce schéma se retrouve dans les actions et les délibérations d’une telle commission.
 
-> « Dieu n’est pas seulement celui qui détermine la destinée, il *est* la destination éternelle de l’homme. Toutes les activités humaines non religieuses cherchent à plier l’univers au service déformant du moi. Les individus vraiment religieux cherchent à identifier leur moi avec l’univers, et à dédier ensuite les activités de ce moi unifié au service de la famille universelle de leurs compagnons, humains et suprahumains. » ([LU 5:4.3](/fr/The_Urantia_Book/5#p4_3))
+> « Dieu n’est pas seulement celui qui détermine la destinée, il *est* la destination éternelle de l’homme. Toutes les activités humaines non religieuses cherchent à plier l’univers au service déformant du moi. Les individus vraiment religieux cherchent à identifier leur moi avec l’univers, et à dédier ensuite les activités de ce moi unifié au service de la famille universelle de leurs compagnons, humains et suprahumains. » (<a id="a171_429"></a>[LU 5:4.3](/fr/The_Urantia_Book/5#p4_3))
 
 Les expressions du modèle de la famille absolue ne se limitent pas aux associations d’êtres célestes. À maintes reprises, nous retrouvons le schéma de trois générations de causalité, combinées en une seule entreprise, recherchant une unité harmonieuse de fonction.
 
@@ -169,3 +193,28 @@ Et chacune de ces choses n’évoque-t-elle pas la nature du Suprême ?
 
 Car le modèle de la famille cosmique absolue est le modèle qui donne sens et forme au Tout-Puissant Suprême. Nous ne faisons l’expérience d’aucune réalité collective dans laquelle nous ne trouvons pas ce modèle, et il n’y a aucun endroit dans notre expérience où l’objectif suprême de l’unité par l’harmonie échouera. Voilà donc la révélation de la famille cosmique, le modèle qui organise l’univers, la révélation de l’unité universelle par l’harmonie, la finalité de la suprématie, la grande révélation du _Livre d’Urantia_.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/IC_96_Coverage">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Couverture IC 96</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1997-vol-6-n°9">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1997 — Vol. 6 n°9 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Group_Directory">
+          <span class="pr-2">Répertoire des groupes d’étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

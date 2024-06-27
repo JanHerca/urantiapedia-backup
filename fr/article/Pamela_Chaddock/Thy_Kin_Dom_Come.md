@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Pamela Chaddock<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hill/Revelation">
+          <span class="pr-2">Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Pamela_Chaddock/06.jpg">
@@ -16,7 +37,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 
 _par Pamela Chaddock_
 
-Le christianisme a en effet rendu un grand service à ce monde, mais ce dont on a le plus besoin aujourd’hui, c’est Jésus. . . vivre à nouveau sur terre dans l'expérience des mortels nés d'esprit qui révèlent effectivement le Maître à tous les hommes ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)).
+Le christianisme a en effet rendu un grand service à ce monde, mais ce dont on a le plus besoin aujourd’hui, c’est Jésus. . . vivre à nouveau sur terre dans l'expérience des mortels nés d'esprit qui révèlent effectivement le Maître à tous les hommes (<a id="a39_251"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)).
 
 Aujourd’hui, nous voyons l’Esprit de Vérité s’engager de manière créative auprès de religieux courageux et perspicaces qui cherchent hardiment à ressusciter Jésus du tombeau de la théologie chrétienne fossilisée. J’ai trouvé l’histoire suivante très encourageante.
 
@@ -41,7 +62,7 @@ Diana et de nombreux autres réfugiés religieux réclament une « nouvelle thé
 
 À ceux qui vantent un Dieu courroucé, vous entendrez le philosophe, théologien et sage courtois [Tripp Fuller](https://en.wikipedia.org/wiki/Tripp_Fuller) rétorquer : « Dieu doit être au moins aussi gentil que Jésus ! C'est une bonne théologie.
 
-> Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. Et, quand Jésus sera ainsi élevé, il attirera tous les hommes à lui. ([LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
+> Il faut que la culture moderne soit spirituellement baptisée d’une nouvelle révélation de la vie de Jésus et illuminée par une nouvelle compréhension de son évangile de salut éternel. Et, quand Jésus sera ainsi élevé, il attirera tous les hommes à lui. (<a id="a64_256"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1))
 
 La lutte éternelle pour évoluer est bien capturée dans une histoire galvanisante de Jésus popularisée dans le projet de film actuel financé par le public, _The Chosen_. Nicodème, grand prêtre pharisien de la Torah, se retrouve pris au piège, coincé entre ses croyances traditionnelles rigides et son besoin intérieur croissant de croire en la divinité de Jésus. À ses camarades anachroniques, il argumente avec véhémence : « Si Dieu faisait quelque chose de différent de la Torah, essaieriez-vous de le remettre dans cette boîte ? »
 
@@ -49,7 +70,7 @@ Donc, si vous envisagez de suivre Dieu, la série provoque : « Habituez-vous à
 
 La réforme nécessaire progresse à un rythme soutenu avec le démantèlement et la désintégration d’un système ecclésial fatigué. Les chrétiens prémonitoires vont de l’avant en défendant la renaissance du concept du Royaume de Jésus. Aujourd’hui, nous voyons le Kin-dom se déployer davantage comme un organisme vivant, un modèle de service familial – la fraternité invisible proclamée par Jésus.
 
-> Cet évangile du royaume est une vérité vivante. ... La révélation que je vous ai faite est une *révélation vivante,* ... Il ne faut pas le laisser devenir un simple souvenir sacré, une simple tradition à propos de moi et de l’époque où nous vivons présentement. ([LU 178:1.15](/fr/The_Urantia_Book/178#p1_15))
+> Cet évangile du royaume est une vérité vivante. ... La révélation que je vous ai faite est une *révélation vivante,* ... Il ne faut pas le laisser devenir un simple souvenir sacré, une simple tradition à propos de moi et de l’époque où nous vivons présentement. (<a id="a72_265"></a>[LU 178:1.15](/fr/The_Urantia_Book/178#p1_15))
 
 Les luttes actuelles persistent entre les interprétations fondamentales « exclusives » et les tendances pluralistes plus « inclusives » reflétées dans l'évangile généreux de Jésus. À travers tout cela, l’auteur-théologien Brian McLaren salue l’avènement d’une résurrection cosmique. Et à travers le dôme se trouve le Christ Michael cosmique, Maître Fils de l'univers local.
 
@@ -58,3 +79,24 @@ Les luttes actuelles persistent entre les interprétations fondamentales « excl
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michael_Hill/Revelation">
+          <span class="pr-2">Révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

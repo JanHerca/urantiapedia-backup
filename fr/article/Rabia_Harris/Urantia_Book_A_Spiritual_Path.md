@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Rabia Harris<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voies d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="pr-2">Le défi de l’éducation basée sur la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Il fut un temps où la religion d’une culture définissait une personne tout au long de sa vie. Aucun choix n'a été présenté comme faisant partie de sa socialisation. Cela ne devait jamais être remis en question. Même s’il y a eu doute et scepticisme, rares sont ceux, dans les sociétés établies, qui ont osé remettre en question le paradigme religieux dominant. 
@@ -54,11 +78,36 @@ Il est peut-être temps de commencer à utiliser de nouveaux mots pour nos liens
 
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voies d'époque</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bruce_Jackson/The_Challenge_of_Revelation_Based_Education">
+          <span class="pr-2">Le défi de l’éducation basée sur la révélation</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
 Toutes les citations du _Livre d'Urantia_ : 
 
-[^1]: [LU 19:2.6](/fr/The_Urantia_Book/19#p2_6) ; 
-[^2]: [LU 195:10.18](/fr/The_Urantia_Book/195#p10_18) ; 
-[^3]: [LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) 
+[^1]: <a id="a109_6"></a>[LU 19:2.6](/fr/The_Urantia_Book/19#p2_6) ; 
+[^2]: <a id="a110_6"></a>[LU 195:10.18](/fr/The_Urantia_Book/195#p10_18) ; 
+[^3]: <a id="a111_6"></a>[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1) 
 

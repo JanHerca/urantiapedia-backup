@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 James Perry<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Part_and_the_Whole">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une partie et le tout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Unity">
+          <span class="pr-2">Unité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/James_Perry/34.jpg">
@@ -32,7 +56,7 @@ Il est impératif pour nous tous de réfléchir aux raisons pour lesquelles nous
 
 <br style="clear:both;"/>
 
-> Vous pouvez faire une œuvre importante si vous ne vous attribuez pas d’importance. ([LU 48:6.37](/fr/The_Urantia_Book/48#p6_37))
+> Vous pouvez faire une œuvre importante si vous ne vous attribuez pas d’importance. (<a id="a58_86"></a>[LU 48:6.37](/fr/The_Urantia_Book/48#p6_37))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/James_Perry/37.jpg">
@@ -41,3 +65,27 @@ Il est impératif pour nous tous de réfléchir aux raisons pour lesquelles nous
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Part_and_the_Whole">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une partie et le tout</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Unity">
+          <span class="pr-2">Unité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2001 Les Jamieson<br>© 2001 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Le Livre d'Urantia entre dans le domaine public
 
@@ -22,7 +40,7 @@ L'issue du procès affectera forcément un accord entre la Fondation Urantia et 
 
 Le thème inspirant de « Foi vivifiante » attire les lecteurs du Livre d'Urantia d'ici et d'ailleurs à Santa Cruz, en Californie, les 9, 10, 11 et 12 août. La session d'été se tiendra sur le campus pittoresque de l’Université de Californie à Santa Cruz, en Californie. Cruz, situé en hauteur sur une colline surplombant toute la baie de Monterey. Lee Smith, du comité coparrain de l’éducation et de la Golden Gate Society, déclare : « D’un point de vue expérimental, qu’est-ce qui pourrait être plus important que la foi ? » Une fois que notre décision est prise de trouver le Père Infini, la foi est peut-être le problème fondamental auquel chacun de nous est continuellement confronté au cours de notre voyage dans notre vie mortelle - et persiste sous certains aspects tout au long de notre carrière d'ascension au Paradis.
 
-« Le travail de l’Ajusteur de Pensée constitue l’explication de la traduction du sens primitif et évolutif du devoir de l’homme en cette foi plus élevée et plus certaine dans les réalités éternelles de la révélation. Il doit y avoir une faim de perfection dans le cœur de l’homme pour assurer sa capacité à comprendre la foi. chemins vers l’accomplissement suprême. ... La confiance enfantine garantit l’entrée de l’homme dans le royaume de l’ascension céleste, mais le progrès dépend entièrement de l’exercice vigoureux de la foi robuste et confiante de l’homme adulte. ([LU 102:1.1](/fr/The_Urantia_Book/102#p1_1)) La session de trois jours plongera dans les domaines de la foi en relation avec : (l) la guérison et le développement de notre relation avec Dieu à travers une foi vivante ; (2) grandir dans la foi par le service ; et (3) réaliser et célébrer notre foi comme prélude au destin.
+« Le travail de l’Ajusteur de Pensée constitue l’explication de la traduction du sens primitif et évolutif du devoir de l’homme en cette foi plus élevée et plus certaine dans les réalités éternelles de la révélation. Il doit y avoir une faim de perfection dans le cœur de l’homme pour assurer sa capacité à comprendre la foi. chemins vers l’accomplissement suprême. ... La confiance enfantine garantit l’entrée de l’homme dans le royaume de l’ascension céleste, mais le progrès dépend entièrement de l’exercice vigoureux de la foi robuste et confiante de l’homme adulte. (<a id="a42_572"></a>[LU 102:1.1](/fr/The_Urantia_Book/102#p1_1)) La session de trois jours plongera dans les domaines de la foi en relation avec : (l) la guérison et le développement de notre relation avec Dieu à travers une foi vivante ; (2) grandir dans la foi par le service ; et (3) réaliser et célébrer notre foi comme prélude au destin.
 
 Bien qu’il s'agisse d'une courte session d'étude d'été, elle sera remplie d'opportunités d'apprentissage, de croissance, de socialisation et d'adoration ensemble. L'environnement de Santa Crul Monterey Bay est désigné sanctuaire marin national et offre de nombreuses attractions pittoresques pour ceux qui souhaitent explorer la région avant ou après la session d'été. Pour plus d'informations, consultez le site Web de la Fellowship du Livre d'Urantia à www.urantiabook.org. Il existe également un formulaire d'inscription sur ce site à imprimer, à envoyer ou à faxer au bureau de la Fellowship au : 529 Wrightwood Avenue ; Chicago, Illinois, 60614. Fax : 773-321-6159 ou appelez au 773-327-0424.
 
@@ -44,7 +62,7 @@ Le lac Griffin était le cadre naturel d'une odyssée de foi lors de la confére
 
 Les jeux, les exercices, les divertissements, les ateliers et le culte ont créé une expérience bien équilibrée et joyeuse, et ont produit une meilleure compréhension de la nécessité de se rassembler et de servir Dieu les uns dans les autres. 
 
-> « La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre. Le fait d’accepter un enseignement comme vrai n’est pas la foi, c’est une simple croyance. La certitude et la conviction ne sont pas non plus la foi. Une disposition mentale n’atteint les niveaux de la foi que si elle domine effectivement la manière de vivre. La foi est un attribut vivant de l’expérience religieuse personnelle authentique. On croit la vérité, on admire la beauté, on respecte la bonté, mais on ne les adore pas. Une telle attitude de foi salvatrice est centrée sur Dieu seul, qui personnifie la vérité, la beauté, la bonté et infiniment plus encore. » ([LU 101:8.1](/fr/The_Urantia_Book/101#p8_1))
+> « La croyance a atteint le niveau de la foi quand elle motive la vie et façonne la manière de vivre. Le fait d’accepter un enseignement comme vrai n’est pas la foi, c’est une simple croyance. La certitude et la conviction ne sont pas non plus la foi. Une disposition mentale n’atteint les niveaux de la foi que si elle domine effectivement la manière de vivre. La foi est un attribut vivant de l’expérience religieuse personnelle authentique. On croit la vérité, on admire la beauté, on respecte la bonté, mais on ne les adore pas. Une telle attitude de foi salvatrice est centrée sur Dieu seul, qui personnifie la vérité, la beauté, la bonté et infiniment plus encore. » (<a id="a64_675"></a>[LU 101:8.1](/fr/The_Urantia_Book/101#p8_1))
 
 ## Note d'actualité du site Web
 
@@ -65,7 +83,7 @@ La bourse a reçu un don généreux d'un montant de 10 000 $ à utiliser comme f
 À 2h30 du matin le 18 mars, après seize heures et demie de négociations médiatisées dans les bureaux d'un cabinet d'avocats de Chicago, la Fondation Urantia et la Fellowship du Livre d'Urantia ont signé un protocole d'accord manuscrit conçu pour résoudre les différends entre les deux. organisations concernant les questions de droits d’auteur et de marques déposées. La session de négociation de Chicago a été précédée par une série de communications entre la Fondation et la Fellowship pendant plusieurs mois, commençant par une plainte de la Fondation concernant des violations présumées des droits d'auteur et des marques déposées sur le site Web de la Fellowship. Le protocole d'accord constitue une liste des termes de l’accord. Il a été convenu que le document, bien que immédiatement contraignant pour les deux parties, nécessitait d'affiner le langage et que les deux parties continueraient à travailler sur cet raffinement jusqu’à ce qu’elles parviennent à la « mémorialisation » finale de l’accord. Il a également été convenu que les deux parties publieraient une déclaration publique commune sur l’accord. Les efforts pour accomplir ces deux dernières étapes n'ont pas encore abouti, malgré le sentiment de la part de l’équipe de la Fellowship que toutes les divergences restantes concernant les deux documents ont été résolues.
 
 Les demandes de la Fondation qui étaient sur la table avant la réunion du 17 mars étaient essentiellement les suivantes : 1) La Fraternité devrait supprimer de son site Web toutes les traductions du _Livre d'Urantia_, les traductions terminées de la Fondation ainsi que les traductions partielles ou « non autorisées » ; 2) Concernant le texte anglais du _Le Livre d'Urantia_, la Fraternité doit soit afficher une version HTML du texte de la Fondation, soit supprimer tous les textes contextuels et notes de bas de page de sa propre version : 3) La Fraternité doit cesser d'utiliser son adresse Internet www .urantiabook.org; 4) La Fraternité devrait transférer tous les noms de domaine qu’elle a enregistrés et qui incluent les mots « Urantian » ou « Urantia » à la Fondation ; 5) La Fraternité devrait transférer tous les vrais noms qu’elle possède contenant le mot « Urantia » sous quelque forme ou combinaison que ce soit à la Fondation Urantia ; 6) La Communauté devrait cesser d'utiliser la Fellowship du Livre d'Urantia comme nom d'organisation. Les termes essentiels de l’accord en vertu du protocole d’accord (avec quelques paraphrases pour plus de clarté) sont les suivants : 
-1. La Fraternité dispose d'une licence non exclusive et libre de droits pour afficher sur son site Web le texte anglais officiel du _Livre d'Urantia_. Il est obligatoire d'afficher une mention de droit d'auteur en conjonction avec ce texte. La Fellowship peut continuer à afficher sa version du texte anglais, y compris le système de référence des sections de papier, les commentaires, les notes de bas de page et les annotations. Mais la version du texte de la Bourse, appelée dans cet accord « le texte d'aide à l’étude », n'est accessible que via un bouton de lien fourni sur la page de texte officielle. 
+1. La Fraternité dispose d'une licence non exclusive et libre de droits pour afficher sur son site Web le texte anglais officiel du _Livre d'Urantia_. Il est obligatoire d'afficher une mention de droit d'auteur en conjonction avec ce texte. La Fellowship peut continuer à afficher sa version du texte anglais, y compris le système de référence des sections de papier, les commentaires, les notes de bas de page et les annotations. Mais la version du texte de la Fellowship, appelée dans cet accord « le texte d'aide à l’étude », n'est accessible que via un bouton de lien fourni sur la page de texte officielle. 
 2. La Fraternité a une licence pour établir un lien vers les traductions UF du _Le Livre d'Urantia_ sur le site Web de l’UF et pour que ces traductions soient encadrées par la page Web de la Fraternité. Conformément à cette disposition, la Fellowship devra supprimer les traductions de l’UF de son propre site, mais seulement après que l’UF sera en mesure de fournir le texte traduit aux visiteurs à une vitesse de téléchargement équivalente à celle actuellement fournie par la Fellowship. 
 3. La bourse ne fournira pas de liens directs vers des traductions « non autorisées ». Mais en ce qui concerne les langues dans lesquelles l’UF n'a pas de traduction publiée, la Fellowship est libre de réimprimer des articles comprenant jusqu’à 1 500 mots de traduction non autorisée si pour chaque mot traduit il y a au moins deux mots originaux de l’auteur. 
 4. La Fraternité aura le droit de continuer à utiliser : a) « _La Fellowship du Livre d'Urantia_ » comme nom d'organisation ; b) des balises méta incorporant l’un des mots déposés par la Fondation Urantia ; .org (jusqu’à ce que ce dernier soit transféré à UF).
@@ -122,3 +140,22 @@ site Web, http://www.ubfellowship.org
 * Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2001 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

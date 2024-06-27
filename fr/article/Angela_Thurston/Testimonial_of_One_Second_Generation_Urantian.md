@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Angela Thurston<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Socialisation cosmique et citoyenneté planétaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="pr-2">Le problème des affaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Je m'appelle Angela Thurston et j'ai vingt-cinq ans. À bien des égards, je sais que l’éducation que mes frères et sœurs et moi avons reçue n’était pas unique ; de nombreux enfants ont la chance de grandir avec _Le Livre d'Urantia_ dans leur foyer et dans le cadre de leurs routines familiales. Certains de ces enfants adhèrent au livre, d’autres non. Ce n’est pas mon intention d’exposer les facteurs critiques qui ont conduit mes deux jeunes frères et sœurs et moi-même à accepter le livre comme étant la vérité et à nous identifier sans réserve comme Urantiens dans nos vies de jeunes adultes. Notre libre arbitre exclut ce modèle. Cependant, il y a des façons dont je crois que notre expérience de grandir dans une maison et une communauté urantienne était, sinon unique, du moins un exemple positif. J’en expliquerai quelques-uns dans l’article qui suit. 
@@ -39,7 +63,7 @@ Pendant un certain temps, notre groupe d'étude a essayé d'initier un service r
 
 Nous avons beaucoup ri lors du groupe d'étude. Étant au lycée, bien sûr, j'étais parfois mécontent de la routine et parfois je me sentais trop occupé, trop sollicité ou amoureux pour passer mon mardi soir de cette façon. Mais nous nous sommes vraiment bien amusés. Nous avons tous été amusés par les commentaires fréquents des révélateurs sur le fait que nous, les mortels, ne pouvions pas espérer comprendre un concept donné ou sur le fait qu'il n'y avait tout simplement aucun mot dans notre faible langue pour exprimer ce qu'ils souhaitaient transmettre. Nous avons adoré Ceux sans nom ni numéro. Nous avons longuement discuté des directeurs de réversion et des non-respirateurs. Quand nous avons terminé la première partie, nous avons organisé une fête. Lorsque nous avons terminé la deuxième partie, nous avons organisé une autre fête et sommes passés à de beaux livres reliés en cuir. Je suis parti à l'université avant d'avoir terminé les parties III et IV, mais le groupe a continué et a finalement terminé le livre en entier. 
 
-Je ne peux pas imaginer les dix années entre huit et dix-huit ans sans la constance, la légèreté et la communauté qui définissaient nos groupes d'étude réguliers. J'ai une chance incomparable d'avoir eu l'opportunité de découvrir _Le Livre d'Urantia_ avec un groupe de personnes que j'aimais et en qui j'avais confiance, et surtout d'avoir eu le mentorat de mes parents et d'autres adultes combiné au partenariat de mes frères et sœurs et amis. Même si j'étais le seul Urantien de ma classe de fin d'études secondaires, je savais que tout le monde dans le groupe d'étude apprécierait ma citation du livre de fin d'études : « _La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard._ » [[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)] 
+Je ne peux pas imaginer les dix années entre huit et dix-huit ans sans la constance, la légèreté et la communauté qui définissaient nos groupes d'étude réguliers. J'ai une chance incomparable d'avoir eu l'opportunité de découvrir _Le Livre d'Urantia_ avec un groupe de personnes que j'aimais et en qui j'avais confiance, et surtout d'avoir eu le mentorat de mes parents et d'autres adultes combiné au partenariat de mes frères et sœurs et amis. Même si j'étais le seul Urantien de ma classe de fin d'études secondaires, je savais que tout le monde dans le groupe d'étude apprécierait ma citation du livre de fin d'études : « _La manière la plus rapide pour un têtard de devenir une grenouille est de vivre loyalement chaque instant comme un têtard._ » <a id="a65_752"></a>[[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4)] 
 
 ## Communauté dans son ensemble : attente de remise en question 
 
@@ -66,3 +90,28 @@ Tous les enfants de huit ans immergés dans les enseignements du _Livre d'Uranti
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dave_Holt/Cosmic_Socialization_and_Planetary_Citizenship">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Socialisation cosmique et citoyenneté planétaire</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dan_Amyx/The_Problem_of_Business">
+          <span class="pr-2">Le problème des affaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

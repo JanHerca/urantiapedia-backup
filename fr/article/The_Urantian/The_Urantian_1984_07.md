@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1984"
+title: "« The Urantian » — Numéro d'été 1984"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1984 Neal Waldrop<br>© 1984 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Disowning_the_past">
+          <span class="pr-2">« The Urantian » — Numéro d'été 1984</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été adapté d'un discours prononcé à la Conférence Allenberry des lecteurs du Livre d'URANTIA, à Boiling Springs, Pennsylvanie, en mai 1984._
@@ -26,7 +47,29 @@ _Silver Spring, Maryland_
 
 ---
 
-> « _Même grandement modifiés, les enseignements de Jésus ont survécu aux cultes des mystères de leur époque natale, à l’ignorance et à la superstition des âges de ténèbres ; et, en ce moment même, ils triomphent lentement du matérialisme, du machinisme et du laïcisme du vingtième siècle. Et de telles époques de grandes épreuves et de défaites menaçantes sont toujours des périodes de grande révélation._ » ([LU 195:9.3](/fr/The_Urantia_Book/195#p9_3))
+> « _Même grandement modifiés, les enseignements de Jésus ont survécu aux cultes des mystères de leur époque natale, à l’ignorance et à la superstition des âges de ténèbres ; et, en ce moment même, ils triomphent lentement du matérialisme, du machinisme et du laïcisme du vingtième siècle. Et de telles époques de grandes épreuves et de défaites menaçantes sont toujours des périodes de grande révélation._ » (<a id="a49_410"></a>[LU 195:9.3](/fr/The_Urantia_Book/195#p9_3))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1984">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1984 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Disowning_the_past">
+          <span class="pr-2">« The Urantian » — Numéro d'été 1984</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

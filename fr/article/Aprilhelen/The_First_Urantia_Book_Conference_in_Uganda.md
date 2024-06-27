@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Aprilhelen<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pasko (Noël)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="pr-2">Rapport annuel 2022 sur le pipeline de lumière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -21,7 +45,7 @@ Le mois d’août 2022 est marqué comme un moment fort dans notre communauté. 
 
 ## Allez l’équipe!
 
-> L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du *travail en équipe.* ([LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
+> L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du *travail en équipe.* (<a id="a47_115"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
 
 Je suis récemment devenu président du comité des jeunes et des jeunes adultes (Ya YA) de la Urantia Book Fellowship (alias la Fellowship), après avoir servi le comité pendant une décennie. Deux de nos principaux objectifs ont été la sensibilisation (action multi-comités) et la sensibilisation (collaboration trans-organisationnelle). Oluwatooni « Toni » Oyeyemi et moi-même sommes d'excellents exemples de cet objectif. Nous avons très bien travaillé ensemble au cours des dernières années, actuellement en tant que membres du Comité Ya YA et au service de plusieurs autres comités, programmes et organisations du Livre d'Urantia. Lui et moi sommes liés par notre passion pour l’éducation des jeunes. Nous convenons que la voie la plus efficace est de vivre les enseignements au mieux de nos capacités, en étant de bons exemples et en portant les fruits de l’esprit divin.
 
@@ -32,7 +56,7 @@ Je suis récemment devenu président du comité des jeunes et des jeunes adultes
 
 Toni et moi siégeons également au comité des bourses internationales de la Fellowship (IFC) et nous nous sommes rendus en Ouganda en tant que représentants. La conclusion commune de notre expérience en Ouganda est la validation de la nécessité de renforcer le travail d'équipe. Cela signifie s’engager dans une collaboration motivée par la spiritualité, en particulier lorsque l’on représente une organisation centrée sur la spiritualité.
 
-Non seulement les esprits apparentés sont attirés les uns vers les autres, mais un mental apparenté à un autre est aussi très fraternel et enclin à coopérer avec lui. ([LU 16:6.3](/fr/The_Urantia_Book/16#p6_3))
+Non seulement les esprits apparentés sont attirés les uns vers les autres, mais un mental apparenté à un autre est aussi très fraternel et enclin à coopérer avec lui. (<a id="a58_168"></a>[LU 16:6.3](/fr/The_Urantia_Book/16#p6_3))
 
 Notre frère Toni a vécu une expérience très différente de la mienne lors de la conférence, qui a également été une expérience significative de travail d'équipe. Le lendemain de son arrivée, son corps a insisté pour prendre congé du dispensaire, situé au premier étage, juste en dessous de l’hôtel où se tenait la conférence. Il a pu être embrassé par les soins affectueux de plusieurs participants. Dans ses mots :
 
@@ -115,3 +139,28 @@ Ma gratitude abonde pour le soutien spirituel et financier continu que j'ai reç
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Eugene_Asidao/Pasko_Christmas">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Pasko (Noël)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Geoff_Theiss/2022_Annual_Pipeline_of_Light_Report">
+          <span class="pr-2">Rapport annuel 2022 sur le pipeline de lumière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

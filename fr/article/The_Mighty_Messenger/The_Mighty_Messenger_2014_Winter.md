@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2014 Angie Thurston, Liz Craig, Scott Brooks<br>© 2014 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Session d'étude d'été 2015
 
@@ -28,7 +46,7 @@ Les informations d'inscription apparaîtront sur ces pages ainsi que dans d'autr
 
 Par _Angie Thurston_
 
-> _L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du travail en équipe. Ceux qui ont dominé cet art de travailler avec d’autres êtres peuplent les sphères de perfection._ ([LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
+> _L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du travail en équipe. Ceux qui ont dominé cet art de travailler avec d’autres êtres peuplent les sphères de perfection._ (<a id="a48_213"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2014_Winter/005841.jpg">
@@ -189,3 +207,22 @@ www.urantiabook.org
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://archive.urantiabook.org/archive/newsletters/mightymessenger/MM-14.pdf)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-hiver-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver 2014 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

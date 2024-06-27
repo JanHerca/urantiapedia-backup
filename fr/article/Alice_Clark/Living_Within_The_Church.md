@@ -9,13 +9,37 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Alice Clark<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Habitudes religieuses : luxe ou nécessité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Cole/The_Art_Of_Growing_Spiritually">
+          <span class="pr-2">L'art de grandir spirituellement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Au début de notre groupe d'étude, les membres les plus évangéliques ont vite découvert les dangers de trop parler à des gens qui ne souhaitaient pas changer leurs points de vue religieux. Quelques expériences malheureuses nous ont amenés à chercher de meilleures façons d’approcher nos amis. À cette fin, nous avons commencé à étudier la vie de Jésus pour découvrir comment il l’a fait.
 
 L’une des premières leçons a été que nous devions faire très attention à nos propres raisons ; nous avons dû nous éloigner du point focal. Jésus s’adresse aux gens avec une attitude positive. En commençant au niveau de la compréhension de la personne, il la conduisait avec douceur et amour vers des concepts plus élevés, de sorte qu'elle se réjouisse d'avoir été touchée et ne se sente jamais meurtrie ou manipulée.
 
-Nous avons découvert qu'en utilisant ce genre de méthode, nous pouvions entrer de manière créative dans les activités de l'Église. Nous avons pris à cœur des leçons telles que « La nature positive de la religion de Jésus » et « L'avenir ». ([LU 159:5.1](/fr/The_Urantia_Book/159#p5_1), [LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)) L'inspiration du _Livre d'URANTIA_ nous a permis de continuer notre travail dans l'église. Nous voulions conserver cette relation, qui a toujours compté pour nous, à cause de nos nombreux amis là-bas et de notre propre besoin d'un centre de culte. Même s'il peut y avoir certaines limites au contenu de notre partage avec nos amis de l'Église, il n'y a aucune limite à la réalité de l'amour et de l'attention que nous ressentons les uns pour les autres. La vie serait bien plus étroite sans cette connexion.
+Nous avons découvert qu'en utilisant ce genre de méthode, nous pouvions entrer de manière créative dans les activités de l'Église. Nous avons pris à cœur des leçons telles que « La nature positive de la religion de Jésus » et « L'avenir ». (<a id="a41_241"></a>[LU 159:5.1](/fr/The_Urantia_Book/159#p5_1), <a id="a41_286"></a>[LU 195:10.1](/fr/The_Urantia_Book/195#p10_1)) L'inspiration du _Livre d'URANTIA_ nous a permis de continuer notre travail dans l'église. Nous voulions conserver cette relation, qui a toujours compté pour nous, à cause de nos nombreux amis là-bas et de notre propre besoin d'un centre de culte. Même s'il peut y avoir certaines limites au contenu de notre partage avec nos amis de l'Église, il n'y a aucune limite à la réalité de l'amour et de l'attention que nous ressentons les uns pour les autres. La vie serait bien plus étroite sans cette connexion.
 
 Certains membres du groupe d'étude ont remis en question le maintien d'une telle participation de l'Église, en particulier dans des sacrements tels que l'Eucharistie, expliquant qu'ils se sentaient comme des hypocrites. Mais en étudiant ce sacrement et sa véritable signification, nous avons découvert que nous pouvions entrer dans l'esprit de cette cérémonie en sachant que même si d'autres pouvaient lui donner une interprétation légèrement différente, le résultat final est le même : un dévouement plus profond de soi à Dieu, une reconnaissance et un rejet de nos faiblesses et de nos échecs indésirables, et une croyance sincère en l'amour éternel de Dieu.
 
@@ -25,3 +49,28 @@ Il y a quand même de l'espoir. Avec quelques membres laïcs progressistes, un c
 
 —_Alice Clark_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Religious_Habits_Luxury_or_Necessity">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Habitudes religieuses : luxe ou nécessité ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Ann_Cole/The_Art_Of_Growing_Spiritually">
+          <span class="pr-2">L'art de grandir spirituellement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

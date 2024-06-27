@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien oublié : Dr Lena Celestia (Kellogg) Sadler"
+title: "« The Urantian » oublié : Dr Lena Celestia (Kellogg) Sadler"
 description: 
 published: true
 date: 2023-02-14T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2012 Larry Mullins<br>© 2012 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l'expérience contre religion de l'autorité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">La cosmologie à la lumière du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -20,7 +44,7 @@ Lena C. Sadler, 1875 - 939, était médecin, chirurgienne, obstétricienne, conf
 
 Plus tard dans sa vie, Lena est devenue une militante de premier plan qui a donné des conférences et travaillé avec diligence pour reconnaître les contributions des femmes en tant que professionnelles dans les domaines médical et scientifique. Elle a été professeure agrégée de physiologie thérapeutique à la Post Graduate Medical School de Chicago, directrice associée du Chicago Institute of Physiologic Therapeutics, membre de l'American Medical Association et spécialiste des maladies des femmes et des enfants. 
 
-La plupart des Urantiens savent que « Dr. Lena »seulement en tant qu'épouse du Dr William Sadler. Mais elle était bien plus que cela. Le Dr Lena a été un protagoniste à pratiquement tous les tournants critiques du processus de révélation. De nombreux historiens urantiens croient qu'elle était une réserviste du destin qui, généralement dans les coulisses, a inspiré, conduit et motivé son mari et les autres humains impliqués dans la réception de la révélation. On nous dit dans les Cahiers d'Urantia que « _. « Les réservistes du destin ont rarement été inscrits sur les pages de l’histoire humaine_ » sur notre planète. [[LU 114:7.9](/fr/The_Urantia_Book/114#p7_9)] Et il en était de même pour le Dr Lena Sadler. 
+La plupart des Urantiens savent que « Dr. Lena »seulement en tant qu'épouse du Dr William Sadler. Mais elle était bien plus que cela. Le Dr Lena a été un protagoniste à pratiquement tous les tournants critiques du processus de révélation. De nombreux historiens urantiens croient qu'elle était une réserviste du destin qui, généralement dans les coulisses, a inspiré, conduit et motivé son mari et les autres humains impliqués dans la réception de la révélation. On nous dit dans les Cahiers d'Urantia que « _. « Les réservistes du destin ont rarement été inscrits sur les pages de l’histoire humaine_ » sur notre planète. <a id="a46_623"></a>[[LU 114:7.9](/fr/The_Urantia_Book/114#p7_9)] Et il en était de même pour le Dr Lena Sadler. 
 
 Le Dr Lena est décédée en 1939 après une longue et courageuse bataille contre le cancer du sein. Le processus de réception des Cahiers d'Urantia était presque terminé. Pendant environ trois décennies, elle a discrètement contribué à faire avancer le processus. 
 
@@ -32,3 +56,28 @@ Lena Sadler était une grande urantienne. Son importance, comme celle de nombreu
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Richard_S_Omura/Religion_of_Experience_vs_Religion_of_Authority_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Religion de l'expérience contre religion de l'autorité</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-12-numéro-1-2012-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 12, numéro 1, 2012 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Philip_Calabrese/Cosmology_in_the_Light_of_The_Urantia_Book">
+          <span class="pr-2">La cosmologie à la lumière du Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

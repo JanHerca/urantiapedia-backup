@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Avi Dogim, Meredith J. Sprunger, Peter Laurence<br>© 2009 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Présentation de notre nouveau président
 
@@ -222,13 +240,13 @@ Lila Dogim a coordonné la camaraderie chaque soir. La musique et le culte ont �
 
 Tous les animateurs d'ateliers attendaient des participants qu’ils apportent leurs Livres d'Urantia aux sessions. Plusieurs animateurs d'ateliers ont mené une étude préalable à la conférence avec leurs groupes d'étude et leurs sociétés ; ils poursuivent également le thème d'étude de 2009 avec des études post-conférence dans leurs régions locales. Certains animateurs de l’atelier ont publié des recommandations de lecture avant la conférence. Un atelier nécessitait une pré-inscription, avec des devoirs de lecture obligatoires. Toutes ces fonctionnalités ont été bien accueillies, comme en témoignent les commentaires écrits et les évaluations soumises par les participants. Les suggestions d’amélioration des participants seront intégrées à la session d’étude d’été 2010.
 
-Le Comité d'Éducation est fermement engagé à approfondir et à élargir la nature de l’étude parmi les étudiants de la révélation, après avoir noté que « l’étude volontaire » devient une norme dans le Cinquième Monde des Maisons pour la majorité des ascendants. L'étude de la révélation est un complément au « service désintéressé » et à « l’adoration spontanée », également monnaie courante sur le Cinquième Monde des Maisons [[LU 47:7.5](/fr/The_Urantia_Book/47#p7_5)]. Dans quelle mesure pouvons-nous concrétiser ces potentiels dès maintenant ? Comme l’a dit avec enthousiasme un participant : « Je me sens plus réel ! »
+Le Comité d'Éducation est fermement engagé à approfondir et à élargir la nature de l’étude parmi les étudiants de la révélation, après avoir noté que « l’étude volontaire » devient une norme dans le Cinquième Monde des Maisons pour la majorité des ascendants. L'étude de la révélation est un complément au « service désintéressé » et à « l’adoration spontanée », également monnaie courante sur le Cinquième Monde des Maisons <a id="a242_425"></a>[[LU 47:7.5](/fr/The_Urantia_Book/47#p7_5)]. Dans quelle mesure pouvons-nous concrétiser ces potentiels dès maintenant ? Comme l’a dit avec enthousiasme un participant : « Je me sens plus réel ! »
 
 ## Conscience divine et moralité cosmique : vivre l’Évangile 
 
 ### Séminaire d'études d'été, 21-26 juillet 2010
 
-> _La relation temporelle de l’homme avec le Suprême est le fondement de la moralité cosmique, la sensibilité universelle au devoir, et son acceptation. C’est une moralité qui transcende le sens temporel du bien et du mal relatifs ; elle est directement basée sur l’appréciation consciente, par la créature, d’une obligation expérientielle envers la Déité expérientielle._ ([Paper 117:4.8](/fr/The_Urantia_Book/117#p4_8))
+> _La relation temporelle de l’homme avec le Suprême est le fondement de la moralité cosmique, la sensibilité universelle au devoir, et son acceptation. C’est une moralité qui transcende le sens temporel du bien et du mal relatifs ; elle est directement basée sur l’appréciation consciente, par la créature, d’une obligation expérientielle envers la Déité expérientielle._ (<a id="a248_374"></a>[Paper 117:4.8](/fr/The_Urantia_Book/117#p4_8))
 
 Veuillez vous joindre à nous dans une étude sur la façon dont la moralité cosmique est façonnée par la qualité de la façon dont nous vivons l’Évangile ; pour nous, vivant les enseignements révélateurs du _Le Livre d'Urantia_. Le comité d'éducation de la _The Urantia Book Fellowship_ vous invite à considérer les opportunités d'enseigner et de servir, éventuellement en tant que conférencier en séance plénière, animateur d'atelier/séminaire, activités pré-conférence, divertissement, etc. Pour une pré-inscription à un séminaire spécial à la conférence, voir l’article suivant.
 
@@ -292,7 +310,7 @@ Le Conseil général de la Fellowship tiendra sa réunion de mi-année à l’h�
 
 - **Parlement des religions du monde**, 3-9 décembre 2010, Melbourne, Australie. Pour plus d’informations, rendez-vous sur www.parliamentofreligions2009.org.
 - **Festival de la Famille Urantia**, du 1er au 5 juillet 2010, à l’Université du Québec, Montréal, PQ, Canada. Pour plus d'informations, allez à http://www.urantiafamily.org.
-- **Séminaire d'étude d'été 2010 de la Bourse du Livre d'Urantia**, Techny Towers, Chicago, IL, du 21 au 26 juillet. Le thème est « Conscience de Dieu et moralité cosmique : vivre l’Évangile ». Pour plus d’informations sur la conférence, contactez Lara Amyx à lara10@bellsouth.net. Pour vous inscrire au séminaire spécial sur les anges, contactez Charles Olivea à COLIVEA@cs.com.
+- **Séminaire d'étude d'été 2010 de la Fellowship du Livre d'Urantia**, Techny Towers, Chicago, IL, du 21 au 26 juillet. Le thème est « Conscience de Dieu et moralité cosmique : vivre l’Évangile ». Pour plus d’informations sur la conférence, contactez Lara Amyx à lara10@bellsouth.net. Pour vous inscrire au séminaire spécial sur les anges, contactez Charles Olivea à COLIVEA@cs.com.
 - **Nouveau sur le site Web** : Le site Web de la bourse contient désormais une collection croissante d'aides à l’étude du cours de Chris Halvorson du vendredi soir. Il existe une chronologie très détaillée récemment publiée de la partie III qui contient des liens vers des documents historiques et archéologiques contemporains connexes. Les archives BlogTalk Radio sont complètes pour tous les programmes de 2008. Toutes ces ressources et bien d’autres peuvent être trouvées en allant sur la page « Quoi de neuf ? page à http://urantiabook.org/whatsnew.htm. 
 
 ## Personnel du « The Mighty Messenger »
@@ -308,3 +326,22 @@ www.urantiabook.org
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://archive.urantiabook.org/archive/newsletters/mightymessenger/Mighty_Messenger_fall2009.pdf)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'hiver-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 2009 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

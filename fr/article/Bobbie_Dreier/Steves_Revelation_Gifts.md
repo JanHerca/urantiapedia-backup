@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Bobbie Dreier<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Dedication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dévouement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
+          <span class="pr-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par _Bobbie Dreier_ 
@@ -33,7 +57,7 @@ Je serai toujours reconnaissant pour ma dernière interaction avec Steve sur Ura
 
 Dans *Le Livre d'Urantia il est écrit :*
 
-> ...Jésus ... lui dit : « Femme, où sont tes accusateurs ? N’est-il resté personne pour te lapider ? » La femme leva les yeux et répondit : « Personne, mon Seigneur. » Alors Jésus dit : « Je connais ton cas, et je ne te condamne pas non plus. Va ton chemin en paix. » ([LU 162:3.5](/fr/The_Urantia_Book/162#p3_5))
+> ...Jésus ... lui dit : « Femme, où sont tes accusateurs ? N’est-il resté personne pour te lapider ? » La femme leva les yeux et répondit : « Personne, mon Seigneur. » Alors Jésus dit : « Je connais ton cas, et je ne te condamne pas non plus. Va ton chemin en paix. » (<a id="a59_270"></a>[LU 162:3.5](/fr/The_Urantia_Book/162#p3_5))
 
 Steve avait les larmes aux yeux lorsqu’il dit : « Jésus *connaissait* cette femme. Il savait que le péché n'était pas le sien. Dans cette petite différence dans le récit, dit-il, nous voyons le caractère incomparable du Maître. Comme il connaît et aime chacun de nous pleinement et intimement. 
 
@@ -45,3 +69,28 @@ J'espère que les essais suivants, qui sont le fruit des idées des études de G
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Dedication">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Dévouement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Sources_of_Revelatory_Insight_A_Meditation_on_Human_Sources">
+          <span class="pr-2">Sources de perspicacité révélatrice : une méditation sur les « sources humaines »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro inaugural — Numéro de mars 1976"
+title: "« The Urantian » — Numéro inaugural — Numéro de mars 1976"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,13 +9,34 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 William S. Sadler, Jr., Steve Dreier, Christy, David Schlundt, V.B.G.2, Julia Fenderson<br> © 1976 La Fraternité du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">Une confrérie – pas une église ni une secte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Une confrérie – pas une église ni une secte
 
 « Qu'est-ce que la Fraternité URANTIA ? Une autre secte ? Cette question a été posée à plusieurs reprises à l'auteur de ce rapport. A cette question, une réponse négative a toujours été donnée : « Non, la Fraternité URANTIA n'est ni une église ni une secte. C’est simplement un groupe social qui a un objectif religieux.
 
-Il y a une place réelle dans la civilisation moderne pour un groupe de personnes religieuses qui sont « … disposées à se dépouiller de toute autorité ecclésiastique et à abandonner entièrement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain._” ([LU 134:4.4](/fr/The_Urantia_Book/134#p4_4)). Le monde moderne n’a guère besoin d’une autre église, d’une autre secte. Nous souffrons actuellement d’une pléthore d’Églises et d’une multiplication des sectes.
+Il y a une place réelle dans la civilisation moderne pour un groupe de personnes religieuses qui sont « … disposées à se dépouiller de toute autorité ecclésiastique et à abandonner entièrement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain._” (<a id="a38_270"></a>[LU 134:4.4](/fr/The_Urantia_Book/134#p4_4)). Le monde moderne n’a guère besoin d’une autre église, d’une autre secte. Nous souffrons actuellement d’une pléthore d’Églises et d’une multiplication des sectes.
 
 Mais si nous ne sommes pas une Église, en quoi différons-nous alors d’une Église ? Si nous pouvons clairement voir en quoi nous différons, alors nous pourrons peut-être maintenir ces différences. Et si nous parvenons à maintenir ces différences, alors nous pourrons peut-être préserver notre organisation en tant que Fraternité distincte ; nous pourrons peut-être éviter une éventuelle évolution vers une église.
 
@@ -41,7 +62,7 @@ Nombre total de livres d'URANTIA vendus | 57 500
 
 _Le Livre URANTIA_ est distribué dans 1 200 librairies et est actuellement vendu au rythme de 800 à 1 000 exemplaires par mois.
 
-## L'Urantien
+## « The Urantian »
 
 Publié trimestriellement par 
 
@@ -72,7 +93,7 @@ Je ne connais aucune organisation humaine qui ait, en réalité, placé l'indivi
 
 C'est une expérience joyeuse d'apprendre à partir des déclarations du _Livre d'URANTIA_ que Dieu s'intéresse à chacun de nous personnellement, individuellement. Son antenne s’adresse à chacun d’entre nous. Nous devons en être conscients dans notre existence quotidienne, vivre chaque instant comme en sa présence. Comme c’est passionnant de savoir que nos relations les uns avec les autres ont une valeur de survie. Une de mes citations préférées du _Livre d'URANTIA_ se trouve sur LU 112 : 5.22.
 
-« … Mais la personnalité et les relations entre personnalités ne sont jamais des échafaudages ; la mémoire humaine des relations de personnalités a une valeur cosmique et persistera. Sur les mondes des maisons, non seulement vous connaitrez et serez connus de ceux qui furent vos associés dans la courte mais mystérieuse vie physique sur Urantia, mais vous vous les rappellerez et ils se souviendront de vous. [LU 112:5.22](/fr/The_Urantia_Book/112#p5_22)
+« … Mais la personnalité et les relations entre personnalités ne sont jamais des échafaudages ; la mémoire humaine des relations de personnalités a une valeur cosmique et persistera. Sur les mondes des maisons, non seulement vous connaitrez et serez connus de ceux qui furent vos associés dans la courte mais mystérieuse vie physique sur Urantia, mais vous vous les rappellerez et ils se souviendront de vous. <a id="a95_410"></a>[LU 112:5.22](/fr/The_Urantia_Book/112#p5_22)
 
 —_Christy_
 
@@ -118,7 +139,29 @@ Merci pour tout l'amour que vous avez donné et la force qui traverse notre fami
 
 Amour...
 
-> « _Tous les hommes sont mes frères. Mon Père céleste ne méprise aucun être créé par nous. Le royaume des cieux est ouvert à tous les hommes et à toutes les femmes. Nul ne peut fermer la porte de la miséricorde au visage d’une âme assoiffée cherchant à y entrer. Nous nous assiérons à table avec tous ceux qui désirent entendre parler du royaume. ... La porte du royaume est grande ouverte à tous ceux qui désirent connaitre la vérité et trouver Dieu._ » ([LU 138:4.2](/fr/The_Urantia_Book/138#p4_2))
+> « _Tous les hommes sont mes frères. Mon Père céleste ne méprise aucun être créé par nous. Le royaume des cieux est ouvert à tous les hommes et à toutes les femmes. Nul ne peut fermer la porte de la miséricorde au visage d’une âme assoiffée cherchant à y entrer. Nous nous assiérons à table avec tous ceux qui désirent entendre parler du royaume. ... La porte du royaume est grande ouverte à tous ceux qui désirent connaitre la vérité et trouver Dieu._ » (<a id="a141_457"></a>[LU 138:4.2](/fr/The_Urantia_Book/138#p4_2))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/William_S_Sadler_Jr/A_Brotherhood_Not_A_Church_Or_A_Sect">
+          <span class="pr-2">Une confrérie – pas une église ni une secte</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

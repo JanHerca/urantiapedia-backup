@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Agustin Arellano<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joy_Brandt/CN20_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence CN20</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dolores_Nice/Travels_with_the_Urantia_Book">
+          <span class="pr-2">Voyager avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -53,7 +77,7 @@ Le samedi 22 août :
 	- 7ème = _EmotionArt avec l’LU,_ Agustín Arellano
 - 6h30 - 7h10 
 	- 8ème = 2ème atelier _Seraphic Transportation_, Jaime Rodríguez
-	- 9ème = _Message_ d'Andre Radatus, Président de la Bourse Internationale de la Urantia Book Fellowship
+	- 9ème = _Message_ d'Andre Radatus, Président de la Fellowship Internationale de la Urantia Book Fellowship
 - 7h30 - 8h40 11ème = 3ème atelier _Mythes, Traditions et Révélation Urantia_, Jaime Rey Albornoz
 
 Le dimanche 23 août
@@ -79,3 +103,28 @@ Merci de votre soutien et de votre participation !
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joy_Brandt/CN20_Conference">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence CN20</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Dolores_Nice/Travels_with_the_Urantia_Book">
+          <span class="pr-2">Voyager avec le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

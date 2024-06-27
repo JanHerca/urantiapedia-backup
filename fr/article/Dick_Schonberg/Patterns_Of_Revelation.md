@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1977 Dick Schonberg<br>© 1977 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles familiaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="pr-2">Le nouveau culte – modèle et symbole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Contrairement aux nombreuses âmes vaillantes qui ont promu la vérité spirituelle au cours des époques passées, nous, les diffuseurs mortels de la révélation URANTIA, avons de nombreux avantages, certains accordés, comme l'Esprit de Vérité, et d'autres acquis, comme les communications de masse, et le pouvoir. pour voir l'histoire avec le recul. En raison de nos avantages, nos responsabilités sont, dans un sens, plus grandes, et c'est pour cette raison que l'auteur estime que la commission révélatrice nous a délibérément fourni un contexte historique sur lequel fonder nos décisions futures.
 
-L'une des déclarations les plus significatives pour évaluer ce qui a été fait et ce qui devrait et ne devrait pas être fait pour faire progresser la vérité spirituelle est : « _La religion de la révélation doit toujours être limitée par la capacité de réceptivité de l'homme._ » ([LU 92:4.1](/fr/The_Urantia_Book/92#p4_1) )
+L'une des déclarations les plus significatives pour évaluer ce qui a été fait et ce qui devrait et ne devrait pas être fait pour faire progresser la vérité spirituelle est : « _La religion de la révélation doit toujours être limitée par la capacité de réceptivité de l'homme._ » (<a id="a39_280"></a>[LU 92:4.1](/fr/The_Urantia_Book/92#p4_1) )
 
 Plusieurs pensées peuvent nous venir à l’esprit. Devons-nous seulement donner ce que le trafic peut supporter ? Compromis? Vendu? C’est loin d’être l’intention de l’auteur de Melchisédek. Il nous donne plutôt une leçon dérivée de la longue lutte évolutive visant à élever la vie spirituelle de la civilisation urantienne. Pour illustrer cela, regardons l’expérience de ceux qui ont initié ou ont été les enseignants d’une révélation d’époque antérieure.
 
@@ -27,3 +51,28 @@ Aujourd’hui, en tant que mortels évolutionnaires, nous sommes les héritiers 
 
 —_Dick Schönberg_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Patsy_and_Tucky_Hayes/Family_Patterns">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Modèles familiaux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1977">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1977 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Margaret_Graves_Gilbert/The_New_Cult_Pattern_and_Symbol">
+          <span class="pr-2">Le nouveau culte – modèle et symbole</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

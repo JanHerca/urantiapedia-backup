@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 Wayne et Ute Ferrier<br>© 1996 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À proximité – Le monde des non-respirants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Groupes d’étude du Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Par Wayne et Ute Ferrier**
@@ -77,12 +101,37 @@ Des dérivés du mot Urantia apparaissent chez de nombreux peuples, les Sumérie
 Lectures recommandées du Livre d’Urantia : [Fascicule 66](/fr/The_Urantia_Book/66) à [Fascicule 78](/fr/The_Urantia_Book/78).
 
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Deborah_Foster/In_Close_Proximity_The_World_of_the_Nonbreathers">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">À proximité – Le monde des non-respirants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Groups_of_Tennessee">
+          <span class="pr-2">Groupes d’étude du Tennessee</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Remarques
 
-[^1]: _Le Livre d’Urantia_. Chicago : Fondation Urantia, 1955 ; [LU 77:3.1](/fr/The_Urantia_Book/77#p3_1).
+[^1]: _Le Livre d’Urantia_. Chicago : Fondation Urantia, 1955 ; <a id="a130_64"></a>[LU 77:3.1](/fr/The_Urantia_Book/77#p3_1).
 [^2]: La Bible. [Genèse, chapitre 11](/fr/Bible/Genesis/11).
-[^3]: _Le Livre d’Urantia_ ; [LU 77:4.1](/fr/The_Urantia_Book/77#p4_1).
-[^4]: _Le Livre d’Urantia_ ; [LU 77:4.10](/fr/The_Urantia_Book/77#p4_10).
+[^3]: _Le Livre d’Urantia_ ; <a id="a132_29"></a>[LU 77:4.1](/fr/The_Urantia_Book/77#p4_1).
+[^4]: _Le Livre d’Urantia_ ; <a id="a133_29"></a>[LU 77:4.10](/fr/The_Urantia_Book/77#p4_10).
 [^5]: Friedrich, Johannes. _Langues éteintes_. Westport, Connecticut : Greenwood Press Publishers, 1957 ; p. 37-38.
-[^6]: _Le Livre d’Urantia_ ; [LU 77:4.8](/fr/The_Urantia_Book/77#p4_8).
+[^6]: _Le Livre d’Urantia_ ; <a id="a135_29"></a>[LU 77:4.8](/fr/The_Urantia_Book/77#p4_8).
 [^7]: Margueron, Jean-Claude. Mésopotamie. Cleveland : La société d’édition mondiale, 1965 ; p. 180.

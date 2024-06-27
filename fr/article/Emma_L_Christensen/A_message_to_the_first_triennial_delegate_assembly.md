@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1964 Emma L. Christensen<br>© 1982 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">Un message à l'Assemblée triennale des délégués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 SALUT À VOUS — les délégués, suppléants, conseillers et tous les Urantiens — qui avez le privilège d'assister à cette première réunion de l'Assemblée triennale des délégués. C'est un événement historique. Ce que nous faisons et disons ici restera longtemps inscrit dans les archives de la Fraternité URANTIA, et je ne doute pas que les générations futures regarderont avec nostalgie cette année 1964 et souhaiteraient pouvoir être avec nous, tout comme nous le regardons parfois. nous revenons à l'époque de Jésus sur terre et nous aurions aimé pouvoir marcher avec lui à travers la Galilée, nous asseoir sous les arbres avec lui, écoutant directement ses enseignements divins. Notre réunion ici aujourd’hui sera une expérience que nous chérirons longtemps et j’espère que nous relèverons les défis qu’elle présente avec courage, dévouement et, surtout, avec une unité d’objectif.
@@ -21,7 +45,7 @@ Il est de notre devoir d’amener la vie sur cette planète à un nouveau niveau
 
 Au cours de mon court mandat en tant que président de la Fraternité URANTIA, j'ai exposé deux thèses : premièrement, que nous devenons des prophètes vivants de la paternité de Dieu et de la fraternité de l'homme, et deuxièmement, que nous nous souvenons de subordonner le _Livre d'URANTIA_ au service de Dieu. .
 
-Peut-être devrions-nous prendre un moment maintenant pour écouter une fois de plus l'exhortation de Jésus à ses apôtres lors d'une de ses profondes discussions sur la religion : « _Je vous recommande de perdre l’habitude de toujours citer les prophètes de jadis… et à aspirer à la place pour devenir des prophètes vivants… et des héros spirituels du royaume à venir._” ([LU 155:6.7](/fr/The_Urantia_Book/155#p6_7))
+Peut-être devrions-nous prendre un moment maintenant pour écouter une fois de plus l'exhortation de Jésus à ses apôtres lors d'une de ses profondes discussions sur la religion : « _Je vous recommande de perdre l’habitude de toujours citer les prophètes de jadis… et à aspirer à la place pour devenir des prophètes vivants… et des héros spirituels du royaume à venir._” (<a id="a47_370"></a>[LU 155:6.7](/fr/The_Urantia_Book/155#p6_7))
 
 Qu'est-ce qu'un prophète ? Webster dit qu'un prophète est :
 
@@ -36,7 +60,7 @@ Je ne suis pas trop intéressé par le nombre de Livres d'URANTIA que vous distr
 
 Pour souligner mon point, je voudrais paraphraser une déclaration faite par notre premier président dans son rapport aux Frères musulmans à la fin de son mandat de trois ans. Il faut veiller à ne pas confondre loyautés primaires et secondaires. Notre première loyauté spirituelle va au Père Universel, et à lui seul. Lorsque nous rencontrons un frère spirituellement affamé, notre premier objectif est de le rapprocher de son Père céleste. Nous pouvons tenter de le faire avec ou sans le livre. Toutes choses sont secondaires et subordonnées à l’acquisition de ce seul prix : la réalisation de la filiation avec Dieu. Le livre en lui-même n’est pas une fin ; c'est un moyen très important pour parvenir à une fin. Si _Le Livre d'URANTIA_ devient obligatoire dans notre ministère. alors nous lui avons véritablement subordonné notre premier et premier objectif, en tant qu'Urantiens, qui est : le service de Dieu.
 
-> « _On ne peut révéler Dieu à ceux qui ne le cherchent pas, ... Il faut que les expériences de la vie aient donné à l’homme la soif de la vérité ou bien qu’il désire connaitre Dieu par suite du contact avec la vie de ceux qui connaissent le divin Père avant qu’un autre être humain puisse agir comme intermédiaire pour conduire un tel compagnon mortel à croire au Père qui est aux cieux. Si nous connaissons Dieu, notre véritable travail sur terre consiste à vivre de manière à permettre au Père de se révéler à travers notre vie. Ainsi, toutes les personnes qui recherchent Dieu verront le Père et recourront à notre aide pour mieux connaitre le Dieu qui réussit à s’exprimer de cette manière dans notre vie. »_ » ([LU 132:7.2](/fr/The_Urantia_Book/132#p7_2))
+> « _On ne peut révéler Dieu à ceux qui ne le cherchent pas, ... Il faut que les expériences de la vie aient donné à l’homme la soif de la vérité ou bien qu’il désire connaitre Dieu par suite du contact avec la vie de ceux qui connaissent le divin Père avant qu’un autre être humain puisse agir comme intermédiaire pour conduire un tel compagnon mortel à croire au Père qui est aux cieux. Si nous connaissons Dieu, notre véritable travail sur terre consiste à vivre de manière à permettre au Père de se révéler à travers notre vie. Ainsi, toutes les personnes qui recherchent Dieu verront le Père et recourront à notre aide pour mieux connaitre le Dieu qui réussit à s’exprimer de cette manière dans notre vie. »_ » (<a id="a62_717"></a>[LU 132:7.2](/fr/The_Urantia_Book/132#p7_2))
 
 Quand quelqu’un nous demande, comme les apôtres l’ont demandé à Jésus, quelle est votre religion ? Qu'est-ce que tu crois? Nous répondrons avec joie :
 
@@ -68,3 +92,28 @@ Soyons donc des soldats heureux et vaillants des cercles.
 
 20 août 1964
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1982_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro du printemps 1982</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1982">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1982 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Emma_L_Christensen/A_message_to_the_triennial_delegate_assembly">
+          <span class="pr-2">Un message à l'Assemblée triennale des délégués</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

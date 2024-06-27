@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Avi Dogim, Meredith J. Sprunger, Peter Laurence<br>© 1997 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Session d'études d'été '06
 
@@ -32,7 +50,7 @@ Si vous avez d'autres questions, appelez le bureau de la Fellowship sans frais a
 
 ## Présentateurs recherchés pour SSS '06
 
-La session d'étude d'été de la Bourse du Livre d'Urantia se tiendra sur le campus de l’Université Dominicaine à River Forest, Illinois, une banlieue de Chicago, du mercredi 5 juillet au lundi 10 juillet. Les ateliers et les services pléniers/cultes associés auront lieu entre le vendredi matin 7 et le dimanche 9 vers midi.
+La session d'étude d'été de la Fellowship du Livre d'Urantia se tiendra sur le campus de l’Université Dominicaine à River Forest, Illinois, une banlieue de Chicago, du mercredi 5 juillet au lundi 10 juillet. Les ateliers et les services pléniers/cultes associés auront lieu entre le vendredi matin 7 et le dimanche 9 vers midi.
 
 Il s'agit d'une invitation destinée aux individus ou aux partenariats à envisager de préparer et d'animer un atelier pendant cette période. Le thème est : « Le ministère céleste – visible et invisible ».
 
@@ -102,7 +120,7 @@ Quelle que soit l’autre qualité dans laquelle il continue de servir les objec
 
 — Paul Snider
 
-> Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. » ([LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
+> Lier connaissance avec ses frères et sœurs, connaitre leurs problèmes et apprendre à les aimer, c’est l’expérience suprême de la vie. » (<a id="a122_139"></a>[LU 130:2.6](/fr/The_Urantia_Book/130#p2_6))
 
 ## Actualités du groupe d'étude
 
@@ -205,7 +223,7 @@ La sélection d'un délégué et d'un suppléant est un devoir et un privilège 
 
 Les représentants de la société doivent être choisis pour leurs qualités correspondant aux tâches de la TDA. L'Assemblée peut sélectionner les meilleurs membres du Conseil lorsque les délégués eux-mêmes ont assisté aux réunions du Conseil, savent comment il fonctionne et apprécient le type de bénévoles dont le Conseil a besoin pour fonctionner efficacement. La connaissance de la Constitution de la Fellowship et du fonctionnement de l’organisation est également importante. Bien entendu, rien ne remplace le fait de connaître personnellement les candidats et d’être conscient de leurs contributions à la révélation. Enfin, les représentants de la Société qui font preuve de sang-froid et qui ont l’esprit d’équipe contribuent grandement au processus délibératif de l’Assemblée. Chaque Délégué doit avoir lu _Le Livre d'Urantia_ dans son intégralité.
 
-Représentation intelligente et formée. La survie de la démocratie dépend d’un gouvernement représentatif efficace ; et cela est conditionné à la pratique consistant à élire aux fonctions publiques uniquement les individus qui sont techniquement formés, intellectuellement compétents, socialement loyaux et moralement aptes. [[LU 71:2.14](/fr/The_Urantia_Book/71#p2_14)]
+Représentation intelligente et formée. La survie de la démocratie dépend d’un gouvernement représentatif efficace ; et cela est conditionné à la pratique consistant à élire aux fonctions publiques uniquement les individus qui sont techniquement formés, intellectuellement compétents, socialement loyaux et moralement aptes. <a id="a225_324"></a>[[LU 71:2.14](/fr/The_Urantia_Book/71#p2_14)]
 
 ## Ceci et cela
 
@@ -219,7 +237,7 @@ Comme annoncé lors de la conférence IC05, une version audio MP3 gratuite du _L
 
 Vous pouvez télécharger et lire les fichiers audio MP3 sur votre ordinateur ou les copier sur un lecteur MP3 portable, tel qu’un iPod. La plupart des lecteurs MP3 portables se souviendront de l’endroit où vous avez arrêté l’écoute et reprendront à partir de là la prochaine fois. La version audio MP3 gratuite du _Le Livre d'Urantia_ est disponible en téléchargement en quatre parties depuis Internet Archive.
 
-> « La croyance attache, la foi affranchit. » ([LU 101:8.2](/fr/The_Urantia_Book/101#p8_2))
+> « La croyance attache, la foi affranchit. » (<a id="a239_47"></a>[LU 101:8.2](/fr/The_Urantia_Book/101#p8_2))
 
 ## Don pour les traductions
 
@@ -252,7 +270,7 @@ Doré, CO 80401
 
 Si vous envoyez des documents à Larry, veuillez le contacter par courriel ou par téléphone pour lui faire savoir qu’ils arrivent. Son numéro de téléphone est le 303-278-9590.
 
-> « On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. » ([LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
+> « On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour. » (<a id="a272_126"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
 
 ## Évènements à venir…
 
@@ -277,3 +295,22 @@ www.urantiabook.org
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://archive.urantiabook.org/archive/newsletters/mightymessenger/mm_spring_2006.pdf)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2006 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

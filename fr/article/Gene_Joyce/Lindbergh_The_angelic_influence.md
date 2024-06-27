@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Gene Joyce<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wesley_James/The_seraphic_connection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La connexion séraphique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="pr-2">Renouveler et revitaliser la société</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Guidés, gardés, inspirés et assistés comme nous le sommes tous par les séraphins assignés à notre surveillance, certains mortels hautement dotés et motivés peuvent également être impliqués dans les plans et projets des maîtres séraphins dont les activités sont dirigées par le gouverneur général résident. sur Urantia. L’ampleur de cette implication dépend probablement avant tout de leurs origines et de leurs choix. Bien que la méthode de sélection puisse paraître quelque peu obscure, la vie de certains individus se détache comme des phares projetant des faisceaux d’influence et de pouvoir à travers la planète. Une telle personne était Charles Lindbergh.
@@ -25,10 +49,35 @@ Depuis la mort de Lindbergh en 1974, ce n’est pas une atteinte à sa vie priv�
 
 Sa capacité à conquérir le temps et à atteindre l’espace était exceptionnelle pour un « humble » mortel. Afin de se concentrer sur les aspects mentaux et spirituels de la vie, il a développé une technique pour se débarrasser du fardeau des possessions matérielles. Il les emballait, les cataloguait et les stockait – il appelait cela sa « politique d’emballage marron ».
 
-Une autre technique qu'il a employée pour entrer en contact avec des conseils supérieurs est décrite en détail : « Une qualité de « temps » qui voyage avec le voyage que je n'ai trouvée dans aucune autre circonstance. Il féconde l’appréhension subconsciente (lire superconsciente) jusqu’à ce que des visions émergent comme – mais plus rationnelles – que les visions provoquées par la qualité du temps qui réside dans le sommeil. La mémoire et l'imagination agissent sur une scène de pensée improvisant des rôles pratiques et fantastiques. Je rêve d’impossibilités et j’élabore des plans d’action pour les aborder et, plus loin encore, des plans pour mettre en œuvre des plans. Il pourrait même décrire les activités des maîtres séraphins qui sont « _... des centres d'échange d'idées, des focalisateurs d'esprit et des promoteurs de projets._ » ([LU 114:6.19](/fr/The_Urantia_Book/114#p6_19))
+Une autre technique qu'il a employée pour entrer en contact avec des conseils supérieurs est décrite en détail : « Une qualité de « temps » qui voyage avec le voyage que je n'ai trouvée dans aucune autre circonstance. Il féconde l’appréhension subconsciente (lire superconsciente) jusqu’à ce que des visions émergent comme – mais plus rationnelles – que les visions provoquées par la qualité du temps qui réside dans le sommeil. La mémoire et l'imagination agissent sur une scène de pensée improvisant des rôles pratiques et fantastiques. Je rêve d’impossibilités et j’élabore des plans d’action pour les aborder et, plus loin encore, des plans pour mettre en œuvre des plans. Il pourrait même décrire les activités des maîtres séraphins qui sont « _... des centres d'échange d'idées, des focalisateurs d'esprit et des promoteurs de projets._ » (<a id="a51_846"></a>[LU 114:6.19](/fr/The_Urantia_Book/114#p6_19))
 
 Il a conservé son enthousiasme et son dévouement à faire de ce monde un endroit meilleur pour la postérité jusqu'à la fin de sa vie, déclarant. « Plus nous pénétrons loin dans l’inconnu, plus il devient vaste et merveilleux. » Et surtout, c'était un homme d'ACTION qui a laissé de nombreuses empreintes sur le sable de son temps.
 
 — _Gene Joyce_
 _Richardson. Texas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Wesley_James/The_seraphic_connection">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La connexion séraphique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annis_M_Warsh/Renewing_and_revitalizing_society">
+          <span class="pr-2">Renouveler et revitaliser la société</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

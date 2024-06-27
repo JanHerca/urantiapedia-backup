@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Dan Massey<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marcher avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Réconciliation et croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par Dan Massey
@@ -19,7 +43,7 @@ Il y a plusieurs raisons à cette omission. Je sais que les déclarations sincè
 
 Bien que j'aie souvent parlé de sujets tels que la physique et l'astronomie du _Livre d'Urantia_, je suis relativement désintéressé par ces questions d'interprétation de la cosmologie du livre. Je suis un amateur de fauteuil dans ces deux domaines. Mon intérêt réel et personnel – l’intérêt par lequel le livre a profondément affecté ma vie – réside dans la logique déductive, le raisonnement formel par lequel l’homme cherche une connaissance directe de l’Absolu (sans le bénéfice apparent de la révélation). Il y a quelques parties du _Le Livre d'Urantia_ dans lesquelles les méthodes et les résultats mathématiques sont discutés, mais ce n'est pas mon objectif aujourd'hui de les examiner. Je vous invite plutôt à explorer, avec moi, les plus grandes portées de la compréhension spirituelle et de la foi qui peuvent être atteintes par déduction des enseignements du livre.
 
-Dieu le Père a donné un mandat à toute création finie : « Soyez parfaits, comme je suis parfait. » _Le Livre d'Urantia_ nous présente l'exemple de la perfection humaine dans la vie mortelle de Jésus de Nazareth. Les procédures pour atteindre une telle perfection dynamique sont clairement exprimées à plusieurs reprises. Jésus a vécu toute sa vie comme en présence du Père. La vie de Jésus était entièrement consacrée à faire la volonté de son Père. Et c'est sûrement un état d'être des plus désirables, car on nous dit que «_... ce qu'un fils désire et ce que veut le Père se réalisera certainement._» ([LU 118:6.5](/fr/The_Urantia_Book/118#p6_5)) Comme c'est libérateur de la partialité de l'existence humaine de savoir avec certitude que l'on peut apporter, même dans cette vie, quelque chose de valeur éternelle au Suprême !
+Dieu le Père a donné un mandat à toute création finie : « Soyez parfaits, comme je suis parfait. » _Le Livre d'Urantia_ nous présente l'exemple de la perfection humaine dans la vie mortelle de Jésus de Nazareth. Les procédures pour atteindre une telle perfection dynamique sont clairement exprimées à plusieurs reprises. Jésus a vécu toute sa vie comme en présence du Père. La vie de Jésus était entièrement consacrée à faire la volonté de son Père. Et c'est sûrement un état d'être des plus désirables, car on nous dit que «_... ce qu'un fils désire et ce que veut le Père se réalisera certainement._» (<a id="a45_604"></a>[LU 118:6.5](/fr/The_Urantia_Book/118#p6_5)) Comme c'est libérateur de la partialité de l'existence humaine de savoir avec certitude que l'on peut apporter, même dans cette vie, quelque chose de valeur éternelle au Suprême !
 
 Entre la pensée et l'action se trouve l'ombre... Comment motiver l'engagement de foi sans réserve ? C'est là un paradoxe. Comment puis-je savoir que je fais la volonté de Dieu ? Comment puis-je savoir que mon engagement de foi sans réserve n’engagera pas mes énergies dans une illusion de désir dont j’aurais été protégé par une approche plus réservée ? Ou ma prudente réserve condamnerait-elle mon effort suprême à une dissipation infructueuse ? Dois-je échouer par un surengagement imprudent ou par un sous-engagement trop prudent ? Et l’échec potentiel, qui semble désormais de plus en plus inévitable, ne réfutera-t-il pas davantage ma croyance et n’affaiblira-t-il pas ma volonté d’agir en conséquence ?
 
@@ -51,7 +75,7 @@ Pour la personne au cœur sincère, le résultat matériellement mauvais d’une
 
 Comme je l'ai déjà dit, ce processus ne se limite pas à simplement faire la volonté du Père. Ayant accepté les prémisses qui conduisent à comprendre le caractère inévitable d’un choix moral perfectionnement, je trouve que ces mêmes principes s’étendent au domaine de la prière efficace, de la communion cocréative. Laisse-moi expliquer.
 
-« _Ce que le vrai fils désire et ce que veut le Père infini EST._ » ([LU 146:2.7](/fr/The_Urantia_Book/146#p2_7)) Quelle déclaration exaltante ! Quelle incroyable promesse de liberté face aux limitations apparentes d’un être matériel fini ! Quelle merveilleuse opportunité de se joindre au Père dans la création de réalités universelles permanentes ! Quelle incroyable libération de la relativité des valeurs de l’existence finie ! Grâce à ce principe unique, moi, simple mortel, je peux changer non seulement moi-même mais aussi l'univers ! Mes désirs, lorsqu'ils sont alignés avec la volonté divine, gravent les tablettes de l'histoire de l'univers ! Ma contribution, aussi petite soit-elle, devient à la fois _réelle_ et _permanente_ !
+« _Ce que le vrai fils désire et ce que veut le Père infini EST._ » (<a id="a77_69"></a>[LU 146:2.7](/fr/The_Urantia_Book/146#p2_7)) Quelle déclaration exaltante ! Quelle incroyable promesse de liberté face aux limitations apparentes d’un être matériel fini ! Quelle merveilleuse opportunité de se joindre au Père dans la création de réalités universelles permanentes ! Quelle incroyable libération de la relativité des valeurs de l’existence finie ! Grâce à ce principe unique, moi, simple mortel, je peux changer non seulement moi-même mais aussi l'univers ! Mes désirs, lorsqu'ils sont alignés avec la volonté divine, gravent les tablettes de l'histoire de l'univers ! Ma contribution, aussi petite soit-elle, devient à la fois _réelle_ et _permanente_ !
 
 Pour accomplir ce travail le plus pur et le plus spirituel, je commence par la prière, expression de mon désir envers Dieu. Si je dois maintenant formuler consciemment ce désir dans le cadre de mon intention spirituelle, je dois concevoir une chose qui s'accorde avec la portée de la volonté du Père. Je ne connaissais pas cette portée, même si je peux compter sur la révélation pour révéler certaines possibilités. Bien que l’auto-révélation puisse être si efficace, elle est généralement propre à chaque individu. _Le Livre d'Urantia_, d'autre part, révèle une gamme de possibilités pour mon désir qui doivent s'accorder avec la volonté divine. N'importe qui peut travailler en toute confiance dans cette plage et être assuré de l'efficacité et de la puissance de son travail.
 
@@ -97,3 +121,28 @@ Et c’est dans l’ère post-finie des absonités aboutissant à la perfection 
 
 Voici donc une analyse complète, longue et quelque peu détaillée de mon expérience personnelle des événements ordinaires consistant à être et à faire la volonté du Père. Il est inhabituel à un seul égard : il admet un choix conscient des événements d'une manière coopérative mais non passive. La même expérience admet également une participation inconsciente, et c’est ici que l’idée « d’aimer en présence de Dieu » semble la plus descriptive. Après avoir atteint et reconnu la co-suprématie dans tout Nébadon avec l'Esprit-Mère de l'Univers, Michel de Nébadon est devenu volontairement omniprésent dans un temps et un espace finis. En tant que Jésus humain de Nazareth, il avait anticipé cette occasion et avait mis cette ubiquité, en partie, au service de ses associés mortels. En établissant le Souper du Souvenir comme le seul véritable sacrement, Michael a déterminé qu'il utiliserait ce nouveau pouvoir pour fournir une véritable adoration dans sa présence divine à toutes les personnes conscientes de leur foi, à travers le temps et l'espace de Nébadon. Celui qui le veut sera en présence du Fils Créateur. Celui qui le choisit vivra dans la lumière du Maître. Celui qui le souhaite servira ses semblables avec amour. Celui qui le désire marchera avec Dieu.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Walking_with_God">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Marcher avec Dieu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mary_Daly/Reconciliation_and_Growth">
+          <span class="pr-2">Réconciliation et croissance</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

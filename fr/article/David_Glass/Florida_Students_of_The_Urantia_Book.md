@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1993 David Glass<br>© 1993 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Ascending_Currents_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Courants ascendants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_5">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -75,7 +99,7 @@ Lee et Connie Lester et leur amie Norma qui se rendent à Englewood en voiture d
 
 Ce groupe d’étude a découvert « les concepts supérieurs du livre et comment ils forment une structure de croyance dans laquelle d’autres sujets abordés dans _Le Livre d’Urantia_ peuvent s'intégrer. Ils disent qu’avec les lectures ultérieures, une plus grande « image globale » apparaît et le livre dans son ensemble devient plus compréhensible. Connie et Lee lisent fréquemment ensemble et la révélation est une partie essentielle de leur vie commune. Ils ont été le canal personnel par lequel de nombreuses copies du _Livre d’Urantia_ sont passées entre les mains de nouveaux lecteurs.
 
-Les First United Sons of Englewood s’appellent également « Les Salières » car ils s’efforcent d’être le « sel de la terre, un sel à la saveur salvatrice ». ([LU 140:4.2](/fr/The_Urantia_Book/140#p4_2)) En ce qui concerne la désapprobation de leurs anciens associés, les Témoins de Jéhovah, Lee déclare que la fidélité à un enseignement supérieur nécessite « de s'y tenir, un véritable dévouement, une attitude non fantaisiste et un engagement personnel ».
+Les First United Sons of Englewood s’appellent également « Les Salières » car ils s’efforcent d’être le « sel de la terre, un sel à la saveur salvatrice ». (<a id="a101_157"></a>[LU 140:4.2](/fr/The_Urantia_Book/140#p4_2)) En ce qui concerne la désapprobation de leurs anciens associés, les Témoins de Jéhovah, Lee déclare que la fidélité à un enseignement supérieur nécessite « de s'y tenir, un véritable dévouement, une attitude non fantaisiste et un engagement personnel ».
 
 ## Les Ascendants Tropicaux 
 
@@ -168,3 +192,28 @@ Nous avons essayé de nous réunir deux fois par mois, mais nous avons décidé 
 
 Nous avons pensé qu'il serait bon d’élargir notre groupe, alors nous avons publié des annonces dans un journal hebdomadaire qui couvre tout notre comté. Nous avons reçu quatre appels et une femme est venue à certaines de nos réunions. Elle n’avait pas réellement lu le livre même si elle en possédait un exemplaire depuis vingt-cinq ans. Elle a finalement abandonné. Les autres avaient diverses raisons de ne pas nous rejoindre, mais ils étaient tous heureux de nous parler au téléphone et nous leur avons envoyé à certains d’entre eux des publications qui leur plaisaient. Ils ont dit qu'au moins ils se sentaient moins seuls en sachant que d’autres lecteurs essayaient de les contacter. Nous essayons d’assister à la conférence de l’État de Floride au moins tous les deux ans. Nous avons toujours l’impression de rentrer chez nous avec des perspectives élargies.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Ascending_Currents_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Courants ascendants</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#août-1993-vol-3-n°4">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Août 1993 — Vol. 3 n°4 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Letters_5">
+          <span class="pr-2">Des lettres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1997 Avi Dogim, Meredith J. Sprunger, Peter Laurence<br>© 1997 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## De la part des éditeurs
 
@@ -44,7 +62,7 @@ Le Comité exécutif, qui s'était réuni lors d'une retraite de planification p
 
 Un jour après la publication de la déclaration, le président de la Fondation Mundelius a appelé le président de la Fellowship Graham pour l’informer qu’en réponse à l’indignation inattendue de la communauté face aux assignations à comparaître, celles-ci avaient été retirées. Une réponse aux assignations à comparaître, qui n'a pas pu être annulée à temps, a été l’annulation de la visite d'un représentant de la Fellowship à la conférence des traducteurs de la Fondation qui s'est tenue à Paris le premier week-end de novembre.
 
-Il est difficile, voire impossible, d’obtenir des points de vue objectifs sur la relation complexe entre la Bourse et la Fondation. Les positions individuelles parmi les lecteurs vont du soutien sans réserve à l’une ou l’autre organisation au rejet total des deux. Il n'y a pas d'uniformité d'opinion quant à la meilleure approche à ce problème persistant au sein du Conseil général ou du Comité exécutif de l’Association. On pourrait s'attendre à ce qu’à mesure que les points de vue divergents soient réconciliés à la lumière des valeurs suprêmes, les organisations, ainsi que l’ensemble de la communauté des lecteurs du Livre d'Urantia, parviendront à une harmonie de plus en plus grande.
+Il est difficile, voire impossible, d’obtenir des points de vue objectifs sur la relation complexe entre la Fellowship et la Fondation. Les positions individuelles parmi les lecteurs vont du soutien sans réserve à l’une ou l’autre organisation au rejet total des deux. Il n'y a pas d'uniformité d'opinion quant à la meilleure approche à ce problème persistant au sein du Conseil général ou du Comité exécutif de l’Association. On pourrait s'attendre à ce qu’à mesure que les points de vue divergents soient réconciliés à la lumière des valeurs suprêmes, les organisations, ainsi que l’ensemble de la communauté des lecteurs du Livre d'Urantia, parviendront à une harmonie de plus en plus grande.
 
 ## GLAD Newsletter Premières
 
@@ -56,7 +74,7 @@ GLAD accepte désormais des articles, des histoires, de la poésie et des œuvre
 
 par _Meredith J. Sprunger_
 
-La responsabilité majeure du mouvement Urantia, à mon avis, est de diffuser le paradigme spirituel et cosmologique unique de la cinquième révélation d'époque. Les auteurs du _Le Livre d'Urantia_ projettent deux lieux dans lesquels cela aura lieu : (1) en établissant de nouveaux groupes religieux ([LU 87:7.10](/fr/The_Urantia_Book/87#p7_10)), et (2) en faisant lever les religions traditionnelles ([LU 94:12.7](/fr/The_Urantia_Book/94#p12_7) et [LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)).
+La responsabilité majeure du mouvement Urantia, à mon avis, est de diffuser le paradigme spirituel et cosmologique unique de la cinquième révélation d'époque. Les auteurs du _Le Livre d'Urantia_ projettent deux lieux dans lesquels cela aura lieu : (1) en établissant de nouveaux groupes religieux (<a id="a76_298"></a>[LU 87:7.10](/fr/The_Urantia_Book/87#p7_10)), et (2) en faisant lever les religions traditionnelles (<a id="a76_399"></a>[LU 94:12.7](/fr/The_Urantia_Book/94#p12_7) et <a id="a76_446"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)).
 
 Aucun système de valeurs ou religion majeur dans l’histoire de notre planète n’a acculturé la société sans être institutionnalisé. Les auteurs du Livre d'Urantia observent que l’institutionnalisation de la religion augmente le potentiel du mal, mais ils poursuivent en disant que la religion ne peut survivre dans une société civilisée sans être institutionnalisée. Les enseignements de la cinquième révélation d’époque doivent, tôt ou tard, être institutionnalisés pour acculturer et transformer notre compréhension religieuse et nos institutions sociales. Notre défi fondamental est de découvrir, réformer ou créer les véhicules sociaux et religieux qui peuvent accomplir cette tâche.
 
@@ -84,7 +102,7 @@ Bien que Kenton ait consacré sa carrière antérieure à l’éducation, il a f
 <img src="/image/article/The_Mighty_Messenger/1997_Fall/005961.jpg">
 </figure>
 
-De nombreux moments gratuits de socialisation et de camaraderie ont été prévus dans cette conférence, une entreprise conjointe des groupes de Houston, Austin et Dallas/Fort Worth. Le thème était centré sur les trois éléments essentiels du royaume des cieux, tels que Jésus les expliqua à l’apôtre Jean le [LU 140:10.9](/fr/The_Urantia_Book/140#p10_9). Chaque site du Texas a animé des ateliers sur l’un de ces trois éléments essentiels. Un service de culte a eu lieu samedi soir, suivi d'une réunion pour discuter des plans et des améliorations pour les futures rafles.
+De nombreux moments gratuits de socialisation et de camaraderie ont été prévus dans cette conférence, une entreprise conjointe des groupes de Houston, Austin et Dallas/Fort Worth. Le thème était centré sur les trois éléments essentiels du royaume des cieux, tels que Jésus les expliqua à l’apôtre Jean le <a id="a104_305"></a>[LU 140:10.9](/fr/The_Urantia_Book/140#p10_9). Chaque site du Texas a animé des ateliers sur l’un de ces trois éléments essentiels. Un service de culte a eu lieu samedi soir, suivi d'une réunion pour discuter des plans et des améliorations pour les futures rafles.
 
 La volonté d'en faire un événement annuel a été unanime. Il a été décidé que les planificateurs devraient étudier d'autres emplacements dans la région centrale du Texas qui comprendraient des installations de camping et des logements plus abordables pour les familles. La structure restera similaire, les trois domaines contribuant dans un effort d'équipe. Austin sera le fer de lance des plans pour la conférence de 1998, tandis que Houston dirigera celle de 1999.
 
@@ -131,3 +149,22 @@ _Joseph Liszka_, président, Comité des finances
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://archive.urantiabook.org/archive/newsletters/mmfall97.htm)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1997 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

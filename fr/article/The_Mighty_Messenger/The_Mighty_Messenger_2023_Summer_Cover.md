@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Stephen Sawyer<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger_Translators_2023">
+          <span class="pr-2">Traducteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -17,7 +38,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 ## Références au Livre d'Urantia 
 
-Vous pouvez voir [dans les citations textuelles](https://en.wikipedia.org/wiki/Citation) pour les citations du Livre d'Urantia dans cette publication qui ressemblent à ceci : ([LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)). La partie « 62 :5.1 » peut être utilisée pour consulter un _Livre d'Urantia_ dans le fascicule 62, section 5, paragraphe 1. La partie « 707.7 » peut être utilisée pour consulter un Livre d'Urantia publié par la Fondation Urantia avant 2009 à la page 707, paragraphe 7. Ces citations peuvent également inclure un lien URL intégré qui peut vous amener à la citation dans _Le Livre d'Urantia_. 
+Vous pouvez voir [dans les citations textuelles](https://en.wikipedia.org/wiki/Citation) pour les citations du Livre d'Urantia dans cette publication qui ressemblent à ceci : (<a id="a40_176"></a>[LU 62:5.1](/fr/The_Urantia_Book/62#p5_1)). La partie « 62 :5.1 » peut être utilisée pour consulter un _Livre d'Urantia_ dans le fascicule 62, section 5, paragraphe 1. La partie « 707.7 » peut être utilisée pour consulter un Livre d'Urantia publié par la Fondation Urantia avant 2009 à la page 707, paragraphe 7. Ces citations peuvent également inclure un lien URL intégré qui peut vous amener à la citation dans _Le Livre d'Urantia_. 
 
 Ces citations montrent que la source de la citation provient du texte de référence standard du Livre d'Urantia. La séquence de notation entière peut être représentée comme (paper:section.paragraph \[page.paragraph\]). Pour plus d'informations, voir : [https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book](https://urantiabook.org/what-is-the-standard-reference-text-Urantia-Book) et [https://urantiabook.org/text-standardization-Urantia-Book](https://urantiabook.org/text-standardization-Urantia-Book) 
 
@@ -43,3 +64,25 @@ Reno, NV 89533 États-Unis
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger_Translators_2023">
+          <span class="pr-2">Traducteurs</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

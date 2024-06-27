@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 Meredith Tenney, Sharon Porter, Mary Huggins et Elisabeth Callahan<br>© 2019 La Bourse du Livre d'Urantia</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il était une fois un homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Voies d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -30,9 +54,9 @@ L'ascension des principes féminins, qui cherchent à établir un équilibre ent
 
 À mesure que notre psyché mondiale se reconnecte plus pleinement au féminin refoulé, certains hommes craignent de perdre leur identité masculine et d'être dépossédés de leur ancienne place [puissante] dans la société. Et ils ont raison à certains égards, car à mesure que l’ensemble de l’humanité retrouve le féminin refoulé, d’énormes ajustements seront nécessaires et il faudra du temps pour parvenir à un nouvel équilibre dans notre conscience planétaire. Depuis très longtemps, dans nos civilisations occidentales et mondiales, l'expression féminine de la nature de Dieu dans notre civilisation occidentale et mondiale – celle qui est la source même de la vie et de l'esprit dans l'univers – a été contrôlée, exploitée et objectivée par le masculin dominant. structure du pouvoir. C’est ce qu’on appelle parfois le côté obscur inavoué du masculin. Il est clairement exposé, reconnu et nommé à l’époque actuelle. Peu à peu, il sera davantage exposé et apprivoisé. Cela peut être un processus effrayant pour certains hommes – pas pour tous. Par conséquent, nous avons la responsabilité d’éduquer sur ce processus d’évolution psychosociale, d’apporter de la lumière et de la compréhension aux changements et de désarmer la peur par une écoute et un dialogue compatissants. 
 
-Les hommes et les femmes doivent traverser ce processus de changement ensemble avec autant de clarté, d’ouverture, de confiance et de courage que possible, c’est-à-dire en sachant que nos différences entre les sexes [[LU 84:6.6](/fr/The_Urantia_Book/84#p6_6)] « continueront à intriguer, à stimuler , s’encourager et s’entraider » alors même qu’une plus grande relation de mutualité entre les sexes est en train d’être atteinte dans le cadre du plan évolutif de perfection progressive. 
+Les hommes et les femmes doivent traverser ce processus de changement ensemble avec autant de clarté, d’ouverture, de confiance et de courage que possible, c’est-à-dire en sachant que nos différences entre les sexes <a id="a56_216"></a>[[LU 84:6.6](/fr/The_Urantia_Book/84#p6_6)] « continueront à intriguer, à stimuler , s’encourager et s’entraider » alors même qu’une plus grande relation de mutualité entre les sexes est en train d’être atteinte dans le cadre du plan évolutif de perfection progressive. 
 
-On pourrait dire que les changements dans le tissu social de la société occidentale (et de notre monde entier) en cours depuis le début du 20e siècle sont peut-être directement attribuables à la transition remarquable dans la relation entre notre Fils Créateur Micaël et notre Esprit Mère Créatrice. cela s'est produit lorsque Micaël a atteint son statut de Maître Fils, après avoir accompli sa septième et dernière mission d'effusion en tant que Jésus. À cette époque, Micaël publia la « Proclamation d’égalité » qui affirmait l’égalité de l’Esprit Mère avec lui dans toutes les dotations de personnalité et attributs de caractère divin. Cela devient le modèle transcendant de l’organisation familiale et du gouvernement, même des humbles créatures des mondes de l’espace. ([LU 33:3.5-8](/fr/The_Urantia_Book/33#p3_5)). 
+On pourrait dire que les changements dans le tissu social de la société occidentale (et de notre monde entier) en cours depuis le début du 20e siècle sont peut-être directement attribuables à la transition remarquable dans la relation entre notre Fils Créateur Micaël et notre Esprit Mère Créatrice. cela s'est produit lorsque Micaël a atteint son statut de Maître Fils, après avoir accompli sa septième et dernière mission d'effusion en tant que Jésus. À cette époque, Micaël publia la « Proclamation d’égalité » qui affirmait l’égalité de l’Esprit Mère avec lui dans toutes les dotations de personnalité et attributs de caractère divin. Cela devient le modèle transcendant de l’organisation familiale et du gouvernement, même des humbles créatures des mondes de l’espace. (<a id="a58_775"></a>[LU 33:3.5-8](/fr/The_Urantia_Book/33#p3_5)). 
 
 Tout comme Micaël et notre Mère Esprit reconnaissent leur nouvelle co-gouvernance fondamentalement égale et mutuelle de l'univers, les hommes et les femmes doivent également entrer dans une étape entièrement nouvelle de l'existence humaine sur Urantia, par laquelle chacun reconnaît et respecte les droits égaux de l'autre. Nous pouvons avoir des traits de genre différents, mais nous sommes égaux en tant que personnes et devons être libres d'exprimer notre personnalité dans la société. 
 
@@ -42,9 +66,9 @@ Dans tout le rassemblement des femmes, l’Esprit Mère n’a pas négligé les 
 
 Alors pourquoi notre Esprit Mère de l’Univers rassemble-t-il les femmes ? Comment les Urantiens, hommes et femmes, sont-ils dans une position unique pour l’aider ? Que veut-elle que nous fassions ? En tant que lecteurs du Livre d'Urantia de la Cinquième Révélation d'Époque, les lecteurs du Livre d'Urantia ont une richesse de connaissances sur l'Esprit Mère et son rôle dans l'univers que d'autres n'ont pas. Nous avons reçu un trésor d'informations sur le modèle divin du partenariat spirituel homme/femme et sur la relation entre Micaël/Jésus et Mère. Considérez ces citations : 
 
-> En ce qui concerne l’identité, la nature et les autres attributs de personnalité, le Fils Éternel est le plein égal, le parfait complément, l’éternelle contrepartie du Père Universel. Au même sens que Dieu est le Père Universel, le Fils est la Mère Universelle. Et l’ensemble de nous tous, humbles ou élevés, constitue leur famille universelle. ([LU 6:8.1](/fr/The_Urantia_Book/6#p8_1))
+> En ce qui concerne l’identité, la nature et les autres attributs de personnalité, le Fils Éternel est le plein égal, le parfait complément, l’éternelle contrepartie du Père Universel. Au même sens que Dieu est le Père Universel, le Fils est la Mère Universelle. Et l’ensemble de nous tous, humbles ou élevés, constitue leur famille universelle. (<a id="a68_348"></a>[LU 6:8.1](/fr/The_Urantia_Book/6#p8_1))
 
-> Le Père qui est aux cieux traite comme un égal l’Esprit-Mère des enfants de l’univers. ([LU 133:2.2](/fr/The_Urantia_Book/133#p2_2))
+> Le Père qui est aux cieux traite comme un égal l’Esprit-Mère des enfants de l’univers. (<a id="a70_90"></a>[LU 133:2.2](/fr/The_Urantia_Book/133#p2_2))
 
 Presque aucune autre tradition religieuse n’a de théologie reconnaissant le Divin Féminin comme un partenaire égal du Père céleste, et cette information est cruellement nécessaire dans le monde. Si Adam et Ève n'étaient pas tombés en défaut, nous aurions eu un modèle du modèle divin de partenariat spirituel et social homme/femme dans notre Fils et Fille Matériels qui nous aurait aidés à renoncer au déséquilibre entre les sexes sur notre planète. été à l'origine de tant de problèmes. Dans l’état actuel des choses, nous, Urantiens, disposons d’un corps unique de connaissances qui nous positionne pour être d’une grande aide à notre Esprit Mère dans ses efforts pour élever notre monde et le faire avancer vers la Lumière et la Vie. En tant que véritable et égal parent spirituel Mère co-créateur avec Micaël, notre parent spirituel Père, cet Univers a été créé, maintenu et soutenu par l’effort d’amour coopératif de nos Esprits Mère et Père. 
 
@@ -93,3 +117,28 @@ Depuis le début du millénaire actuel, un collectif croissant de femmes du mouv
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Errol_Strider/There_Was_a_Man_Once">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Il était une fois un homme</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-19-numéro-1-2019-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 19, numéro 1, 2019 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Epochal_Pathways">
+          <span class="pr-2">Voies d'époque</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

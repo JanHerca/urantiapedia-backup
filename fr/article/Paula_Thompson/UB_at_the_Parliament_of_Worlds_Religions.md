@@ -9,11 +9,35 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Paula J. Thompson<br>© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d’étude de l’Arizona</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="pr-2">Profiter du spectacle du Parlement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Paula J. Thompson, Boulder, Colorado
 
-« Le royaume des cieux n’est ni un ordre social, ni un ordre économique ; il est une fraternité exclusivement spirituelle d’individus connaissant Dieu. » (Livre d’Urantia, [LU 99:3.2](/fr/The_Urantia_Book/99#p3_2))
+« Le royaume des cieux n’est ni un ordre social, ni un ordre économique ; il est une fraternité exclusivement spirituelle d’individus connaissant Dieu. » (Livre d’Urantia, <a id="a39_172"></a>[LU 99:3.2](/fr/The_Urantia_Book/99#p3_2))
 
 Le premier Parlement des religions du monde a eu lieu en 1893 au Palmer House Hotel de Chicago. La liste des religions représentées lors de cet événement historique se lit comme un Who's Who des religions du XXe siècle.
 
@@ -64,3 +88,28 @@ Et lève le voile du sombre désespoir,
 Montre-nous la merveille de ta lumière
 Et les nombreuses couleurs scintillantes qui s'y trouvent.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/Study_Groups_of_Arizona">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Groupes d’étude de l’Arizona</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Byron_Belitsos/Enjoying_the_Spectacle_of_the_Parliament">
+          <span class="pr-2">Profiter du spectacle du Parlement</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

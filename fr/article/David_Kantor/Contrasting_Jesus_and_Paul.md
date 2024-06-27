@@ -9,6 +9,27 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 David Kantor<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_Johnson/An_Encounter_This_Unique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une rencontre aussi unique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -38,9 +59,9 @@ Pour Jésus, le royaume des cieux est une réalité présente, ici et maintenant
 
 Jésus a enseigné que nous vivons en présence d'un Père aimant ; Paul a enseigné que nous vivons au milieu d’une force maléfique qui cherche à nous contrôler. 
 
-La réforme à venir ébranlera les fondements mêmes du christianisme car elle remplacera finalement la métaphysique morose de la mort de Paul par la solide révélation de la vie que Jésus a vécue et enseignée pendant son séjour mortel en tant que Fils de l'homme et Fils de Dieu. ([[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1)]) 
+La réforme à venir ébranlera les fondements mêmes du christianisme car elle remplacera finalement la métaphysique morose de la mort de Paul par la solide révélation de la vie que Jésus a vécue et enseignée pendant son séjour mortel en tant que Fils de l'homme et Fils de Dieu. (<a id="a61_278"></a>[[LU 196:2.1](/fr/The_Urantia_Book/196#p2_1)]) 
 
-Jésus a dit : « Vous devez aller prêcher l’amour de Dieu et le service de l’homme. Ce que le monde a le plus besoin de savoir, c’est que les hommes sont les fils de Dieu et que, par la foi, ils peuvent effectivement réaliser cette vérité ennoblissante et en faire l’expérience quotidienne. ([[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)]) 
+Jésus a dit : « Vous devez aller prêcher l’amour de Dieu et le service de l’homme. Ce que le monde a le plus besoin de savoir, c’est que les hommes sont les fils de Dieu et que, par la foi, ils peuvent effectivement réaliser cette vérité ennoblissante et en faire l’expérience quotidienne. (<a id="a63_291"></a>[[LU 193:0.4](/fr/The_Urantia_Book/193#p0_4)]) 
 
 ## Références
 
@@ -48,3 +69,25 @@ Jésus a dit : « Vous devez aller prêcher l’amour de Dieu et le service de l
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_Johnson/An_Encounter_This_Unique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Une rencontre aussi unique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-20-numéro-1-2020-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 20, numéro 1, 2020 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

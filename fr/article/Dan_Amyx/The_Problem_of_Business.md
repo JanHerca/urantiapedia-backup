@@ -9,6 +9,30 @@ dateCreated: 2023-02-14T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2010 Dan Amyx<br>© 2010 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage d'un Urantien de deuxième génération</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Divinité accroupie / Suprême caché</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Tout au long de ma vie, certains aspects des affaires m'ont troublé. J’ai observé que de riches sociétés internationales nuisaient à l’environnement, causaient des problèmes culturels dans les pays en développement et causaient même des morts, tout cela par manque d’argent. Pour certaines personnes, cela pourrait suggérer que l’argent et les affaires sont mauvais ou mauvais. Mais ce n’est pas l’argent qui est le problème, c’est son administration ; l’exercice du pouvoir financier sans éthique ni moralité. Bien sûr, de nombreuses entreprises respectent la loi, mais elles trouvent souvent des « failles » qui leur permettent de faire ce qu’elles veulent, sans se soucier des conséquences périphériques. En d’autres termes, les entreprises font généralement ce qu’elles peuvent faire, et non ce qui est juste. Je pense que cela s’explique en partie par le fait que pendant des siècles, les affaires ont été traitées comme une entité distincte de notre vie quotidienne. C’est considéré comme amoral, sans morale ni bonne ni mauvaise – simplement sans. Cela a permis à des hommes et des femmes qui vivent normalement leur vie de manière éthique ou morale de prendre un congé sabbatique de tout comportement approprié pendant qu'ils mènent leurs affaires. 
@@ -17,7 +41,7 @@ Un merveilleux exemple a été porté à mon attention lorsque j’ai entendu un
 
 Qu’est-ce qui permet à une personne par ailleurs morale de se comporter avec autant de scrupules ? La psychologie humaine peut répondre à une partie de la question ; nous avons tendance à compartimenter nos vies afin que certaines parties ne touchent pas d’autres parties. C’est un peu le comportement de mon petit frère il y a de nombreuses années, qui gardait ses petits pois loin de la purée de pommes de terre : ne laissez pas ma moralité interférer avec mes revenus. Mais une raison encore plus insidieuse peut être trouvée dans la citation suivante : 
 
-> Après avoir procédé à l’appel nominatif final, on constata que les membres corporels de l’état-major du prince s’étaient répartis comme suit : Van et tous les membres de sa cour de coordination étaient restés loyaux. Ang et trois membres du conseil de l’alimentation avaient survécu. Tout le conseil de la domestication des animaux avait rejoint la rébellion, ainsi que tous les consultants chargés de la protection contre les bêtes de proie. Fad et cinq membres du collège d’enseignement étaient sauvés. Nod et toute la commission de l’industrie et du commerce suivaient Caligastia. Hap et tout le collège de la religion révélée restaient loyaux avec Van et son noble groupe. Lut et tout le conseil de la santé étaient perdus. Le conseil de l’art et de la science resta loyal dans sa totalité, mais Tut et tous ses membres de la commission des gouvernements tribaux s’égarèrent. Sur les cent, quarante étaient donc sauvés. Ils furent transférés plus tard sur Jérusem, d’où ils reprirent leur périple vers le Paradis. ([LU 67:4.1](/fr/The_Urantia_Book/67#p4_1))
+> Après avoir procédé à l’appel nominatif final, on constata que les membres corporels de l’état-major du prince s’étaient répartis comme suit : Van et tous les membres de sa cour de coordination étaient restés loyaux. Ang et trois membres du conseil de l’alimentation avaient survécu. Tout le conseil de la domestication des animaux avait rejoint la rébellion, ainsi que tous les consultants chargés de la protection contre les bêtes de proie. Fad et cinq membres du collège d’enseignement étaient sauvés. Nod et toute la commission de l’industrie et du commerce suivaient Caligastia. Hap et tout le collège de la religion révélée restaient loyaux avec Van et son noble groupe. Lut et tout le conseil de la santé étaient perdus. Le conseil de l’art et de la science resta loyal dans sa totalité, mais Tut et tous ses membres de la commission des gouvernements tribaux s’égarèrent. Sur les cent, quarante étaient donc sauvés. Ils furent transférés plus tard sur Jérusem, d’où ils reprirent leur périple vers le Paradis. (<a id="a43_1021"></a>[LU 67:4.1](/fr/The_Urantia_Book/67#p4_1))
 
 La liberté avec licence constituait le cadre du commerce et de l'industrie, autrement appelés affaires, et elle est encore visible aujourd'hui. Cet échec du monde des affaires, à se relever après une rébellion, se retrouve dans nos problèmes économiques mondiaux. Les affaires, en tant que modèle, sont actuellement pratiquées sans éthique ni moralité, comme un jeu à somme nulle. L’objectif des propriétaires d’entreprises du monde entier est de devancer leurs concurrents, voire de les écraser, et de créer des profits à tout prix. Le modèle économique mondial est manifestement brisé et a besoin non pas d’être réparé, mais d’être complètement remplacé. Pour ceux d’entre vous qui comprennent la « théorie des systèmes », vous ne pouvez pas remplacer une partie d’un système et vous attendre à ce qu’il change. Vous devez construire quelque chose au sein du système et favoriser sa croissance séparément. _Le Livre d'Urantia_ fait référence à cela comme à un « échafaudage ». 
 
@@ -69,3 +93,28 @@ Nous ne pouvons pas changer le monde maintenant, mais nous pouvons changer le mo
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Angela_Thurston/Testimonial_of_One_Second_Generation_Urantian">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Témoignage d'un Urantien de deuxième génération</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-11-numéro-1-2010-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 11, numéro 1, 2010 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Bob_Debold/Crouching_Deity_Hidden_Supreme">
+          <span class="pr-2">Divinité accroupie / Suprême caché</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

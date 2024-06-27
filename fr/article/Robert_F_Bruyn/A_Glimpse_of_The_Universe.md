@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2018 Robert F. Bruyn, Ph.D.<br>© 2018 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia en espagnol à la Foire internationale du livre de Gudalajara</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+          <span class="pr-2">Conférence NAIN du Réseau interconfessionnel nord-américain d'Interfaith Aventures, été 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par _Robert F. Bruyn, Ph.D._
 
@@ -28,14 +52,14 @@ D’où vient ce sentiment ? Je n’avais pas consciemment décidé d’être op
 
 _Le Livre d'Urantia_[^2] que je lis et étudie depuis des années, m'a fourni quelques concepts :
 
-> « Si l’on est disposé à admettre, comme hypothèse de travail pratique, l’existence d’un mental théorique subconscient dans la vie intellectuelle qui autrement est unifiée, alors, pour être logique, on devrait supposer l’existence d’un domaine semblable et correspondant d’activité intellectuelle ascendante, en tant que niveau superconscient, la zone de contact immédiat avec l’entité spirituelle intérieure, l’Ajusteur de Pensée. » ([LU 100:5.6](/fr/The_Urantia_Book/100#p5_6))
+> « Si l’on est disposé à admettre, comme hypothèse de travail pratique, l’existence d’un mental théorique subconscient dans la vie intellectuelle qui autrement est unifiée, alors, pour être logique, on devrait supposer l’existence d’un domaine semblable et correspondant d’activité intellectuelle ascendante, en tant que niveau superconscient, la zone de contact immédiat avec l’entité spirituelle intérieure, l’Ajusteur de Pensée. » (<a id="a54_436"></a>[LU 100:5.6](/fr/The_Urantia_Book/100#p5_6))
 > 
 
-> « La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent. Au cours de sa vie de mortel, l’être humain n’est jamais complètement conscient d’aucun de ces deux systèmes, et c’est pourquoi il lui faut travailler dans le mental dont il est conscient. » ([LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
+> « La conscience humaine repose doucement sur le mécanisme électrochimique sous-jacent, et touche délicatement le système énergétique morontiel-spirituel sur-jacent. Au cours de sa vie de mortel, l’être humain n’est jamais complètement conscient d’aucun de ces deux systèmes, et c’est pourquoi il lui faut travailler dans le mental dont il est conscient. » (<a id="a57_359"></a>[LU 111:1.5](/fr/The_Urantia_Book/111#p1_5))
 
 Ces idées correspondent à mon expérience. Bien que le coup porté à ma tête ait perturbé le mécanisme électrochimique du cerveau, il n’a eu aucun effet sur le système énergétique spirituel. Mon « assurance » était un sentiment venant de mon superconscient, et non de l’intellect conscient ou du royaume subconscient de l’esprit qui est la source de nos peurs animales. Ce que cet aperçu avait révélé, c'est que l’inconscient pouvait être pensé en deux parties, la physique et la spirituelle. L’esprit, dans son ensemble, peut être vu de manière holistique avec un subconscient physique, une conscience intellectuelle et un surconscient spirituel.
 
-« La croissance est toujours inconsciente, qu’elle soit physique, intellectuelle ou spirituelle. » [LU 100:3.7](/fr/The_Urantia_Book/100#p3_7) Même maintenant, je continue de prendre conscience de ce que j'ai appris inconsciemment au cours de l’année écoulée. Je me considère extrêmement chanceux d'avoir fait une guérison presque complète et de pouvoir partager une partie de mon expérience avec vous — non pas pour me vanter mais parce qu’elle me montre le plan majestueux de création progressive de notre Père auquel nous avons le privilège de participer. entrer et découvrir.
+« La croissance est toujours inconsciente, qu’elle soit physique, intellectuelle ou spirituelle. » <a id="a61_99"></a>[LU 100:3.7](/fr/The_Urantia_Book/100#p3_7) Même maintenant, je continue de prendre conscience de ce que j'ai appris inconsciemment au cours de l’année écoulée. Je me considère extrêmement chanceux d'avoir fait une guérison presque complète et de pouvoir partager une partie de mon expérience avec vous — non pas pour me vanter mais parce qu’elle me montre le plan majestueux de création progressive de notre Père auquel nous avons le privilège de participer. entrer et découvrir.
 
 ## Liens externes
 
@@ -49,3 +73,27 @@ Ces idées correspondent à mon expérience. Bien que le coup porté à ma tête
 
 [^1] : Pearce, Joseph Chilton. L'enfant magique mûrit. Duton, 1985
 [^2] : Le Livre d'URANTIA. Fondation URANTIA 1955 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joy_Brandt/Spanish_Urantia_Book_at_Guadalajara_International_Book_Fair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Livre d'Urantia en espagnol à la Foire internationale du livre de Gudalajara</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2018 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marvin_Gawryn/Summer_2018_Interfaith_Aventures">
+          <span class="pr-2">Conférence NAIN du Réseau interconfessionnel nord-américain d'Interfaith Aventures, été 2018</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

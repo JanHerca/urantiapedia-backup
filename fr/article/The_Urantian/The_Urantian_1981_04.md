@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1981"
+title: "« The Urantian » — Numéro du printemps 1981"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1981 Henry Begemann, David Renn<br>© 1981 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Self_realization">
+          <span class="pr-2">Réalisation de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Réalisation de soi
@@ -46,7 +67,29 @@ Dans les prochains numéros, nous aimerions examiner deux sujets d’intérêt e
 - Le niveau actuel d'expression culturelle (de l'art et de la musique à la vie de famille) sur la planète suggère-t-il que nous progressons vers la réalisation éventuelle de la lumière et de la vie ?
 - Étant donné le niveau de réalisation évolutive (politique, économique, social, etc.) auquel nous nous trouvons, comment pouvons-nous mieux introduire les enseignements pertinents du _Livre d'URANTIA_ dans chaque domaine ou discipline ?
 
-> « _Quand les hommes perdent de vue l’amour d’un Dieu personnel, le royaume de Dieu devient simplement le royaume du bien. Malgré l’unité infinie de la nature divine, l’amour est la caractéristique dominante de toutes les relations personnelles de Dieu avec ses créatures._ » ([LU 2:5.12](/fr/The_Urantia_Book/2#p5_12))
+> « _Quand les hommes perdent de vue l’amour d’un Dieu personnel, le royaume de Dieu devient simplement le royaume du bien. Malgré l’unité infinie de la nature divine, l’amour est la caractéristique dominante de toutes les relations personnelles de Dieu avec ses créatures._ » (<a id="a69_278"></a>[LU 2:5.12](/fr/The_Urantia_Book/2#p5_12))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1981">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1981 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Henry_Begemann/Self_realization">
+          <span class="pr-2">Réalisation de soi</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

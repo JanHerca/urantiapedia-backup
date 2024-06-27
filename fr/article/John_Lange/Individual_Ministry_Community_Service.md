@@ -9,19 +9,43 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Lange<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art du partage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Marcher avec les enfants Marcher avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par John Lange
 
 ## Introduction
 
-En tant que dévots de la révélation Urantia, nous avons choisi d'explorer de nouvelles réalités spirituelles. Alors que nous poursuivons chacun notre propre croissance spirituelle à travers l'expérience religieuse, _Le Livre d'Urantia_ sur [LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) énumère les habitudes pour discipliner ce processus. La discipline sur laquelle je me concentrerai est « _la reconnaissance de la vie religieuse chez les autres._ » Qu'est-ce que la vie religieuse et comment la reconnaissons-nous ? À la page 66, nous recevons une réponse simple et inspirante : « _...c'est [la religion] une expérience vivante et dynamique d'acquisition de la divinité fondée sur le service de l'humanité._ » Par conséquent, la reconnaissance de la vie religieuse est une appréciation de cette dynamique de service. comme cela se manifeste chez les autres.
+En tant que dévots de la révélation Urantia, nous avons choisi d'explorer de nouvelles réalités spirituelles. Alors que nous poursuivons chacun notre propre croissance spirituelle à travers l'expérience religieuse, _Le Livre d'Urantia_ sur <a id="a41_240"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) énumère les habitudes pour discipliner ce processus. La discipline sur laquelle je me concentrerai est « _la reconnaissance de la vie religieuse chez les autres._ » Qu'est-ce que la vie religieuse et comment la reconnaissons-nous ? À la page 66, nous recevons une réponse simple et inspirante : « _...c'est [la religion] une expérience vivante et dynamique d'acquisition de la divinité fondée sur le service de l'humanité._ » Par conséquent, la reconnaissance de la vie religieuse est une appréciation de cette dynamique de service. comme cela se manifeste chez les autres.
 
-Grâce au service, nous obtenons le statut de citoyens de l'univers, et ceci est souligné dans chaque section du _Livre d'Urantia_. Dans notre carrière universelle, on nous dit sur [LU 28:6.17](/fr/The_Urantia_Book/28#p6_17), « _Le service... est le but du temps et la destinée de l'espace._ ». Dans les articles de l'Ajusteur de Pensée au bas de [LU 110:3.8](/fr/The_Urantia_Book/110#p3_8), on nous dit que nous pouvons consciemment augmenter l’harmonie de l’Ajusteur en « _aimant Dieu et désirant être comme lui_ » et en « _aimant l’homme et désirant sincèrement le servir._ »
+Grâce au service, nous obtenons le statut de citoyens de l'univers, et ceci est souligné dans chaque section du _Livre d'Urantia_. Dans notre carrière universelle, on nous dit sur <a id="a43_180"></a>[LU 28:6.17](/fr/The_Urantia_Book/28#p6_17), « _Le service... est le but du temps et la destinée de l'espace._ ». Dans les articles de l'Ajusteur de Pensée au bas de <a id="a43_346"></a>[LU 110:3.8](/fr/The_Urantia_Book/110#p3_8), on nous dit que nous pouvons consciemment augmenter l’harmonie de l’Ajusteur en « _aimant Dieu et désirant être comme lui_ » et en « _aimant l’homme et désirant sincèrement le servir._ »
 
 Dans notre enseignement sur le gouvernement humain, nous apprenons : « La société moderne est largement maintenue par le marché industriel. La motivation du gain est un puissant civilisateur lorsqu’elle est renforcée par le désir de servir. De même, le service et la participation sont l’essence de l’aventure Suprême. Dans notre introduction aux documents suprêmes, on nous dit : « Avec Dieu le Père, la filiation est la grande relation. Avec Dieu le Suprême, la réussite est la condition préalable au statut : il faut faire quelque chose aussi bien qu’être quelque chose.
 
-Au cours de son séjour sur Urantia, Jésus a encouragé à plusieurs reprises ses disciples à se mettre au service de leurs frères et sœurs planétaires. Dans son enseignement à Tyr, il nous instruit : « _Le respect de soi se coordonne toujours avec l’amour et le service d’autrui. Le respect de soi ne peut dépasser l’amour que l’on éprouve pour son prochain ; l’un est la mesure de la capacité de l’autre._ » Dans son discours sur la filiation et la citoyenneté, il déclare : « _Du point de vue d’une civilisation en progrès, la filiation dans le royaume céleste devrait vous aider à devenir les citoyens idéaux des royaumes de ce monde, car la fraternité et le service sont les pierres angulaires de l’évangile du royaume._ » De même sur [LU 188:4.9](/fr/The_Urantia_Book/188#p4_9) on nous dit : « _Jésus enseigna que le service envers son prochain est le concept le plus élevé de la fraternité des croyants en l’esprit. ... La principale préoccupation des croyants ne devrait pas être le désir égoïste de salut personnel, mais plutôt le besoin désintéressé d’aimer leurs semblables, donc de les servir, de même que Jésus a aimé et servi les mortels._ » Ainsi, il a remplacé cette préoccupation de l'ego par une mission transpersonnelle plus élevée.
+Au cours de son séjour sur Urantia, Jésus a encouragé à plusieurs reprises ses disciples à se mettre au service de leurs frères et sœurs planétaires. Dans son enseignement à Tyr, il nous instruit : « _Le respect de soi se coordonne toujours avec l’amour et le service d’autrui. Le respect de soi ne peut dépasser l’amour que l’on éprouve pour son prochain ; l’un est la mesure de la capacité de l’autre._ » Dans son discours sur la filiation et la citoyenneté, il déclare : « _Du point de vue d’une civilisation en progrès, la filiation dans le royaume céleste devrait vous aider à devenir les citoyens idéaux des royaumes de ce monde, car la fraternité et le service sont les pierres angulaires de l’évangile du royaume._ » De même sur <a id="a47_737"></a>[LU 188:4.9](/fr/The_Urantia_Book/188#p4_9) on nous dit : « _Jésus enseigna que le service envers son prochain est le concept le plus élevé de la fraternité des croyants en l’esprit. ... La principale préoccupation des croyants ne devrait pas être le désir égoïste de salut personnel, mais plutôt le besoin désintéressé d’aimer leurs semblables, donc de les servir, de même que Jésus a aimé et servi les mortels._ » Ainsi, il a remplacé cette préoccupation de l'ego par une mission transpersonnelle plus élevée.
 
 Tout au long du _Livre d'Urantia_, la religion est décrite comme cette double expérience d'aimer Dieu et de servir l'homme. Verticalement vers le haut et vers l'intérieur, par la prière et l'adoration, le mortel ascendant trouve le Père et communie avec l'Ajusteur. Horizontalement, le mortel s'élargit et se développe grâce au service et à l'expérience pour découvrir le Suprême. C'est en combinaison que se façonne l'édifice d'une vie spirituelle. (_Voir la figure 1 ci-dessous._)
 
@@ -129,3 +153,28 @@ Ces quatre communautés ont été choisies en raison de leur formation unique da
 
 Que pouvons-nous apprendre de cette étude alors que nous luttons vers une communauté spirituelle dans le Mouvement Urantia ? Sommes-nous prêts à faire le sacrifice nécessaire et à nous abandonner au modèle spirituel plus large ? Il est intéressant que les événements sur la scène mondiale coïncident avec la métamorphose du Mouvement Urantia. Dans un article récemment publié intitulé « La fin de l’histoire ? l'auteur affirme que l'histoire a atteint son point final avec le succès de la société démocratique. Les objectifs de l’aventurisme humain passé sont désormais assurés par l’économie mondiale. La société sera bientôt réduite à un rôle de gardienne perpétuelle. Un ardent critique a observé que peu d'attention avait été accordée aux besoins supérieurs de la société qui réclament désormais de s'exprimer, à savoir le désir de spiritualité et de communauté. Il semble qu’un réveil spirituel ait appelé les nations à se débarrasser des chaînes de la répression et à développer un sens plus large de communauté spirituelle. Par la lutte et le conflit, nous sommes prêts à nous tenir à l’avant-garde et à offrir cette révélation de la vérité à un monde prêt à la recevoir.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Carol_Hay/The_Art_of_Sharing">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art du partage</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sara_Blackstock/Walking_with_Children_Walking_with_God">
+          <span class="pr-2">Marcher avec les enfants Marcher avec Dieu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 Julia Fenderson<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/The_Omega_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La perspective Oméga</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _(La Première Société URANTIA de Los Angeles (FUSLA) est la plus ancienne Société URANTIA non-Chicago. Depuis plus de 20 ans, elle encourage les activités de groupes d'étude sur la côte ouest. L'article suivant est basé sur l'expérience FLISLA.)_
@@ -23,7 +44,29 @@ Rappelez-vous que _Le Livre d'URANTIA_ est la raison de la réunion, alors reste
 
 Il s'est avéré utile, mais pas essentiel, d'avoir un tableau où certaines notes ou informations spéciales peuvent être répertoriées, telles que la mission et le responsable du jour et de la prochaine fois. Ou bien, des recherches supplémentaires ou des références croisées sur l'article en cours de lecture peuvent être notées...
 
-L'un des objectifs de nos groupes d'étude, outre l'apprentissage réel du _Livre d'URANTIA_, s'exprime sur [LU 103:1.3](/fr/The_Urantia_Book/103#p1_3) : «_Bien que votre religion soit une affaire d’expérience personnelle, il est très important que vous soyez amené à connaitre un grand nombre d’autres expériences religieuses (les interprétations diverses de différents mortels) afin d’empêcher votre vie religieuse de devenir égocentrique — étroite, égoïste et insociable._ »
+L'un des objectifs de nos groupes d'étude, outre l'apprentissage réel du _Livre d'URANTIA_, s'exprime sur <a id="a46_106"></a>[LU 103:1.3](/fr/The_Urantia_Book/103#p1_3) : «_Bien que votre religion soit une affaire d’expérience personnelle, il est très important que vous soyez amené à connaitre un grand nombre d’autres expériences religieuses (les interprétations diverses de différents mortels) afin d’empêcher votre vie religieuse de devenir égocentrique — étroite, égoïste et insociable._ »
 
 —_Julia Fenderson_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/David_Schlundt/The_Omega_Perspective">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La perspective Oméga</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

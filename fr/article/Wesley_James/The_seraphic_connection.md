@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Wesley James<br>© 1980 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh — L'influence angélique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’une des fonctions de la révélation est de trier, clarifier et souligner les vérités qui ont évolué au fil des années alors que les hommes cherchent à harmoniser ce qu’ils savent et ce qu’ils peuvent croire. Les anges font partie de la révélation religieuse, de l’évolution, de la tradition, des mythes et des légendes depuis des milliers d’années. Certains des récits les plus intéressants du _Livre d'URANTIA_ traitent de la relation ou de la connexion entre les mortels et les anges.
@@ -27,10 +51,35 @@ Ce ne sont que deux exemples parmi des milliers d’exemples historiques où les
 
 ## « Continuez »
 
-En écrivant récemment sur Dieu le Suprême, ma mère a dit un jour que l’important semblait être de « continuer à tenir le coup », en d’autres termes, de s’accrocher, de poursuivre nos meilleurs efforts ou nos idées telles que nous les voyons. Il y a quelque chose dans l’univers, la connexion séraphique, qui, si vous voulez, intensifiera ces efforts et apportera les meilleurs résultats à toutes les personnes concernées. Il se peut que nous ne reconnaissions pas les résultats en tant que tels, ni même que nous vivions pour les voir : mais la foi garantit qu’avec l’aide de nos amis invisibles, les choses s’arrangeront pour le bien. C'est le sens de la mota morontia : « _L'acte est le nôtre ; les conséquences appartiennent à Dieu._” ([LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
+En écrivant récemment sur Dieu le Suprême, ma mère a dit un jour que l’important semblait être de « continuer à tenir le coup », en d’autres termes, de s’accrocher, de poursuivre nos meilleurs efforts ou nos idées telles que nous les voyons. Il y a quelque chose dans l’univers, la connexion séraphique, qui, si vous voulez, intensifiera ces efforts et apportera les meilleurs résultats à toutes les personnes concernées. Il se peut que nous ne reconnaissions pas les résultats en tant que tels, ni même que nous vivions pour les voir : mais la foi garantit qu’avec l’aide de nos amis invisibles, les choses s’arrangeront pour le bien. C'est le sens de la mota morontia : « _L'acte est le nôtre ; les conséquences appartiennent à Dieu._” (<a id="a53_739"></a>[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13))
 
 Dans les premiers jours de la diffusion du Livre d'URANTIA et de ses enseignements, sa propagation a été lente mais de plus en plus certaine. Je suis sûr que les séraphins soutiennent les véritables efforts de tous les individus concernés par le mouvement. Avec une telle aide, nous sommes assurés du succès. Je suis également convaincu que le résultat à long terme de la révélation d'URANTIA, considéré comme une histoire dans le futur, sera plus grand que ce que toute personne impliquée dans le mouvement en ces tout premiers jours peut prévoir. Je crois que la connexion séraphique se poursuivra et s'ajoutera à nos efforts. À mesure que les gens deviennent plus disposés à suivre leurs idées supérieures, sur les plans religieux, politique et social, il n'y a rien qui ne puisse être tenté et finalement accompli.
 
 — _Wesley R. James_
 _Forest Park, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'été 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Gene_Joyce/Lindbergh_The_angelic_influence">
+          <span class="pr-2">Lindbergh — L'influence angélique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

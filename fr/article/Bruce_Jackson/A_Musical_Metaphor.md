@@ -9,13 +9,37 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Dr Bruce Jackson<br>© 2017 La Bourse du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">Le temple de la fraternité spirituelle et la plus grande signification des groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Que se passerait-il si je me présentais devant un groupe de lecteurs du Livre d'Urantia et prétendais que je pourrais nous sortir de l'obscurité et transformer notre révélation en une nouvelle religion mondiale ? Je suis certain qu’ils me montreraient poliment mais rapidement la porte. Il y a environ 200 ans, nous serions devenus mormons. Que s'est-il passé? 
 
 Depuis le XXe siècle, l’opportunité d’un « leader fort » a été sérieusement remise en question. Dans le monde des affaires, le style de gestion descendant a été remis en question par un modèle plat de « service client ». Cette méthode de management bien démontrée respecte et valorise tous les collaborateurs, encourage le leadership à sortir du groupe et récompense l'effort d'équipe. Pourtant, même si les écoles de commerce enseignent depuis longtemps l’opportunité de cette approche dans les cours de MBA, rares sont les établissements universitaires qui mettent réellement en pratique ce qu’ils prêchent, car le modèle de microgestion hiérarchique et descendant reste fermement ancré dans l’enseignement supérieur. 
 
-L'approche de gestion à plat semble mieux représenter le modèle universel partagé dans _Le Livre d'Urantia_. _« L’univers tout entier est organisé et administré sur le plan représentatif. Un gouvernement représentatif est l’idéal divin de l’autonomie pour les êtres imparfaits. »_ [[LU 45:7.3](/fr/The_Urantia_Book/45#p7_3)]
+L'approche de gestion à plat semble mieux représenter le modèle universel partagé dans _Le Livre d'Urantia_. _« L’univers tout entier est organisé et administré sur le plan représentatif. Un gouvernement représentatif est l’idéal divin de l’autonomie pour les êtres imparfaits. »_ <a id="a41_281"></a>[[LU 45:7.3](/fr/The_Urantia_Book/45#p7_3)]
 
 Le Père céleste envisage notre avenir, puis se retire pour permettre à ses fils et à ses filles, quel que soit leur niveau, d’assumer la responsabilité de mettre en œuvre sa volonté. Bien que les humains puissent choisir de faire cavalier seul, le royaume spirituel facilite notre dévouement à faire la volonté de Dieu grâce à l’aide de nos Ajusteurs de Pensée, de nos nombreux Aides Invisibles et de l’Esprit de Vérité. 
 
@@ -55,9 +79,9 @@ Dans cet engagement, nous devons d’abord nous concentrer sur le Père céleste
 
 Avez-vous remarqué que j'ai déclaré que le score serait modifié ? Bien que changer la Bible puisse horrifier de nombreux chrétiens, c’est l’idée qu’un individu puisse lire la Bible et avoir une compréhension et une relation personnelles avec la « Parole de Dieu » qui était au cœur de la réforme protestante de la Renaissance européenne. 
 
-_Le Livre d'Urantia_ est notre partition. Même si toute suggestion visant à modifier notre précieux livre pourrait troubler certains d’entre nous, il est inévitable que notre révélation soit interprétée différemment par les individus, les groupes et les organisations. En décrivant la Cinquième Révélation d’Époque, nos auteurs nous rappellent qu’« aucune révélation sans l’atteinte du Père Universel ne pourra jamais être complète ». [[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9)] Plus important encore, après une longue pratique, Jésus a envoyé les évangélistes comme suit : 
+_Le Livre d'Urantia_ est notre partition. Même si toute suggestion visant à modifier notre précieux livre pourrait troubler certains d’entre nous, il est inévitable que notre révélation soit interprétée différemment par les individus, les groupes et les organisations. En décrivant la Cinquième Révélation d’Époque, nos auteurs nous rappellent qu’« aucune révélation sans l’atteinte du Père Universel ne pourra jamais être complète ». <a id="a81_435"></a>[[LU 92:4.9](/fr/The_Urantia_Book/92#p4_9)] Plus important encore, après une longue pratique, Jésus a envoyé les évangélistes comme suit : 
 
-> _Chaque instructeur apostolique enseignait son propre point de vue sur l’évangile du royaume. Ils ne s’efforçaient pas d’enseigner tous exactement de la même manière. Il n’y avait ni uniformisation ni formulation dogmatique des doctrines théologiques. Ils enseignaient tous la *même vérité,* mais chaque apôtre présentait sa propre interprétation personnelle de l’enseignement du Maitre._ ([LU 148:1.2](/fr/The_Urantia_Book/148#p1_2))
+> _Chaque instructeur apostolique enseignait son propre point de vue sur l’évangile du royaume. Ils ne s’efforçaient pas d’enseigner tous exactement de la même manière. Il n’y avait ni uniformisation ni formulation dogmatique des doctrines théologiques. Ils enseignaient tous la *même vérité,* mais chaque apôtre présentait sa propre interprétation personnelle de l’enseignement du Maitre._ (<a id="a83_392"></a>[LU 148:1.2](/fr/The_Urantia_Book/148#p1_2))
 
 Les musiciens changent, modifient et adaptent constamment les partitions des maîtres en fonction de l'ensemble, du public et de la situation. Néanmoins, soyez assuré que les partitions composées par les maîtres restent fidèles à leur message spirituel. La symphonie doit interpréter la partition, mais elle ne la compose pas. 
 
@@ -69,7 +93,7 @@ Enfin, les lecteurs du Livre d'Urantia doivent toujours être conscients que le 
 
 Même si cette métaphore musicale suggère comment le mouvement Urantia peut se transformer en se concentrant sur la volonté de Dieu, invitant ainsi le public du monde à se joindre à nous dans l'adoration, nous devons toujours garder à l'esprit la vérité de cette profonde révélation : 
 
-> Avec le champ limité de l’ouïe humaine, vous ne pouvez guère concevoir les mélodies morontielles. Elles comportent même une gamme matérielle de sons magnifiques non reconnus par le sens humain de l’ouïe, sans mentionner l’étendue inconcevable des harmonies morontielles et spirituelles. Les mélodies spirituelles ne sont pas des ondes sonores matérielles, mais des pulsations spirituelles reçues par les esprits des personnalités célestes. L’amplitude de portée, l’âme de l’expression et la grandeur d’exécution associées à la mélodie des sphères dépassent totalement la compréhension humaine. ([LU 44:1.1](/fr/The_Urantia_Book/44#p1_1))
+> Avec le champ limité de l’ouïe humaine, vous ne pouvez guère concevoir les mélodies morontielles. Elles comportent même une gamme matérielle de sons magnifiques non reconnus par le sens humain de l’ouïe, sans mentionner l’étendue inconcevable des harmonies morontielles et spirituelles. Les mélodies spirituelles ne sont pas des ondes sonores matérielles, mais des pulsations spirituelles reçues par les esprits des personnalités célestes. L’amplitude de portée, l’âme de l’expression et la grandeur d’exécution associées à la mélodie des sphères dépassent totalement la compréhension humaine. (<a id="a95_597"></a>[LU 44:1.1](/fr/The_Urantia_Book/44#p1_1))
 
 > Le Dr Bruce Jackson, lecteur depuis 1979, a enseigné la musique et les sciences humaines pendant 17 ans et a été administrateur universitaire pendant 12 ans. Il a travaillé avec le Spiritual Fellowship Journal pendant 10 ans. Musicien actif depuis 1969, il est maintenant à la retraite et se concentre sur les projets du _Livre d'Urantia_ et la musique d'église.  
 {.is-info}
@@ -78,3 +102,28 @@ Même si cette métaphore musicale suggère comment le mouvement Urantia peut se
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Joshua_J_Wilson/Urantia_Spring">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Printemps Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-17-numéro-1-2017-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 17, numéro 1, 2017 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/The_Temple_Of_Spiritual_Brotherhood_and_the_Greater_Meaning_Of_Study_Groups">
+          <span class="pr-2">Le temple de la fraternité spirituelle et la plus grande signification des groupes d'étude</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

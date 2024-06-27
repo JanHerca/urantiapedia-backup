@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gouvernement Planétaire d’Urantia Définitions et références supplémentaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Le Livre d’Urantia au Parlement des Religions du Monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Salutations, amis lecteurs de la Cinquième Révélation d’Époque. Avec ce numéro de_ The Study Group Herald, _nous allons rencontrer les groupes d’étude en Arizona. Cet État abrite la Grand Canyon Society of the Fellowship. Et, en lisant sur chaque groupe d’étude dans cet état du sud-ouest, vous verrez que les groupes sont non seulement bien établis mais aussi très actifs dans leurs efforts pour promouvoir le Livre d’Urantia.
@@ -115,7 +139,7 @@ Le groupe étudiait le Fascicule 14, L’Univers Central et Divin, lorsque les M
 
 
 
-Dans les affaires comme dans la spiritualité, j'ai appris à ne pas préjuger ou sous-estimer la curiosité ou la ténacité des gens, le fonctionnement parfait de leurs Ajusteurs et les pouvoirs de trois grands esprits discerneurs de révélation : l’Esprit de Vérité de Michael ; le don de soi de l’Esprit Mère, les sensibilités de l’adjudant et la « réponse à la réalité » mentalement inhérente. ([LU 16:6.4](/fr/The_Urantia_Book/16#p6_4))
+Dans les affaires comme dans la spiritualité, j'ai appris à ne pas préjuger ou sous-estimer la curiosité ou la ténacité des gens, le fonctionnement parfait de leurs Ajusteurs et les pouvoirs de trois grands esprits discerneurs de révélation : l’Esprit de Vérité de Michael ; le don de soi de l’Esprit Mère, les sensibilités de l’adjudant et la « réponse à la réalité » mentalement inhérente. (<a id="a141_393"></a>[LU 16:6.4](/fr/The_Urantia_Book/16#p6_4))
 
 Parmi les autres personnes qui participent régulièrement au groupe figurent Dick et Peggy Johnson. et Eve McMahon. Bien que Larry soit l’hôte, il n’est pas nécessairement le leader. Le groupe a tendance à se diriger lui-même et dépend de la sagesse collective de ses membres, qui comptent ensemble environ 100 ans de lectorat. La plupart des membres de ce groupe participent à d’autres groupes d’étude dans la région de Phoenix.
 
@@ -135,3 +159,28 @@ Nous faisons partie du groupe depuis septembre 1993. Certaines personnes lisent 
 
 Nous avons fourni un certain nombre de livres aux librairies mais ne procédons pas à un recrutement actif. Nous n’avons pas de leader officiel, même si plusieurs de nos lecteurs de longue date ont certainement une meilleure compréhension des problèmes que le reste d’entre nous.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Gouvernement Planétaire d’Urantia Définitions et références supplémentaires</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson/UB_at_the_Parliament_of_Worlds_Religions">
+          <span class="pr-2">Le Livre d’Urantia au Parlement des Religions du Monde</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

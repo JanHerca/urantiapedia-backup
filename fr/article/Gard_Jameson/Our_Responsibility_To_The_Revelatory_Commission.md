@@ -9,6 +9,27 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Gard Jameson<br>© 1998 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence de l'UIA à Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-2-septembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 2, septembre 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _L'administrateur, Gard Jameson, prend la parole à la conférence de l'IUA à Helsinki_
@@ -70,7 +91,7 @@ Nous devrions nous demander qu'avons-nous appris dans ce processus, ce processus
 
 Peep a fait référence à l'incertitude du processus dont nous faisons partie avec une citation du _Livre d'Urantia_.
 
-> _Dans les âges planétaires plus avancés, ces séraphins font mieux apprécier aux hommes la vérité que l’incertitude est le secret d’une continuité satisfaisante. Ils aident les philosophes mortels à comprendre que, dans les circonstances où il est essentiel d’ignorer pour réussir, ce serait une bévue colossale de laisser les créatures connaitre l’avenir. Ils rehaussent le gout des hommes pour la douceur de l’incertitude, pour le romanesque et le charme d’un avenir imprécis et inconnu._ ([LU 39:5.9](/fr/The_Urantia_Book/39#p5_9))
+> _Dans les âges planétaires plus avancés, ces séraphins font mieux apprécier aux hommes la vérité que l’incertitude est le secret d’une continuité satisfaisante. Ils aident les philosophes mortels à comprendre que, dans les circonstances où il est essentiel d’ignorer pour réussir, ce serait une bévue colossale de laisser les créatures connaitre l’avenir. Ils rehaussent le gout des hommes pour la douceur de l’incertitude, pour le romanesque et le charme d’un avenir imprécis et inconnu._ (<a id="a93_493"></a>[LU 39:5.9](/fr/The_Urantia_Book/39#p5_9))
 
 Pouvons-nous tous reconnaître ce processus dont nous faisons partie et respirer la « douceur de l’incertitude » ? Avons-nous la volonté de dépasser nos comportements non coopératifs et de continuer à résoudre notre manque d’unité ? Avons-nous le courage de donner au Maître ce qu'il veut vraiment au sein de notre communauté ? Au nom de notre Maître, je prie pour que nous le fassions. Et je prie pour que ce soit aussi votre prière !
 
@@ -79,3 +100,25 @@ Pouvons-nous tous reconnaître ce processus dont nous faisons partie et respirer
 
 - [Nouvelles Urantiennes de la Fondation Urantia](https://www.urantia.org/news/1998-08/trustee-gard-jameson-speaks-iua-conference-in-helsinki)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Georges_Michelson_Dupont/IUA_Conference_in_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conférence de l'UIA à Helsinki</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-2-septembre-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 2, septembre 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

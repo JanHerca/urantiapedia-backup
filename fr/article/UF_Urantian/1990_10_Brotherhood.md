@@ -9,6 +9,24 @@ dateCreated: 2023-8-29T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 Fondation Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-1-octobre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 1, octobre 1990 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -59,7 +77,7 @@ Par rapport à son prédécesseur, l’Urantia Brotherhood Association aura des 
 
 Avec tout cela à l'esprit, les administrateurs de la Fondation Urantia sont convaincus que l'Association de la Fraternité Urantia fournira un forum social et fraternel dans lequel les individus pourront se servir, s'encourager et s'inspirer mutuellement, attirant l'attention et bénéficiant des enseignements divins du Livre d'Urantia. .
 
-Le ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)), les médians nous disent que « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » Nous croyons que les membres de l'Urantia Brotherhood Association, agissant avec une meilleure compréhension du but évolutif de l'Être Suprême dans un univers dominé par l'amour, apporteront des contributions notables à ce résultat. En s'aidant mutuellement à comprendre et à apprécier les enseignements du _Livre d'Urantia_, les membres de l'Association de la Fraternité Urantia créeront un nouveau climat spirituel qui favorisera la croissance de leur personnalité entière et augmentera considérablement leur utilité potentielle pour toute l'humanité.
+Le (<a id="a79_4"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2)), les médians nous disent que « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » Nous croyons que les membres de l'Urantia Brotherhood Association, agissant avec une meilleure compréhension du but évolutif de l'Être Suprême dans un univers dominé par l'amour, apporteront des contributions notables à ce résultat. En s'aidant mutuellement à comprendre et à apprécier les enseignements du _Livre d'Urantia_, les membres de l'Association de la Fraternité Urantia créeront un nouveau climat spirituel qui favorisera la croissance de leur personnalité entière et augmentera considérablement leur utilité potentielle pour toute l'humanité.
 
 Pour notre part, nous ne pouvons imaginer une entreprise plus noble.
 
@@ -70,3 +88,22 @@ Les administrateurs de la Fondation Urantia
 
 - [Nouvelles Urantiennes de la Fondation Urantia](https://www.urantia.org/news/1990-10)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_uf_urantian#numéro-1-octobre-1990">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro 1, octobre 1990 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Michelle Klimesh, Robert Burns<br>© 2005 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'hiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Le Conseil général se réunira à Dallas
 
@@ -84,7 +102,7 @@ New York, New York 10163
 
 La présence de la révélation Urantia a été fortement ressentie lors du rassemblement conjoint de l’Initiative des Religions Unies et du Réseau interconfessionnel nord-américain tenu à l’Université du Nevada, à Las Vegas, du 14 au 16 août cet été, grâce au travail de plusieurs _Livres d'Urantia_ dévoués. lecteurs. La communauté Urantia a organisé un banquet pour le rassemblement d'incitation et a également créé des espaces sacrés dans lesquels célébrer les différentes traditions religieuses. Au dernier rang, de gauche à droite, Amee Majors, Charlene Morrow, Tamara Wood, Share Beasley, Susan Cook, Judy Langston et Gard Jameson ont participé activement à ces activités. Au premier rang, de gauche à droite, Bill Beasley et Marvin Gawryn.
 
-> Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs. Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes. Puisque la vraie religion est une affaire d’expérience spirituelle personnelle, il est inévitable qu’individuellement, chaque religioniste ait sa propre interprétation personnelle de la manière de réaliser cette expérience spirituelle. Le mot « foi » devrait représenter la relation de l’individu avec Dieu, plutôt qu’une formule de crédo sur laquelle un groupe de mortels est parvenu à s’accorder en tant qu’attitude religieuse commune. « Avez-vous la foi ? Alors, ayez-la pour vous-même. » ([LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
+> Tout aussi certainement que les hommes partagent leurs croyances religieuses, ils créent une sorte de groupe religieux, lequel crée finalement des buts communs. Un jour, les religionistes se réuniront et se mettront à coopérer réellement sur la base de l’unité des idéaux et des buts, plutôt que de tenter d’y parvenir en se basant sur des opinions psychologiques et des croyances théologiques. Ce sont les buts plutôt que les crédos qui devraient unir les religionistes. Puisque la vraie religion est une affaire d’expérience spirituelle personnelle, il est inévitable qu’individuellement, chaque religioniste ait sa propre interprétation personnelle de la manière de réaliser cette expérience spirituelle. Le mot « foi » devrait représenter la relation de l’individu avec Dieu, plutôt qu’une formule de crédo sur laquelle un groupe de mortels est parvenu à s’accorder en tant qu’attitude religieuse commune. « Avez-vous la foi ? Alors, ayez-la pour vous-même. » (<a id="a104_967"></a>[LU 99:5.7](/fr/The_Urantia_Book/99#p5_7))
 
 ## Célébrations d'anniversaire de Jésus
 
@@ -205,3 +223,22 @@ _«C'est proche du paradis comme je l’ai été!»_
 * Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'hiver-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 2005 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

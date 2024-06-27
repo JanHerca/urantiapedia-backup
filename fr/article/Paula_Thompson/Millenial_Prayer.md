@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2000 Paula Thompson<br>© 2000 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="pr-2">Penser à demain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (Donné à l'origine par Paula Thompson, à l'occasion de l'anniversaire de Jésus, le 21 août 1994, à Shepherds Field, Bethléem)
@@ -97,9 +118,31 @@ Même ainsi, peut-il en être ainsi, Amen.
 > Et, quand notre carrière sera achevée, fais d’elle un honneur pour ton nom,
 > Un plaisir pour ton esprit de bonté et une satisfaction pour ceux qui soutiennent notre âme.
 > Que le bien éternel de tes enfants mortels ne soit pas celui que nous souhaitons, Ô notre Père aimant, mais celui que tu désires.
-> Ainsi soit-il. ([LU 144:5.55-72](/fr/The_Urantia_Book/144#p5_55))
+> Ainsi soit-il. (<a id="a120_18"></a>[LU 144:5.55-72](/fr/The_Urantia_Book/144#p5_55))
 
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-2-2000-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 2, 2000 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Carolyn_Kendall/Thinking_about_tomorrow">
+          <span class="pr-2">Penser à demain</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

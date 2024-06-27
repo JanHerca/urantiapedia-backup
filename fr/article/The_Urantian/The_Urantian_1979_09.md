@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'automne 1979"
+title: "« The Urantian » — Numéro d'automne 1979"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Martin W. Myers, Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Fraternité Urantia — Les possibilités d'un service planétaire important
@@ -19,7 +40,7 @@ _Le Livre d'URANTIA_ nous dit :
 
 > « _Les inventions mécaniques et la dissémination des connaissances sont en train de modifier la civilisation. Certains ajustements économiques et changements sociaux s’imposent si l’on veut éviter un désastre culturel. Ce nouvel ordre social qui approche ne s’installera pas paisiblement pour un millénaire. Il faut que la race humaine s’adapte à une série de modifications, d’ajustements et de rajustements. L’humanité est en marche vers une nouvelle destinée planétaire non révélée._»
 > 
-> « _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel ; il faut qu’elle fonctionne dynamiquement au milieu de conditions toujours changeantes et d’ajustements économiques sans fin._ » ([LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
+> « _Il faut que la religion exerce une forte influence en faveur de la stabilité morale et du progrès spirituel ; il faut qu’elle fonctionne dynamiquement au milieu de conditions toujours changeantes et d’ajustements économiques sans fin._ » (<a id="a42_244"></a>[LU 99:1.1](/fr/The_Urantia_Book/99#p1_1))
 
 [Lire la suite](/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service)
 
@@ -62,10 +83,31 @@ Merci.
 ---
 
 
-> « _La pierre de touche pour toute philosophie religieuse consiste à savoir si elle fait ou ne fait pas la distinction entre la réalité du monde matériel et celle du monde spirituel, tout en reconnaissant en même temps leur unification dans l’effort intellectuel et le service social._ » ([LU 101:7.5](/fr/The_Urantia_Book/101#p7_5))
+> « _La pierre de touche pour toute philosophie religieuse consiste à savoir si elle fait ou ne fait pas la distinction entre la réalité du monde matériel et celle du monde spirituel, tout en reconnaissant en même temps leur unification dans l’effort intellectuel et le service social._ » (<a id="a85_290"></a>[LU 101:7.5](/fr/The_Urantia_Book/101#p7_5))
 
 
 
 ## Remarques
 
 [^1] : Citations et paraphrases de Unity, et non d'Uniformity, copyright & copy ; 1973, Fondation URANTIA — utilisé avec autorisation.
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="pr-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

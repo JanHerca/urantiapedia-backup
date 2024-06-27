@@ -9,10 +9,34 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Sharon Porter<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Framy_Mas/Mother_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mère mère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sharon_Porter/Poem_to_our_Parents">
+          <span class="pr-2">Poème à nos parents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 
-Notre _Livre d'Urantia_ nous enseigne que nous avons une Mère de l'Univers et un Père de l'Univers et qu'ils sont nos parents spirituels. Il indique qu’ils sont tous deux des créateurs égaux ainsi que des administrateurs égaux. « Un Fils Créateur… et un Esprit Créateur… vous ont créé, vous et votre univers… [et ils] s’occupent des créatures qu’ils ont elles-mêmes créées. » [[LU 8:3.4](/fr/The_Urantia_Book/8#p3_4)] 
+
+Notre _Livre d'Urantia_ nous enseigne que nous avons une Mère de l'Univers et un Père de l'Univers et qu'ils sont nos parents spirituels. Il indique qu’ils sont tous deux des créateurs égaux ainsi que des administrateurs égaux. « Un Fils Créateur… et un Esprit Créateur… vous ont créé, vous et votre univers… [et ils] s’occupent des créatures qu’ils ont elles-mêmes créées. » <a id="a38_376"></a>[[LU 8:3.4](/fr/The_Urantia_Book/8#p3_4)] 
 
 En tant qu’Urantiens, nous devons garder la proue de notre bateau bien orientée vers la vague du changement. Les auteurs avant-gardistes de notre livre nous ont apporté de nouvelles idées et idéaux de changement. 
 
@@ -30,7 +54,7 @@ Parfois, c’est comme si nous l’avions enfermée, cachée dans un placard et 
 
 Je crois que nos propres anges et nos anges spéciaux du progrès nous demandent cela : être plus équilibrés que dans d’autres mondes non déchirés par la rébellion. Là, ils aiment, honorent et respectent notre Mère de l’Univers et notre Père de l’Univers en tant que parents et créateurs spirituels universels. C'est la bonne nouvelle que notre bien-aimé _Livre d'Urantia_ nous enseigne. Nous sommes à la pêche aux âmes prêtes à rechercher la vérité avec ces enseignements ! 
 
-> « Les exécuteurs divins sont passés maitres dans l’art de manipuler ce qui existe dans l’intérêt de ce qui devrait être. » ([LU 25:3.5](/fr/The_Urantia_Book/25#p3_5))
+> « Les exécuteurs divins sont passés maitres dans l’art de manipuler ce qui existe dans l’intérêt de ce qui devrait être. » (<a id="a56_126"></a>[LU 25:3.5](/fr/The_Urantia_Book/25#p3_5))
 
 Il existe trois circuits spirituels distincts qui habitent notre monde et notre Univers. Ce sont : 1) Notre Mère Divine et son Saint-Esprit, 2) notre Père Divin et son Esprit de Vérité et 3) les Esprits Mentaux Adjudants. 
 
@@ -42,3 +66,28 @@ Lorsque nous trouvons notre équilibre dans notre mouvement, lorsque nous embras
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Framy_Mas/Mother_Mother">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Mère mère</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-21-numéro-1-2021-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 21, numéro 1, 2021 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sharon_Porter/Poem_to_our_Parents">
+          <span class="pr-2">Poème à nos parents</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

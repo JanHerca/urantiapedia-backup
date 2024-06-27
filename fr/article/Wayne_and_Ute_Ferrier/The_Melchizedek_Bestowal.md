@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 Wayne et Ute Ferrier<br>© 1994 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/International_Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres internationales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="pr-2">Concernant les instructions ou les mandats</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Par Wayne et Ute Ferrier, Wiliamsport, Pennsylvanie
@@ -33,7 +57,7 @@ Les biblistes ont été intrigués par le fait que Melchisédek était un Canan�
 
 La Genèse décrit une rencontre entre Abraham et le roi-prêtre Melchisédek. Abraham venait de revenir d’une bataille victorieuse et attribuait son succès à Melchisédek, à qui il donnait 10 pour cent de son butin. Melchisédek, à son tour, donna du pain et du vin à Abraham. Alors que l’histoire biblique fait ressembler la bataille d’Abraham, le bienheureux Melchisédek, les Cahiers d’Urantia déclarent que Melchisédek a essayé de persuader Abraham d’abandonner sa croisade de conquête.
 
-> « Melchizédek expliqua à Abraham la futilité de lutter contre la confédération des Amorites, mais il lui fit également comprendre que ces clans arriérés se suicidaient certainement par leurs stupides pratiques ; au bout de quelques générations, ils seraient tellement affaiblis que les descendants d’Abraham, dont le nombre se serait grandement accru entretemps, pourraient facilement les vaincre. » ([LU 93:6.2](/fr/The_Urantia_Book/93#p6_2))
+> « Melchizédek expliqua à Abraham la futilité de lutter contre la confédération des Amorites, mais il lui fit également comprendre que ces clans arriérés se suicidaient certainement par leurs stupides pratiques ; au bout de quelques générations, ils seraient tellement affaiblis que les descendants d’Abraham, dont le nombre se serait grandement accru entretemps, pourraient facilement les vaincre. » (<a id="a59_403"></a>[LU 93:6.2](/fr/The_Urantia_Book/93#p6_2))
 
 Melchisédek ne craignait pas les ennemis d’Abraham et ne voulait pas se défendre contre eux, mais il a permis à Abraham de le faire, tout en l’encourageant à abandonner complètement la guerre. Melchisédek a toléré un changement lent tout en conseillant constamment de meilleures alternatives. Plus tard dans sa vie, Abraham céda à la sagesse de Melchisédek et renonça à la guerre.
 
@@ -77,11 +101,11 @@ Les succès les plus significatifs de l’effusion de Melchisédek sont qu'il a 
 
 L’alliance d’Abraham avec Yahweh est la pièce maîtresse du message de la Genèse. Yahvé apparaît comme le partenaire du patriarche. Dieu est accessible, selon Melchisédek, mais plus grand que cela, Dieu n’a besoin que de la foi pour que sa relation fonctionne. Dieu promet de tout maintenir. L’homme n’a besoin que de foi et de désir pour faire la volonté du Père.
 
-« Cette alliance de Melchisédek avec Abraham représente le grand accord urantien entre la divinité et l’humanité, par lequel Dieu accepte de tout faire ; l’homme n’accepte que de croire aux promesses de Dieu et de suivre ses instructions. (Livre d’Urantia, [LU 93:6.4](/fr/The_Urantia_Book/93#p6_4))
+« Cette alliance de Melchisédek avec Abraham représente le grand accord urantien entre la divinité et l’humanité, par lequel Dieu accepte de tout faire ; l’homme n’accepte que de croire aux promesses de Dieu et de suivre ses instructions. (Livre d’Urantia, <a id="a103_257"></a>[LU 93:6.4](/fr/The_Urantia_Book/93#p6_4))
 
-Abraham a pris l’alliance encore plus au sérieux après la naissance de son fils Isaac et s'est rendu à Salem pour que l’alliance soit écrite. C'est lors de cette acceptation formelle et publique qu'il changea son nom d’Abram en Abraham. (Livre d’Urantia, [LU 93:6.5](/fr/The_Urantia_Book/93#p6_5) et [Genèse 17](/fr/Bible/Genesis/17))
+Abraham a pris l’alliance encore plus au sérieux après la naissance de son fils Isaac et s'est rendu à Salem pour que l’alliance soit écrite. C'est lors de cette acceptation formelle et publique qu'il changea son nom d’Abram en Abraham. (Livre d’Urantia, <a id="a105_255"></a>[LU 93:6.5](/fr/The_Urantia_Book/93#p6_5) et [Genèse 17](/fr/Bible/Genesis/17))
 
-Jésus s'est appuyé sur l’héritage des enseignements de Melchisédek lorsqu'il a instruit ses apôtres lors de la troisième tournée de prédication : « Le salut est le don du Père et est révélé par ses Fils. L’acceptation par la foi de votre part fait de vous un participant de la nature divine, un fils ou une fille de Dieu. Par la foi, vous avancez éternellement sur la voie de la perfection progressive et divine. C'est par la foi qu'Abraham fut justifié et conscient du salut grâce aux enseignements de Melchisédek. Tout au long des âges, cette même foi a sauvé les fils des hommes, mais maintenant un Fils est sorti du Père pour rendre le salut plus réel et plus acceptable. (Livre d’Urantia, [LU 150:5.3](/fr/The_Urantia_Book/150#p5_3))
+Jésus s'est appuyé sur l’héritage des enseignements de Melchisédek lorsqu'il a instruit ses apôtres lors de la troisième tournée de prédication : « Le salut est le don du Père et est révélé par ses Fils. L’acceptation par la foi de votre part fait de vous un participant de la nature divine, un fils ou une fille de Dieu. Par la foi, vous avancez éternellement sur la voie de la perfection progressive et divine. C'est par la foi qu'Abraham fut justifié et conscient du salut grâce aux enseignements de Melchisédek. Tout au long des âges, cette même foi a sauvé les fils des hommes, mais maintenant un Fils est sorti du Père pour rendre le salut plus réel et plus acceptable. (Livre d’Urantia, <a id="a107_694"></a>[LU 150:5.3](/fr/The_Urantia_Book/150#p5_3))
 
 > **Références bibliques à Melchisédek**
 >
@@ -101,3 +125,28 @@ Jésus s'est appuyé sur l’héritage des enseignements de Melchisédek lorsqu'
 - Vriezen, Th. C. : _La religion de l'ancien Israël_. Philadelphie : Westminster Press, 1967 ; p. 24, 109, 181.
 - Bible : [Gén. 14:18-20](/fr/Bible/Genesis/14#v18) ; [Héb. 5:5-10](/fr/Bible/Hebrews/5#v5); [Héb. 6:20](/fr/Bible/Hébreux/6#v20) ; [Héb. 7 :1-3, 17, 21](/fr/Bible/Hebrews/7#v1) ; [Psaumes 110:4](/fr/Bible/Psaumes/110#v4) ; [Psaumes 76:2](/fr/Bible/Psalms/76#v2).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Study_Group_Herald/International_Letters">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettres internationales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/Regarding_Instructions_or_Mandates">
+          <span class="pr-2">Concernant les instructions ou les mandats</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

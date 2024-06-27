@@ -9,6 +9,27 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1996 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Janet_Farrington/Divine_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nature divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 2-4 février 1996, réunion semestrielle du Conseil général, Chicago, Illinois. Tous les membres sont les bienvenus. Contact : John Hales à The Fellowship (312) 327-0424.
@@ -25,7 +46,7 @@ Du 22 au 24 mars, Whole Life Expo, Seattle, Washington. Personne-ressource : Pau
 
 3-8 août, Conférence internationale 1996, Flagstaff, Arizona. Thème : « Foi vivante ». Contact : La Fellowship (312) 327-0424.
 
-« ... Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d’appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d’agir plus efficacement. » ([LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
+« ... Choisir de faire la volonté de Dieu réunit, dans un acte de personnalité, la foi spirituelle et les décisions matérielles, et fournit ainsi un point d’appui divin et spirituel permettant au levier humain et matériel de la soif de Dieu d’agir plus efficacement. » (<a id="a48_270"></a>[LU 110:6.17](/fr/The_Urantia_Book/110#p6_17))
 
 ## La décision
 
@@ -145,3 +166,25 @@ Les commandes seront exécutées rapidement après l’impression, prévue pour 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Janet_Farrington/Divine_Nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Nature divine</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#hiver-1996-vol-6-n-°-8">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Hiver 1996 — Vol. 6 n ° 8 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

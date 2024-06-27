@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2016 Sara Blackstock<br>© 2016 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cercle d'esprits apparentés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="pr-2">Premières persécutions des disciples de Jésus et dispersion des apôtres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Les parents d'aujourd'hui et ceux à venir qui ont trouvé les enseignements du _Livre d'Urantia_ essentiels à leur développement spirituel ONT BESOIN de votre expérience, de vos suggestions, de votre mentorat. Transmettre ce que l’on a appris est en réalité un principe que l’on retrouve à tous les niveaux de notre carrière universelle. Beaucoup d'entre nous qui sommes des « LUers » de longue date étaient seuls alors que nous essayions de transmettre les vérités du _Livre d'Urantia_ à nos enfants. Nous l’avons fait par le siège de notre pantalon avec différents niveaux de succès. Il existe désormais une génération de grands-parents, ainsi que la jeune génération que vous avez élevée, qui peuvent bénéficier de manière mesurable de votre volonté de partager certaines de vos expériences. 
@@ -25,7 +49,7 @@ Même une réponse courte aux questions suivantes pourrait être instructive :
 8. Si, en tant qu'enfant, grandissant dans une maison où les histoires et la terminologie du _Livre d'Urantia_ étaient utilisées dans une interaction normale et quotidienne, avez-vous trouvé difficile d'interagir avec des pairs qui ne connaissaient rien de Fandors, de Lucifer, d'Adam et Eve, ou de la vie ? sur d'autres planètes, par exemple ? 
 9. Si vous avez grandi dans un foyer avec des parents qui vous ont « inculqué » les enseignements du _Livre d'Urantia_, si/quand vous avez des enfants, quelles méthodes ne recommanderiez-vous PAS aux parents qui désirent partager le _Livre d'Urantia_ ? 
 10. Quelles ont été au moins trois des vérités les plus mémorables soulignées dans votre foyer, ou sur lesquelles vous avez insisté en tant que parent ? 
-11. Jésus a dit à ses apôtres : _« Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à sentir la présence de Dieu.. »_ [LU 155:6.12](/fr/The_Urantia_Book/155#p6_12) Comment avez-vous un parent adhère à cette vérité dans votre foyer, ou si vous avez grandi dans un foyer où vos parents en étaient conscients, comment ont-ils créé un environnement propice à ce « sentiment » différent du « fait de Dieu » ? 
+11. Jésus a dit à ses apôtres : _« Il est moins important pour vous de connaitre le fait de l’existence de Dieu que d’acquérir une aptitude croissante à sentir la présence de Dieu.. »_ <a id="a51_185"></a>[LU 155:6.12](/fr/The_Urantia_Book/155#p6_12) Comment avez-vous un parent adhère à cette vérité dans votre foyer, ou si vous avez grandi dans un foyer où vos parents en étaient conscients, comment ont-ils créé un environnement propice à ce « sentiment » différent du « fait de Dieu » ? 
 
 Merci au nom des parents actuels et futurs parents pour votre temps et vos réponses. Veuillez les envoyer à Sara Blackstock blackstocksara7@gmail.com et, avec les conseils de l'équipe de vie familiale (Richard Daunt, Riula Deoto, Miranda Clendening, Tony Finstad, Angie Thurston et Janet Farrington, notre sage mentor), nous les compilerons pour les partager. dans le prochain numéro du Fellowship Herald et mis sur le site Web Family Life : [http://www.urantiafamilylife.org](http://www.urantiafamilylife.org) et sur le site Web du Fellowship [http://www.urantiabook.org.](http://www.urantiabook.org.) Si vous le souhaitez, vos réponses peuvent être anonymes. 
 
@@ -36,3 +60,28 @@ Merci au nom des parents actuels et futurs parents pour votre temps et vos répo
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bobbie_Dreier_and_Francis_Oliver_Lynn/A_Circle_of_Kindred_Spirits">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un cercle d'esprits apparentés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-16-numéro-1-2016-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 16, numéro 1, 2016 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lawrence_J_Bowman/Early_Persecutions_of_Jesus_Followers_and_Dispersion_of_the_Apostles">
+          <span class="pr-2">Premières persécutions des disciples de Jésus et dispersion des apôtres</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

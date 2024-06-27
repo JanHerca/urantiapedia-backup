@@ -9,11 +9,35 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 John Hyde<br>© 1992 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rituels et célébrations familiales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Paternité : Jésus comme modèle parental créatif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Rapporté par John Hyde, Richardson, Texas_
 
-> « De toutes les relations sociales instaurées pour développer le caractère, la plus efficace et la plus idéale est l’amitié affectueuse et compréhensive d’un homme et d’une femme réunis par un lien conjugal intelligent. Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort. (Rodan) » ([LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
+> « De toutes les relations sociales instaurées pour développer le caractère, la plus efficace et la plus idéale est l’amitié affectueuse et compréhensive d’un homme et d’une femme réunis par un lien conjugal intelligent. Le mariage, avec ses multiples relations, est le mieux conçu pour faire naitre les précieuses impulsions et les motifs supérieurs indispensables au développement d’un caractère fort. (Rodan) » (<a id="a39_416"></a>[LU 160:2.6](/fr/The_Urantia_Book/160#p2_6))
 
 Ces idéaux et aspirations ont été clairement exprimés au début de l’été 1991 lors de cérémonies réunissant Dianne Trouy et Terry Matheny au Texas, Karen Johnson et Tom Allen en Oklahoma, et Joan Batson et Larry Mullins au Colorado.
 
@@ -37,3 +61,28 @@ Carol Hay de Boulder, Colorado, toujours une animatrice bienvenue lors des rasse
 <figcaption><em>Karen et Tom Allen</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Francyl_Streano_Gawryn/Family_Rituals_And_Celebrations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Rituels et célébrations familiales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Patrick_Yesh/Fatherhood_Jesus_As_A_Creative_Parental_Role_Model">
+          <span class="pr-2">Paternité : Jésus comme modèle parental créatif</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

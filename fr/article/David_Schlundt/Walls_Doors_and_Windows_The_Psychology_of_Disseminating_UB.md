@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 David Schlundt<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art du langage universel : conversations sur la croissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="pr-2">Pourquoi les révélateurs du Corps Urantia des Révélateurs de Vérité ont utilisé des auteurs de source humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/David_Schlundt/28.jpg">
@@ -17,7 +41,7 @@ dateCreated: 2023-02-19T14:02:03.086Z
 _Par David G. Schlundt_
 _Vice-président, La Fellowship du Livre d'Urantia_
 
-Cet évangile du royaume est une vérité vivante. Je vous ai dit qu’il ressemble au levain dans la pâte et au grain de sènevé. Maintenant, je déclare qu’il ressemble au germe de l’être vivant, qui reste le même de génération en génération, mais se manifeste infailliblement en de nouvelles expressions ; et il croît d’une manière acceptable dans des voies de nouvelles adaptations aux besoins particuliers et aux conditions particulières de chaque génération successive. La révélation que je vous ai faite est une *révélation vivante,* et je désire qu’elle produise des fruits appropriés dans chaque individu et dans chaque génération, conformément aux lois de la croissance spirituelle, de l’accroissement, et du développement adaptatif. De génération en génération, il faut que cet évangile fasse preuve d’une vitalité croissante et montre une plus grande profondeur de pouvoir spirituel. Il ne faut pas le laisser devenir un simple souvenir sacré, une simple tradition à propos de moi et de l’époque où nous vivons présentement. ([LU 178:1.15](/fr/The_Urantia_Book/178#p1_15))
+Cet évangile du royaume est une vérité vivante. Je vous ai dit qu’il ressemble au levain dans la pâte et au grain de sènevé. Maintenant, je déclare qu’il ressemble au germe de l’être vivant, qui reste le même de génération en génération, mais se manifeste infailliblement en de nouvelles expressions ; et il croît d’une manière acceptable dans des voies de nouvelles adaptations aux besoins particuliers et aux conditions particulières de chaque génération successive. La révélation que je vous ai faite est une *révélation vivante,* et je désire qu’elle produise des fruits appropriés dans chaque individu et dans chaque génération, conformément aux lois de la croissance spirituelle, de l’accroissement, et du développement adaptatif. De génération en génération, il faut que cet évangile fasse preuve d’une vitalité croissante et montre une plus grande profondeur de pouvoir spirituel. Il ne faut pas le laisser devenir un simple souvenir sacré, une simple tradition à propos de moi et de l’époque où nous vivons présentement. (<a id="a43_1031"></a>[LU 178:1.15](/fr/The_Urantia_Book/178#p1_15))
 
 <br style="clear:both;"/>
 
@@ -115,9 +139,33 @@ Chaque personne a un ensemble complexe d’idées sur soi, le monde, la sociét�
 
 <br style="clear:both;"/>
 
-> David Schlundt est un étudiant de deuxième génération du _Livre d'Urantia_. Il est psychologue clinicien et professeur à l'Université Vanderbilt. En plus d’enseigner aux étudiants la santé et le comportement, il participe activement à la recherche. Il est vice-président de la Bourse du Livre d'Urantia.
+> David Schlundt est un étudiant de deuxième génération du _Livre d'Urantia_. Il est psychologue clinicien et professeur à l'Université Vanderbilt. En plus d’enseigner aux étudiants la santé et le comportement, il participe activement à la recherche. Il est vice-président de la Fellowship du Livre d'Urantia.
 {.is-info}
 
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Aprilhelen/Art_of_Universal_Language_Spiritual_Growth_Conversations">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L'art du langage universel : conversations sur la croissance spirituelle</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-22-numéro-1-2022-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 22, Numéro 1, 2022 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paula_Thompson/Why_The_Urantia_Corps_of_Truth_Revealers_Used_Human_Source_Authors">
+          <span class="pr-2">Pourquoi les révélateurs du Corps Urantia des Révélateurs de Vérité ont utilisé des auteurs de source humaine</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

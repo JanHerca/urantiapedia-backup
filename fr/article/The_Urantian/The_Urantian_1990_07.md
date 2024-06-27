@@ -1,6 +1,6 @@
 ---
 title: "« The Journal of Fifth Epochal Fellowship » — Été 1990 — Numéro I de la conférence spéciale"
-description: "(anciennement connu sous le nom de « L'Urantien »)"
+description: "(anciennement connu sous le nom de « The Urantian »)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 David Elders, Steve Dreier, Dan Massey, Mary Daly, Nancy Johnson, Carol Hay, John Lange, Jeffrey Wattles, Melissa Wells, Gard Jameson & Florence Jameson, Satu Sihvo, Bob Slagle, Chuck Burton<br>© 1990 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Welcome_Address">
+          <span class="pr-2">Discours de bienvenue à la Conférence Urantia 1990 de la Cinquième Epochal Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -50,7 +71,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 > Ceci est la première des deux éditions spéciales prévues de _The Journal_ pour inclure certaines des conférences présentées dans la seconde moitié de la Conférence internationale de 1990 tenue à Snowmass/Aspen, Colorado, du 30 juin au 5 juillet 1990. Le prochain numéro de _Le Journal_ comprendra des exposés de la seconde moitié de la conférence.
 > 
-> Les opinions, points de vue et/ou conclusions présentés dans ces exposés sont entièrement basés sur la compréhension et l'expérience religieuse personnelle de chaque auteur. Par conséquent, la Fellowship n'est pas en mesure de répondre aux questions ou commentaires reçus des lecteurs sur les conférences présentées. Cependant, sur demande écrite, la Bourse enverra des invitations à un échange d'informations ou à un dialogue approfondi sur l'un des sujets contenus dans ce numéro de _The Journal_ directement aux auteurs concernés.
+> Les opinions, points de vue et/ou conclusions présentés dans ces exposés sont entièrement basés sur la compréhension et l'expérience religieuse personnelle de chaque auteur. Par conséquent, la Fellowship n'est pas en mesure de répondre aux questions ou commentaires reçus des lecteurs sur les conférences présentées. Cependant, sur demande écrite, la Fellowship enverra des invitations à un échange d'informations ou à un dialogue approfondi sur l'un des sujets contenus dans ce numéro de _The Journal_ directement aux auteurs concernés.
 
 ## Conférence internationale de 1990 « Marcher avec Dieu » — Table des matières
 
@@ -131,7 +152,7 @@ J'aimerais commencer par une charmante histoire d'une religieuse nommée sœur B
 
 par Nancy Johnson
 
-> _... Les formes ne servent plus à rien quand les leçons sont apprises. On ne peut obtenir un poussin sans coquille d’œuf, et nulle coquille n’a de valeur après l’éclosion du poussin. <ins>Mais l’erreur est parfois si grande qu’en la rectifiant par révélation, on porterait un coup fatal aux vérités qui émergent lentement et qui sont essentielles pour venir à bout de l’erreur grâce à l’expérience</ins>. ..._ ([LU 48:6.32](/fr/The_Urantia_Book/48#p6_32))
+> _... Les formes ne servent plus à rien quand les leçons sont apprises. On ne peut obtenir un poussin sans coquille d’œuf, et nulle coquille n’a de valeur après l’éclosion du poussin. <ins>Mais l’erreur est parfois si grande qu’en la rectifiant par révélation, on porterait un coup fatal aux vérités qui émergent lentement et qui sont essentielles pour venir à bout de l’erreur grâce à l’expérience</ins>. ..._ (<a id="a154_413"></a>[LU 48:6.32](/fr/The_Urantia_Book/48#p6_32))
 
 Il ne fait aucun doute que nous avons tous prêté attention à cette déclaration provocatrice d'un archange de Nébadon, et cet archange avait sûrement pour but de piquer notre curiosité et de nous stimuler à examiner notre environnement conceptuel - notre système de croyance - pour reconnaître une erreur qui est tellement désynchronisée avec la vraie réalité qu'ils ne pouvaient pas nous dire ce que c'était. Quelle vérité a pu avoir un impact aussi traumatisant sur nous à cette époque ? Nous ont-ils donné des indices ?
 
@@ -155,9 +176,9 @@ par John Lange
 
 **Introduction**
 
-En tant que dévots de la révélation Urantia, nous avons choisi d'explorer de nouvelles réalités spirituelles. Alors que nous poursuivons chacun notre propre croissance spirituelle à travers l'expérience religieuse, _Le Livre d'Urantia_ sur [LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) énumère les habitudes pour discipliner ce processus. La discipline sur laquelle je me concentrerai est « _la reconnaissance de la vie religieuse chez les autres._ » Qu'est-ce que la vie religieuse et comment la reconnaissons-nous ? À la page 66, nous recevons une réponse simple et inspirante : « _...c'est [la religion] une expérience vivante et dynamique d'acquisition de la divinité fondée sur le service de l'humanité._ » Par conséquent, la reconnaissance de la vie religieuse est une appréciation de cette dynamique de service. comme cela se manifeste chez les autres.
+En tant que dévots de la révélation Urantia, nous avons choisi d'explorer de nouvelles réalités spirituelles. Alors que nous poursuivons chacun notre propre croissance spirituelle à travers l'expérience religieuse, _Le Livre d'Urantia_ sur <a id="a178_240"></a>[LU 100:1.8](/fr/The_Urantia_Book/100#p1_8) énumère les habitudes pour discipliner ce processus. La discipline sur laquelle je me concentrerai est « _la reconnaissance de la vie religieuse chez les autres._ » Qu'est-ce que la vie religieuse et comment la reconnaissons-nous ? À la page 66, nous recevons une réponse simple et inspirante : « _...c'est [la religion] une expérience vivante et dynamique d'acquisition de la divinité fondée sur le service de l'humanité._ » Par conséquent, la reconnaissance de la vie religieuse est une appréciation de cette dynamique de service. comme cela se manifeste chez les autres.
 
-Grâce au service, nous obtenons le statut de citoyens de l'univers, et ceci est souligné dans chaque section du _Livre d'Urantia_. Dans notre carrière universelle, on nous dit sur [LU 28:6.17](/fr/The_Urantia_Book/28#p6_17), « _Le service... est le but du temps et la destinée de l'espace._ ». Dans les articles de l'Ajusteur de Pensée au bas de [LU 110:3.8](/fr/The_Urantia_Book/110#p3_8), on nous dit que nous pouvons consciemment augmenter l’harmonie de l’Ajusteur en « _aimant Dieu et désirant être comme lui_ » et en « _aimant l’homme et désirant sincèrement le servir._ »
+Grâce au service, nous obtenons le statut de citoyens de l'univers, et ceci est souligné dans chaque section du _Livre d'Urantia_. Dans notre carrière universelle, on nous dit sur <a id="a180_180"></a>[LU 28:6.17](/fr/The_Urantia_Book/28#p6_17), « _Le service... est le but du temps et la destinée de l'espace._ ». Dans les articles de l'Ajusteur de Pensée au bas de <a id="a180_346"></a>[LU 110:3.8](/fr/The_Urantia_Book/110#p3_8), on nous dit que nous pouvons consciemment augmenter l’harmonie de l’Ajusteur en « _aimant Dieu et désirant être comme lui_ » et en « _aimant l’homme et désirant sincèrement le servir._ »
 
 [Lire la suite](/fr/article/John_Lange/Individual_Ministry_Community_Service)
 
@@ -175,7 +196,7 @@ Même si je suis un enseignant californien accrédité avec environ 25 ans d'exp
 
 par Jeffrey Wattles
 
-Écoutons à nouveau le Divin Conseiller d'Uversa, dont le récit du « Vrai culte » peut être trouvé dans _Le Livre d'Urantia_, section 3 du Fascicule 5, « La relation de Dieu avec l'individu ». Notre commentaire ne peut pas être à proprement parler un monologue, mais je n'ai pas marqué, dans le présent texte, les pauses de discussion qui l'ont ponctué. Cette discussion fait suite à celle sur le processus de prière ([Paper 91 \#9](/fr/The_Urantia_Book/91#p9_1)) et anticipe celle sur le service. Le commentaire ici est un pas vers l’étude holographique – trouver la totalité du livre dans la partie.
+Écoutons à nouveau le Divin Conseiller d'Uversa, dont le récit du « Vrai culte » peut être trouvé dans _Le Livre d'Urantia_, section 3 du Fascicule 5, « La relation de Dieu avec l'individu ». Notre commentaire ne peut pas être à proprement parler un monologue, mais je n'ai pas marqué, dans le présent texte, les pauses de discussion qui l'ont ponctué. Cette discussion fait suite à celle sur le processus de prière (<a id="a198_417"></a>[Paper 91 \#9](/fr/The_Urantia_Book/91#p9_1)) et anticipe celle sur le service. Le commentaire ici est un pas vers l’étude holographique – trouver la totalité du livre dans la partie.
 
 Le culte est à la fois simple et complexe. La simplicité du culte se reflète dans le plaisir du mot culte chez les Indiens Quicatèques du Mexique ; cela signifie, étymologiquement, « remuer la queue devant Dieu ». L'un des enseignements les plus sages que j'ai jamais entendus sur l'adoration était la remarque de Vern Grimsley : « Le secret de l'adoration est de le faire. » Un grand message du _Le Livre d'Urantia_ est que NOUS POUVONS adorer. Nous sommes dans le circuit de la personnalité du Père. Nos esprits apprécient l’esprit-esprit adjoint de l’adoration. Nous sommes construits pour adorer. Aussi complexe ou mystérieux que puisse paraître l’adoration lorsqu’on en parle, et aussi insaisissable qu’elle puisse parfois être dans notre pratique, nous pouvons et nous adorons le Père Universel. La section sur le vrai culte articule le concept de culte. Lorsque nous lisons ce récit très articulé, nous pourrions être amenés à remarquer : « Plus facile à dire qu’à faire ». Mais si nous restons en phase avec l’expérience d’adoration elle-même, alors nous pouvons dire : « Plus facile à faire qu’à dire ». Prenons un moment pour le faire avant de continuer....
 
@@ -209,7 +230,7 @@ En révélant à ses disciples l’essence de son message à la planète, Jésus
 4. Les satisfactions suprêmes du service aimant de l'homme.
 5. La transcendance du spirituel sur le matériel dans la personnalité humaine.
 
-L'auteur médian continue en disant que «_ce monde n'a jamais sérieusement, sincèrement ou honnêtement essayé ces idées dynamiques et ces idéaux divins..._» ([LU 170:4.14](/fr/The_Urantia_Book/170#p4_14)) Pourquoi pas ? Pourquoi résistons-nous à la communion avec Dieu ? À un groupe de croyants grecs à Jérusalem, Jésus a dit : « _Mon Père m'a envoyé dans le monde pour révéler sa bonté de cœur aux enfants des hommes, mais ceux vers qui je suis venu le premier ont refusé de me recevoir... J'ai dit leur filiation avec la joie, la liberté et une vie plus abondante dans l'esprit... les dirigeants de mon peuple ont délibérément aveuglé leurs yeux pour qu'ils ne voient pas et ont endurci leur cœur... Toutes ces années, j'ai cherché à les guérir de leur incrédulité qu'ils puissent recevoir le salut éternel du Père._ » ([LU 174:5.3](/fr/The_Urantia_Book/174#p5_3))
+L'auteur médian continue en disant que «_ce monde n'a jamais sérieusement, sincèrement ou honnêtement essayé ces idées dynamiques et ces idéaux divins..._» (<a id="a232_157"></a>[LU 170:4.14](/fr/The_Urantia_Book/170#p4_14)) Pourquoi pas ? Pourquoi résistons-nous à la communion avec Dieu ? À un groupe de croyants grecs à Jérusalem, Jésus a dit : « _Mon Père m'a envoyé dans le monde pour révéler sa bonté de cœur aux enfants des hommes, mais ceux vers qui je suis venu le premier ont refusé de me recevoir... J'ai dit leur filiation avec la joie, la liberté et une vie plus abondante dans l'esprit... les dirigeants de mon peuple ont délibérément aveuglé leurs yeux pour qu'ils ne voient pas et ont endurci leur cœur... Toutes ces années, j'ai cherché à les guérir de leur incrédulité qu'ils puissent recevoir le salut éternel du Père._ » (<a id="a232_821"></a>[LU 174:5.3](/fr/The_Urantia_Book/174#p5_3))
 
 [Lire la suite](/fr/article/Gard_Jameson_and_Florence_Jameson/Fellowship_with_God_Now_and_Forever)
 
@@ -233,7 +254,7 @@ Un exemple est le groupe créé en Finlande en août 1989. Les lignes directrice
 
 par Bob Slagle, Ph.D.
 
-> « _...la famille qui joue le rôle civilisateur majeur._ » ([LU 82:0.2](/fr/The_Urantia_Book/82#p0_2))
+> « _...la famille qui joue le rôle civilisateur majeur._ » (<a id="a256_61"></a>[LU 82:0.2](/fr/The_Urantia_Book/82#p0_2))
 
 Ce fut une joie d'avoir environ soixante-dix personnes participant à notre atelier sur les réunions de famille. Un bon nombre de parents représentaient des familles qui avaient tenté des réunions familiales au cours des années passées, mais qui avaient échoué pour une raison ou une autre, y avaient temporairement renoncé, puis étaient revenues aux pratiques du conseil de famille avec succès. Pour moi, c'est souvent l'histoire d'expériences de réunions familiales et une raison solide pour laquelle j'affirme que les réunions familiales ne sont jamais un échec, même si certaines familles peuvent y renoncer pour une durée plus ou moins longue. D’après mon expérience en tant que conseiller familial, même une seule réunion de famille en vaut la peine et c’est bien mieux que de n’en avoir aucune.
 
@@ -253,3 +274,25 @@ Mais, dans l’ensemble, le Fantôme possédait de nombreuses nobles qualités h
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-étéautomne-1990-conférence-spéciale-numéro-i-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro été-automne 1990. Conférence spéciale numéro I (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/David_Elders/Welcome_Address">
+          <span class="pr-2">Discours de bienvenue à la Conférence Urantia 1990 de la Cinquième Epochal Fellowship</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,13 +9,37 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 Gard Jameson<br>© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vérité et foi — Sources de perspicacité révélatrice, — Une méditation sur l’humain Auteur Ralph Tyler Flewelling — Quatrième partie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="pr-2">Galerie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par _Gard Jameson_
 
 Les articles de ce magazine sont un examen de la façon dont la Commission Révélatoire a utilisé divers auteurs humains dont les textes faisaient partie de la production du *Livre d'Urantia*. Leurs idées révèlent le pouvoir de la révélation personnelle dans la vie d’un mortel en quête de vérité. 
 
-> « La vérité est toujours une révélation. C’est une autorévélation quand elle émerge comme résultat du travail de l’Ajusteur intérieur, et c’est une révélation d’époque quand elle est présentée par le truchement d’autres intermédiaires, groupes ou personnalités célestes. » ([LU 101:4.3](/fr/The_Urantia_Book/101#p4_3))
+> « La vérité est toujours une révélation. C’est une autorévélation quand elle émerge comme résultat du travail de l’Ajusteur intérieur, et c’est une révélation d’époque quand elle est présentée par le truchement d’autres intermédiaires, groupes ou personnalités célestes. » (<a id="a41_276"></a>[LU 101:4.3](/fr/The_Urantia_Book/101#p4_3))
 
 Les découvertes et les idées de ces auteurs humains sont une preuve positive de la capacité de l’esprit humain à discerner les véritables filaments de la réalité. Lorsque Sir Isaac Newton a réussi à comprendre la loi de la gravité au XVIIIe siècle, le monde s'est étonné qu’un être humain ait réellement découvert une porte menant à la pensée même de Dieu, ouvrant ainsi la voie aux mathématiques de la loi par laquelle Dieu a construit l’univers. . Une telle découverte est trop considérée comme acquise à notre époque moderne. Avec le recul, nous pouvons observer à notre époque la multitude de façons dont l’esprit humain a été capable de débloquer les dimensions matérielles, intellectuelles et spirituelles de la réalité universelle. Des découvertes mathématiques de Pythagore, du théorème de Pythagore, au calcul de Newton et de Leibniz, aux découvertes scientifiques de Copernic, Lavoisier et Darwin, jusqu’aux réalisations de valeurs des Sages de Chine, des Rishis de l’Inde et des Prophètes de l’Inde. En Israël, il y a eu une appréciation constante de la manière dont les êtres humains peuvent réellement accéder à la pensée même de Dieu. Jésus, le Fils Créateur, et son élève, Ganid, ont apprécié ces réalisations alors qu’ils parcouraient les textes des traditions religieuses du monde alors qu’ils étaient à la bibliothèque d'Alexandrie ([Fascicule 131, *Les religions du monde*](/fr/The_Urantia_Book/131)). 
 
@@ -41,3 +65,28 @@ Que vos yeux et vos oreilles soient bénis par l’émerveillement radical de la
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gard_Jameson/Truth_and_Faith">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vérité et foi — Sources de perspicacité révélatrice, — Une méditation sur l’humain Auteur Ralph Tyler Flewelling — Quatrième partie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="pr-2">Galerie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

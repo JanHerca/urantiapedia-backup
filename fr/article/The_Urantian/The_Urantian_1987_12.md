@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1987"
+title: "« The Urantian » — Numéro d'hiver 1987"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Jim Johnston, Robert Faughum, Curt Cloninger, Stephen Zendt, Eileen Laurence<br>© 1987 La Bourse du Livre d'Urantia ( anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Soyez-vous parfait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 **Numéro double de la conférence spéciale**
@@ -22,7 +43,7 @@ Le secret de la transformation de l’individu ainsi que du monde réside dans l
 
 Le thème de cette conférence est « La transformation personnelle et son pouvoir de transformer le monde ». Le thème n'a pas été posé comme une question, mais plutôt comme une affirmation. La transformation personnelle, même la transformation spirituelle d’un individu, peut-elle réellement transformer le monde ? Je pense que c'est possible.
 
-Il suffit de regarder la vie de Jésus dans son ministère personnel et public pour voir l'influence d'un individu spirituellement transformé dans le monde. Ses apôtres et ses disciples, grâce à sa vie transformatrice dans ce monde, ont pratiquement « _... bouleversé tout l'Empire romain._ » ([LU 195:6.9](/fr/The_Urantia_Book/195#p6_9)) Au cours de sa seule visite à Rome, Jésus a eu une influence sur l’éveil spirituel d’un plus grand nombre de personnes que la plupart d’entre nous n’auront une influence au cours de notre vie. Le pouvoir de sa simple présence était si profond qu'il lui suffisait de sourire aux gens pour qu'ils fassent l'expérience d'une foi et d'un encouragement renouvelés.
+Il suffit de regarder la vie de Jésus dans son ministère personnel et public pour voir l'influence d'un individu spirituellement transformé dans le monde. Ses apôtres et ses disciples, grâce à sa vie transformatrice dans ce monde, ont pratiquement « _... bouleversé tout l'Empire romain._ » (<a id="a45_292"></a>[LU 195:6.9](/fr/The_Urantia_Book/195#p6_9)) Au cours de sa seule visite à Rome, Jésus a eu une influence sur l’éveil spirituel d’un plus grand nombre de personnes que la plupart d’entre nous n’auront une influence au cours de notre vie. Le pouvoir de sa simple présence était si profond qu'il lui suffisait de sourire aux gens pour qu'ils fassent l'expérience d'une foi et d'un encouragement renouvelés.
 
 [Lire la suite](/fr/article/Jim_Johnson/Be_you_perfect)
 
@@ -100,7 +121,29 @@ Tout comme nous semblons perdre confiance dans le pouvoir impressionnant de la t
 
 ---
 
-> « _L’appel à l’aventure consistant à construire une société humaine nouvelle et transformée, par la renaissance spirituelle de la fraternité du royaume de Jésus, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair._ » ([LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
+> « _L’appel à l’aventure consistant à construire une société humaine nouvelle et transformée, par la renaissance spirituelle de la fraternité du royaume de Jésus, devrait passionner tous ceux qui croient en lui et leur inspirer des sentiments plus vifs que les hommes n’en ont jamais ressenti depuis l’époque où, sur terre, ils parcouraient le pays comme ses compagnons dans la chair._ » (<a id="a123_390"></a>[LU 195:10.6](/fr/The_Urantia_Book/195#p10_6))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1987-numéro-double-de-la-conférence-spéciale">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1987. Numéro double de la conférence spéciale — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jim_Johnson/Be_you_perfect">
+          <span class="pr-2">Soyez-vous parfait</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

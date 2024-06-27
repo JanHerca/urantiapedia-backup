@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Mora Franco<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les poètes d'Urantia vont publier un livre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Sawyer/Artwork">
+          <span class="pr-2">Ouvrages d'art</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -71,7 +95,7 @@ Cette année, pour l’anniversaire de notre bien-aimé Souverain de l’Univers
 
 Si nous remontons dans le temps, lorsque Andrea collaborait à la présentation de la rébellion de Lucifer, le seul outil avec lequel elle disposait était une tablette Android obsolète et gravement endommagée. Elle a réussi à le faire fonctionner jusqu’à ce que les deux zones sombres sur l’écran deviennent si grandes qu’elle ne puisse plus voir son travail. Ainsi, au début de cette année, elle n'avait plus cet outil essentiel, et lorsqu’on lui a demandé de participer à la célébration de l’anniversaire de Jésus le 21 août, son grand-père Tito lui a prêté sa tablette pendant de brèves périodes lorsqu’il ne l’utilisait pas. Elle travaillait assidûment, presque sans arrêt, puis la rendait à contrecœur à Tito.
 
-En raison de cette situation, et en reconnaissance de la participation active et précieuse d'Andrea, Pablo Morales, le coordinateur régional du LASC pour le Venezuela, a présenté au comité international des bourses de la Bourse du Livre d'Urantia une proposition de demande de financement pour l’achat d'un nouvel iPad d'Apple pour son usage. La proposition a été approuvée et Andrea, qui a maintenant quinze ans, était ravie et reconnaissante de ce soutien sans précédent et a commencé un nouveau et ambitieux projet intitulé « Dialogues avec Andrea ». Ce projet s'adresse principalement aux enfants et aux adolescents, utilisant un format bande dessinée pour attirer leur attention, tout en présentant les enseignements du Livre d'Urantia. 
+En raison de cette situation, et en reconnaissance de la participation active et précieuse d'Andrea, Pablo Morales, le coordinateur régional du LASC pour le Venezuela, a présenté au comité international des bourses de la Fellowship du Livre d'Urantia une proposition de demande de financement pour l’achat d'un nouvel iPad d'Apple pour son usage. La proposition a été approuvée et Andrea, qui a maintenant quinze ans, était ravie et reconnaissante de ce soutien sans précédent et a commencé un nouveau et ambitieux projet intitulé « Dialogues avec Andrea ». Ce projet s'adresse principalement aux enfants et aux adolescents, utilisant un format bande dessinée pour attirer leur attention, tout en présentant les enseignements du Livre d'Urantia. 
 
 La photo ci-dessous, où Pablo présente à Andrea le nouvel iPad, reflète clairement sa joie face à cette immense bénédiction. 
 
@@ -119,3 +143,28 @@ Nous terminons cet article avec les mots d'Andrea elle-même :
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Duane_Johnson/Urantia_Poets_to_Publish_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Les poètes d'Urantia vont publier un livre</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Stephen_Sawyer/Artwork">
+          <span class="pr-2">Ouvrages d'art</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

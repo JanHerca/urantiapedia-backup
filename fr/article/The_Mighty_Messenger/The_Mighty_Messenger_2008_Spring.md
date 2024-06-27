@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2008 Paula Thompson, Gerry Pando, Michelle Klimesh<br>© 2008 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## IC '08 est presque là !
 
@@ -64,7 +82,7 @@ Nous utilisons désormais un service d'inscription qui vous permet de vous inscr
 
 Duane Faw, né le 7 juillet 1920, a obtenu son diplôme de vie sur notre planète Urantia le 26 mars 2008. Duane a eu une carrière militaire active, prenant sa retraite en 1971 en tant que général de brigade du Corps des Marines, où il a servi comme pilote militaire et dans trois guerres. , Seconde Guerre mondiale, Corée et Viet Nam. Plus tard dans sa carrière, Duane, avocat en exercice, est devenu professeur de droit et professeur émérite à la faculté de droit de l’Université Pepperdine. 
 
-Duane est devenu le 101e membre de la Première Société Urantia de Los Angeles le 18 janvier 1975, avec son épouse Lucile. Il a ensuite servi la Fellowship du Livre d'Urantia en tant que président du Comité judiciaire, siégeant au Comité exécutif de 1979 à 1988. Il a ensuite servi la Communauté pour un mandat supplémentaire au Conseil général de 1991 à 1994, soit un total de douze années de service actif. à la Bourse. 
+Duane est devenu le 101e membre de la Première Société Urantia de Los Angeles le 18 janvier 1975, avec son épouse Lucile. Il a ensuite servi la Fellowship du Livre d'Urantia en tant que président du Comité judiciaire, siégeant au Comité exécutif de 1979 à 1988. Il a ensuite servi la Communauté pour un mandat supplémentaire au Conseil général de 1991 à 1994, soit un total de douze années de service actif. à la Fellowship. 
 
 Il est également connu pour son ouvrage compilé, le Paramony, un livre de 588 pages qui contient près de 60 000 références mettant en parallèle et harmonisant la Bible et le _Livre d'Urantia_. De plus, il contient plus de 10 000 références croisées internes à la Bible et plusieurs milliers internes au _Livre d'Urantia_. Le grand-père et le père de Duane étaient des pasteurs presbytériens et il était un érudit remarquable dans les deux livres. La Paramony de Duane est une aide inestimable pour les personnes qui étudient à la fois la Bible et le _Livre d'Urantia_. Que vous soyez étudiant, chercheur de vérité, enseignant de la Bible ou du Livre d'Urantia, ministre chrétien, rabbin juif, théologien, philosophe ou chercheur de Dieu, la Paramony est un joyau.
 
@@ -78,7 +96,7 @@ Duane a également écrit un autre livre splendide basé sur les enseignements d
 
 La bourse a officiellement honoré Duane et Lucile Faw ainsi que Meredith et Irene Sprunger lors de notre conférence internationale en 2002 à Estes Park. Nous voulions tous les remercier pour toute une vie de service envers Dieu et l’homme et certainement envers la fraternité des croyants. Duane se distinguait dans tous les sens du terme, véritablement un officier et un gentleman. Le monde et notre mouvement Urantia ont perdu un grand trésor.
 
-> « ... ceux qui sont nés de l’esprit commencent immédiatement à montrer les fruits de l’esprit par leur service aimant auprès de leurs semblables » ([LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
+> « ... ceux qui sont nés de l’esprit commencent immédiatement à montrer les fruits de l’esprit par leur service aimant auprès de leurs semblables » (<a id="a98_150"></a>[LU 193:2.2](/fr/The_Urantia_Book/193#p2_2))
 
 ## Le Livre d'Urantia en Inde
 
@@ -232,10 +250,29 @@ bourse@urantiabook.org
 www.urantiabook.org
 
 
-> « nulle bonne action n’est jamais entièrement perdue ; » ([LU 48:6.7](/fr/The_Urantia_Book/48#p6_7))
+> « nulle bonne action n’est jamais entièrement perdue ; » (<a id="a252_60"></a>[LU 48:6.7](/fr/The_Urantia_Book/48#p6_7))
 
 ## Liens externes
 
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://archive.urantiabook.org/archive/newsletters/mightymessenger/MM-spring08.pdf)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2008 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

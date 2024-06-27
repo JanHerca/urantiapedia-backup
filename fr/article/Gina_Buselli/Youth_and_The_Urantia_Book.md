@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Gina Buselli<br>© 2006 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Guardian_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">anges gardiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="pr-2">La prophétie et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En tant que « jeune » personne dans la communauté Urantia, j’ai fait plusieurs observations sur sa croissance au fil des années et j’ai vu de nouvelles personnes découvrir le livre.
@@ -71,7 +95,7 @@ Enfin, j'espère embrasser d'autres individus qui se sentent peut-être trop vie
 {.is-info}
 
 
-> Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables. ... L’âme des hommes a besoin d’exercice spirituel aussi bien que de nourriture spirituelle. <a id="a96_299"></a>[[LU 91:7.1-2](/fr/The_Urantia_Book/91#p7_1)]
+> Le contact du mental humain avec son Ajusteur intérieur, bien qu’il soit fréquemment favorisé par une méditation fervente, est beaucoup plus souvent facilité par les services sincères et aimants d’un ministère désintéressé auprès de ses semblables. ... L’âme des hommes a besoin d’exercice spirituel aussi bien que de nourriture spirituelle. <a id="a97_344"></a>[[LU 91:7.1-2](/fr/The_Urantia_Book/91#p7_1)]
 
 
 
@@ -79,3 +103,28 @@ Enfin, j'espère embrasser d'autres individus qui se sentent peut-être trop vie
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Charles_Laurence_Olivea/Guardian_Angels">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">anges gardiens</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="pr-2">La prophétie et le Livre d'Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

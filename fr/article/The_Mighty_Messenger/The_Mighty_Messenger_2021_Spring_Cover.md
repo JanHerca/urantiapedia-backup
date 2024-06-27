@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Patrick Yesh, Jeff Haworth<br>© 2021 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
+          <span class="pr-2">La mission Melchisédek : sauver la vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -41,7 +62,7 @@ DÉCLARATION DE NON-RESPONSABILITÉ
 
 Nous nous efforçons de publier une variété de points de vue, sachant que les étudiants du Livre d'Urantia peuvent différer considérablement dans leurs interprétations des enseignements.
 
-Les opinions et descriptions des auteurs ne reflètent pas nécessairement les points de vue de la Bourse ou les initiatives soutenues par la Bourse. Les articles sont publiés dans le but de permettre l’expression d'une diversité de points de vue au sein de la communauté des lecteurs.
+Les opinions et descriptions des auteurs ne reflètent pas nécessairement les points de vue de la Fellowship ou les initiatives soutenues par la Fellowship. Les articles sont publiés dans le but de permettre l’expression d'une diversité de points de vue au sein de la communauté des lecteurs.
 
 Mighty Messenger est une publication de
 
@@ -51,7 +72,7 @@ Broomfield, Colorado
 80021 États-Unis
 (303) 467-7858
 
-> Les hautes civilisations naissent d’une liaison sagace entre la richesse matérielle, la grandeur intellectuelle, la valeur morale, l’habileté sociale et la clairvoyance cosmique. ([LU 81:6.38](/fr/The_Urantia_Book/81#p6_38))
+> Les hautes civilisations naissent d’une liaison sagace entre la richesse matérielle, la grandeur intellectuelle, la valeur morale, l’habileté sociale et la clairvoyance cosmique. (<a id="a74_182"></a>[LU 81:6.38](/fr/The_Urantia_Book/81#p6_38))
 
 ## Liens externes
 
@@ -59,3 +80,25 @@ Broomfield, Colorado
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2021 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Richard_E_Warren/The_Melchizedek_Mission_Salvaging_Truth">
+          <span class="pr-2">La mission Melchisédek : sauver la vérité</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 Henry Begemann<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Le discours suivant a été donné le jour de l'anniversaire de Jésus. 21 août 1979, lors d'une réunion d'étudiants du LIVRE D'URANTIA au domicile de l'auteur aux Pays-Bas. Son thème est approprié à notre célébration historique de cet événement capital à cette période de l'année._
@@ -35,7 +56,7 @@ Mais cette aventure n’est pas facile, car notre nature est si immensément dif
 
 Dans ce but est également venu le Maître qui, dans sa propre expérience de Fils de l'Homme, a suivi ce même processus de reconnaissance de la filiation en association avec cette entité divine intérieure. En même temps, il reprit conscience de sa connaissance du Père, de sa relation de Créateur-Fils avec le Père Universel, telle qu'elle existait depuis le début. Il a proclamé et révélé ce Père et la nature de son esprit en nous, car cet esprit est un fragment du Père Infini.
 
-Le Père Infini, nous ne pouvons pas le comprendre, mais il se rend connaissable à sa créature finie dans la relation de paternité et de filiation. « _Quand tout est dit et fait, l’idée de Père reste encore le concept humain le plus élevé de Dieu._ » ([LU 196:3.35](/fr/The_Urantia_Book/196#p3_35))
+Le Père Infini, nous ne pouvons pas le comprendre, mais il se rend connaissable à sa créature finie dans la relation de paternité et de filiation. « _Quand tout est dit et fait, l’idée de Père reste encore le concept humain le plus élevé de Dieu._ » (<a id="a58_251"></a>[LU 196:3.35](/fr/The_Urantia_Book/196#p3_35))
 
 Jésus a enseigné cette paternité afin de nous conduire à cette filiation qu'il s'était découverte en tant que Fils de l'homme. Et lorsque ses disciples persistèrent à préférer leur romantisme à cette réalité de la filiation, il commença comme enseignant-guérisseur pour en démontrer le sens, la valeur pratique et la réalité.
 
@@ -49,8 +70,30 @@ L’homme a une tendance presque inextinguible à échapper à la réalité, mal
 
 Et probablement _Le Livre d'URANTIA_ sera le précurseur d'un autre événement auquel les auteurs font allusion à plusieurs reprises, la venue d'un autre Fils divin. Nous vivons à l’époque de l’Avent. Mais méfions-nous du romantisme. Un autre Fils ne peut qu’essayer, peut-être avec l’aide des circonstances, de nous faire comprendre plus clairement notre propre filiation. Il ne peut pas opérer le salut en dehors de nous,
 
-> « _L’empreinte personnelle du Fils Originel et Éternel se transmet, par une série de personnalisations de moins en moins divines et de plus en plus humaines, jusqu’à un être qui vous ressemble beaucoup, que vous pouvez voir, entendre et toucher. Alors, on vous rend spirituellement conscient de la grande vérité accessible par la foi — votre filiation avec le Dieu éternel !_ » ([LU 40:5.1](/fr/The_Urantia_Book/40#p5_1))
+> « _L’empreinte personnelle du Fils Originel et Éternel se transmet, par une série de personnalisations de moins en moins divines et de plus en plus humaines, jusqu’à un être qui vous ressemble beaucoup, que vous pouvez voir, entendre et toucher. Alors, on vous rend spirituellement conscient de la grande vérité accessible par la foi — votre filiation avec le Dieu éternel !_ » (<a id="a72_381"></a>[LU 40:5.1](/fr/The_Urantia_Book/40#p5_1))
 
 _Henry Begemann_
 _Wassenaar, Pays-Bas_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Martin_W_Myers/Urantia_Brotherhood_Planetary_Service">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fraternité Urantia — Les possibilités d'un service planétaire important</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

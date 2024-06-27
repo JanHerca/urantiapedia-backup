@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1987"
+title: "« The Urantian » — Numéro du printemps 1987"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1987 Charles E. Hansen<br>© 1987 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jésus, le grand économiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Jésus, le grand économiste
@@ -24,7 +45,29 @@ _Silver Spring, Maryland_
 
 ---
 
-> « _Il faut que la science politique reconstruise l’économie et l’industrie par les techniques qu’elle apprend des sciences sociales et par la clairvoyance et les motifs fournis par la vie religieuse. Dans toute reconstruction sociale, la religion apporte une fidélité stabilisatrice envers un objet transcendant, un but équilibrant situé au-delà et au-dessus de l’objectif temporel immédiat. Au milieu des confusions d’un environnement qui change rapidement, l’homme mortel a besoin d’être soutenu par une vaste perspective cosmique._ » ([LU 99:7.2](/fr/The_Urantia_Book/99#p7_2))
+> « _Il faut que la science politique reconstruise l’économie et l’industrie par les techniques qu’elle apprend des sciences sociales et par la clairvoyance et les motifs fournis par la vie religieuse. Dans toute reconstruction sociale, la religion apporte une fidélité stabilisatrice envers un objet transcendant, un but équilibrant situé au-delà et au-dessus de l’objectif temporel immédiat. Au milieu des confusions d’un environnement qui change rapidement, l’homme mortel a besoin d’être soutenu par une vaste perspective cosmique._ » (<a id="a47_540"></a>[LU 99:7.2](/fr/The_Urantia_Book/99#p7_2))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1987">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1987 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Charles_E_Hansen/Jesus_the_great_economist">
+          <span class="pr-2">Jésus, le grand économiste</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

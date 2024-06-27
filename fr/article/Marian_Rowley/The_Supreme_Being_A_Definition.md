@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marian Rowley<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
+          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Selon _Le Livre d'URANTIA_, l'Être Suprême est une Déité évolutionnaire. Il aura un avenir éternel mais, contrairement au Père, au Fils et à l’Esprit, il a eu un commencement. À l’heure actuelle, il n’est pas complet. Il évolue avec nous tous et ce que nous faisons a une influence sur son évolution.
 
-La définition la plus concise du Suprême est la suivante : « _L’Être Suprême est l’unification des trois phases suivantes de la réalité de Déité : Dieu le Suprême, unification spirituelle de certains aspects finis de la Trinité du Paradis ; le Tout-Puissant Suprême, unification du pouvoir des Créateurs du grand univers ; et le Mental Suprême, contribution individuelle de la Source-Centre Troisième et de ses coordonnés à la réalité de l’Être Suprême._ » ([LU 22:7.11](/fr/The_Urantia_Book/22#p7_11))
+La définition la plus concise du Suprême est la suivante : « _L’Être Suprême est l’unification des trois phases suivantes de la réalité de Déité : Dieu le Suprême, unification spirituelle de certains aspects finis de la Trinité du Paradis ; le Tout-Puissant Suprême, unification du pouvoir des Créateurs du grand univers ; et le Mental Suprême, contribution individuelle de la Source-Centre Troisième et de ses coordonnés à la réalité de l’Être Suprême._ » (<a id="a39_458"></a>[LU 22:7.11](/fr/The_Urantia_Book/22#p7_11))
 
 _Dieu le Suprême_ est présent actuellement à Havona, mais n'est pas contactable. Nous ne le verrons pas et ne lui parlerons pas lorsque nous serons à Havona. Le Maître Esprit Numéro Sept, notre propre Maître Esprit, parle pour lui. Le but principal de notre séjour sur le sixième cercle de Havona est d’acquérir une appréciation plus profonde de Dieu le Suprême à travers le Maître Esprit Numéro Sept. Dieu le Suprême s’étend maintenant vers l’extérieur en Dieu le Septuple.
 
@@ -26,3 +50,28 @@ Lorsque tous les superunivers seront installés dans la lumière et la vie, le T
 — _Marian Rowley_
 _Chicago, Illinois_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Robert_Buselli/Circles_Of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cercles de suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Neal_Waldrop/Personal_Growth_The_Seven_Psychic_Circles">
+          <span class="pr-2">Croissance personnelle : les sept cercles psychiques</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Paula Thompson<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bill_Rocap/Turkish_translation_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traduction turque du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michelle_Klimesh/Pipeline_of_Light_Report">
+          <span class="pr-2">Rapport sur le « Pipeline of Light »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -17,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Paula Thompson_
 
-Je me suis réveillé l’autre jour avec toujours en tête la nouvelle obsédante de cette pandémie en cours et j’ai commencé à penser à ma propre grand-mère paternelle. Son nom de jeune fille était Mae Porter. Elle n’avait pas de deuxième prénom. En me réveillant, j'ai commencé à réfléchir à sa vie. Je connais si bien son histoire parce que j’ai toujours écouté attentivement ses histoires colorées. Mae était une grande conteuse et elle a vécu jusqu’à 90 ans. En réfléchissant à tous les défis auxquels elle a été confrontée dans sa vie, cela m'a aidé à mettre en perspective ces défis actuels et cela m'a apporté la paix. Pour moi, ma grand-mère incarnait cet enseignement du Livre d'Urantia : « Dans le cosmos, la plus grande affliction est de n’avoir jamais été affligé. Les mortels n’apprennent la sagesse qu’en subissant des tribulations. » [LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)
+Je me suis réveillé l’autre jour avec toujours en tête la nouvelle obsédante de cette pandémie en cours et j’ai commencé à penser à ma propre grand-mère paternelle. Son nom de jeune fille était Mae Porter. Elle n’avait pas de deuxième prénom. En me réveillant, j'ai commencé à réfléchir à sa vie. Je connais si bien son histoire parce que j’ai toujours écouté attentivement ses histoires colorées. Mae était une grande conteuse et elle a vécu jusqu’à 90 ans. En réfléchissant à tous les défis auxquels elle a été confrontée dans sa vie, cela m'a aidé à mettre en perspective ces défis actuels et cela m'a apporté la paix. Pour moi, ma grand-mère incarnait cet enseignement du Livre d'Urantia : « Dans le cosmos, la plus grande affliction est de n’avoir jamais été affligé. Les mortels n’apprennent la sagesse qu’en subissant des tribulations. » <a id="a43_845"></a>[LU 48:7.14](/fr/The_Urantia_Book/48#p7_14)
 
 Mae Porter est née en 1892 dans une communauté agricole pauvre de l’Iowa. Elle était la première née d'une famille de cinq personnes. Sa mère et ses deux frères et sœurs sont morts de la tuberculose quand elle avait trois ans, après que sa famille ait emménagé dans une cabane infectée. Elle et son père sont les seuls à avoir survécu. Il épousa par la suite une femme qui possédait une ferme mais qui n'avait pas de mari. Cela a bien fonctionné pour lui car il était agriculteur sans ferme et avait une fille de 3 ans sans personne pour s'occuper d'elle.
 
@@ -80,3 +104,28 @@ Par conséquent, à vous, doux lecteur, j’envoie tout l’amour dans mon cœur
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Bill_Rocap/Turkish_translation_of_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traduction turque du Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Michelle_Klimesh/Pipeline_of_Light_Report">
+          <span class="pr-2">Rapport sur le « Pipeline of Light »</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

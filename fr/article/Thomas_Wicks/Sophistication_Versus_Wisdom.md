@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Thomas Wicks<br>© 1978 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Et qu'en est-il de la beauté ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La sophistication n’est pas seulement un écho du passé, un repère historique réservé à Socrate et aux sophistes. Elle est bien vivante et continue d’imprégner notre quotidien. La sophistication peut être trouvée dans l’économie, la politique, la philosophie, la musique et tout autre sous-produit du libre arbitre. Cela se fait passer pour la vérité, la sagesse et l’amour alors qu’en réalité, il s’agit d’une auto-illusion et d’une erreur. Le manifeste de Lucifer était une pure sophistication. Le plus souvent, cela découle de l’égoïsme, de l’ego, de l’orgueil et d’une ignorance grossière. Par conséquent, « le Coca ajoute de la vie ».
@@ -19,8 +40,30 @@ La valeur de ce Journal ou de tout autre support d'expression est sa capacité �
 
 La simplicité est boudée par les sophistes et les prophètes des mots des derniers jours, mais considérez ceci : l'Orchestre philharmonique de New York a enregistré un jour huit minutes sous le titre « 480 secondes de silence ». Le chant naturel du vent dansant sur les instruments sur la scène en plein air s'est en effet vendu à un million d'exemplaires. Si les sons du silence peuvent littéralement pénétrer le monde de la musique, pensez au concert que quelques mots simples peuvent accomplir sur les cordes vocales. Nous pouvons partager le plus grand nombre possible de personnes en ne permettant pas à nos paroles d'interférer avec notre ministère et notre service.
 
-> « _On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour._ » ([LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
+> « _On ne possède la connaissance qu’en la partageant ; elle est sauvegardée par la sagesse et rendue sociale par l’amour._ » (<a id="a42_128"></a>[LU 48:7.28](/fr/The_Urantia_Book/48#p7_28))
 
 _Thomas Mèches_
 _Florence, Arizona_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Frances_Huttington/And_What_Of_Beauty">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Et qu'en est-il de la beauté ?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

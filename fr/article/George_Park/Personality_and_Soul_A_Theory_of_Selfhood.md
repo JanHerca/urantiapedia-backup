@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 1992 George Park</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S'élevant de ma chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Change_Ringing">
+          <span class="pr-2">Changer la sonnerie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 par George L. Park
 
@@ -66,7 +90,7 @@ L'âme est constituée de réalité morontielle, un niveau d'être qui intervien
 
 Les idéaux sont une synthèse vivante d’idées et de valeurs. L'adjudant de la sagesse, l'identité morale, crée des idéaux en unifiant les idées et les valeurs, le sens et l'esprit. L’Ajusteur de Pensée peut ou non être l’inspiration derrière une valeur particulière. Si la valeur est divine, l’Ajusteur de Pensée l’inspire. Si la valeur n'est pas divine, l'Ajusteur ne participe pas à la création de l'idéal. Nous sommes définitivement informés que l'Ajusteur inspire la création de l'idéal de l'altruisme. Cependant, la réflexion montre clairement que nous avons des idéaux qui ne peuvent être considérés comme divinement inspirés. L’âme contient les deux types d’idéaux : le divin et le moins divin.
 
-Cette création d'idéaux morontiels est initialement perçue comme la conscience. C'est la première prise de conscience qu'a la sagesse de la réalité de l'âme. La conscience n'est pas la voix de Dieu s'adressant à l'esprit de l'homme. Il nous est conseillé de critiquer notre conscience et de faire preuve de sagesse pour faire la distinction entre les idéaux qui ont une origine divine et ceux qui n'en ont pas. À mesure que l’âme grandit, on prend de plus en plus conscience des idéaux de vérité, de beauté, de bonté et d’amour. Le transfert du siège de l'identité de l'identité intellectuelle à l'âme s'accomplit par le libre arbitre de la personnalité agissant par l'intermédiaire de l'adjudant de la sagesse pour personnaliser les idéaux spirituels de l'âme. « Le salut est la spiritualisation de la réalisation de soi de la conscience morale… » ([LU 133:6.6](/fr/The_Urantia_Book/133#p6_6))
+Cette création d'idéaux morontiels est initialement perçue comme la conscience. C'est la première prise de conscience qu'a la sagesse de la réalité de l'âme. La conscience n'est pas la voix de Dieu s'adressant à l'esprit de l'homme. Il nous est conseillé de critiquer notre conscience et de faire preuve de sagesse pour faire la distinction entre les idéaux qui ont une origine divine et ceux qui n'en ont pas. À mesure que l’âme grandit, on prend de plus en plus conscience des idéaux de vérité, de beauté, de bonté et d’amour. Le transfert du siège de l'identité de l'identité intellectuelle à l'âme s'accomplit par le libre arbitre de la personnalité agissant par l'intermédiaire de l'adjudant de la sagesse pour personnaliser les idéaux spirituels de l'âme. « Le salut est la spiritualisation de la réalisation de soi de la conscience morale… » (<a id="a92_850"></a>[LU 133:6.6](/fr/The_Urantia_Book/133#p6_6))
 
 Dans cette tentative de découvrir ce qu’est la personnalité, ce qu’est l’âme et quelle est la relation entre les deux, nous avons esquissé une théorie simple de la constitution de l’individualité.
 
@@ -87,3 +111,27 @@ Sagesse | sagesse | juger | évaluation morale <br>\& choix |
 Culte<br> Conseil | coeur | sentiment | désirs, émotions, <br>\& imagination |
 Connaissance<br> Courage | intelligence | penser | idées \& décisions |
 Comprendre<br> Intuition | corps | faire | perceptions, pulsions, <br>\& sensations |
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Stephen_Zendt/Rising_from_my_flesh">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">S'élevant de ma chair</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1992">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1992 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Lynne_Kulieke/Change_Ringing">
+          <span class="pr-2">Changer la sonnerie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

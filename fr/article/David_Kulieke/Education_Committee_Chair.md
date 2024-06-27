@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2019 David Kulieke<br>© 2019 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Amyx/Membership_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Président du comité des adhésions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Summer_Study_Session_2019_Fall">
+          <span class="pr-2">Session d'étude d'été</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -19,15 +43,15 @@ par _David Kulieke_
 
 Depuis 1955, le Comité d'Éducation a cherché à améliorer l’excellence et l’exploration approfondie du _Livre d'Urantia_ pour les lecteurs et les groupes qui étudient le livre.
 
-Un objectif complémentaire a été d'aider à diffuser les enseignements du livre pour soutenir l’effort de l’Urantia Book Fellowship «... pour présenter des concepts élargis et une vérité avancée... pour élargir la conscience cosmique et améliorer la perception spirituelle...» [LU 0:0.2](/fr/The_Urantia_Book/0#p0_2) Suite aux premiers efforts de l’École de la Fraternité, de 1956 à 1973, le Comité d'Éducation a inauguré les sessions d'études d'été, qui se sont réunies deux étés sur trois depuis les années 1970. Celles-ci ont servi de moment pour entretenir et animer des amitiés tout en offrant l’occasion d’une étude et d’un culte approfondis. De nombreux enseignants et présentateurs exceptionnels ont organisé ces séminaires, y ont pris la parole et y ont donné des ateliers. Plus d'une douzaine de membres du comité ont participé à la planification ou en faisant des présentations lors de « Vivre la présence de Dieu » de cette année. Une journée a été consacrée à de courtes présentations le matin et l’après-midi, suivies d'ateliers réactifs contenant des questions et du matériel créé par le comité d'éducation. a exploré le thème de la conférence à travers quatre sous-thèmes : l’étude, la socialisation, la communion spirituelle et le service. Un autre objectif était de mettre l’accent sur des techniques éducatives solides reflétant à la fois les principes du _Livre d'Urantia_ et ceux de la sagesse profane. Un conclave coparrainé par le comité de l’éducation et le comité des membres a précédé la conférence.
+Un objectif complémentaire a été d'aider à diffuser les enseignements du livre pour soutenir l’effort de l’Urantia Book Fellowship «... pour présenter des concepts élargis et une vérité avancée... pour élargir la conscience cosmique et améliorer la perception spirituelle...» <a id="a45_276"></a>[LU 0:0.2](/fr/The_Urantia_Book/0#p0_2) Suite aux premiers efforts de l’École de la Fraternité, de 1956 à 1973, le Comité d'Éducation a inauguré les sessions d'études d'été, qui se sont réunies deux étés sur trois depuis les années 1970. Celles-ci ont servi de moment pour entretenir et animer des amitiés tout en offrant l’occasion d’une étude et d’un culte approfondis. De nombreux enseignants et présentateurs exceptionnels ont organisé ces séminaires, y ont pris la parole et y ont donné des ateliers. Plus d'une douzaine de membres du comité ont participé à la planification ou en faisant des présentations lors de « Vivre la présence de Dieu » de cette année. Une journée a été consacrée à de courtes présentations le matin et l’après-midi, suivies d'ateliers réactifs contenant des questions et du matériel créé par le comité d'éducation. a exploré le thème de la conférence à travers quatre sous-thèmes : l’étude, la socialisation, la communion spirituelle et le service. Un autre objectif était de mettre l’accent sur des techniques éducatives solides reflétant à la fois les principes du _Livre d'Urantia_ et ceux de la sagesse profane. Un conclave coparrainé par le comité de l’éducation et le comité des membres a précédé la conférence.
 
 Le comité cherche à enrichir l’éducation sur _Le Livre d'Urantia_ de plusieurs autres manières. La première passe par les efforts sur le terrain. Les membres du comité visitent des groupes d'étude qui les invitent à présenter des ateliers de haute qualité tout en renforçant les méthodes d'étude efficaces décrites dans _Le Livre d'Urantia_ ainsi que dans les meilleures pratiques trouvées ailleurs. Cette année, deux membres du comité ont présenté un atelier sur l’intégration de la personnalité et les écoles de pensée, de sentiment et d'action du monde des maisons lors de séminaires et de conférences pour les sociétés de Chicago, de Floride et de New York, en plus de plusieurs groupes d'étude. Il y a eu environ 10 présentations de ce type récemment. Le Comité d’Éducation s’engage à aider à renforcer les communautés locales de lecteurs du Livre d’Urantia. Si un groupe ou une conférence souhaite que des membres du comité lui rendent visite, contactez-les à urantiaeducation@gmail.com.
 
-Ces dernières années, le comité a fourni du matériel éducatif téléchargeable sur son site Web, accessible à http://www.urantiabook.org/committees/education/index ou en allant au deuxième élément sous l’onglet Étude sur le site Web de la Bourse du Livre d'Urantia.
+Ces dernières années, le comité a fourni du matériel éducatif téléchargeable sur son site Web, accessible à http://www.urantiabook.org/committees/education/index ou en allant au deuxième élément sous l’onglet Étude sur le site Web de la Fellowship du Livre d'Urantia.
 
 Si un groupe ou une conférence souhaite que des membres du comité lui rendent visite, contactez-les à urantiaeducation@gmail.com. 
 
-Certains des documents disponibles sur le site Web du Comité d'éducation de la Bourse du Livre d'Urantia :
+Certains des documents disponibles sur le site Web du Comité d'éducation de la Fellowship du Livre d'Urantia :
 
 Sous Ressources :
 
@@ -55,7 +79,7 @@ David Kulieke est président du comité d'éducation depuis 2012, ce qu’il con
 <img src="/image/article/The_Mighty_Messenger/2019_Fall/031.jpg">
 </figure>
 
-> « L’univers tout entier est une vaste école. » ([LU 37:6.2](/fr/The_Urantia_Book/37#p6_2))
+> « L’univers tout entier est une vaste école. » (<a id="a81_50"></a>[LU 37:6.2](/fr/The_Urantia_Book/37#p6_2))
 
 ## Liens externes
 
@@ -63,3 +87,28 @@ David Kulieke est président du comité d'éducation depuis 2012, ce qu’il con
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dan_Amyx/Membership_Committee_Chair">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Président du comité des adhésions</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2019 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Summer_Study_Session_2019_Fall">
+          <span class="pr-2">Session d'étude d'été</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

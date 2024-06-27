@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1980 Grace E. Stephens<br>© 1980 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/UNITY_One_view">
+          <span class="pr-2">UNITÉ — Une vue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La jeunesse cherche à être reconnue. La maturité tend à changer la perspective de l'individu en lui faisant prendre conscience de l'importance de soi.
 
-_Le Livre d'URANTIA_ honore ceux qui servent tranquillement dans les coulisses. On nous dit qu'un réserviste est choisi en raison de sa « ... volonté de servir sans reconnaissance ni récompense humaine._ » ([LU 114:7.5](/fr/The_Urantia_Book/114#p7_5))
+_Le Livre d'URANTIA_ honore ceux qui servent tranquillement dans les coulisses. On nous dit qu'un réserviste est choisi en raison de sa « ... volonté de servir sans reconnaissance ni récompense humaine._ » (<a id="a39_207"></a>[LU 114:7.5](/fr/The_Urantia_Book/114#p7_5))
 
 La Fraternité URANTIA semble entrer dans une période de transition où l'ancien cède la place au nouveau. Permettez-moi d'exhorter ceux à qui nous confions la garde de notre révélation à ne pas rejeter le leadership historique des nombreux hommes et femmes dévoués du passé qui ont tant fait en contribuant à l'organisation de la Fraternité et ont donné leur vie à la Fraternité. diffusion de ces enseignements.
 
@@ -35,3 +59,28 @@ _Downer's Grove, Illinois_
 
 _Note de l'éditeur : Grace Stephens a obtenu son diplôme pour les Mondes des Manoirs en janvier de cette année._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1980_12">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro d'hiver 1980</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1980">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1980 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/The_Urantian/UNITY_One_view">
+          <span class="pr-2">UNITÉ — Une vue</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

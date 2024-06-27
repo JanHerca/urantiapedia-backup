@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Sue Snider Seccombe<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dolores_Nice/Travels_with_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voyager avec le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Publication_Deadlines">
+          <span class="pr-2">Dates limites de publication</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -19,7 +43,7 @@ par _Sue Snider Seccombe_
 
 Dans un souci de progrès et de croissance, la Communauté du Livre d'Urantia a créé notre comité ad hoc pour affiner la planification et clarifier les opportunités et stratégies futures. Nous avons réalisé 50 entretiens approfondis au cours de l’été avec des participants clés de la communauté des lecteurs du Livre d'Urantia et menons actuellement une étude de marché pour en savoir plus sur la prochaine vague de personnes susceptibles de découvrir le Livre d'Urantia et sur la meilleure façon de nous préparer à les servir.
 
-> « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » ([LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
+> « Urantia frémit maintenant au bord même d’une de ses époques les plus stupéfiantes et passionnantes de rajustement social, de stimulation morale et d’illumination spirituelle. » (<a id="a45_182"></a>[LU 195:9.2](/fr/The_Urantia_Book/195#p9_2))
 
 ## Comment nous servons notre communauté
 
@@ -40,7 +64,7 @@ Les besoins spirituels des jeunes adultes d’aujourd’hui semblent devenir de 
 
 ## Il est temps de faire une mise au point
 
-Alors que nous nous préparons à aller de l’avant, nous utilisons les précieuses informations issues des entretiens approfondis pour proposer des recommandations visant à affiner le fonctionnement de la Bourse. D’une manière générale, ces recommandations se répartissent en trois catégories :
+Alors que nous nous préparons à aller de l’avant, nous utilisons les précieuses informations issues des entretiens approfondis pour proposer des recommandations visant à affiner le fonctionnement de la Fellowship. D’une manière générale, ces recommandations se répartissent en trois catégories :
 
 1. Concentrez-vous sur notre objectif principal
 
@@ -105,3 +129,28 @@ Sue Snider Seccombe, présidente
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Dolores_Nice/Travels_with_the_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Voyager avec le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'automne-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Publication_Deadlines">
+          <span class="pr-2">Dates limites de publication</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1979 India Margaret Sperry<br>© 1979 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Quiet_Human_Heroes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Héros humains silencieux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Apostle_Andrew">
+          <span class="pr-2">L'apôtre André</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 L’épisode Norana est un joyau d’histoire et pourrait être comparé à une pièce dramatique en un acte. Norana et Jesus sont les stars avec les autres comme joueurs de soutien.
@@ -23,7 +47,7 @@ Il doit y avoir quelque chose que nous pouvons en tirer, que nous nous trouvions
 
 Le sens de l'humour de Norana plaisait à Jésus car lui aussi avait le sens de l'humour et il regrettait que ses apôtres en aient si peu, même s'ils pouvaient être de bonne humeur quand les choses allaient bien.
 
-Lorsqu'un apôtre l'a qualifiée de «_chien_» gentil, Norana a rétorqué qu'elle était au moins «_un chien croyant._» ([LU 156:1.5](/fr/The_Urantia_Book/156#p1_5))
+Lorsqu'un apôtre l'a qualifiée de «_chien_» gentil, Norana a rétorqué qu'elle était au moins «_un chien croyant._» (<a id="a49_116"></a>[LU 156:1.5](/fr/The_Urantia_Book/156#p1_5))
 
 Jésus écoutait, invisible, tous ces échanges. Nous aussi, nous avons sûrement des auditeurs invisibles alors que nous jouons notre rôle dans la pièce qui se déroule depuis l’apparition du libre arbitre sur notre terre.
 
@@ -34,3 +58,28 @@ Cela nous rappelle les projets de vie que nos Ajusteurs de Pensée ont élaboré
 — _Inde Margaret Sperry_
 _Honaunau, Hawaï_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/Quiet_Human_Heroes">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Héros humains silencieux</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1979">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1979 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Apostle_Andrew">
+          <span class="pr-2">L'apôtre André</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

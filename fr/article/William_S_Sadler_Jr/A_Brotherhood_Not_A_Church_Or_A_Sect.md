@@ -9,11 +9,35 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1976 William S. Sadler, Jr.<br>© 1976 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p >
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro inaugural — Numéro de mars 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="pr-2">Concentrez-vous sur l'individu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Qu'est-ce que la Fraternité URANTIA ? Une autre secte ? Cette question a été posée à plusieurs reprises à l'auteur de ce rapport. A cette question, une réponse négative a toujours été donnée : « Non, la Fraternité URANTIA n'est ni une église ni une secte. C’est simplement un groupe social qui a un objectif religieux.
 
-Il y a une place réelle dans la civilisation moderne pour un groupe de personnes religieuses qui sont « … prêtes à se dépouiller complètement de toute autorité ecclésiastique et à abandonner complètement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain._” ([LU 134:4.4](/fr/The_Urantia_Book/134#p4_4)). Le monde moderne n’a guère besoin d’une autre église, d’une autre secte. Nous souffrons actuellement d’une pléthore d’Églises et d’une multiplication des sectes.
+Il y a une place réelle dans la civilisation moderne pour un groupe de personnes religieuses qui sont « … prêtes à se dépouiller complètement de toute autorité ecclésiastique et à abandonner complètement tout concept de souveraineté spirituelle. Dieu seul est esprit souverain._” (<a id="a39_281"></a>[LU 134:4.4](/fr/The_Urantia_Book/134#p4_4)). Le monde moderne n’a guère besoin d’une autre église, d’une autre secte. Nous souffrons actuellement d’une pléthore d’Églises et d’une multiplication des sectes.
 
 Mais si nous ne sommes pas une Église, en quoi différons-nous alors d’une Église ? Si nous pouvons clairement voir en quoi nous différons, alors nous pourrons peut-être maintenir ces différences. Et si nous parvenons à maintenir ces différences, alors nous pourrons peut-être préserver notre organisation en tant que Fraternité distincte ; nous pourrons peut-être éviter une éventuelle évolution vers une église.
 
@@ -33,3 +57,28 @@ Si nous parvenons à séparer clairement les moyens et les fins, si nous pouvons
 
 _(Remarque : William S. Sadler, Jr, a été président de la Fraternité URANTIA pendant les trois premières années de son existence, 1955-1957. Ceci est un extrait de son premier rapport à l'Assemblée triennale des délégués.)_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Urantian/The_Urantian_1976_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">« The Urantian » — Numéro inaugural — Numéro de mars 1976</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-de-mars-1976">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro de mars 1976 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Steve_Dreier/Focus_On_The_Individual">
+          <span class="pr-2">Concentrez-vous sur l'individu</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

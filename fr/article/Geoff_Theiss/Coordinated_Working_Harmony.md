@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Geoffrey Theiss<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Douglas_Burns/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">N'ayez pas peur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="pr-2">Message du président</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Geoff_Theiss/42.jpg">
@@ -22,7 +46,7 @@ Nous sommes plutôt mis au défi de nous revigorer face aux difficultés et de f
 
 Ce n’est pas une tâche facile.
 
-Le Livre d'Urantia nous rappelle comment « Un groupe social d'êtres humains travaillant en harmonie et de manière coordonnée représente une force bien plus grande que la simple somme de ses parties. » ([LU 133:5.6](/fr/The_Urantia_Book/133#p5_6)) L'harmonie de nos efforts communs _exige_ la coordination. Cela _nécessite_ du travail. Et cet effort soutenu a besoin de vous.
+Le Livre d'Urantia nous rappelle comment « Un groupe social d'êtres humains travaillant en harmonie et de manière coordonnée représente une force bien plus grande que la simple somme de ses parties. » (<a id="a48_202"></a>[LU 133:5.6](/fr/The_Urantia_Book/133#p5_6)) L'harmonie de nos efforts communs _exige_ la coordination. Cela _nécessite_ du travail. Et cet effort soutenu a besoin de vous.
 
 La Urantia Book Fellowship (alias la Fellowship) investit des ressources importantes dans le travail au-delà de toutes les frontières – internationales et organisationnelles – afin de tendre vers les valeurs les plus élevées d’une collaboration efficace. Nous avons besoin de votre soutien pour capitaliser sur ces incroyables opportunités de développer davantage nos partenariats au sein du mouvement plus large du _Livre d'Urantia_, avec les objectifs partagés suivants pour 2024 :
 
@@ -44,3 +68,27 @@ https://urantiabook.org/Donate/
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Douglas_Burns/Fear_Not">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">N'ayez pas peur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Sue_Snider_Seccombe/Presidents_Message">
+          <span class="pr-2">Message du président</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

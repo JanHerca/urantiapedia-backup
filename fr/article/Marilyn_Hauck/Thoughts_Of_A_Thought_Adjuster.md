@@ -9,9 +9,30 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marilyn Hauck<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Greatest_Story_Of_All_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La plus grande histoire de tous les temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> « _Nous croyons qu’en présence de ces faits, les Moniteurs s’offrent volontairement pour une affectation. Il est probable que plusieurs Ajusteurs se présenteront pour un poste. Peut-être les ordres personnalisés superviseurs choisissent-ils, dans le groupe de volontaires, celui qui est le mieux qualifié pour la tâche de spiritualiser et rendre éternelle la personnalité du candidat mortel._ » ([LU 108:1.7](/fr/The_Urantia_Book/108#p1_7))
+
+> « _Nous croyons qu’en présence de ces faits, les Moniteurs s’offrent volontairement pour une affectation. Il est probable que plusieurs Ajusteurs se présenteront pour un poste. Peut-être les ordres personnalisés superviseurs choisissent-ils, dans le groupe de volontaires, celui qui est le mieux qualifié pour la tâche de spiritualiser et rendre éternelle la personnalité du candidat mortel._ » (<a id="a34_398"></a>[LU 108:1.7](/fr/The_Urantia_Book/108#p1_7))
 
 Tout d’abord, vais-je me présenter. Je suis originaire de Divinington et je suis un Ajusteur de Pensée, un Moniteur de Mystères, un Don Divin ou toute autre désignation de mot qui peut m'être appliquée par les enfants du Père Universel. L'expérience m'appartient, j'ai déjà regardé à travers les yeux de créatures évolutionnaires et j'ai vu des paysages très différents de ceux d'Urantia. Des soleils jumeaux ont marché au-dessus de nous, et les cieux d'autres parties des superunivers sont modelés avec d'autres constellations, d'autres systèmes. Mais l'amour et le dessein du Père palpitaient toujours à travers le tout.
 
@@ -33,8 +54,30 @@ Le jour viendra. J'ai même maintenant été officiellement reconnu comme contr�
 
 Une partie de ma recherche est terminée. Une autre partie commence. J’ai habité et aimé de nombreux êtres évolutionnaires dans la pleine capacité de leur reconnaissance de cet amour. J’ai toujours pincé les limites de leurs réceptivités et poussé les chevilles de réglage de leurs idées encore un peu plus haut. Je n’ai jamais échoué, mais ce « non-échec » est le meilleur et le plus heureux. De quel grand potentiel de pouvoir le Père a-t-il doté ses enfants mortels ? Ne manquez pas d'utiliser votre héritage divin ! Utilisez-le, je vous en supplie, au maximum !
 
-> « _Dans la mesure où je suis au courant des affaires d’un univers, je considère l’amour et la dévotion d’un Ajusteur de Pensée comme l’affection la plus véritablement divine de toute la création. L’amour des Fils dans leur ministère auprès des races est magnifique, mais la dévotion d’un Ajusteur à un individu est d’une sublimité émouvante, divinement semblable à celle du Père. Le Père du Paradis semble avoir réservé cette forme de contact personnel avec ses créatures individuelles comme une prérogative exclusive de Créateur._ » ([LU 110:0.2](/fr/The_Urantia_Book/110#p0_2))
+> « _Dans la mesure où je suis au courant des affaires d’un univers, je considère l’amour et la dévotion d’un Ajusteur de Pensée comme l’affection la plus véritablement divine de toute la création. L’amour des Fils dans leur ministère auprès des races est magnifique, mais la dévotion d’un Ajusteur à un individu est d’une sublimité émouvante, divinement semblable à celle du Père. Le Père du Paradis semble avoir réservé cette forme de contact personnel avec ses créatures individuelles comme une prérogative exclusive de Créateur._ » (<a id="a56_537"></a>[LU 110:0.2](/fr/The_Urantia_Book/110#p0_2))
 
 —_Marian Hauck_
 Aurore, Colorado
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jim_McNelly/The_Greatest_Story_Of_All_Time">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La plus grande histoire de tous les temps</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'automne-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'automne 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

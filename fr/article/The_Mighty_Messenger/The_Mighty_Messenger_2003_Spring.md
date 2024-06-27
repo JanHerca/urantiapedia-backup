@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2003 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La démocratie en action
 
@@ -18,7 +36,7 @@ La sélection d'un délégué et d'un suppléant est un devoir et un privilège 
 
 Les représentants de la société doivent être choisis pour leurs qualités correspondant aux tâches de l’Assemblée. Lorsque les représentants eux-mêmes ont assisté aux réunions du Conseil, savent comment il fonctionne et apprécient le type de bénévoles dont le Conseil a besoin pour fonctionner efficacement, l’Assemblée peut alors sélectionner les meilleurs membres du Conseil. La connaissance de la Constitution de la Fraternité et du fonctionnement de l’organisation est importante. Bien entendu, rien ne remplace le fait de connaître personnellement les candidats et d’être conscient de leurs contributions à la révélation. Enfin, les représentants de la Société, qui font preuve de sang-froid et qui ont l’esprit d'équipe, contribuent grandement au processus délibératif de l’Assemblée.
 
-> « _10. *Des représentants intelligents et formés.* La survie de la démocratie dépend de la réussite des gouvernements représentatifs, et cette réussite est conditionnée par la pratique de ne nommer aux charges publiques que les individus techniquement formés, intellectuellement compétents, socialement loyaux et moralement dignes. Ces dispositions sont indispensables pour préserver le gouvernement du peuple, par le peuple et pour le peuple._ » ([LU 71:2.19](/fr/The_Urantia_Book/71#p2_19))
+> « _10. *Des représentants intelligents et formés.* La survie de la démocratie dépend de la réussite des gouvernements représentatifs, et cette réussite est conditionnée par la pratique de ne nommer aux charges publiques que les individus techniquement formés, intellectuellement compétents, socialement loyaux et moralement dignes. Ces dispositions sont indispensables pour préserver le gouvernement du peuple, par le peuple et pour le peuple._ » (<a id="a38_450"></a>[LU 71:2.19](/fr/The_Urantia_Book/71#p2_19))
 
 ## Lettre du Comité Exécutif
 
@@ -31,7 +49,7 @@ Cher membre de la Fellowship :
 
 La majeure partie de cette lettre est un rapport sur la réunion de mi-année du Conseil général et du Comité exécutif ainsi que sur la session extraordinaire de type retraite du Comité exécutif, qui ont toutes eu lieu à Las Vegas du 28 janvier au 2 février. 2003.
 
-Le Comité exécutif avait décidé, à l’issue de sa réunion d'octobre, de tenir une session extraordinaire, avant sa réunion ordinaire de février, pour discuter de questions d'importance primordiale qu’il n'a normalement pas le temps d'aborder lors de ses réunions d'affaires ordinaires. Un rapport assez détaillé sur cette session extraordinaire a été présenté au Conseil général qui, à son tour, a passé une bonne partie de sa réunion à réagir à ce rapport. Les questions discutées étaient les suivantes : 1. Comment la Communauté, en tant qu’organisation, présente-t-elle le Livre d'Urantia au monde ? 2. Comment la Fellowship communique-t-elle avec le monde – à travers ses publications imprimées, via son site Web et par d'autres moyens ? 3. La Communauté devrait-elle se considérer comme un éditeur du _Livre d'Urantia_ sur le long terme ou est-elle dans le secteur de l’édition pour une période temporaire ? 4. La Fraternité doit-elle être impliquée dans les efforts de traduction du Livre d'Urantia ? 5. Quelles devraient être la portée, les priorités et les approches des efforts de sensibilisation internationale de la Fellowship ? 6. L'Association utilise-t-elle correctement sa structure actuelle de comités ? 7. La structure de la Bourse répond-elle bien à son objectif ou des révisions de la structure sont-elles nécessaires ?
+Le Comité exécutif avait décidé, à l’issue de sa réunion d'octobre, de tenir une session extraordinaire, avant sa réunion ordinaire de février, pour discuter de questions d'importance primordiale qu’il n'a normalement pas le temps d'aborder lors de ses réunions d'affaires ordinaires. Un rapport assez détaillé sur cette session extraordinaire a été présenté au Conseil général qui, à son tour, a passé une bonne partie de sa réunion à réagir à ce rapport. Les questions discutées étaient les suivantes : 1. Comment la Communauté, en tant qu’organisation, présente-t-elle le Livre d'Urantia au monde ? 2. Comment la Fellowship communique-t-elle avec le monde – à travers ses publications imprimées, via son site Web et par d'autres moyens ? 3. La Communauté devrait-elle se considérer comme un éditeur du _Livre d'Urantia_ sur le long terme ou est-elle dans le secteur de l’édition pour une période temporaire ? 4. La Fraternité doit-elle être impliquée dans les efforts de traduction du Livre d'Urantia ? 5. Quelles devraient être la portée, les priorités et les approches des efforts de sensibilisation internationale de la Fellowship ? 6. L'Association utilise-t-elle correctement sa structure actuelle de comités ? 7. La structure de la Fellowship répond-elle bien à son objectif ou des révisions de la structure sont-elles nécessaires ?
 
 **Présenter le Livre au monde :** La question de savoir comment présenter le livre au monde a généré une longue discussion parmi les membres du CE, au cours de laquelle des individus ont exprimé de profonds sentiments sur la signification du _Livre d'Urantia_ pour eux et comment ce sens a évolué au fil des ans. Si le principe consistant à évaluer l’aptitude d'un individu à recevoir divers types d'informations contenues dans le livre, lorsqu’il est impliqué dans un dialogue de personne à personne, est bien compris, il en va tout autrement lorsqu’on considère la question de savoir comment une organisation introduit le livre au monde. Le problème en présentant le livre comme une « révélation » est que l’on court le risque d’être perçu comme un « fondamentaliste ». Le fait qu’il contienne un grand nombre et de nombreuses sources humaines incorporées peut, entre autres choses, constituer une protection contre le piège du fondamentalisme. Il faudra peut-être dire que le livre contient une révélation, plutôt qu’il n’en est une. La CE n'est pas parvenue à des conclusions définitives sur cette question, se contentant de dire qu’il faut continuer de réfléchir à ce sujet.
 
@@ -102,9 +120,9 @@ Avec une exposition publique croissante, ces journaux feront bientôt l’objet 
 
 > _Par suite de l’isolement dû à la rébellion, la révélation de la vérité sur Urantia a été trop souvent mêlée aux affirmations de cosmologies partielles et transitoires. La vérité reste invariante de génération en génération, mais les enseignements associés concernant le monde physique varient de jour en jour et d’année en année. La vérité éternelle ne devrait pas être dédaignée parce qu’on la rencontre par hasard en compagnie d’idées périmées sur le monde matériel. Plus vous êtes docte en science, moins vous êtes sûr de vous ; plus vous *avez* de religion, plus vous êtes pénétré de certitude._
 > 
-> _Les certitudes de la science proviennent entièrement de l’intellect ; les certitudes de la religion jaillissent des fondements mêmes de la *personnalité tout entière.* La science fait appel à la compréhension du mental ; la religion fait appel à la fidélité et au dévouement du corps, du mental et de l’esprit, en fait à toute la personnalité._ ([LU 102:1.3-4](/fr/The_Urantia_Book/102#p1_3))
+> _Les certitudes de la science proviennent entièrement de l’intellect ; les certitudes de la religion jaillissent des fondements mêmes de la *personnalité tout entière.* La science fait appel à la compréhension du mental ; la religion fait appel à la fidélité et au dévouement du corps, du mental et de l’esprit, en fait à toute la personnalité._ (<a id="a122_349"></a>[LU 102:1.3-4](/fr/The_Urantia_Book/102#p1_3))
 
-Interrogé sur la validité des « saintes Écritures » comme autorité pour la vie quotidienne, Jésus répondit à Nathaniel : « _Prends bien note de mes paroles, Nathanael ; rien de ce que la nature humaine a touché ne peut être considéré comme infaillible. Certes, la vérité divine peut briller à travers le mental humain, mais toujours avec une pureté relative et une divinité partielle. La créature peut ardemment désirer l’infaillibilité, mais seuls les Créateurs la possèdent._” [[LU 159:4.8](/fr/The_Urantia_Book/159#p4_8)]
+Interrogé sur la validité des « saintes Écritures » comme autorité pour la vie quotidienne, Jésus répondit à Nathaniel : « _Prends bien note de mes paroles, Nathanael ; rien de ce que la nature humaine a touché ne peut être considéré comme infaillible. Certes, la vérité divine peut briller à travers le mental humain, mais toujours avec une pureté relative et une divinité partielle. La créature peut ardemment désirer l’infaillibilité, mais seuls les Créateurs la possèdent._” <a id="a124_479"></a>[[LU 159:4.8](/fr/The_Urantia_Book/159#p4_8)]
 
 En tant que pionniers dans la découverte et l’étude de nombreuses sources humaines, Matthew Block, Steve Dreier et d'autres seront sur place pour présenter leurs perspectives personnelles sur leurs découvertes. Dan Massey réexaminera certains des faits scientifiques présentés dans les articles, ainsi que leur contexte. Et David Kantor présentera « Valeurs divines et textes sacrés : enjeux linguistiques dans la présentation texturale de la révélation ».
 
@@ -117,3 +135,22 @@ Réunissons-nous pour la session d'été de cette année avec une faim de vérit
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://archive.urantiabook.org/archive/newsletters/MM0303.htm)
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2003 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

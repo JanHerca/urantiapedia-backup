@@ -9,9 +9,33 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Emmanuel Desurvire<br>© 1978 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nécessité d'agir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Supreme_Service">
+          <span class="pr-2">Service suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> « _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ » ([LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))
+
+> « _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ » (<a id="a37_242"></a>[LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))
 
 Comme l'eau cherche un point situé plus bas que sa source, ainsi l'Infini peut se propager vers le fini, s'écoulant vers le bas dans l'espace-temps. Le Suprême devrait alors être le mouvement centrifuge de l'Infini vers le Fini, et la Suprématie la réaction centripète de la création finie à l'appel de l'Infini.
 
@@ -23,9 +47,9 @@ Dieu est esprit. Les êtres mortels sont matériels et le pouvoir est nécessair
 
 ### Infini à fini
 
-La vision de foi des personnes connaissant Dieu révèle la présence intérieure du Père, l'Ajusteur de Pensée. Une telle association entre un esprit absolu et un esprit fini rend possible la réalisation d'une nouvelle réalité : l'âme immortelle en évolution, l'intermédiaire d'une créature temporelle et d'un être éternel. L'existence simultanée de la Déité Absolue et de l'esprit de toutes les créatures finies rend possible l'éventualité de la super-âme de la création, l'Être Suprême, qui évolue par et en eux, dirigé par la Trinité du Paradis : « _Les Moniteurs de Mystère sont pour les êtres humains. ce qu'est la Trinité du Paradis pour l'Être Suprême._ » ([LU 116:3.4](/fr/The_Urantia_Book/116#p3_4))
+La vision de foi des personnes connaissant Dieu révèle la présence intérieure du Père, l'Ajusteur de Pensée. Une telle association entre un esprit absolu et un esprit fini rend possible la réalisation d'une nouvelle réalité : l'âme immortelle en évolution, l'intermédiaire d'une créature temporelle et d'un être éternel. L'existence simultanée de la Déité Absolue et de l'esprit de toutes les créatures finies rend possible l'éventualité de la super-âme de la création, l'Être Suprême, qui évolue par et en eux, dirigé par la Trinité du Paradis : « _Les Moniteurs de Mystère sont pour les êtres humains. ce qu'est la Trinité du Paradis pour l'Être Suprême._ » (<a id="a49_661"></a>[LU 116:3.4](/fr/The_Urantia_Book/116#p3_4))
 
-Un tel processus met en évidence l’interdépendance étroite entre notre évolution et la révélation de Dieu dans l’espace-temps, l’Être Suprême. De même, l’évolution du mental mortel est essentielle pour l’âme lorsqu’elle est dirigée par l’Ajusteur de Pensée. « _...il semble que tout progrès humain soit effectué par une technique d'évolution révélation conjointe._ » ([LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)) Alors qu'une fusion est possible entre un mortel et son Moniteur Mystère, un miracle homologue pourrait-il se produire entre les Divinité suprême et existentielle ? Il semble qu'il en soit tout autrement, selon les journaux : l'Etre Suprême s'individualisera comme une personnalité réelle connaissable par les créatures et les connaissant.
+Un tel processus met en évidence l’interdépendance étroite entre notre évolution et la révélation de Dieu dans l’espace-temps, l’Être Suprême. De même, l’évolution du mental mortel est essentielle pour l’âme lorsqu’elle est dirigée par l’Ajusteur de Pensée. « _...il semble que tout progrès humain soit effectué par une technique d'évolution révélation conjointe._ » (<a id="a51_368"></a>[LU 196:3.15](/fr/The_Urantia_Book/196#p3_15)) Alors qu'une fusion est possible entre un mortel et son Moniteur Mystère, un miracle homologue pourrait-il se produire entre les Divinité suprême et existentielle ? Il semble qu'il en soit tout autrement, selon les journaux : l'Etre Suprême s'individualisera comme une personnalité réelle connaissable par les créatures et les connaissant.
 
 ### Intégrer la Vérité, la Beauté et la Bonté
 
@@ -33,9 +57,34 @@ Les attributs de la divinité sont compréhensibles pour les créatures finies c
 
 C'est un grand privilège d'être appelé à participer à la croissance du Suprême à l'époque actuelle, et de plus en plus dans nos cœurs devrait se développer l'éveil de la moralité cosmique, le devoir universel envers l'Être Suprême, un sentiment qui est la réponse de la créature à l'amour infini du Père.
 
-> « _L’homme peut découvrir le Père dans son cœur, mais il lui faudra rechercher le Suprême dans le cœur de tous les autres hommes ;_ » ([LU 117:6.23](/fr/The_Urantia_Book/117#p6_23))
+> « _L’homme peut découvrir le Père dans son cœur, mais il lui faudra rechercher le Suprême dans le cœur de tous les autres hommes ;_ » (<a id="a59_137"></a>[LU 117:6.23](/fr/The_Urantia_Book/117#p6_23))
 
 —_Emmanuel Desurvire_
 _Yves Chauvin_
 _Boulogne, France_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Gene_Joyce/The_Necessity_Of_Action">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nécessité d'agir</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Jay_Newbern/Supreme_Service">
+          <span class="pr-2">Service suprême</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

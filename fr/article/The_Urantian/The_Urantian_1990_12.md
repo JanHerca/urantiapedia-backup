@@ -1,6 +1,6 @@
 ---
 title: "« The Journal of Fifth Epochal Fellowship » — Été 1990 — Numéro II de la conférence spéciale"
-description: "(anciennement connu sous le nom de « L'Urantien »)"
+description: "(anciennement connu sous le nom de « The Urantian »)"
 published: true
 date: 2021-11-28T14:02:03.086Z
 tags: Fellowship, The Urantian, article
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1990 John Hay, David Elders, Robert J. Schuer, David Glass, Francyl Streano Gawryn, Beth Bartley, Meredith Sprunger, Carolyn Kendall, Lynne Kulieke, Eileen Laurence, Patrick Yesh, James G. Johnston, Marilynn Kulieke, Brent St. Denis, William Wentworth, Arlene et Buck Weimer, Larry Mullins<br>© 1990 La Fellowship du Livre d'Urantia (anciennement Fraternité Urantia)<br> /p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Hay/Opening_Address">
+          <span class="pr-2">Discours d'ouverture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <p style="text-align:center;">
@@ -49,7 +70,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 > Ceci est la deuxième des deux éditions spéciales prévues de _The Journal_ pour inclure certaines des conférences présentées dans la seconde moitié de la Conférence internationale de 1990 tenue à Snowmass/Aspen, Colorado, du 30 juin au 5 juillet 1990.
 > 
-> Les opinions, points de vue et/ou conclusions présentés dans ces exposés sont entièrement basés sur la compréhension et l'expérience religieuse personnelle de chaque auteur. Par conséquent, la Fellowship n'est pas en mesure de répondre aux questions ou commentaires reçus des lecteurs sur les conférences présentées. Cependant, sur demande écrite, la Bourse enverra des invitations à un échange d'informations ou à un dialogue approfondi sur l'un des sujets contenus dans ce numéro de _The Journal_ directement aux auteurs concernés.
+> Les opinions, points de vue et/ou conclusions présentés dans ces exposés sont entièrement basés sur la compréhension et l'expérience religieuse personnelle de chaque auteur. Par conséquent, la Fellowship n'est pas en mesure de répondre aux questions ou commentaires reçus des lecteurs sur les conférences présentées. Cependant, sur demande écrite, la Fellowship enverra des invitations à un échange d'informations ou à un dialogue approfondi sur l'un des sujets contenus dans ce numéro de _The Journal_ directement aux auteurs concernés.
 
 ## Conférence internationale de 1990 « Marcher avec Dieu » — Table des matières
 
@@ -204,7 +225,7 @@ par Eileen Laurence
 
 Comme la plupart d’entre nous ici présents, je mène une vie professionnelle variée et bien remplie. J'interagis avec beaucoup de gens, dont la plupart ne sont pas des lecteurs du Livre d'Urantia, mais dont beaucoup participent activement à la vie religieuse, tant professionnellement que privéement. Alors que je m'acquitte de mes tâches quotidiennes en essayant de vivre les concepts du livre, j'ai commencé à me poser quelques questions fondamentales :
 
-1. Y a-t-il une différence entre la moralité et l’éthique ? Ils sont souvent utilisés dans la même phrase telle que « _les mœurs (religieuses, morales et éthiques) ainsi que la propriété, la fierté et la chevalerie, stabilisent l'institution du mariage et de la famille._ » ([LU 84:7.3](/fr/The_Urantia_Book/84#p7_3))
+1. Y a-t-il une différence entre la moralité et l’éthique ? Ils sont souvent utilisés dans la même phrase telle que « _les mœurs (religieuses, morales et éthiques) ainsi que la propriété, la fierté et la chevalerie, stabilisent l'institution du mariage et de la famille._ » (<a id="a227_275"></a>[LU 84:7.3](/fr/The_Urantia_Book/84#p7_3))
 2. S’il y a une différence entre moral et éthique, quelle est-elle ?
 3. Comment notre conception de la moralité et de l'éthique a-t-elle changé depuis l'apparition de cette cinquième révélation d'époque, _Le Livre d'Urantia_ ?
 4. Que fait-on dans notre société américaine actuelle pour répondre aux questions morales et éthiques concernant l'évolution de nos organisations commerciales, le lien entre le gouvernement et les médias, l'éthique et les maladies chroniques, l'éthique et les soins néonatals ? Quelqu’un prend-il le temps de partager ses réflexions sur l’éthique au sein de la communauté mondiale ?
@@ -301,3 +322,25 @@ Les enfants adoptent également cette attitude. Une petite fille dessinait dans 
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-hiverprintemps-1991-conférence-spéciale-numéro-ii-conférence-générale-de-1990-marcher-avec-dieu-snowmass-aspen-colorado">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro hiver-printemps 1991. Conférence spéciale numéro II (Conférence générale de 1990. Marcher avec Dieu. Snowmass, Aspen, Colorado) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/John_Hay/Opening_Address">
+          <span class="pr-2">Discours d'ouverture</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

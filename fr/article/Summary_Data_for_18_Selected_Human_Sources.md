@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2022 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Galerie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 - John Baillie, 1886-1960, théologien, *L'interprétation de la religion* : (Papiers 101-103) 
@@ -38,7 +59,7 @@ dateCreated: 2023-6-21T8:13:38Z
 Site Web de Matthew Block : [https://urantiabooksources.com/ ](https://urantiabooksources.com/) propose l’analyse la plus complète des informations sur les livres sources, y compris les titres des livres, les auteurs et bien plus encore. 
 
 
-> Quiconque est né de l’esprit de Dieu discernera désormais la parole de Dieu, indépendamment de son origine apparente. Il ne faut pas minimiser la vérité divine parce qu’elle vous est parvenue par un canal apparemment humain. ([LU 155:6.12](/fr/The_Urantia_Book/155#p6_12))
+> Quiconque est né de l’esprit de Dieu discernera désormais la parole de Dieu, indépendamment de son origine apparente. Il ne faut pas minimiser la vérité divine parce qu’elle vous est parvenue par un canal apparemment humain. (<a id="a61_228"></a>[LU 155:6.12](/fr/The_Urantia_Book/155#p6_12))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/The_Mighty_Messenger/2022_Special/057.jpg">
@@ -51,3 +72,25 @@ Site Web de Matthew Block : [https://urantiabooksources.com/ ](https://urantiab
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/The_Mighty_Messenger/The_Mighty_Messenger_2022_Special_Gallery">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Galerie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2022 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

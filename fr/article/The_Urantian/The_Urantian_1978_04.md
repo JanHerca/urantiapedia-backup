@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1978"
+title: "« The Urantian » — Numéro du printemps 1978"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1978 Marilyn Hauck, John M. Andrews, Gene Joyce, Emmanuel Desurvire, Jay Newbern<br>© 1978 Le Livre d'Urantia Communauté (anciennement Fraternité Urantia)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Urantia_Model_World_For_The_Supreme">
+          <span class="pr-2">Urantia — Un monde modèle pour le Suprême ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Urantia — Un monde modèle pour le Suprême ?
@@ -47,7 +68,7 @@ _Richardson, Texas_
 
 ## Le pouvoir du Suprême
 
-> « _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ » ([LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))
+> « _Mais nul mortel connaissant Dieu ne peut jamais être solitaire dans son voyage à travers le cosmos, car il sait que le Père fait, à ses côtés, chaque pas du chemin, tandis que la route même qu’il poursuit est la présence du Suprême._ » (<a id="a70_242"></a>[LU 117:6.27](/fr/The_Urantia_Book/117#p6_27))
 
 Comme l'eau cherche un point situé plus bas que sa source, ainsi l'Infini peut se propager vers le fini, s'écoulant vers le bas dans l'espace-temps. Le Suprême devrait alors être le mouvement centrifuge de l'Infini vers le Fini, et la Suprématie la réaction centripète de la création finie à l'appel de l'Infini.
 
@@ -61,7 +82,7 @@ _Boulogne, France_
 
 ## Service suprême
 
-Nonobstant que « _la capacité de compréhension intellectuelle de l'homme est épuisée par la conception maximale de l'Être Suprême_ » ([LU 115:3.4](/fr/The_Urantia_Book/115#p3_4)), je sais tout simplement que nous sommes liés parce que nous avons tous deux la même dernière désignation – ÊTRE. Même si, en tant qu'être humain, je ne suis qu'un grain de sable et que lui, en tant qu'Être suprême, est le Sahara de sable, nous sommes pourtant de la même famille.
+Nonobstant que « _la capacité de compréhension intellectuelle de l'homme est épuisée par la conception maximale de l'Être Suprême_ » (<a id="a84_134"></a>[LU 115:3.4](/fr/The_Urantia_Book/115#p3_4)), je sais tout simplement que nous sommes liés parce que nous avons tous deux la même dernière désignation – ÊTRE. Même si, en tant qu'être humain, je ne suis qu'un grain de sable et que lui, en tant qu'Être suprême, est le Sahara de sable, nous sommes pourtant de la même famille.
 
 En essayant de visualiser le Dieu fini et invisible que je n'ai pas encore discerné, j'imagine dans mon esprit la peinture du Vatican de Michel-Ange représentant un Dieu humain, semblable à un père, tendant la main pour toucher la main de l'homme, son fils terrestre. C'est comme si nous étions le bout des doigts du Suprême alors qu'il s'étend jusqu'à la lointaine Urantia du lointain Nébadon, aux limites extrêmes de la frontière du superunivers d'Orvonton et que nous actualisons de plus en plus les potentiels que Dieu nous a donnés. Nos consciences matérielles font partie du système nerveux de l'Être Suprême.
 
@@ -76,5 +97,27 @@ La valeur universelle de chaque citoyen mortel est soulignée par un seul acte d
 
 _Les rédacteurs_
 
-> « _AVEC Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l’accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bien qu’être quelque chose._ » ([LU 115:0.1](/fr/The_Urantia_Book/115#p0_1))
+> « _AVEC Dieu le Père, la grande relation est la filiation. Avec Dieu le Suprême, l’accomplissement est la condition préalable au statut — il faut faire quelque chose aussi bien qu’être quelque chose._ » (<a id="a99_206"></a>[LU 115:0.1](/fr/The_Urantia_Book/115#p0_1))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1978">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1978 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Marilyn_Hauck/Urantia_Model_World_For_The_Supreme">
+          <span class="pr-2">Urantia — Un monde modèle pour le Suprême ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

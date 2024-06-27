@@ -9,6 +9,30 @@ dateCreated: 2023-02-19T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Barry Culligan<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cristina_Seaborn/Letter_from_the_Editor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettre de l'éditeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="pr-2">Principes d'unité : la clé de l'unité dynamique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Barry_Culligan/25.jpg">
@@ -42,7 +66,7 @@ Malheureusement, l'_individu_ est souvent perçu comme une insulte vivante par l
 <img src="/image/article/Barry_Culligan/26.jpg">
 </figure>
 
-La façon dont le Livre d'Urantia parle de l'unité spirituelle suggère que les catholiques et les protestants ne sont pas tenus de se conformer les uns aux autres mais doivent vivre fidèlement du mieux qu'ils peuvent - humblement devant Dieu, respectueusement comme des frères qui comprennent que leurs différences ne sont pas hostiles mais complémentaires, unis dans un service aimant, portant les fruits de l’esprit, évitant la violence sous toutes ses formes et travaillant ensemble pour établir la droiture, la paix et la justice. Comme le monde a envie de voir ces frères unis ! En effet, il ne fait guère de doute que les élites toxiques de ce monde craignent plus que toute autre chose une chrétienté unifiée ; ils dépensent des fortunes pour nous maintenir à couteaux tirés. Quand allons-nous nous réveiller de cet effroyable cauchemar qui nous a été imposé et réaliser que notre ennemi n'est pas celui qui est d'une autre couleur, ou celui qui est né dans une autre tradition, mais ceux qui « disent ce qui est bien, mais ils ne le font pas. ([LU 175:1.8](/fr/The_Urantia_Book/175#p1_8))
+La façon dont le Livre d'Urantia parle de l'unité spirituelle suggère que les catholiques et les protestants ne sont pas tenus de se conformer les uns aux autres mais doivent vivre fidèlement du mieux qu'ils peuvent - humblement devant Dieu, respectueusement comme des frères qui comprennent que leurs différences ne sont pas hostiles mais complémentaires, unis dans un service aimant, portant les fruits de l’esprit, évitant la violence sous toutes ses formes et travaillant ensemble pour établir la droiture, la paix et la justice. Comme le monde a envie de voir ces frères unis ! En effet, il ne fait guère de doute que les élites toxiques de ce monde craignent plus que toute autre chose une chrétienté unifiée ; ils dépensent des fortunes pour nous maintenir à couteaux tirés. Quand allons-nous nous réveiller de cet effroyable cauchemar qui nous a été imposé et réaliser que notre ennemi n'est pas celui qui est d'une autre couleur, ou celui qui est né dans une autre tradition, mais ceux qui « disent ce qui est bien, mais ils ne le font pas. (<a id="a68_1051"></a>[LU 175:1.8](/fr/The_Urantia_Book/175#p1_8))
 
 > Barry Culligan est l'actuel président de l'Association Urantia pour le Royaume-Uni et l'Irlande. Il peut être contacté à Strangepreacher@gmail.com
 {.is-info}
@@ -50,3 +74,27 @@ La façon dont le Livre d'Urantia parle de l'unité spirituelle suggère que les
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cristina_Seaborn/Letter_from_the_Editor">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Lettre de l'éditeur</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-23-numéro-1-2023-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 23, Numéro 1, 2023 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Chuck_Thurston/Unity_Principles_The_Key_to_Dynamic_Oneness">
+          <span class="pr-2">Principes d'unité : la clé de l'unité dynamique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

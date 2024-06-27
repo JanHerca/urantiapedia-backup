@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Adoptez la citoyenneté cosmique !
 
@@ -99,7 +117,7 @@ Si vous souhaitez contribuer à ce travail, les dons peuvent être faits en lign
 
 Nous apprécions profondément votre aide financière continue. Michelle Klimesh, coordonnatrice des pipelines
 
-> Les actes d’aujourd’hui forment la destinée de demain. ([LU 48:7.26](/fr/The_Urantia_Book/48#p7_26))
+> Les actes d’aujourd’hui forment la destinée de demain. (<a id="a119_58"></a>[LU 48:7.26](/fr/The_Urantia_Book/48#p7_26))
 
 ## GC visite Phoenix
 
@@ -141,3 +159,22 @@ www.urantiabook.org
 * Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2007 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

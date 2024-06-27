@@ -9,13 +9,37 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2020 Jena Lassiter<br>© 2020 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Graduation_Memorial_Page">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Page commémorative de remise des diplômes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Upcoming_Publication_Deadlines">
+          <span class="pr-2">Dates limites de publication à venir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 par _Jena Lassiter_, UrantiaBook.org
 
 Comme beaucoup d'entre vous le savent déjà, en novembre dernier, l’équipe du site Web, s'appuyant sur des années de travail de personnes dévouées, a introduit des améliorations significatives et de nouvelles fonctionnalités sur le site Web de la Fellowship.
 
-Les principaux objectifs de ce site Web récemment repensé sont : la facilité d'utilisation et les fonctionnalités permettant de localiser rapidement les ressources d'intérêt (telles que les articles liés au Livre d'Urantia, les aides à l’étude, les publications de la Bourse du Livre d'Urantia, les vidéos, les enregistrements audio, les brochures, les %%0% téléchargeables. % Versions du Livre d'Urantia en anglais et dans d'autres langues, et plus).
+Les principaux objectifs de ce site Web récemment repensé sont : la facilité d'utilisation et les fonctionnalités permettant de localiser rapidement les ressources d'intérêt (telles que les articles liés au Livre d'Urantia, les aides à l’étude, les publications de la Fellowship du Livre d'Urantia, les vidéos, les enregistrements audio, les brochures, les %%0% téléchargeables. % Versions du Livre d'Urantia en anglais et dans d'autres langues, et plus).
 
 Cette colonne est destinée à décrire certaines de ces fonctionnalités et comment y accéder.
 
@@ -66,3 +90,28 @@ _L'équipe du site Web de la Fraternité du Livre d'Urantia_
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Graduation_Memorial_Page">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Page commémorative de remise des diplômes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2020 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Upcoming_Publication_Deadlines">
+          <span class="pr-2">Dates limites de publication à venir</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

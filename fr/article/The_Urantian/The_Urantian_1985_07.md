@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'été 1985"
+title: "« The Urantian » — Numéro d'été 1985"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Paul Snider<br>© 1985 The Urantia Book Fellowship (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Urantian_religionist">
+          <span class="pr-2">Le religieux urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Ce qui suit a été présenté lors d'une conférence à Atlanta au printemps 1983. Les éditeurs._
@@ -32,7 +53,7 @@ _Wilmette, Illinois_
 
 Alors que ce numéro termine son processus de production final, nous commençons à recevoir les premières réponses aux questions que nous avons posées dans les deux derniers numéros. Nous commencerons à inclure quelques réponses dans notre prochain numéro, mais juste pour vous faire réfléchir, voici une autre question basée sur cette citation du Fascicule 3 du _Le Livre d'URANTIA_ :
 
-> « _C’est une grande bévue que d’humaniser Dieu, sauf dans le concept des Ajusteurs de Pensée intérieurs, mais même cela n’est pas aussi stupide que de *mécaniser* complètement l’idée de la Grande Source-Centre Première._ » ([LU 3:6.5](/fr/The_Urantia_Book/3#p6_5))
+> « _C’est une grande bévue que d’humaniser Dieu, sauf dans le concept des Ajusteurs de Pensée intérieurs, mais même cela n’est pas aussi stupide que de *mécaniser* complètement l’idée de la Grande Source-Centre Première._ » (<a id="a55_226"></a>[LU 3:6.5](/fr/The_Urantia_Book/3#p6_5))
 
 Selon vous, que signifie cette phrase ?
 
@@ -42,7 +63,29 @@ Chaleureusement.
 
 —_Les rédacteurs_
 
-> « _« Ne vous laissez pas tromper par ceux qui viennent vous dire : le royaume est ici ou le royaume est là, car le royaume de mon Père ne concerne pas les choses visibles et matérielles. Ce royaume est déjà maintenant parmi vous, car là où l’esprit de Dieu enseigne, là où il guide l’âme de l’homme, là est en réalité le royaume des cieux. Et ce royaume de Dieu est droiture, paix et joie dans le Saint-Esprit._ » ([LU 137:8.9](/fr/The_Urantia_Book/137#p8_9))
+> « _« Ne vous laissez pas tromper par ceux qui viennent vous dire : le royaume est ici ou le royaume est là, car le royaume de mon Père ne concerne pas les choses visibles et matérielles. Ce royaume est déjà maintenant parmi vous, car là où l’esprit de Dieu enseigne, là où il guide l’âme de l’homme, là est en réalité le royaume des cieux. Et ce royaume de Dieu est droiture, paix et joie dans le Saint-Esprit._ » (<a id="a65_417"></a>[LU 137:8.9](/fr/The_Urantia_Book/137#p8_9))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'été-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Paul_Snider/The_Urantian_religionist">
+          <span class="pr-2">Le religieux urantien</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

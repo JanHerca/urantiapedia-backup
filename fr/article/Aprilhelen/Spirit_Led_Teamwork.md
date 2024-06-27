@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Aprilhelen<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trente-cinquième Conférence à Mazatlán, Mexique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="pr-2">Des vacances d'été spirituellement enrichissantes pour toute la famille (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia">
@@ -17,7 +41,7 @@ dateCreated: 2023-6-21T8:13:38Z
 
 par _Aprilhelen_
 
-> « L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du *travail en équipe.* » ([LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
+> « L’une des plus importantes leçons à apprendre pendant votre carrière mortelle est celle du *travail en équipe.* » (<a id="a43_119"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14))
 
 Vous avez peut-être lu mon autre article dans ce _Mighty Messenger_, [« La première conférence du livre d'Urantia en Ouganda : un récit personnel. »](/fr/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda) En regardant à travers le prisme de mes multiples expériences de service international, plus récemment en Ouganda, au service le Comité International de la Fraternité (IFC) de la Communauté du Livre d'Urantia (alias la Communauté), et étant organisateur de conférences au cours des trois dernières décennies, je propose les idées ci-dessous pour le potentiel d'ajout de valeur à notre communauté croissante du Livre d'Urantia et au Suprême L'être (l’aspect de Dieu que nous pouvons chacun participer à son évolution).
 
@@ -56,7 +80,7 @@ Exiger qu’un représentant, qui est en association plus étroite avec les dona
 
 ## Repenser les priorités de dépenses
 
-Il m'a semblé curieux que, dans la malheureuse économie locale de l’Ouganda, l’argent dépensé en biens promotionnels soit extrême par rapport à ce que j'ai l’habitude de vivre lors de nombreuses autres conférences, à l’intérieur et à l’extérieur de la communauté du Livre d'Urantia. Ces dépenses excessives auraient pu être réaffectées pour aider davantage de participants à participer. Le livret qui a été produit pour les participants à la conférence (imprimé à partir du site Internet de la Bourse) pour guider les nouveaux dirigeants de groupes d'étude était un atout décent ; cependant, il aurait été préférable que les contacts répertoriés pour des conseils supplémentaires soient des étudiants chevronnés du Livre d'Urantia qui vivent les enseignements.
+Il m'a semblé curieux que, dans la malheureuse économie locale de l’Ouganda, l’argent dépensé en biens promotionnels soit extrême par rapport à ce que j'ai l’habitude de vivre lors de nombreuses autres conférences, à l’intérieur et à l’extérieur de la communauté du Livre d'Urantia. Ces dépenses excessives auraient pu être réaffectées pour aider davantage de participants à participer. Le livret qui a été produit pour les participants à la conférence (imprimé à partir du site Internet de la Fellowship) pour guider les nouveaux dirigeants de groupes d'étude était un atout décent ; cependant, il aurait été préférable que les contacts répertoriés pour des conseils supplémentaires soient des étudiants chevronnés du Livre d'Urantia qui vivent les enseignements.
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/045.jpg">
@@ -75,7 +99,7 @@ Alors que nous assistons à l’émergence d'étudiants dévoués, nous pouvons 
 
 Une formation en leadership basée sur les enseignements du _Livre d'Urantia_ conviendrait très bien à ceux qui désirent servir de cette manière. C'est aussi une connaissance collective que rien ne remplace s'immerger dans les enseignements pour progresser au parfum spirituel. Comme certains d'entre vous le savent peut-être, j'ai exploré l’expression des valeurs spirituelles dans le développement des leaders au cours des dernières années à travers l’[Institut universitaire Urantia](https://www.urantiauniversity.org/) et le Progress Project Service Corps. Nous avons identifié de nombreux thèmes majeurs des méthodes jésusoniennes, en particulier les principes permettant de surmonter les défis interrelationnels et de communiquer au service du progrès.
 
-*Le commandement efficace et sage.* La civilisation dépend, dans une grande, une très grande mesure, de l’état d’esprit consistant à s’atteler à la besogne avec enthousiasme et efficacité. Dix hommes n’en valent pas beaucoup plus qu’un pour soulever un lourd fardeau, à moins qu’ils ne le soulèvent ensemble — tous en même temps. Ce travail d’équipe — la coopération sociale — dépend de la qualité des chefs. Les civilisations culturelles du passé et du présent ont été basées sur la coopération intelligente des citoyens avec des chefs sages et progressifs. Jusqu’à ce que les hommes aient atteint par évolution des niveaux plus élevés, la civilisation continuera à dépendre d’un commandement sage et vigoureux. [LU 81:6.37](/fr/The_Urantia_Book/81#p6_37)
+*Le commandement efficace et sage.* La civilisation dépend, dans une grande, une très grande mesure, de l’état d’esprit consistant à s’atteler à la besogne avec enthousiasme et efficacité. Dix hommes n’en valent pas beaucoup plus qu’un pour soulever un lourd fardeau, à moins qu’ils ne le soulèvent ensemble — tous en même temps. Ce travail d’équipe — la coopération sociale — dépend de la qualité des chefs. Les civilisations culturelles du passé et du présent ont été basées sur la coopération intelligente des citoyens avec des chefs sages et progressifs. Jusqu’à ce que les hommes aient atteint par évolution des niveaux plus élevés, la civilisation continuera à dépendre d’un commandement sage et vigoureux. <a id="a101_713"></a>[LU 81:6.37](/fr/The_Urantia_Book/81#p6_37)
 
 <figure id="Figure_4" class="image urantiapedia image-style-align-right">
 <img src="/image/article/The_Mighty_Messenger/2023_Spring/046.jpg">
@@ -120,7 +144,7 @@ L’expérience révélatrice en Ouganda a soulevé pour moi de grandes question
 - Qu'est-ce qui soutient réellement la croissance des étudiants sincères de la vérité qui se consacrent à ce livre ?
 - Comment pouvons-nous évaluer les besoins lorsque nous ne sommes pas allés dans un pays et que nous ne connaissons les gens que par le biais de la communication en ligne ?
 
-Ces questions vous intriguent ? Vous avez des expériences à partager et l’envie de servir le Comité International des Fellowships ? Nous apprécierons vos commentaires et votre dévouement. Vous pouvez envoyer un e-mail au bureau de la Bourse du Livre d'Urantia (à [urantiabook.org/Contact-Us](https://urantiabook.org/Contact-Us)) pour plus d'informations sur la façon de vous impliquer.
+Ces questions vous intriguent ? Vous avez des expériences à partager et l’envie de servir le Comité International des Fellowships ? Nous apprécierons vos commentaires et votre dévouement. Vous pouvez envoyer un e-mail au bureau de la Fellowship du Livre d'Urantia (à [urantiabook.org/Contact-Us](https://urantiabook.org/Contact-Us)) pour plus d'informations sur la façon de vous impliquer.
 
 ## Liens externes
 
@@ -128,3 +152,28 @@ Ces questions vous intriguent ? Vous avez des expériences à partager et l’en
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Barb_Maier_and_Sally_Annabella/Thirty_Fifth_Conference_Mazatlan_Mexico">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trente-cinquième Conférence à Mazatlán, Mexique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/A_Spiritually_Enriching_Summer">
+          <span class="pr-2">Des vacances d'été spirituellement enrichissantes pour toute la famille (IC23)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

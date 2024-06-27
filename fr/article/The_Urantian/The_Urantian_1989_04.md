@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro du printemps 1989"
+title: "« The Urantian » — Numéro du printemps 1989"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1989 Hannu Jarvinen, Mario C.J. Harrington<br>© 1989 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood)</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="pr-2">Les créations de l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _L'article suivant a été prononcé par l'auteur lors d'un discours lors de la conférence de l'année dernière, « Summer Days in Pieksamaki, Finland », le 4 juin 1988._
@@ -39,7 +60,29 @@ Beaucoup de ceux qui ont été réconfortés par les religions extrinsèques du 
 _Mario C.J. Harrington_
 _Pompano Beach, Floride_
 
-> « _Admettre que l’univers peut être connu et qu’il est intelligible, c’est admettre qu’il est construit par un mental et dirigé par une personnalité. Le mental de l’homme ne peut que percevoir les phénomènes mentaux dans un autre mental, qu’il soit humain ou suprahumain. Si la personnalité de l’homme peut faire l’expérience de l’univers, c’est qu’il y a un mental divin et une personnalité actuelle recélés quelque part dans cet univers._ » ([LU 1:6.7](/fr/The_Urantia_Book/1#p6_7))
+> « _Admettre que l’univers peut être connu et qu’il est intelligible, c’est admettre qu’il est construit par un mental et dirigé par une personnalité. Le mental de l’homme ne peut que percevoir les phénomènes mentaux dans un autre mental, qu’il soit humain ou suprahumain. Si la personnalité de l’homme peut faire l’expérience de l’univers, c’est qu’il y a un mental divin et une personnalité actuelle recélés quelque part dans cet univers._ » (<a id="a62_446"></a>[LU 1:6.7](/fr/The_Urantia_Book/1#p6_7))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-du-printemps-1989">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1989 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Hannu_Jarvinen/The_creations_of_mind">
+          <span class="pr-2">Les créations de l'esprit</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

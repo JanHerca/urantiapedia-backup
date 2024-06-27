@@ -9,13 +9,37 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1991 Mary Daly<br>© 1991 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Périodiques du Mouvement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annie_Spiars/A_Life_for_All_Seasons">
+          <span class="pr-2">Une vie pour toutes les saisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Par Mary Daly, Garretson, SD_
 
 ## Origine du Divin Ministre
 
-([LU 6:1.2](/fr/The_Urantia_Book/6#p1_2)) Lorsqu'un univers/projeté.
+(<a id="a41_1"></a>[LU 6:1.2](/fr/The_Urantia_Book/6#p1_2)) Lorsqu'un univers/projeté.
 [Genèse 1:1-2](/fr/Bible/Genesis/1#v1)
 [Proverbes 8 :22-35](/fr/Bible/Proverbs/8#v22)
 
@@ -64,7 +88,7 @@ Il y a quelques années, j'ai demandé à une autre lectrice, une ancienne catho
 
 Eh bien, le « truc de la déesse » ne ressemble pas beaucoup à l’enseignement catholique, et il ne ressemble pas non plus beaucoup au ministre divin. En fait, c'est comme la rébellion de Lucifer.
 
-On pourrait résumer le Manifeste de Lucifer ([LU 53:3.1](/fr/The_Urantia_Book/53#p3_1)) en trois déclarations : « Je n’adorerai pas ; Je ne servirai pas ; Je ne serai pas tenu responsable. De même, « le truc de la déesse » est anti-Père, y compris la paternité de Dieu et le privilège d’être ramené dans son culte. Il rejette de nombreuses formes de service comme asservissement, y compris toute forme de service qui commence par la soumission à la volonté d’autrui. Il échappe à toute responsabilité en consacrant le rôle de l’intuition sans faire de distinction entre le travail primitif et prélogique du premier esprit mental adjoint et le développement de l’âme et du superconscient qui font à juste titre des affirmations qui transcendent la logique (mais ne la contredisent pas).
+On pourrait résumer le Manifeste de Lucifer (<a id="a90_45"></a>[LU 53:3.1](/fr/The_Urantia_Book/53#p3_1)) en trois déclarations : « Je n’adorerai pas ; Je ne servirai pas ; Je ne serai pas tenu responsable. De même, « le truc de la déesse » est anti-Père, y compris la paternité de Dieu et le privilège d’être ramené dans son culte. Il rejette de nombreuses formes de service comme asservissement, y compris toute forme de service qui commence par la soumission à la volonté d’autrui. Il échappe à toute responsabilité en consacrant le rôle de l’intuition sans faire de distinction entre le travail primitif et prélogique du premier esprit mental adjoint et le développement de l’âme et du superconscient qui font à juste titre des affirmations qui transcendent la logique (mais ne la contredisent pas).
 
 En résumé, le truc de la déesse est compétitif, sournois, irresponsable et complètement terrestre. C’est la confusion ultime entre les domaines psychique et spirituel, imposée comme une doctrine et inscrite dans des pratiques qui ridiculisent la possibilité de donner à l’analyse une place saine dans la pensée religieuse. Il s’agit de la corruption, et non du réveil, d’une expérience religieuse évolutionniste. Il n’y a rien d’utile à dire sur la maternité spirituelle et beaucoup de choses à suggérer qui nuisent à l’harmonie des sexes et, par conséquent, à l’avancement de la vie familiale.
 
@@ -74,7 +98,7 @@ Pour aller droit au but, est-il sexiste d’appeler la Source et Centre Premier 
 
 Le féminisme a deux visages. L’un des visages revendique l’égalité de dignité pour les femmes et les hommes et recherche l’équité pour les femmes dans la sphère publique ainsi que le développement continu de la protection et des soins dans le domaine de la famille. La révélation Urantia approuve ce programme en remarquant seulement que la pleine égalité sociale doit attendre la fin de la guerre parce que les femmes ne peuvent pas rivaliser dans cette entreprise sans sacrifier leurs acquis dans le domaine familial.
 
-L’autre face du féminisme cherche à renforcer les revendications d’égalité des sexes avec de fausses affirmations d’identité qui n’ont aucun fondement scientifique ou spirituel et qui vont souvent à l’encontre des meilleurs intérêts de la famille. À propos de ce visage, _Le Livre d’Urantia_ a des mots forts : _La femme a enfin gagné la reconnaissance, la dignité, l’indépendance, l’égalité et l’éducation ; mais se montrera-t-elle digne de toutes ces réalisations nouvelles et sans précédent ? La femme moderne répondra-t-elle à cette grande réussite de libération sociale par l’oisiveté, l’indifférence, la stérilité et l’infidélité ? Aujourd’hui, au XXe siècle, la femme subit l’épreuve cruciale de sa longue existence mondiale. ([LU 84:5.10](/fr/The_Urantia_Book/84#p5_10))
+L’autre face du féminisme cherche à renforcer les revendications d’égalité des sexes avec de fausses affirmations d’identité qui n’ont aucun fondement scientifique ou spirituel et qui vont souvent à l’encontre des meilleurs intérêts de la famille. À propos de ce visage, _Le Livre d’Urantia_ a des mots forts : _La femme a enfin gagné la reconnaissance, la dignité, l’indépendance, l’égalité et l’éducation ; mais se montrera-t-elle digne de toutes ces réalisations nouvelles et sans précédent ? La femme moderne répondra-t-elle à cette grande réussite de libération sociale par l’oisiveté, l’indifférence, la stérilité et l’infidélité ? Aujourd’hui, au XXe siècle, la femme subit l’épreuve cruciale de sa longue existence mondiale. (<a id="a100_734"></a>[LU 84:5.10](/fr/The_Urantia_Book/84#p5_10))
 
 Le Pape aurait pu utiliser cette phrase dans son encyclique Humanae Vitae !
 
@@ -90,3 +114,28 @@ _Troisièmement, et le plus important pour comprendre le culte de la Sainte Mèr
 
 La grande erreur de la pensée occidentale à propos d’une Mère divine est de tenter de réduire l’ensemble du problème aux catégories extérieures du mythe, de la mémoire et de la compétition entre les sexes. Ces efforts ne sont jamais entièrement couronnés de succès car ils reposent sur de faux fondements. Le mythe doit céder ses convictions à la marche de la science. L’histoire finit par disparaître dans l’ombre et la compétition cède la place à la coopération dans une croissance (spirituelle) mature. En fin de compte, l’expérience intérieure des hommes et des femmes à l’esprit spirituel transcende tout le reste et assure la persistance des doctrines sur notre Mère Céleste. Cela est d’autant plus vrai dans la dispensation spirituelle qui a commencé avec la Pentecôte, en raison de l’approfondissement de l’accessibilité personnelle de notre Mère. Nous la connaissons et l’aimons. Bien au-delà de toute rumeur d’une déesse en compétition avec les dieux, elle est notre Mère personnelle, la Mère de Miséricorde, et la première et meilleure amie de Jésus.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Cece_Forrester/Periodicals_of_the_Movement">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Périodiques du Mouvement</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1991-vol-1-n°2">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1991 — Vol. 1 n°2 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Annie_Spiars/A_Life_for_All_Seasons">
+          <span class="pr-2">Une vie pour toutes les saisons</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

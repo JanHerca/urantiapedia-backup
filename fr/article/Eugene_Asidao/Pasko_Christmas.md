@@ -9,6 +9,30 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Eugene Asidao<br>© 2023 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre à La Paz, Bolivie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+          <span class="pr-2">La première conférence du livre d'Urantia en Ouganda : un récit personnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
@@ -23,7 +47,7 @@ _La Fellowship du Livre d'Urantia_, par l’intermédiaire de Derek Samaras, a f
 
 Je crois que les chrétiens devraient connaître la vie disparue de Jésus. Les Philippins accueillent favorablement la nouvelle révélation, notamment sur la vie de Jésus, le Fils Créateur de notre univers.
 
-La Fondation Urantia, la Bourse du Livre d'Urantia et l’Association Urantia Internationale ont beaucoup soutenu la diffusion du Livre d'Urantia aux Philippines, ce pour quoi nous sommes vraiment reconnaissants. La Fellowship du Livre d'Urantia a parrainé la Convention nationale éducative 2019 avec le conférencier invité André Radatus. Le travail d'équipe entre les groupes s'exerce et devient source de réussite.
+La Fondation Urantia, la Fellowship du Livre d'Urantia et l’Association Urantia Internationale ont beaucoup soutenu la diffusion du Livre d'Urantia aux Philippines, ce pour quoi nous sommes vraiment reconnaissants. La Fellowship du Livre d'Urantia a parrainé la Convention nationale éducative 2019 avec le conférencier invité André Radatus. Le travail d'équipe entre les groupes s'exerce et devient source de réussite.
 
 _Pasko_ est une fête festive le 25 décembre célébrant la naissance de Jésus. Les coutumes des chrétiens, des préchrétiens, des non-chrétiens et d'autres traditions laïques sont toutes mélangées à cette occasion. Il y a plus de dix millions de Philippins vivant dans de nombreux pays en dehors des Philippines qui observent cette saison _Pasko_. 
 
@@ -45,3 +69,28 @@ Avec une culture de la vie familiale en constante évolution, les femmes restent
 
 <br>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Mora_Franco/Book_Fair_in_La_Paz_Bolivia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Foire du livre à La Paz, Bolivie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-d'été-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'été 2023 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Aprilhelen/The_First_Urantia_Book_Conference_in_Uganda">
+          <span class="pr-2">La première conférence du livre d'Urantia en Ouganda : un récit personnel</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

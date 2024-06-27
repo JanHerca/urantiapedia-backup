@@ -1,5 +1,5 @@
 ---
-title: "L'Urantien — Numéro d'hiver 1985"
+title: "« The Urantian » — Numéro d'hiver 1985"
 description: "Journal de la Fraternité Urantia"
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -9,6 +9,27 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1985 Maureen Cragg, Debra York, David Glass, James Johnson<br>© 1985 La Fellowship du Livre d'Urantia (anciennement Urantia Brotherhood )</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">Une lettre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Bien que le JOURNAL n'ait pas pour habitude d'imprimer des lettres, l'article qui suit est rédigé sous cette forme pour transmettre sa signification d'une manière personnelle et puissante. Merci de notre part à tous pour ce rappel très important. Les rédacteurs._
@@ -56,7 +77,7 @@ _Fort Worth. Texas_
 
 ## Relever le défi religieux
 
-Pour relever le défi religieux de notre époque, il semblerait tout d’abord approprié de faire une distinction entre une philosophie de vie religieuse et non religieuse – la différence étant dans la nature du niveau de valeurs reconnues et dans l’objet des loyautés, comme l’a souligné un Melchisédek. : « _L’évolution de la philosophie religieuse comporte quatre phases. Cette expérience peut devenir simplement conformiste, résignée à la soumission, à la tradition et à l’autorité. Ou bien, elle peut se satisfaire d’accomplissements mineurs, juste assez pour stabiliser sa vie quotidienne et se trouver alors arrêtée de bonne heure sur ce niveau occasionnel. Les mortels de ce genre croient que le mieux est l’ennemi du bien. Un troisième groupe progresse jusqu’au niveau de l’intellectualité logique, mais y stagne par suite d’esclavage culturel. Il est vraiment lamentable de voir des intelligences géantes maintenues si solidement sous l’emprise cruelle de la servitude culturelle. Il est tout aussi pathétique d’observer ceux qui troquent leur servitude culturelle contre les chaines matérialistes d’une discipline faussement qualifiée de science. Le quatrième niveau de philosophie parvient à s’affranchir de tous les handicaps classiques et traditionnels ; sur ce niveau, on ose penser, agir et vivre honnêtement, loyalement, sans peur et sincèrement._ » ([LU 101:7.4](/fr/The_Urantia_Book/101#p7_4)) La dernière phrase de cette citation se rapporte directement au question originale concernant la construction d'une « _...une philosophie de vie nouvelle et attrayante..._ » ([LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)). Les deux citations utilisent le verbe oser qui implique que les enseignants religieux de cet âge doivent en avoir suffisamment. courage pour mettre en œuvre ce quatrième niveau de philosophie.
+Pour relever le défi religieux de notre époque, il semblerait tout d’abord approprié de faire une distinction entre une philosophie de vie religieuse et non religieuse – la différence étant dans la nature du niveau de valeurs reconnues et dans l’objet des loyautés, comme l’a souligné un Melchisédek. : « _L’évolution de la philosophie religieuse comporte quatre phases. Cette expérience peut devenir simplement conformiste, résignée à la soumission, à la tradition et à l’autorité. Ou bien, elle peut se satisfaire d’accomplissements mineurs, juste assez pour stabiliser sa vie quotidienne et se trouver alors arrêtée de bonne heure sur ce niveau occasionnel. Les mortels de ce genre croient que le mieux est l’ennemi du bien. Un troisième groupe progresse jusqu’au niveau de l’intellectualité logique, mais y stagne par suite d’esclavage culturel. Il est vraiment lamentable de voir des intelligences géantes maintenues si solidement sous l’emprise cruelle de la servitude culturelle. Il est tout aussi pathétique d’observer ceux qui troquent leur servitude culturelle contre les chaines matérialistes d’une discipline faussement qualifiée de science. Le quatrième niveau de philosophie parvient à s’affranchir de tous les handicaps classiques et traditionnels ; sur ce niveau, on ose penser, agir et vivre honnêtement, loyalement, sans peur et sincèrement._ » (<a id="a79_1364"></a>[LU 101:7.4](/fr/The_Urantia_Book/101#p7_4)) La dernière phrase de cette citation se rapporte directement au question originale concernant la construction d'une « _...une philosophie de vie nouvelle et attrayante..._ » (<a id="a79_1584"></a>[LU 2:7.10](/fr/The_Urantia_Book/2#p7_10)). Les deux citations utilisent le verbe oser qui implique que les enseignants religieux de cet âge doivent en avoir suffisamment. courage pour mettre en œuvre ce quatrième niveau de philosophie.
 
 [Lire la suite](/fr/article/James_Johnston/Meet_religious_challenge)
 
@@ -67,7 +88,7 @@ _Arabie Saoudite_
 
 Vos réponses aux questions posées dans les numéros précédents ont été merveilleuses – réfléchies, perspicaces – et nous espérons qu'elles ont été utiles aux lecteurs du Journal. Même si nous continuerons à publier des écrits générés à partir de questions passées, en voici un autre pour garder vos énergies mentales stimulées. Un conseiller divin, écrivant dans le fascicule 5 sur la relation de Dieu avec l'individu, dit :
 
-> « _Le moi matériel possède une personnalité et une identité, une identité temporelle. L’Ajusteur, esprit prépersonnel, a aussi une identité, une identité éternelle. Cette personnalité matérielle et cette prépersonnalité spirituelle sont capables d’unir leurs attributs créateurs de manière à faire naitre l’identité survivante de l’âme immortelle._ » ([LU 5:6.7](/fr/The_Urantia_Book/5#p6_7))
+> « _Le moi matériel possède une personnalité et une identité, une identité temporelle. L’Ajusteur, esprit prépersonnel, a aussi une identité, une identité éternelle. Cette personnalité matérielle et cette prépersonnalité spirituelle sont capables d’unir leurs attributs créateurs de manière à faire naitre l’identité survivante de l’âme immortelle._ » (<a id="a90_354"></a>[LU 5:6.7](/fr/The_Urantia_Book/5#p6_7))
 
 **Question**
 
@@ -76,7 +97,29 @@ Comment ces attributs créatifs sont-ils réellement unis ?
 ---
 
 
-> « _Si nous sommes tentés d’exagérer notre importance, nous n’avons qu’à contempler l’infinité de la noblesse et de la grandeur de nos Créateurs ; notre propre glorification devient alors sublimement ridicule et frise même l’humour. L’une des fonctions de l’humour est de nous aider tous à nous prendre moins au sérieux. *L’humour est l’antidote divin contre l’exaltation de l’égo.*_ » ([LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
+> « _Si nous sommes tentés d’exagérer notre importance, nous n’avons qu’à contempler l’infinité de la noblesse et de la grandeur de nos Créateurs ; notre propre glorification devient alors sublimement ridicule et frise même l’humour. L’une des fonctions de l’humour est de nous aider tous à nous prendre moins au sérieux. *L’humour est l’antidote divin contre l’exaltation de l’égo.*_ » (<a id="a99_388"></a>[LU 48:4.15](/fr/The_Urantia_Book/48#p4_15))
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_the_urantian#numéro-d'hiver-1985">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro d'hiver 1985 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Maureen_Cragg/A_letter">
+          <span class="pr-2">Une lettre</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

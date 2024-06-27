@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Janet Farrington-Graham, Jerry Pando, Carolyn Kendall, Gary Deinstadt, Tom French, Avi Dogim<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-automne/hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro automne/hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Comment se déroule l’initiative Unity ?
 
@@ -64,7 +82,7 @@ Pour plus de détails sur les événements répertoriés ci-dessus ou pour en sa
 
 Par _Carolyn Kendall_
 
-Les sociétés ne sont pas aussi anciennes que la Communauté (anciennement connue sous le nom de Fraternité Urantia). La Fraternité a été fondée le 2 janvier 1955, alors que la première société n'a été créée qu’en juin 1956. Le concept derrière la formation des sociétés était qu’elles devaient être là où se déroulait la véritable action. Bien que la Constitution soit volontairement vague, il était entendu que les sociétés devaient avant tout favoriser la formation de nouveaux groupes d'études dans leurs régions immédiates. La société devait être la Fraternité auprès des nouveaux lecteurs dans une zone géographique et les orienter vers des groupes où ils seraient heureux. Les groupes d'étude de la société seraient le lieu où les lecteurs partageraient leurs interprétations des enseignements et offriraient aux étudiants la possibilité de perfectionner leurs compétences pédagogiques dans un environnement convivial. Au fil des années, les sociétés ont assumé ces fonctions et d'autres encore : placement de livres dans les bibliothèques, conférences régionales, bulletins d'information, services de culte et ministère communautaire auprès de ceux qui en ont besoin. Les sociétés sont autonomes ; la Bourse ne peut pas prescrire ou interférer avec les activités internes.
+Les sociétés ne sont pas aussi anciennes que la Communauté (anciennement connue sous le nom de Fraternité Urantia). La Fraternité a été fondée le 2 janvier 1955, alors que la première société n'a été créée qu’en juin 1956. Le concept derrière la formation des sociétés était qu’elles devaient être là où se déroulait la véritable action. Bien que la Constitution soit volontairement vague, il était entendu que les sociétés devaient avant tout favoriser la formation de nouveaux groupes d'études dans leurs régions immédiates. La société devait être la Fraternité auprès des nouveaux lecteurs dans une zone géographique et les orienter vers des groupes où ils seraient heureux. Les groupes d'étude de la société seraient le lieu où les lecteurs partageraient leurs interprétations des enseignements et offriraient aux étudiants la possibilité de perfectionner leurs compétences pédagogiques dans un environnement convivial. Au fil des années, les sociétés ont assumé ces fonctions et d'autres encore : placement de livres dans les bibliothèques, conférences régionales, bulletins d'information, services de culte et ministère communautaire auprès de ceux qui en ont besoin. Les sociétés sont autonomes ; la Fellowship ne peut pas prescrire ou interférer avec les activités internes.
 
 Les premières sociétés spécifiaient que dix personnes ayant lu le livre pouvaient organiser une Société Urantia. Plus tard, ce nombre a été porté à 20 dans l’espoir d’atteindre plus de stabilité. Cela a exclu les sociétés du marché. L’engagement de 20 personnes à rédiger une constitution et le maintien de l’intérêt pour la fastidieuse création d’une organisation formelle ont pratiquement stoppé la formation d’une nouvelle société. Le Comité de la Charte a récemment commencé à se pencher sur les conditions requises pour qu’un groupe devienne une société. Il existe actuellement 19 sociétés et environ 100 à 400 groupes d'étude.
 
@@ -120,3 +138,22 @@ Membres : Avi Dogim, présidente Nancy Johnson, Carolyn Kendall, Linda Buselli,
 * Newsletter de la Société Historique du Livre d'Urantia : https://ubhs.hosted-by-files.com/http/FrameDocTypesBZ.html
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-automne/hiver-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro automne/hiver 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

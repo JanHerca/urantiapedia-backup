@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2017 Avi Dogim, Meredith J. Sprunger, Peter Laurence<br>© 2017 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## Conférence internationale 2017
 
@@ -48,7 +66,7 @@ Le coût de l’inscription en tant que Truthseeker couvre exactement le coût q
 
 Les bourses Truthseeker sont disponibles avec l’inscription des parents payants. Veuillez contacter le bureau pour plus d'informations. 
 
-> « Les enfants ne sont impressionnés d’une manière permanente que par le loyalisme de leurs compagnons adultes ; ... » ([LU 100:1.4](/fr/The_Urantia_Book/100#p1_4))
+> « Les enfants ne sont impressionnés d’une manière permanente que par le loyalisme de leurs compagnons adultes ; ... » (<a id="a68_121"></a>[LU 100:1.4](/fr/The_Urantia_Book/100#p1_4))
 
 ## Invitation à participer à l’IC’17 
 
@@ -233,7 +251,7 @@ Veuillez envisager de soutenir nos efforts. Merci!
 
 Envoyez un chèque ou un mandat à _The Urantia Book_ Fellowship, PO Box 6631, Broomfield, CO 80021, ou visitez www.urantiabook.org et cliquez sur le mot « Faire un don » dans la barre de menu principale. 
 
-> _Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement._ ([LU 132:7.9](/fr/The_Urantia_Book/132#p7_9))
+> _Quand l’homme s’associe à Dieu, de grands évènements peuvent se produire et se produisent effectivement._ (<a id="a253_110"></a>[LU 132:7.9](/fr/The_Urantia_Book/132#p7_9))
 
 ## Notes d'ici et d'ailleurs 
 
@@ -287,7 +305,7 @@ La réunion s'est terminée dimanche matin par une discussion sur les principes 
 
 Ce séminaire était l’un des nombreux efforts éducatifs collaboratifs au cours des dernières années de différentes combinaisons de comités de la Fellowship, de la Fondation et de l’AUI. Un autre aura lieu cet été à Denver lors de l’IC17 de la Fellowship. Il y aura un forum d'un certain nombre d'organisations éducatives pour l’étude du _Le Livre d'Urantia_, y compris un rapport de ce séminaire. Le week-end comprenait un superbe accueil de Joanne Strobel et de délicieux repas d'Ashley Hayes. 
 
-> « ...ceux qui conduisent les hommes à Dieu éprouvent la satisfaction suprême du service humain. » ([LU 132:6.1](/fr/The_Urantia_Book/132#p6_1))
+> « ...ceux qui conduisent les hommes à Dieu éprouvent la satisfaction suprême du service humain. » (<a id="a307_101"></a>[LU 132:6.1](/fr/The_Urantia_Book/132#p6_1))
 
 ## Événements
 
@@ -315,3 +333,22 @@ www.urantiabook.org
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 2017 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

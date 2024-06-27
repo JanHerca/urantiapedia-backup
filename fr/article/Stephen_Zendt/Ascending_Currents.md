@@ -9,12 +9,36 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1992 Stephen Zendt<br>© 1992 La Fellowship des lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Études pour les temps troublés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/An_Interview_with_Clyde_Bedell">
+          <span class="pr-2">Une entrevue avec Clyde Bedell. Réminiscences d’un des premiers membres du forum</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Stephen Zendt_
 _San Francisco, Californie, éditeur_
 
-> « _Mais la véritable prière atteint bel et bien la réalité. Même quand les courants aériens sont ascendants, nul oiseau ne peut prendre son essor sans déployer ses ailes. La prière élève l’homme parce qu’elle est une technique de progrès par utilisation des courants spirituels ascendants de l’univers._ » ([LU 91:8.9](/fr/The_Urantia_Book/91#p8_9))
+> « _Mais la véritable prière atteint bel et bien la réalité. Même quand les courants aériens sont ascendants, nul oiseau ne peut prendre son essor sans déployer ses ailes. La prière élève l’homme parce qu’elle est une technique de progrès par utilisation des courants spirituels ascendants de l’univers._ » (<a id="a40_309"></a>[LU 91:8.9](/fr/The_Urantia_Book/91#p8_9))
 
 **Mes semblables créatures**
 
@@ -50,7 +74,7 @@ Aide-nous à créer la Fraternité.
 Esther Hoover Zendt et Stephen Zendt
 </p>
 
-> « _Jésus déplorait de trouver si peu d’esprit d’actions de grâce dans les prières et le culte de ses disciples._ » ([LU 146:2.15](/fr/The_Urantia_Book/146#p2_15))
+> « _Jésus déplorait de trouver si peu d’esprit d’actions de grâce dans les prières et le culte de ses disciples._ » (<a id="a76_118"></a>[LU 146:2.15](/fr/The_Urantia_Book/146#p2_15))
 
 ## Une prière de remerciement du Groupe Urantien, Ad 1987
 
@@ -87,3 +111,28 @@ Jay Newbern, Santa Rosa, Californie
 (réimprimé de « The Circles » printemps-été 1988)
 </p>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Jill_Hull/Studies_For_Troubled_Times">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Études pour les temps troublés</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#décembre-1992-vol-2-n-°-3">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Décembre 1992 — Vol. 2 n ° 3 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Mark_Kulieke/An_Interview_with_Clyde_Bedell">
+          <span class="pr-2">Une entrevue avec Clyde Bedell. Réminiscences d’un des premiers membres du forum</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

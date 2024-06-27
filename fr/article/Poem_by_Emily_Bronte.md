@@ -9,6 +9,27 @@ dateCreated: 2023-6-21T8:13:38Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1999 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La double nature de la suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Aucune âme lâche n'est à moi 
@@ -50,9 +71,31 @@ Et ce que tu es ne pourra jamais être détruit.
 > Le poème, qui selon sa sœur Charlotte, sont les dernières lignes écrites par Emily Brontë, est sans titre.  
 {.is-info}
 
-> Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompensent vos efforts ! ([LU 32:5.7](/fr/The_Urantia_Book/32#p5_7))
+> Il y a dans le mental de Dieu un plan incluant toutes les créatures de ses immenses domaines, et ce plan est un dessein éternel d’occasions favorables sans bornes, de progrès illimité et de vie sans fin. Et les trésors infinis de cette carrière incomparable récompensent vos efforts ! (<a id="a73_288"></a>[LU 32:5.7](/fr/The_Urantia_Book/32#p5_7))
 
 ## Références
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Linda_Buselli/The_Dual_Nature_of_Supremacy">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La double nature de la suprématie</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-2-numéro-1-1999-hiver">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 2, numéro 1, 1999 (hiver) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

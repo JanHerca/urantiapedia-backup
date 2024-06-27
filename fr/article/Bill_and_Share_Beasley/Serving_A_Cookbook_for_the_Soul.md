@@ -9,6 +9,30 @@ dateCreated: 2023-02-13T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Bill and Share Beasley<br>© 2006 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prophétie et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/What_is_Personality">
+          <span class="pr-2">Qu'est-ce que la personnalité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 « Est-ce que toutes les factures sont réglées sur le paiement automatique ? »
@@ -35,7 +59,7 @@ En route pour un parc d'État de Caroline du Sud pendant quatre jours pour organ
 
 Soudain, nous nous sommes retrouvés au milieu de milliers d’éphémères, quelle délicieuse expérience ! Nous avons été complètement enveloppés par ces doux insectes qui vivent, s'accouplent et meurent, leur objectif atteint en à peine soixante-douze heures.
 
-__Ingrédient n°2 : L'éternité nous appelle, « La vie n’est que le travail d’un jour — exécutez-le bien »__ [[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)]
+__Ingrédient n°2 : L'éternité nous appelle, « La vie n’est que le travail d’un jour — exécutez-le bien »__ <a id="a61_107"></a>[[LU 48:7.13](/fr/The_Urantia_Book/48#p7_13)]
 
 Ensuite, une visite chez ma sœur à Richmond, en Virginie, pendant une canicule de plus de 100° et une climatisation en panne. Chaud et grincheux, les tempéraments changeants et bientôt les sœurs aimantes se sifflent ! Ça suffit, on s'en va !
 
@@ -61,7 +85,7 @@ Nous avons traversé les contreforts verdoyants de l'ouest de la Pennsylvanie et
 
 __Ingrédient n°7 : Il y a des gens dans tous les horizons qui attendent juste une opportunité de répondre à ce besoin intérieur de rendre le monde meilleur.__
 
-En tournant vers le sud, nous nous sommes retrouvés à Indianapolis dans le groupe d'étude de Mike avec Linda et Bob, qui avaient parcouru un long chemin pour y assister. En fait, ils sont toujours prêts à faire un effort supplémentaire dans toute entreprise Urantia valable. Quel privilège de partager intimement ce qui sort des pages du _Livre d'Urantia_ avec des lecteurs dévoués de longue date ! Nous avons également découvert d'autres lecteurs du coin qui ne se connaissent pas. Le moment est venu de se connecter. « La croissance spirituelle est mutuellement stimulée par l’association intime avec d’autres religionistes. » [[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)]
+En tournant vers le sud, nous nous sommes retrouvés à Indianapolis dans le groupe d'étude de Mike avec Linda et Bob, qui avaient parcouru un long chemin pour y assister. En fait, ils sont toujours prêts à faire un effort supplémentaire dans toute entreprise Urantia valable. Quel privilège de partager intimement ce qui sort des pages du _Livre d'Urantia_ avec des lecteurs dévoués de longue date ! Nous avons également découvert d'autres lecteurs du coin qui ne se connaissent pas. Le moment est venu de se connecter. « La croissance spirituelle est mutuellement stimulée par l’association intime avec d’autres religionistes. » <a id="a87_629"></a>[[LU 100:0.2](/fr/The_Urantia_Book/100#p0_2)]
 
 __Ingrédient n°8 : Définissez vos priorités, « frappez et la porte s'ouvrira ».__
 
@@ -142,3 +166,28 @@ __Ingrédient n°23 : Mais attendez, il y a d'autres leçons ! Tôt ou tard, nou
 
 - Article obtenu sur [le site de la Fellowship](https://urantia-book.org/archive/newsletters/herald/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Preston_Thomas/Prophecy_and_The_Urantia_Book">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La prophétie et le Livre d'Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_herald#volume-7-numéro-1-2006-été">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Volume 7, numéro 1, 2006 (été) — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Berkeley_Elliott/What_is_Personality">
+          <span class="pr-2">Qu'est-ce que la personnalité ?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

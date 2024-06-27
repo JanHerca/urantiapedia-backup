@@ -9,6 +9,30 @@ dateCreated: 2023-10-23T10:55:6Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1994 La Fellowship pour les lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’avortement et le Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="pr-2">Gouvernement Planétaire d’Urantia Définitions et références supplémentaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nous avons besoin de votre aide pour établir des services pour les lecteurs du _Livre d’Urantia_ afin de promouvoir des expériences familiales de qualité. Ce travail est parrainé par le comité ad hoc de vie familiale de la Fellowship en réponse aux demandes de renseignements sur les ressources et programmes spéciaux développés pour les familles de lecteurs du Livre d’Urantia.
@@ -58,9 +82,9 @@ Veuillez classer les ressources pour la vie familiale qui sont les plus importan
 - Rites de passage pour adolescents
 - Divorce
 
-> « La famille est l’unité fondamentale de fraternité dans laquelle parents et enfants apprennent les leçons de patience, d’altruisme, de tolérance et de longanimité qui sont si essentielles pour réaliser la fraternité entre tous les hommes. » ([LU 84:7.28](/fr/The_Urantia_Book/84#p7_28))
+> « La famille est l’unité fondamentale de fraternité dans laquelle parents et enfants apprennent les leçons de patience, d’altruisme, de tolérance et de longanimité qui sont si essentielles pour réaliser la fraternité entre tous les hommes. » (<a id="a84_245"></a>[LU 84:7.28](/fr/The_Urantia_Book/84#p7_28))
 
-> « L’enfant doit tirer des soins de sa mère ses premières impressions sur l’univers ; il dépend entièrement de son père terrestre pour ses premières idées sur le Père céleste. » ([LU 177:2.5](/fr/The_Urantia_Book/177#p2_5))
+> « L’enfant doit tirer des soins de sa mère ses premières impressions sur l’univers ; il dépend entièrement de son père terrestre pour ses premières idées sur le Père céleste. » (<a id="a86_180"></a>[LU 177:2.5](/fr/The_Urantia_Book/177#p2_5))
 
 <figure id="Figure_2" class="image urantiapedia">
 <img src="/image/article/Study_Group_Herald/mother.jpg">
@@ -70,7 +94,7 @@ Veuillez classer les ressources pour la vie familiale qui sont les plus importan
 <img src="/image/article/Study_Group_Herald/father.jpg">
 </figure>
 
-> « De véritables parents s’engagent avec continuité dans un ministère de service que l’enfant avisé finit par reconnaitre et par apprécier. » ([LU 84:7.26](/fr/The_Urantia_Book/84#p7_26))
+> « De véritables parents s’engagent avec continuité dans un ministère de service que l’enfant avisé finit par reconnaitre et par apprécier. » (<a id="a96_144"></a>[LU 84:7.26](/fr/The_Urantia_Book/84#p7_26))
 
 Veuillez classer les activités que le comité de vie familiale devrait parrainer, en utilisant une échelle de 1 à 5, 1 étant la priorité la plus élevée.
 
@@ -108,9 +132,9 @@ Y a-t-il des activités du comité Vie familiale auxquelles vous aimeriez partic
 
 Commentaires supplémentaires : \_\_\_\_
 
-> « L’amour paternel a une intention unique et recherche toujours ce qu’il y a de meilleur dans l’homme ; c’est l’attitude des véritables parents. » ([LU 140:5.12](/fr/The_Urantia_Book/140#p5_12))
+> « L’amour paternel a une intention unique et recherche toujours ce qu’il y a de meilleur dans l’homme ; c’est l’attitude des véritables parents. » (<a id="a134_150"></a>[LU 140:5.12](/fr/The_Urantia_Book/140#p5_12))
 
-> « Dieu veut que les hommes et les femmes trouvent leur service le plus élevé et la joie correspondante en établissant des foyers pour accueillir et élever des enfants, pour la création desquels ces parents deviennent coassociés aux Créateurs du ciel et de la terre. » ([LU 167:5.7](/fr/The_Urantia_Book/167#p5_7))
+> « Dieu veut que les hommes et les femmes trouvent leur service le plus élevé et la joie correspondante en établissant des foyers pour accueillir et élever des enfants, pour la création desquels ces parents deviennent coassociés aux Créateurs du ciel et de la terre. » (<a id="a136_271"></a>[LU 167:5.7](/fr/The_Urantia_Book/167#p5_7))
 
 Merci pour vos précieuses informations. Si vous souhaitez que cette enquête inclue votre nom et votre adresse, veuillez remplir ces informations ci-dessous :
 
@@ -135,3 +159,28 @@ ETATS-UNIS.
 <img src="/image/article/Study_Group_Herald/father2.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/fr/article/Lissa_and_Douglas_Parker_et_al/Abortion_and_UB">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">L’avortement et le Livre d’Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/index/articles_study_group_herald#automne-1994-vol-4-n-°-5">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Automne 1994 — Vol. 4 n ° 5 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/Larry_Geis_and_Stephen_Zendt/Planetary_Government_of_Urantia">
+          <span class="pr-2">Gouvernement Planétaire d’Urantia Définitions et références supplémentaires</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,24 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 1998 Avi Dogim, Meredith J. Sprunger, Peter Laurence<br>© 1998 La Fellowship du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 ## La bourse rencontre la Fondation à Chicago
 
@@ -137,7 +155,7 @@ John a été lecteur pendant 20 ans et a pris une part très active dans les aff
 
 John était coordinateur régional et restait en contact avec des dizaines de lecteurs, partageant avec eux sa connaissance approfondie du livre. Son rêve était de faire connaître le livre au peuple russe. Lui, sa femme Natasha et leurs enfants envisageaient de déménager en Russie en décembre de cette année pour commencer ce travail.
 
-Sa citation préférée est révélatrice de sa foi : « …l’incertitude est le secret d’une continuité heureuse… alors que l’ignorance est essentielle au succès, ce serait une erreur colossale pour la créature de connaître l’avenir. » ([LU 39:5.9](/fr/The_Urantia_Book/39#p5_9))
+Sa citation préférée est révélatrice de sa foi : « …l’incertitude est le secret d’une continuité heureuse… alors que l’ignorance est essentielle au succès, ce serait une erreur colossale pour la créature de connaître l’avenir. » (<a id="a157_230"></a>[LU 39:5.9](/fr/The_Urantia_Book/39#p5_9))
 
 Des amis chaleureux de l’Oklahoma étaient présents et ont honoré cette double occasion avec des arrangements musicaux spéciaux.
 
@@ -175,3 +193,22 @@ Membres : Avi Dogim, présidente Nancy Johnson, Carolyn Kendall, Linda Buselli,
 
 * [Newsletter dans _La Fellowship du Livre d'Urantia_](https://archive.urantiabook.org/archive/newsletters/mm-spr98.htm)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_mighty_messenger#numéro-du-printemps-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Numéro du printemps 1998 — Table des matières</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
