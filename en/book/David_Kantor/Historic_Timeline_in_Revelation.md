@@ -94,6 +94,6 @@ There is also a short document titled, [“A History of The Urantia Movement”]
 31. Notes of Ken Raveill
 32. “The Kelloggs in the New World”
 
-## Referencias
+## References
 
 * [This book in The Urantia Book Fellowship archives](https://archive.urantiabook.org/archive/history/h_timlin_index.htm)
