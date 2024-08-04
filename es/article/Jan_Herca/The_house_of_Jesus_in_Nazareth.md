@@ -3,13 +3,12 @@ title: "La casa de Jesús en Nazaret"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: Jesus, Jesus times, place
+tags: Jesus, Jesus times, place, article
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
-
 
 No hay forma de averiguar dónde estuvo situada y cómo fue la casa en la que vivió Jesús. La iglesia de la Anunciación, situada sobre otras antiguas iglesias, en Nazaret, se proclama al visitante de la ciudad actual como la iglesia que señala el lugar de la casa de Jesús, donde recibió María la visita del ángel. Sin embargo, un examen de lo encontrado bajo los cimientos de esta iglesia no hace sino plantear serias dudas de que realmente allí hubiera vivido Jesús. Lo que existe es una especie de gruta troglodítica, algo común en Nazaret como sótano o cisterna, pero no como vivienda.
 
@@ -23,7 +22,7 @@ Como enseres, en el comedor había una mesa baja de piedra, vasijas de barro, pl
 
 <figure id="Figure_1" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/The_house_of_Jesus_in_Nazareth/casa_nazaret.png">
-<figcaption>Plano de la casa de Jesús en Nazaret</figcapton>
+<figcaption>Plano de la casa de Jesús en Nazaret</figcaption>
 </figure>
 
 En el taller, por la noche, se echaban en el suelo sobre unas alfombras (probablemente hechas con cuerda). El taller contaría con el típico banco de carpintero, y con las herramientas básicas: un hacha para cortar árboles, la azuela para desbastar la madera, una hacheta, serruchos de hierro para cortar al tamaño la madera, un tablero de berbiquí y varias brocas para perforarla, un martillo con cabeza de piedra para clavar, un mazo de madera para golpear las escoplas o ajustar tablones; escoplos y limas de hierro para labrar la madera, leznas para agujerear madera o cuero y un surtido de clavos para ensamblar y reforzar. También es posible que hubiera garlopas o cepillos. Para medir, una regla, un compás, gis y desde luego alguna especie de lápices para trazar los cortes. La habitación estaría atestada de madera, sobre todo de sicomoro o higuera silvestre, de madera blanda y porosa, pero resistente. También olivo, dura, de veta fina y de color ambarino, o quizá roble. En casos de pedidos especiales podía usarse cedro y ciprés de Fenicia, los más costosos.
@@ -36,13 +35,9 @@ El patio lo mantenía María adornado con enredaderas y flores de Galilea en sus
 
 Encima de las habitaciones, subiendo por una escalera de piedra sin barandilla en el interior del patio (<a id="a36_105"></a>[LU 123:4.5](/es/The_Urantia_Book/123#p4_5)), había unas terrazas donde se disponían techumbres provisionales de lona en verano. La gente solía dormir en el techo en verano, al abrigo de estos toldos y de las balaustradas, puesto que el intenso calor del verano lo permitía. Las lluvias de otoño ocasionaban frecuentes goteras en los techos, que había que reparar mediante rodillos de piedra que prensaban el suelo y tapaban las grietas y oquedades.
 
-
 ## Referencias
 
 - Varios autores, _El Libro de Urantia_, 1955.
-
-
-
 
 ## Enlaces externos
 
