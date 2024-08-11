@@ -119,7 +119,7 @@ Varios métodos de pesca se han utilizado durante siglos en el mar de Galilea:
 
 - a) Algunos pescadores capturaban con manos descubiertas,
 - b) algunos usaban lanzas, flechas o arpones
-- c) con anzuelo—una barra con anzuelo y sedal de lino. Pedro y Andrés se decía que estaban pescando con sedal y anzuelo cuando ellos capturaron el pez con la moneda en la boca ([Mt 17:27](/es/Bible/Matthew/17#v17)). Ya hemos visto que en El Libro de Urantia tenemos una narrativa diferente ([LU 157:1.1-5](/es/The_Urantia_Book/157#p1_1)).
+- c) con anzuelo—una barra con anzuelo y sedal de lino. Pedro y Andrés se decía que estaban pescando con sedal y anzuelo cuando ellos capturaron el pez con la moneda en la boca ([Mt 17:27](/es/Bible/Matthew/17#v17)). Ya hemos visto que en _El Libro de Urantia_ tenemos una narrativa diferente ([LU 157:1.1-5](/es/The_Urantia_Book/157#p1_1)).
 - d) lanzando redes de lino al agua;
 - e) algunos usaban cestas de mimbre u otras clases de trampas hechas de redes o lazos.
 
@@ -176,7 +176,7 @@ Esta referencia a la piedra y la serpiente parecen sacadas de la experiencia cot
 Hasta el Segundo Concilio de Vaticano, a los católicos se les podía identificar por comer peces los viernes. Y ha sido una práctica religiosa muy frecuente del catolicismo la sustitución en la dieta de la carne por el pescado durante ciertos momentos litúrgicos. ¿Hay quizá en esta conducta una cierta reverencia a la forma de vida judía de Jesús, que como judío despreció la carne de cerdo y primó en su dieta el pescado, más si cabe al ser galileo?
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/pS001736.jpg">
+<img src="/image/article/Jan_Herca/The_fishing_sector_in_Sea_of_Galilee/ichthus.jpg">
 <figcaption>Fig. 6. — El símbolo ichthys.</figcaption>
 </figure>
 
