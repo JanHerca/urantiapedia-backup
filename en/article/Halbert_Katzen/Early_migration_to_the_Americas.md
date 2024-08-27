@@ -3,7 +3,7 @@ title: Early Migration to the Americas
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Anthropology
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -235,9 +235,12 @@ Ushki (7) | 14300 | Â± | 200 | GIN- | Mochanov 1978:62 |
 * [North America](/en/topic/North_America)
 * [Central America](/en/topic/Central_America)
 * [South America](/en/topic/South_America)
+
 ## External links
 
-* This report in UBTheNews webpage: http://ubannotated.com/ubthenews/topics/adam_and_eve/
+* [This report in UBTheNews webpage](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * *El Libro de Urantia*: [UB 64:6](/The_Urantia_Book/64#p6)
 * *Paleoamerican Origins*, Smithsonian, Paleoamerican Origins, 1999.
 	 

@@ -3,7 +3,7 @@ title: Garden of Eden Report
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
-tags: 
+tags: Geology
 editor: markdown
 dateCreated: 2021-11-28T14:02:03.086Z
 ---
@@ -163,16 +163,13 @@ For now, at least advances in sonar technology allow us to see a topography betw
 
 ## External links
 
-* This report in UBTheNews website: http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/
-
+* [This report in UBTheNews website](http://ubannotated.com/ubthenews/topics/ubthenews-garden-of-eden-report/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 * *Life Pictorial Atlas of the World*, *Life* magazine Randy McNally, 1961.
-
 * Robert Sarmast,*Discovery of Atlantis*, *First Source Publications*, 2006.
-
 * Shimon Wdowinski, Zvi Ben-Avraham, Ronald Arvidsson, Goran Ekström, *Seismotectonics of the Cyprian Arc*, January 2006, *Geophysical Journal International*, https://academic.oup.com/gji/article/164/1/176/2071574
-
 * Mart, Y.; Ryan, W., *The tectonics of Cyprus Arc: a model of complex continental collision*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....2282M/abstract
-
 * Ergün, M.; Okay, S.; Sari, C.; Oral, E. Z., *Gravity and magnetic anomalies of the Cyprus arc and tectonic implications*, https://ui.adsabs.harvard.edu/abs/2003EAEJA.....1663E/abstract
 
 <br>

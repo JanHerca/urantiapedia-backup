@@ -99,7 +99,9 @@ When it takes more than a man-made effort, when the team needs to use all the to
 
 ## External Links
 
-* This report in UBTheNews webpage: https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/
+* [This report in UBTheNews webpage](https://ubannotated.com/main-menu/animated/topical-studies/machiventa-melchizedek/machiventa-etymology/)
+* [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
+* [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
 
 <br>
 
