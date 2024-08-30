@@ -1,5 +1,5 @@
 ---
-title: "Early Migration to China"
+title: "Primera migración a China"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -15,8 +15,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>
         <td></td>
@@ -25,170 +25,169 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-Prepared by Halbert Katzen, J.D. [10/25/11]
+Preparado por Halbert Katzen, J.D. [10/25/11]
 
-## Early Migration To China Summary
+## Primera migración a China — Resumen
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Halbert_Katzen/Early_Migration_to_China/Pekin_man.jpg">
 </figure>
 
-About 25 miles southwest of Beijing, China is an archaeological site at Zhoukoudian that is of particular interest to anthropologists. UNESCO (the United Nations Education, Scientific, and Cultural Organization) placed this site on the World Heritage List in 1987 because it is an especially abundant source of early humanoid artifacts, commonly referred to as Peking Man.
+Aproximadamente a 25 millas al suroeste de Beijing, China, hay un yacimiento arqueológico en Zhoukoudian que es de particular interés para los antropólogos. La UNESCO (Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura) colocó este yacimiento en la Lista del Patrimonio Mundial en 1987 porque es una fuente especialmente abundante de artefactos humanoides tempranos, comúnmente conocido como Hombre de Pekín.
 
-Accurately dating human fossils from the Zhoukoudian site, however, has been difficult. In 2008 new and more exacting dating techniques were applied to the sediment layers where the bones were found. The results indicate that the fossils are around 200,000 years older than previous estimations of approximately 550,000 years. The new dating places these fossils in a significantly colder environment due to ice age activity that occurred 750,000 years ago.
+Sin embargo, datar con precisión fósiles humanos del yacimiento de Zhoukoudian ha sido difícil. En 2008, se aplicaron nuevas y más precisas técnicas de datación a las capas de sedimentos donde se encontraron los huesos. Los resultados indican que los fósiles son alrededor de 200.000 años más antiguos que las estimaciones previas de aproximadamente 550.000 años. La nueva datación coloca estos fósiles en un ambiente significativamente más frío debido a la actividad de la edad de hielo que ocurrió hace 750.000 años.
 
-Additionally, a recent re-evaluation of hand axes found at
+Además, una reciente reevaluación de hachas de mano encontradas en el sitio revela un mayor grado de sofisticación en la fabricación de herramientas de lo que se pensaba anteriormente. Este descubrimiento indica que estos primeros humanos eran más hábiles en la caza y el sacrificio de animales que lo que los antropólogos hipotetizaron en un principio.
 
-the site reveal a higher degree of sophistication in tool making than previously thought. This discovery indicates that these early humans were more skilled at hunting and slaughtering animals than anthropologists originally hypothesized.
+Estos refinamientos recientes en la técnica de investigación nos proporcionan una comprensión de la migración temprana a China que está más cercanamente alineada con el recuento de la actividad humana primitiva en la región publicada en 1955 en _El Libro de Urantia_.
 
-These recent refinements in research technique provide us with an understanding of early migration to China that is more closely aligned with the recounting of early human activity in the region published in 1955 in _The Urantia Book_.
-
-The Early Migration to China Report is the third UBtheNEWS report on primitive man during this time period. Reading the [Creating Fire Report](/en/article/Halbert_Katzen/Creating_fire) and then the [Early Migration to Britain Report](/en/article/Halbert_Katzen/Early_migration_to_Britain) before reading this report allows you to develop a more chronological appreciation of the reports on primitive human beings.
+Este el tercer informe de UBtheNEWS sobre el hombre primitivo durante este período de tiempo. Leer el informe [La creación del fuego](/es/article/Halbert_Katzen/Creating_fire) y luego el informe [Primera migración a Bretaña](/es/article/Halbert_Katzen/Early_migration_to_Britain) antes de leer este informe le permite desarrollar una apreciación más cronológica de los informes sobre seres humanos primitivos.
 
 <br style="clear:both;"/>
 
-## Early Migration To China Review
+## Primera migración a China — Visión general
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Halbert_Katzen/Early_Migration_to_China/head.jpg">
 </figure>
 
-On March 11, 2009 Paul Rincon, a science reporter for BBC News, published an article that reviews the research results from the Zhoukoudian site completed in 2008 and provides some history on the subject. His article states:
+El 11 de marzo de 2009, Paul Rincon, un periodista científico de BBC News, publicó un artículo que revisa los resultados de investigación del yacimiento Zhoukoudian completado en 2008 y proporciona un poco de historia sobre el tema. Su artículo dice:
 
 <br style="clear:both;"/>
 
-> Iconic ancient human fossils from China are 200,000 years older than had previously been thought, a study shows.
+> Icónicos fósiles humanos antiguos de China son 200.000 años más antiguos de lo que se había pensado anteriormente, muestra un estudio.
 > 
-> The new dating analysis suggests the “Peking Man” fossils, unearthed in the caves of Zhoukoudian, are some 750,000 years old.
+> El nuevo análisis de datación sugiere que los fósiles del «Hombre de Pekín», desenterrados en las cuevas de Zhoukoudian, tienen unos 750.000 años de antigüedad.
 > 
-> The discovery should help define a more accurate timeline for early humans arriving in North-East Asia.
+> El descubrimiento debería ayudar a definir una línea de tiempo más precisa para los primeros humanos que llegan al noreste de Asia.
 > 
-> A US-Chinese team of researchers has published its findings in the prestigious journal Nature.
+> Un equipo de investigadores estadounidense-chino ha publicado sus hallazgos en la prestigiosa revista Nature.
 > 
-> The cave system of Zhoukoudian, near Beijing, is one of the most important Paleolithic sites in the world.
+> El sistema de cuevas de Zhoukoudian, cerca de Pekín, es uno de los sitios paleolíticos más importantes del mundo.
 > 
-> Between 1921 and 1966, archaeologists working at the site unearthed tens of thousands of stone tools and hundreds of fragmentary remains from about 40 early humans.
+> Entre 1921 y 1966, los arqueólogos que trabajan en el sitio desenterraron decenas de miles de herramientas de piedra y cientos de restos fragmentarios de unos 40 humanos primitivos.
 > 
-> Paleontologists later assigned these members of the human lineage to the species Homo erectus.
+> Los paleontólogos luego asignaron a estos miembros del linaje humano a la especie Homo erectus.
 > 
-> . . .
+> [...]
 > 
-> Experts have tried various methods over the years to determine the age of the remains. But they have been hampered by the lack of suitable techniques for dating cave deposits such as those at Zhoukoudian.
+> Los expertos han probado varios métodos a lo largo de los años para determinar la edad de los restos. Pero se han visto obstaculizados por la falta de técnicas adecuadas para datar depósitos en cuevas, como los de Zhoukoudian.
 > 
-> Now, Guanjun Shen, from Nanjing Normal University in China, and colleagues have applied a relatively new method to the problem.
+> Ahora, Guanjun Shen, de la Universidad Normal de Nanjing en China, y sus colegas han aplicado un método relativamente nuevo al problema.
 > 
-> This method is based on the radioactive decay of unstable forms, or isotopes, of the elements aluminium and beryllium in quartz grains. This enabled them to get a more precise age for the fossils.
+> Este método se basa en la descomposición radiactiva de formas inestables, o isótopos, de los elementos aluminio y berilio en granos de cuarzo. Esto les permitió obtener una edad más precisa para los fósiles.
 > 
-> The results show the Peking Man fossils came from ground layers that were 680,000780,000 years old, making them about 200,000 years older than had previously been believed.
+> Los resultados muestran que los fósiles del Hombre de Pekín provienen de capas de suelo que tenían entre 680.000 y 780.000 años, lo que los hace aproximadamente 200.000 años más antiguos de lo que se creía.
 > 
-> Comparisons with other sites show that Homo erectus survived successive warm and cold periods in northern Asia.
+> Las comparaciones con otros sitios muestran que Homo erectus sobrevivió sucesivos períodos cálidos y fríos en el norte de Asia.
 > 
-> Researchers Russell Ciochon and E Arthur Bettis III, from the University of Iowa, US, believe these climatic cycles may have caused the expansion of open habitats, such as grasslands and steppe. These environments would have been rich in mammals that could have been hunted or scavenged by early humans. [^1]
+> Los investigadores Russell Ciochon y E. Arthur Bettis III, de la Universidad de Iowa, EE.UU., creen que estos ciclos climáticos pueden haber causado la expansión de hábitats abiertos, como pastizales y estepas. Estos ambientes habrían sido ricos en mamíferos que podrían haber sido cazados o atrapados por humanos primitivos. [^1]
 
-“The human race is almost one million years old,” according to _The Urantia Book_.[^2] But the genetically progressive mutation that started the human race, first appearing in a set of twins, while sufficient for the development of primitive human mind, was not sufficient to support much in terms of primitive human civilization. This first primitive race of human beings are termed Andonites in _The Urantia Book_. In reviewing the history of humanity, the authors recount that a significant genetic improvement occurred after our first 150,000 years (850,000 years ago). This event involves a tribe of primitive human beings that lived in the general area where humanity first got started. _The Urantia Book_ refers to them as the “Badonan” tribes.
+«La raza humana tiene casi un millón de años», según _El Libro de Urantia_.[^2] Pero la mutación genéticamente progresiva que inició la raza humana, que apareció por primera vez en un par de gemelos, aunque era suficiente para el desarrollo de la mente humana primitiva, no fue suficiente para apoyar mucho en términos de civilización humana primitiva. Esta primera raza primitiva de seres humanos se denomina _andonitas_ en _El Libro de Urantia_. Al revisar la historia de la humanidad, los autores relatan que una mejora genética significativa ocurrió después de nuestros primeros 150.000 años (hace 850.000 años). Este evento involucra a una tribu de seres humanos primitivos que vivieron en el área general donde la humanidad comenzó por primera vez. _El Libro de Urantia_ se refiere a ellos como las tribus _Badonán_.
 
-> To the east of the Badonan peoples, in the Siwalik Hills of northern India, may be found fossils that approach nearer to transition types between man and the various prehuman groups than any others on earth.
+> Al este de los pueblos de Badonán, en las colinas Siwalik del norte de la India, se pueden encontrar los fósiles que se acercan, más que ningún otro en la Tierra, a los tipos de transición entre el hombre y los diversos grupos prehumanos.
 > 
-> 850,000 years ago the superior Badonan tribes began a warfare of extermination directed against their inferior and animalistic neighbors. In less than one thousand years most of the borderland animal groups of these regions had been either destroyed or driven back to the southern forests. This campaign for the extermination of inferiors brought about a slight improvement in the hill tribes of that age. And the mixed descendants of this improved Badonite stock appeared on the stage of action as an apparently new people — the Neanderthal race.[^3]
+> Hace _850.000_ años, las tribus superiores de Badonán empezaron una guerra de exterminio contra sus vecinos inferiores parecidos a los animales. En menos de mil años, la mayoría de los grupos animales de las fronteras de estas regiones habían sido destruídos o forzados a retroceder hasta los bosques del sur. Esta campaña para exterminar a los seres inferiores provocó un ligero mejoramiento de las tribus montañesas de aquella época. Los descendientes mezclados de este linaje badonita mejorado aparecieron en escena como un pueblo aparentemente nuevo, la _raza de Neandertal._[^3]
 
-Note how the authors provide a clue about where we can make important new discoveries related to the human fossil record. These types of clues frequently appear in the text.
+Tenga en cuenta cómo los autores proporcionan una pista sobre dónde podemos hacer nuevos descubrimientos importantes relacionados con el registro de fósiles humanos. Este tipo de pistas aparecen con frecuencia en el texto.
 
-The authors of _The Urantia Book_ define the Neanderthal race on their own terms, a definition different from contemporary usage. This is just one example of how the authors encourage us to use terminology in specific ways. (To support the study of human evolution from a Urantia Book perspective, in 2011 UBtheNEWS published the first Urantia Book-based taxonomy.)[^4]
+Los autores de _El Libro de Urantia_ definen la raza de Neanderthal en sus propios términos, una definición diferente del uso contemporáneo. Este es sólo un ejemplo de cómo los autores nos animan a utilizar la terminología de maneras específicas. (Para apoyar el estudio de la evolución humana desde la perspectiva del _Libro de Urantia_, en 2011 UBtheNEWS publicó la primera taxonomía basada en el _Libro de Urantia_.)[^4]
 
-After providing this new definition of the Neanderthal race, _The Urantia Book_ goes on to describe their activities and migrations.
+Después de proporcionar esta nueva definición de la raza de Neandertal, _El Libro de Urantia_ continúa describiendo sus actividades y migraciones.
 
-> The Neanderthalers were excellent fighters, and they traveled extensively. They gradually spread from the highland centers in northwest India to France on the west, China on the east, and even down into northern Africa. They dominated the world for almost half a million years until the times of the migration of the evolutionary races of color.[^5]
+> Los hombres de Neandertal eran excelentes luchadores y viajaron enormemente. Partiendo de las tierras altas del noroeste de la India, se diseminaron gradualmente hasta Francia en el oeste, China en el este, y descendieron incluso hasta el norte de África. Dominaron el mundo durante casi medio millón de años, hasta la época de la emigración de las razas evolutivas de color.[^5]
 
-_The Urantia Book_ depicts the Neanderthal race as one that “traveled extensively” and “dominated the world.” The conclusions reached in 2008 by the US-Chinese research team are more closely aligned by about 200,000 years with _The Urantia Book_'s depiction of this time period. Their research came more than fifty years after _The Urantia Book_ was published. The new techniques of advanced research performed by this team provide relatively accurate dating for the first time. The abstract of their report states:
+_El Libro de Urantia_ describe la raza de Neandertal como una que «viajó extensamente» y «dominó el mundo». Las conclusiones alcanzadas en 2008 por el equipo de investigación chino-estadounidense están más estrechamente alineadas en unos 200.000 años con la descripción de _El Libro de Urantia_ de este período de tiempo. Su investigación se produjo más de cincuenta años después de la publicación de _El Libro de Urantia_. Las nuevas técnicas de investigación avanzada realizadas por este equipo proporcionan citas relativamente precisas por primera vez. El resumen de su informe dice:
 
-> The age of Zhoukoudian _Homo_ erectus, commonly known as 'Peking Man', has long been pursued, but has remained problematic owing to the lack of suitable dating methods. Here we report cosmogenic 26 Al/10Be burial dating of quartz sediments and artefacts from the lower strata of Locality 1 in the southwestern suburb of Beijing, China, where early representatives of Zhoukoudian _Homo_ erectus were discovered. This study marks the first radioisotopic dating of any early hominin site in China beyond the range of mass spectrometric U-series dating. The weighted mean of six meaningful age measurements, 0.77 &pm; 0.08 million years (Myr, mean &pm; s.e.m.), provides the best age estimate for lower cultural layers 7-10. Together with previously reported U-series dating of speleothem calcite3 and paleomagnetic stratigraphy4, as well as sedimentological considerations, these layers may be further correlated to S6—S7 in Chinese loess stratigraphy or marine isotope stages (MIS) 17—19, in the range of &sim; 0.68 to 0.78 Myr ago. These ages are substantially older than previously supposed and may imply early hominin's presence at the site in northern China through a relatively mild glacial period corresponding to MIS 18.[^6]
+> La edad del Homo erectus de Zhoukoudian, comúnmente conocido como «Hombre de Pekín», se ha perseguido durante mucho tiempo, pero sigue siendo problemática debido a la falta de métodos adecuados de datación. Aquí informamos la datación cosmogénica 26Al / 10Be de sedimentos de cuarzo enterrados y artefactos de los estratos inferiores de la Localidad 1 en el suburbio suroeste de Beijing, China, donde se descubrieron los primeros representantes del Homo erectus de Zhoukoudian. Este estudio marca la primera datación radioisotópica de hominídos ancestrales en China más allá del rango de datación de la serie U de espectrometría de masa. La media ponderada de seis medidas significativas de edad, 0,77 ± 0,08 millones de años (Myr, media ± s.e.m.), proporciona la mejor estimación de edad para las capas culturales inferiores 7-10. Junto con la datación de la serie U datada anteriormente de espeleotema calcita3 y estratigrafía paleomagnética4, así como consideraciones sedimentológicas, estas capas pueden correlacionarse más con S6-S7 en la estratigrafía del loess chino o las etapas de isótopos marinos (MIS) 17-19, en el rango de ~ 0.68 a 0.78 Myr atrás. Estas edades son sustancialmente más antiguas de lo que se suponía anteriormente y pueden implicar la presencia temprana de homínidos en el sitio en el norte de China a través de un período glacial relativamente suave que corresponde a MIS 18. [^6]
 
-The final comments in the abstract pertaining to the “mild glacial period” are harmonious with the description of early human history provided in _The Urantia Book_, indicating that the more advanced primitive humans preferred the colder climates as a way to protect themselves from the genetically inferior primitive humans and simians that tended to prefer more salubrious climates.
+Los últimos comentarios en el resumen relativos al «período glacial suave» están en armonía con la descripción de la historia humana primitiva proporcionada en _El Libro de Urantia_, indicando que los humanos primitivos más avanzados preferían los climas más fríos como una forma de protegerse de los genéticamente inferiores humanos primitivos y simios que tendían a preferir climas más salubres.
 
-> Primitive man made his evolutionary appearance on earth [in the general area of Afghanistan] a little less than one million years ago, and he had a vigorous experience. He instinctively sought to escape the danger of mingling with the inferior simian tribes. But he could not migrate eastward because of the arid Tibetan land elevations, 30,00o feet above sea level; neither could he go south nor west because of the expanded Mediterranean Sea, which then extended eastward to the Indian Ocean; and as he went north, he encountered the advancing ice. But even when further migration was blocked by the ice, and though the dispersing tribes became increasingly hostile, the more intelligent groups never entertained the idea of going southward to live among their hairy tree-dwelling cousins of inferior intellect.
-> 
-> Many of man's earliest religious emotions grew out of his feeling of helplessness in the shut-in environment of this geographic situation -- mountains to the right, water to the left, and ice in front. But these progressive Andonites would not turn back to their inferior tree-dwelling relatives in the south.
-> 
-> These Andonites avoided the forests in contrast with the habits of their nonhuman relatives. In the forests man has always deteriorated; human evolution has made progress only in the open and in the higher latitudes. The cold and hunger of the open lands stimulate action, invention, and resourcefulness. While these Andonic tribes were developing the pioneers of the present human race amidst the hardships and privations of these rugged northern climes, their backward cousins were luxuriating in the southern tropical forests of the land of their early common origin.
-> 
-> These events occurred during the times of the third glacier, the first according to the reckoning of geologists. The first two glaciers were not extensive in northern Europe. [^7]
-> 
-> 800,000 years ago game was abundant; many species of deer, as well as elephants and hippopotamuses, roamed over Europe. Cattle were plentiful; horses and wolves were everywhere. The Neanderthalers were great hunters ...
-> 
-> The reindeer was highly useful to these Neanderthal peoples, serving as food, clothing, and for tools, since they made various uses of the horns and bones.[^8]
-> 
-> 750,000 years ago the fourth ice sheet was well on its way south. With their improved implements the Neanderthalers made holes in the ice covering the northern rivers and thus were able to spear the fish which came up to these vents. Ever these tribes retreated before the advancing ice, which at this time made its most extensive invasion of Europe.
-> 
-> In these times the Siberian glacier was making its southernmost march, compelling early man to move southward, back toward the lands of his origin. But the human species had so differentiated that the danger of further mingling with its nonprogressive simian relatives was greatly lessened.
-> 
-> 700,000 years ago the fourth glacier, the greatest of all in Europe, was in recession; men and animals were returning north.[^9]
+> El hombre primitivo hizo su aparición evolutiva en la Tierra hace poco menos de un millón de años, y tuvo una dura experiencia. Trató instintivamente de evitar el peligro de mezclarse con las tribus simias inferiores. Pero no pudo emigrar hacia el este debido a las altas tierras áridas del Tíbet, con sus 9.000 metros por encima del nivel del mar; tampoco pudo ir hacia el sur o el oeste, porque el Mar Mediterráneo era mucho más grande que hoy, extendiéndose entonces hacia el este hasta el Océano Índico; y cuando se dirigió hacia el norte, se encontró con el hielo que venía avanzando. Pero incluso cuando el hielo bloqueó su emigración ulterior, y aunque las tribus que se dispersaban se volvían cada vez más hostiles, los grupos más inteligentes nunca albergaron la idea de dirigirse hacia el sur para vivir entre sus primos arborícolas peludos con un intelecto inferior.
+>
+> Muchas de las emociones religiosas más antiguas del hombre nacieron de su sensación de impotencia ante el entorno cerrado de esta situación geográfica —montañas a la derecha, agua a la izquierda y el hielo al frente. Sin embargo, estos andonitas progresivos no querían volver atrás con sus parientes inferiores del sur que vivían en los árboles.
+>
+> Estos andonitas evitaban los bosques, en contraste con las costumbres de sus parientes no humanos. El hombre siempre ha degenerado en los bosques; la evolución humana sólo ha progresado en los espacios abiertos y en las latitudes más elevadas. El frío y el hambre que reinan en las tierras al descubierto estimulan la actividad, la invención y el ingenio. Mientras estas tribus andónicas producían a los pioneros de la raza humana actual en medio de las dificultades y privaciones de estos rigurosos climas nórdicos, sus primos atrasados disfrutaban en los bosques tropicales meridionales del país de su origen primitivo común.
+>
+> Estos acontecimientos se produjeron durante la época del tercer glaciar, el primero según el cálculo de los geólogos. Los dos primeros glaciares fueron poco extensos en Europa septentrional. [^7]
+>
+> Hace _800.000_ años, la caza era abundante; muchas especies de ciervos, así como los elefantes y los hipopótamos, vagaban por Europa. Había gran cantidad de ganado; los caballos y los lobos estaban por todas partes. Los hombres de Neandertal eran grandes cazadores, y las tribus de Francia fueron las primeras que adoptaron la costumbre de conceder a los mejores cazadores el privilegio de elegir a las mujeres que deseaban como esposas.
+>
+> El reno fue extremadamente útil para estos pueblos neandertales, sirviéndoles de alimento, de vestido y para hacer herramientas, pues los cuernos y los huesos los empleaban para usos diversos. Tenían poca cultura, pero mejoraron tanto el trabajo del sílex que casi llegó a alcanzar los niveles de la época de Andón. Empezaron a utilizarse de nuevo los grandes sílex atados a unos mangos de madera que servían como hachas y piquetas.[^8]
+>
+> Hace _750.000_ años, la cuarta capa de hielo había avanzado mucho hacia el sur. Con sus herramientas mejoradas, los neandertales hacían agujeros en el hielo que cubría los ríos nórdicos, y así podían arponear los peces que subían hasta estas aberturas. Estas tribus retrocedieron constantemente ante el hielo que avanzaba, el cual efectuaba en aquella época su invasión más extensa en Europa.
+>
+> En aquellos tiempos, el glaciar siberiano estaba realizando su máximo avance hacia el sur, obligando al hombre primitivo a retroceder en la misma dirección hacia su tierra de origen. Pero la especie humana se había diferenciado tanto, que el peligro de mezclarse de nuevo con sus parientes simios, incapaces de progresar, había disminuido enormemente.
+>
+> Hace _700.000_ años que el cuarto glaciar, el más grande de todos en Europa, estaba retrocediendo; los hombres y los animales regresaban hacia el norte. El clima era fresco y húmedo, y el hombre primitivo prosperó de nuevo en Europa y Asia occidental. Los bosques se extendieron gradualmente hacia el norte sobre las tierras que el glaciar había cubierto tan recientemente.[^9]
 
-In reference to the Neanderthal race, _The Urantia Book_ also indicates that these primitive peoples were skilled at making the more advanced types of hand axes.
+En referencia a la raza de Neanderthal, _El Libro de Urantia_ también indica que estos pueblos primitivos tenían la habilidad de hacer los tipos más avanzados de hachas de mano.
 
-> They had little culture, but they greatly improved the work in flint until it almost reached the levels of the days of Andon [Andon and Fonta are the names of the first two human beings]. Large flints attached to wooden handles came back into use and served as axes and picks.[^10]
-> 
-> While still living with his parents, Andon had fastened a sharp piece of flint on the end of a club, using animal tendons for this purpose ...[^11]
-> 
-> The invention of weapon tools enabled man to become a hunter and thus to gain considerable freedom from food slavery. A thoughtful Andonite who had severely bruised his fist in a serious combat rediscovered the idea of using a long stick for his arm and a piece of hard flint, bound on the end with sinews, for his fist. Many tribes made independent discoveries of this sort, and these various forms of hammers represented one of the great forward steps in human civilization.[^12]
+> [...] Tenían poca cultura, pero mejoraron tanto el trabajo del sílex que casi llegó a alcanzar los niveles de la época de Andón. Empezaron a utilizarse de nuevo los grandes sílex atados a unos mangos de madera que servían como hachas y piquetas.[^10]
+>
+> Mientras vivía todavía con sus padres, Andón había amarrado un trozo afilado de sílex en la punta de un palo, utilizando para ello los tendones de un animal [...] [^11]
+>
+> La invención de los utensilios para defenderse permitió al hombre convertirse en cazador y liberarse así considerablemente de la esclavitud de la comida. Un andonita reflexivo que se había magullado gravemente el puño en un violento combate redescubrió la idea de utilizar un largo palo en lugar de su brazo, y un trozo de duro sílex atado con tendones en la punta para reemplazar el puño. Muchas tribus hicieron descubrimientos independientes de esta índole, y estas diversas formas de martillos representaron uno de los grandes pasos hacia adelante de la civilización humana. En la actualidad, algunos indígenas australianos no han progresado mucho más allá de esta etapa.[^12]
 
-The above commentary is consistent with more recent re-examinations of the artifacts found at the archaeological sites in China. These re-examinations occurred because the date of the Peking Man site was pushed back by 200,000 years. An April 28, 2011 article at history.com reports:
+El comentario anterior es consistente con re-exámenes más recientes de los artefactos encontrados en los sitios arqueológicos en China. Estas reexaminaciones se produjeron porque la fecha del sitio del _Hombre de Pekín_ se retrasó en 200.000 años. Un artículo del 28 de abril de 2011 en history.com informa:
 
-> Homo erectus groups living in China 700,000 years ago may have survived in cold climates by fashioning sophisticated weapons such as spears for hunting and butchering animals. A new study of artifacts from China's famous Zhoukoudian caves suggests that these early hominids were smarter and more adept than previously thought.
-> 
-> In 1918, archaeologists discovered some of the first specimens of Homo erectus, known as Peking Man, in the fossil-rich Zhoukoudian cave system near Beijing. Until recently, it was believed that the extinct hominid species, characterized by its upright stance and robust build, inhabited the area between 250,000 and 500,000 years ago, after the end of a glacial period that had significantly cooled northern China's climate. But in 2009, new research revealed that Peking Man was much older, raising questions about how these primitive cave dwellers weathered the cold some 700,000 years ago.
-> 
-> Now, a team of scientists led by Chen Shen of the Royal Ontario Museum has reexamined artifacts found on the site and concluded that this particular Homo erectus group probably learned to survive by crafting sophisticated tools. “The new study suggests that Peking Man's lithic [stone] technology was not simple as previously thought,” Shen and his colleagues wrote in an abstract to their recent paper, presented at a Society for American Archaeology conference in early April. “The microwear evidence indicates many typed tools were made for specific tasks related to processing animal substances.”
-> 
-> More specifically, Peking Man may have fashioned stone-tipped spears and used them to kill and butcher animals. The ability to construct “composition” tools-objects made of several different materials, such as wood and sharpened rock-indicates a level of dexterity and intelligence approaching that of modern humans. It is also the earliest evidence of such activity by early hominids in China, according to the abstract. Further research may shed light on whether these primitive tools were held together by sinew, sap or other substances.
-> 
-> Homo sapiens also adapted to cold climates by assembling weapons for hunting animals, which provided hides and fur to make clothing as well as a valuable food source in the absence of sufficient vegetation.[^13]
+> Los grupos de Homo erectus que vivieron en China hace 700.000 años pudieron haber sobrevivido en climas fríos al fabricar armas sofisticadas como lanzas para cazar y matar animales. Un nuevo estudio de artefactos de las famosas cuevas Zhoukoudian de China sugiere que estos primeros homínidos fueron más inteligentes y más hábiles de lo que se pensaba.
+>
+> En 1918, los arqueólogos descubrieron algunos de los primeros especímenes de Homo erectus, conocidos como el Hombre de Pekín, en el sistema de cuevas de Zhoukoudian, rico en fósiles, cerca de Beijing. Hasta hace poco, se creía que la especie homínida extinta, caracterizada por su postura erguida y construcción robusta, habitó el área entre 250.000 y 500.000 años atrás, después del final de un período glacial que había enfriado significativamente el clima del norte de China. Pero en 2009, una nueva investigación reveló que el Hombre de Pekín era mucho más antiguo, y planteó interrogantes sobre cómo estos primitivos moradores de las cavernas capearon el frío hace unos 700.000 años atrás.
+>
+> Ahora, un equipo de científicos dirigido por Chen Shen del Museo Real de Ontario ha reexaminado los artefactos encontrados en el sitio y concluyó que este grupo de Homo erectus en particular probablemente aprendió a sobrevivir mediante la creación de herramientas sofisticadas. «El nuevo estudio sugiere que la tecnología lítica [de piedra] de Pekín no fue simple como se pensaba anteriormente», escribieron Shen y sus colegas en un resumen de su reciente trabajo, presentado en una conferencia de la Society for American Archeology a principios de abril. «La evidencia de micro desgaste indica que muchas herramientas confeccionadas se hicieron para tareas específicas relacionadas con el procesamiento de sustancias animales».
+>
+> Más específicamente, el Hombre de Pekín pudo haber modelado lanzas con punta de piedra y usarlas para matar y destripar animales. La capacidad de construir herramientas de «composición» --objetos hechos de diferentes materiales, como madera y roca afilada-- indica un nivel de destreza e inteligencia que se aproxima al de los humanos modernos. También es la evidencia más temprana de tal actividad por los primeros homínidos en China, según el resumen. La investigación adicional puede arrojar luz sobre si estas herramientas primitivas se mantuvieron unidas por nervios, savia u otras sustancias.
+>
+> El homo sapiens también se adaptó a climas fríos al ensamblar armas para la caza de animales, que proporcionaban coberturas y pieles para confeccionar ropas y una fuente de alimento valiosa en ausencia de suficiente vegetación.[^13]
 
-Research performed by the Smithsonian Institute at a site further south in Bose, China adds additional support to both the timing and technology issues.
+La investigación realizada por el Instituto Smithsonian en un sitio más al sur en Bose, China, agrega apoyo adicional a los problemas de tiempo y tecnología.
 
-> Since the 1940s, archeologists had been perplexed by what seemed to be a puzzle piece missing from the prehistoric record of East Asia — large stone tools like the Acheulean handaxes so common in Africa from about 1.6 million years ago, and in Europe beginning around 500,000 years ago. Carefully shaped multi-purpose handaxes were a major invention as early hominins refined their techniques for turning stone into technology. These were an advance over the more basic toolkit of the first toolmakers, which involved chipping flakes from usually small stone cores.
-> 
-> Making handaxes involved a more sophisticated understanding of a rock's material structure and mechanical properties....
-> 
-> ... As reported in the journal Science, our team found the oldest known large cutting tools in China, which resemble the handaxes of their African contemporaries in several ways. These include the intensive striking of flakes from both sides of large ovate rocks, typically river cobbles at Bose (rather than large flakes in Africa), and systematic shaping of a pointed or beveled end versus a rounded opposite end. The overall comparison indicates similar competence and skill in toolmaking in East Asia as occurred further west at the time of the Bose meteor impact, even though the large tool technology at Bose may have been independently developed.
-> 
-> The artifacts were excavated together with charred samples of wood and glassy microscopic shards and larger lumps known as tektites — once-molten pieces of Earth rock that radiated out over a vast area from Australia to China produced by an atmospheric impact and heating. The tools occurred solely in the tektite layer — a stroke of luck in that the tektites can be dated accurately — to 803,000 + 3,000 years. The association of the tektites, charred tree wood, and tools suggests that the forest fires triggered by the heat of the impact and the shower of tektites may have laid waste to the landscape and exposed the vast stone cobble beds, which were sources of suitable materials for making stone tools.
-> 
-> Although Paleolithic researchers are reluctant to give up the ‘Movius Line’ idea dividing east from west, its underlying basis — i.e., the inherent lack of skill of the toolmakers and the lack of a changing or challenging environment — is no longer supported. The cover of Science on March 3, 2000, highlighted these findings.[^14]
+> Desde la década de 1940, los arqueólogos estaban perplejos por lo que parecía ser una pieza del rompecabezas que faltaba en el registro prehistórico de Asia Oriental: grandes herramientas de piedra como las hachas Achelenses tan comunes en África desde hace unos 1,6 millones de años, y en Europa desde hace unos 500.000 años. Las hachas de mano multiusos cuidadosamente formadas fueron una gran invención ya que los primeros homínidos refinaron sus técnicas para convertir la piedra en tecnología. Estos fueron un avance sobre el kit de herramientas más básico de los primeros fabricantes de herramientas, que involucró astillas de pequeños núcleos de piedra.
+>
+> La creación de hachas de mano implicó una comprensión más sofisticada de la estructura material de una roca y sus propiedades mecánicas [...]
+>
+> [...] Como se informó en la revista Science, nuestro equipo encontró las herramientas de corte grandes más antiguas conocidas en China, que se asemejan a las hachas de sus contemporáneos africanos de varias maneras. Estos incluyen el ataque intensivo de escamas de ambos lados de grandes rocas ovadas, típicamente guijarros de río en Bose (en lugar de grandes guijarros en África), y la conformación sistemática de un extremo puntiagudo o biselado contra un extremo opuesto redondeado. La comparación general indica competencia y habilidad similares en la fabricación de herramientas en el este de Asia, como ocurrió más al oeste en el momento del impacto del meteoro de Bose, a pesar de que la tecnología de herramientas grandes en Bose puede haberse desarrollado independientemente.
+>
+> Los artefactos fueron excavados junto con muestras carbonizadas de madera y fragmentos microscópicos vidriosos y grumos más grandes conocidos como tectitas, piezas de roca terrestre previamente fundidas que se extendieron a lo largo de una vasta área desde Australia hasta China producida por un impacto atmosférico y calentamiento. Las herramientas ocurrieron únicamente en la capa de tectita, un golpe de suerte porque las tectitas pueden fecharse con precisión, a 803.000 + 3.000 años. La asociación de las tectitas, madera de árbol carbonizada y herramientas sugiere que los incendios forestales provocados por el calor del impacto y la lluvia de tectitas pueden haber devastado el paisaje y expuesto los vastos adoquines de piedra, que eran fuentes de materiales adecuados para hacer herramientas de piedra.
+>
+> Aunque los investigadores del Paleolítico son renuentes a abandonar la idea de la «Línea Movius» que divide este del oeste, su base subyacente -es decir, la falta de habilidad inherente de los fabricantes de herramientas y la falta de un entorno cambiante o desafiante- ya no es compatible. La portada de Science del 3 de marzo de 2000 resaltó estos hallazgos. [^14]
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Early_Migration_to_China/digging.jpg">
 </figure>
 
-Wikipedia provides an overview of the Movius Line and its significance:
+La Wikipedia proporciona una descripción general de la línea Movius y su significado:
 
-> The Movius Line is a theoretical line drawn across northern India first proposed by the American archaeologist Hallam L. Movius in 1948 to demonstrate a technological difference between the early prehistoric tool technologies of the east and west of the Old World.
-> 
-> Movius had noticed that assemblages of paleolithic stone tools from sites east of northern India never contained handaxes and tended to be characterized by less formal implements known as chopping tools. These were sometimes as extensively worked as the Acheulean tools from further west but could not be described as true handaxes. Movius then drew a line on a map of India to show where the difference occurred, dividing the tools of Africa, Europe and Western and Southern Asia from those of Eastern and Southeastern Asia.[^15]
+> La Línea Movius es una línea teórica trazada a través del norte de la India propuesta por primera vez por el arqueólogo estadounidense Hallam L. Movius en 1948 para demostrar una diferencia tecnológica entre las primeras tecnologías de herramientas prehistóricas del este y oeste del Viejo Mundo.
+>
+> Movius había notado que los ensamblajes de herramientas de piedra paleolíticas de sitios al este del norte de la India nunca contenían hachas y solían caracterizarse por instrumentos menos formales conocidos como herramientas de corte. A veces se trabajaban tan extensivamente como las herramientas Achelenses de más al oeste, pero no se podían describir como verdaderas hachas. Movius trazó una línea en un mapa de la India para mostrar dónde se produjo la diferencia, dividiendo las herramientas de África, Europa y Asia occidental y meridional de las de Asia oriental y sudoriental.[^15]
 
 <figure id="Figure_4" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Early_Migration_to_China/map.jpg">
 </figure>
 
-The Movius Line theory, which started in 1948 and has predominated for decades, is distinctly different than the depiction of early human history published in _The Urantia Book_ in 1955. The Smithsonian Institute article directly acknowledges that the new discoveries require us to let go of the Movius Line theory regarding the early migration routes and technologies of primitive humans. Though it has taken over forty years, the continued study and development of the archaeological sites in China, in conjunction with the more open and cooperative relations between east and west, is starting to reveal a picture of early human activity more closely aligned with _The Urantia Book_'s portrayal of this time period.
+La teoría de la línea Movius, que comenzó en 1948 y ha predominado durante décadas, es claramente diferente de la descripción de la historia humana primitiva publicada en _El Libro de Urantia_ en 1955. El artículo del Smithsonian Institute reconoce directamente que los nuevos descubrimientos requieren que dejemos de lado el Teoría de la línea Movius sobre las primeras rutas y tecnologías de migración de humanos primitivos. Aunque ha llevado más de cuarenta años, el continuo estudio y desarrollo de los sitios arqueológicos en China, junto con las relaciones más abiertas y cooperativas entre oriente y occidente, está comenzando a revelar una imagen de la actividad humana primitiva más estrechamente alineada con la descripción de _El Libro de Urantia_ de este período de tiempo.
 
-## External links
+## Enlaces externos
 
-- [This report in UBTheNews webpage](https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf)
-- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-- [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Peking_Man.pdf)
+- [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://www.greatarchaeology.com/java_man.htm
 - http://en.wikipedia.org/wiki/Homo_erectus_pekinensis
 - http://www.newworldencyclopedia.org/entry/Java_man
 - http://humanorigins.si.edu/research/asian-research/earliest-humans-china
 - http://humanorigins.si.edu/evidence/dating
 - http://www.nature.com/news/2009/090311/full/news.2009.149.html
-- http://www.archaeologydaily.com/news/20090312737/The-Date-of-Birth-for-quotPeking-ManquotGets-Pushed-Back-200000-Years.html
-- http://blogs.discovermagazine.com/80beats/2009/03/11/the-date-of-birth-for-peking-man-gets-pushed-back-200000-years/ 
+- http://www.archaeologydaily.com/news/20090312737/The-Date-of-Birth-for-quotPeking-Manquot-Gets-Pushed-Back-200000-Years.html
+- http://blogs.discovermagazine.com/80beats/2009/03/11/the-date-of-birth-for-peking-man-gets-pushed-back-200000-years/
 - http://www.archaeologydaily.com/news/200908121889/Evidence-for-Use-of-Fire-Found-at-Peking-Man-Site.html
 - http://www.unesco.org/ext/field/beijing/whc/pkm-site.htm
 - http://www.newstrackindia.com/newsdetails/116718
-- http://www.uiowa.edu/bioanth/courses/Peking1.htm
-- http://www.archaeologydaily.com/news/201104306509/Did-Peking-Man-wield-a-spear.htmlhttp://www.unreportedheritagenews.com/2011/04/did-peking-man-wield-spear-newresearch.html
+- http://www.uiowa.edu/~bioanth/courses/Peking1.htm
+- http://www.archaeologydaily.com/news/201104306509/Did-Peking-Man-wield-a-spear.html
+- http://www.unreportedheritagenews.com/2011/04/did-peking-man-wield-spear-new-research.html
 - http://www.archaeologydaily.com/news/200912032771/Mystery-Still-Shrouds-Peking-Man-80-Years-after-Discovery.html
 
 <br>
@@ -199,8 +198,8 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>
         <td></td>
@@ -214,17 +213,17 @@ The Movius Line theory, which started in 1948 and has predominated for decades, 
 ## Footnotes
 
 [^1]: http://news.bbc.co.uk/2/hi/science/nature/7937351.stm
-[^2]: <a id="a214_6"></a>[UB 64:0.2](/en/The_Urantia_Book/64#p0_2)
-[^3]: <a id="a215_6"></a>[UB 64:3.4,5](/en/The_Urantia_Book/64#p3_4)
+[^2]: <a id="a214_6"></a>[LU 64:0.2](/es/The_Urantia_Book/64#p0_2)
+[^3]: <a id="a215_6"></a>[LU 64:3.4,5](/es/The_Urantia_Book/64#p3_4)
 [^4]: http://www.ubthenews.com/taxonomy.htm
-[^5]: <a id="a217_6"></a>[UB 64:4.1](/en/The_Urantia_Book/64#p4_1)
+[^5]: <a id="a217_6"></a>[LU 64:4.1](/es/The_Urantia_Book/64#p4_1)
 [^6]: http://www.nature.com/nature/journal/v458/n7235/full/nature07741.html
-[^7]: <a id="a219_6"></a>[UB 64:1.1-4](/en/The_Urantia_Book/64#p1_1)
-[^8]: <a id="a220_6"></a>[UB 64:4.2,3](/en/The_Urantia_Book/64#p4_2)
-[^9]: <a id="a221_6"></a>[UB 64:4.4-6](/en/The_Urantia_Book/64#p4_4)
-[^10]: <a id="a222_7"></a>[UB 64:4.3](/en/The_Urantia_Book/64#p4_3)
-[^11]: <a id="a223_7"></a>[UB 63:1.3](/en/The_Urantia_Book/63#p1_3)
-[^12]: <a id="a224_7"></a>[UB 68:5.4](/en/The_Urantia_Book/68#p5_4)
+[^7]: <a id="a219_6"></a>[LU 64:1.1-4](/es/The_Urantia_Book/64#p1_1)
+[^8]: <a id="a220_6"></a>[LU 64:4.2,3](/es/The_Urantia_Book/64#p4_2)
+[^9]: <a id="a221_6"></a>[LU 64:4.4-6](/es/The_Urantia_Book/64#p4_4)
+[^10]: <a id="a222_7"></a>[LU 64:4.3](/es/The_Urantia_Book/64#p4_3)
+[^11]: <a id="a223_7"></a>[LU 63:1.3](/es/The_Urantia_Book/63#p1_3)
+[^12]: <a id="a224_7"></a>[LU 68:5.4](/es/The_Urantia_Book/68#p5_4)
 [^13]: http://www.history.com/news/2011/04/28/did-homo-erectus-craft-complex-tools-and-weapons/
 [^14]: http://humanorigins.si.edu/research/asian-research/bose-china
 [^15]: http://en.wikipedia.org/wiki/Movius_Line

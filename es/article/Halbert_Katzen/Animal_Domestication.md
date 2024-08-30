@@ -1,5 +1,5 @@
 ---
-title: "Animal Domestication Report (preliminary information)"
+title: "La domesticación de los animales (información preliminar)"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -16,8 +16,8 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>
         <td></td>
@@ -26,77 +26,79 @@ dateCreated: 2021-11-28T14:02:03.086Z
   </table>
 </figure>
 
-## Animal Domestication Report (preliminary information)
+## La domesticación de los animales (información preliminar)
 
-Identifying topics that need to have reports written about them takes a lot less time than writing them up. Consequently, we have an increasing backlog of reports to write. While somewhat frustrating, this is, of course, much better than the alternative! Below are some of the quotes from _The Urantia Book_ and links to information that we used to identify the topic. Please get in touch if you have additional information that is relevant to the preparation of one of our upcoming reports.
+Identificar temas sobre los que es necesario escribir informes lleva mucho menos tiempo que redactarlos. En consecuencia, cada vez tenemos más informes pendientes de redactar. Aunque esto es un poco frustrante, ¡por supuesto es mucho mejor que la alternativa! A continuación se muestran algunas citas de _El libro de Urantia_ y enlaces a la información que utilizamos para identificar el tema. Póngase en contacto con nosotros si tiene información adicional que sea relevante para la preparación de uno de nuestros próximos informes.
 
-## Quotes from _The Urantia Book_ about the early domestication of animals.
+## Citas de _El libro de Urantia_ sobre la domesticación temprana de los animales.
 
-> 2. The board of animal domestication and utilization. This council was dedicated to the task of selecting and breeding those animals best adapted to help human beings in bearing burdens and transporting themselves, to supply food, and later on to be of service in the cultivation of the soil. This able corps was directed by Bon.
+> 2. _El consejo de la domesticación y utilización de los animales._ Este consejo estaba dedicado a la tarea de seleccionar y criar a aquellos animales que estaban mejor adaptados para ayudar a los seres humanos a llevar las cargas y trasportarlos a ellos mismos, para servir de alimento, y más adelante para utilizarlos en el cultivo de la tierra. Este cuerpo competente estaba dirigido por Bon.
 > 
-> Several types of useful animals, now extinct, were tamed, together with some that have continued as domesticated animals to the present day. Man had long lived with the dog, and the blue man had already been successful in taming the elephant. The cow was so improved by careful breeding as to become a valuable source of food; butter and cheese became common articles of human diet. Men were taught to use oxen for burden bearing, but the horse was not domesticated until a later date. The members of this corps first taught men to use the wheel for the facilitation of traction. <a id="a36_582"></a>[UB 66:5.5](/en/The_Urantia_Book/66#p5_5)
+> Se domesticaron diversos tipos de animales útiles ya extintos, así como otros que han continuado siendo animales domésticos hasta nuestros días. El hombre llevaba mucho tiempo viviendo en compañía del perro, y el hombre azul ya había logrado domar al elefante. La vaca había mejorado tanto gracias a una cría esmerada que se convirtió en una valiosa fuente de alimentación; la mantequilla y el queso se volvieron artículos corrientes en el régimen alimenticio humano. Los hombres aprendieron a emplear los bueyes para llevar las cargas, pero el caballo no fue domesticado hasta una fecha posterior. Los miembros de este cuerpo fueron los primeros que enseñaron a los hombres a utilizar la rueda para facilitar la tracción.[LU 66:5.5](/es/The_Urantia_Book/66#p5_5)
 > 
-> It was in these days that carrier pigeons were first used, being taken on long journeys for the purpose of sending messages or calls for help. Bon's group were successful in training the great fandors as passenger birds, but they became extinct more than thirty thousand years ago. <a id="a38_284"></a>[UB 66:5.4-6](/en/The_Urantia_Book/66#p5_4)
+> Fue en esta época cuando se utilizaron por primera vez las palomas mensajeras; se llevaban en los viajes largos para enviar mensajes o pedir ayuda. El grupo de Bon consiguió amaestrar a los grandes fándores como aves de pasajeros, pero éstos se extinguieron hace más de treinta mil años.[LU 66:5.4-6](/es/The_Urantia_Book/66#p5_4)
 
-> 1\. **THE UTILIZATION OF ANIMALS**
+> 1\. **La utilización de los animales**
 
-> To start with, the entire animal world was man's enemy; human beings had to learn to protect themselves from the beasts. First, man ate the animals but later learned to domesticate and make them serve him.
+> Al principio, todo el reino animal era enemigo del hombre; los seres humanos tuvieron que aprender a protegerse de las bestias. El hombre empezó primero a comerse a los animales, pero más tarde aprendió a domesticarlos y a ponerlos a su servicio.
 > 
-> The domestication of animals came about accidentally. The savage would hunt herds much as the American Indians hunted the bison. By surrounding the herd they could keep control of the animals, thus being able to kill them as they were required for food. Later, corrals were constructed, and entire herds would be captured.
+> La domesticación de los animales se produjo por casualidad. El salvaje cazaba las manadas poco más o menos como los indios norteamericanos cazaban el bisonte. Rodeaban la manada y podían mantener así el control de los animales, pudiendo matarlos entonces a medida que necesitaban comida. Más tarde construyeron corrales y capturaron manadas enteras.
 > 
-> It was easy to tame some animals, but like the elephant, many of them would not reproduce in captivity. Still further on it was discovered that certain species of animals would submit to man's presence, and that they would reproduce in captivity. The domestication of animals was thus promoted by selective breeding, an art which has made great progress since the days of Dalamatia.
+> Fue fácil domar a algunos animales, pero muchos de ellos, al igual que el elefante, no se reproducían en cautividad. Posteriormente se descubrió además que algunas especies de animales se sometían a la presencia del hombre y se reproducían en cautividad. La domesticación de los animales se desarrolló así mediante la cría selectiva, un arte que ha hecho grandes progresos desde los tiempos de Dalamatia.
 > 
-> The dog was the first animal to be domesticated, and the difficult experience of taming it began when a certain dog, after following a hunter around all day, actually went home with him. For ages dogs were used for food, hunting, transportation, and companionship. At first dogs only howled, but later on they learned to bark. The dog's keen sense of smell led to the notion it could see spirits, and thus arose the dog-fetish cults. The employment of watchdogs made it first possible for the whole clan to sleep at night. It then became the custom to employ watchdogs to protect the home against spirits as well as material enemies. When the dog barked, man or beast approached, but when the dog howled, spirits were near. Even now many still believe that a dog's howling at night betokens death.
+> El perro fue el primer animal que se domesticó, y la difícil experiencia de domarlo empezó cuando cierto perro, después de seguir a un cazador durante todo el día, lo acompañó efectivamente hasta su casa. Durante miles de años, los perros se utilizaron como alimento, para la caza y el transporte, y como animales de compañía. Al principio los perros se limitaban a aullar, pero más tarde aprendieron a ladrar. El agudo sentido del olfato del perro condujo a la idea de que podía ver los espíritus, y así es como surgieron los cultos de los perros fetiches. El empleo de perros guardianes permitió por primera vez que todo el clan pudiera dormir por la noche. Entonces se estableció la costumbre de emplear los perros guardianes para proteger el hogar contra los espíritus, así como contra los enemigos materiales. Cuando el perro ladraba, algún hombre o alguna bestia se acercaba, pero cuando aullaba, los espíritus andaban cerca. Incluso hoy en día, mucha gente cree todavía que el aullido de un perro por la noche es un presagio de muerte.
 > 
-> When man was a hunter, he was fairly kind to woman, but after the domestication of animals, coupled with the Caligastia confusion, many tribes shamefully treated their women. They treated them altogether too much as they treated their animals. Man's brutal treatment of woman constitutes one of the darkest chapters of human history. <a id="a50_336"></a>[UB 69:7.1-5](/en/The_Urantia_Book/69#p7_1)
+> Cuando el hombre era cazador, era bastante amable con la mujer, pero después de la domesticación de los animales, unido a la confusión ocasionada por Caligastia, muchas tribus trataron a sus mujeres de manera vergonzosa. Las trataron en conjunto de manera muy similar a como trataban a sus animales. El tratamiento brutal que los hombres han infligido a las mujeres constituye uno de los capítulos más sombríos de la historia humana.[LU 69:7.1-5](/es/The_Urantia_Book/69#p7_1)
 
-> Adam's caravan had carried the seeds and bulbs of hundreds of plants and cereals of the first garden with them to the land between the rivers; they also had brought along extensive herds and some of all the domesticated animals. Because of this they possessed great advantages over the surrounding tribes. They enjoyed many of the benefits of the previous culture of the original Garden. <a id="a52_390"></a>[UB 76:3.6](/en/The_Urantia_Book/76#p3_6)
+> La caravana de Adán había transportado con ella las semillas y los bulbos de cientos de plantas y cereales del primer jardín hasta la tierra situada entre los dos ríos; también habían llevado consigo grandes rebaños y algunos ejemplares de todos los animales domesticados. Esto les proporcionaba grandes ventajas sobre las tribus que los rodeaban. Disfrutaban de muchos beneficios de la cultura anterior del Jardín original. [LU 76:3.6](/es/The_Urantia_Book/76#p3_6)
 
-> 1\. **THE ADAMITES ENTER EUROPE** (Adamites =35,000 BC to 15,000 BC)
+> 1\. **Los Adamitas entran en Europa** (Adamitas = 35.000 a. C. a 15.000 a. C.)
+> 
+> Antes de que los últimos anditas fueran expulsados del valle del Éufrates, muchos hermanos suyos habían penetrado en Europa como aventureros, educadores, comerciantes y guerreros. Durante los primeros tiempos de la raza violeta, la depresión mediterránea estaba protegida por el istmo de Gibraltar y el puente terrestre de Sicilia. Una parte del comercio marítimo inicial del hombre se estableció en estos lagos interiores, donde los hombres azules del norte y los saharianos del sur se encontraron con los noditas y los adamitas del este.
+> 
+> Los noditas habían establecido uno de sus centros culturales más extensos en la depresión oriental del Mediterráneo, y desde allí habían penetrado un poco en el sur de Europa pero principalmente en el norte de África. Los sirios nodito-andonitas de cabeza ancha introdujeron muy pronto la alfarería y la agricultura en sus colonias del delta del Nilo, el cual se elevaba lentamente. Importaron también ovejas, cabras, ganado y otros animales domésticos, e introdujeron métodos muy perfeccionados para trabajar los metales, ya que Siria era entonces el centro de esta industria.
+> 
+> Egipto recibió durante más de treinta mil años una oleada continua de mesopotámicos que trajeron su arte y su cultura para enriquecer la del valle del Nilo. Pero la entrada de una gran cantidad de pueblos del Sahara deterioró enormemente la antigua civilización que existía a lo largo del Nilo, de manera que Egipto alcanzó su nivel cultural más bajo hace unos quince mil años.
+> 
+> Pero en tiempos anteriores, los adamitas habían encontrado pocos obstáculos que impidieran su emigración hacia el oeste. El Sahara era un pastizal abierto sembrado de pastores y agricultores. Estos saharianos nunca se dedicaron a la manufactura, ni tampoco fueron constructores de ciudades. Formaban un grupo índigo-negro que poseía abundantes linajes de las razas verde y anaranjada ya extintas. Pero recibieron una cantidad muy limitada de la herencia violeta antes de que el levantamiento de las tierras y el cambio de los vientos cargados de humedad dispersaran los restos de esta civilización próspera y pacífica.[LU 80:1.1-4](/es/The_Urantia_Book/80#p1_1)
 
-> Before the last Andites were driven out of the Euphrates valley, many of their brethren had entered Europe as adventurers, teachers, traders, and warriors. During the earlier days of the violet race the Mediterranean trough was protected by the Gibraltar isthmus and the Sicilian land bridge. Some of man's very early maritime commerce was established on these inland lakes, where blue men from the north and the Saharans from the south met Nodites and Adamites from the east.
+> **Desarrollo de la civilización moderna**
+> 2\. **Los instrumentos de la civilización**
 > 
-> In the eastern trough of the Mediterranean the Nodites had established one of their most extensive cultures and from these centers had penetrated somewhat into southern Europe but more especially into northern Africa. The broad-headed Nodite-Andonite Syrians very early introduced pottery and agriculture in connection with their settlements on the slowly rising Nile delta. They also imported sheep, goats, cattle, and other domesticated animals and brought in greatly improved methods of metalworking, Syria then being the center of that industry.
+> El crecimiento de la cultura está basado en el desarrollo de los instrumentos de la civilización. Y los instrumentos que el hombre utilizó para salir del estado salvaje fueron eficaces en la medida exacta en que liberaron las capacidades del hombre para poder realizar otras tareas más elevadas.
 > 
-> For more than thirty thousand years Egypt received a steady stream of Mesopotamians, who brought along their art and culture to enrich that of the Nile valley. But the ingress of large numbers of the Sahara peoples greatly deteriorated the early civilization along the Nile so that Egypt reached its lowest cultural level some fifteen thousand years ago.
+> Vosotros que vivís ahora en un ambiente moderno de cultura en ciernes y de progreso incipiente en asuntos sociales, vosotros que disponéis realmente de algunos ratos libres para _pensar_ acerca de la sociedad y la civilización, no debéis pasar por alto el hecho de que vuestros antepasados primitivos tenían poco o ningún tiempo libre para poder dedicarlo a la reflexión cuidadosa y a la meditación social.
 > 
-> But during earlier times there was little to hinder the westward migration of the Adamites. The Sahara was an open grazing land overspread by herders and agriculturists. These Saharans never engaged in manufacture, nor were they city builders. They were an indigo-black group which carried extensive strains of the extinct green and orange races. But they received a very limited amount of the violet inheritance before the upthrust of land and the shifting water-laden winds dispersed the remnants of this prosperous and peaceful civilization .<a id="a62_547"></a>[UB 80:1.1-4](/en/The_Urantia_Book/80#p1_1)
+> Los cuatro primeros grandes progresos de la civilización humana fueron:
+> 
+> 1. El dominio del fuego.
+> 2. La domesticación de los animales.
+> 3. La esclavización de los cautivos.
+> 4. La propiedad privada.
+> 
+> Aunque el fuego, el primer gran descubrimiento, abrió finalmente las puertas del mundo científico, en ese sentido tenía poco valor para el hombre primitivo. Éste se negaba a reconocer que las causas naturales explican los fenómenos vulgares.
+> 
+> Cuando se le preguntaba de dónde venía el fuego, la simple historia de Andón y el pedernal fue rápidamente sustituida por la leyenda de cómo cierto Prometeo lo había robado del cielo. Los antiguos buscaban una explicación sobrenatural para todos los fenómenos naturales que no se encontraban al alcance de su comprensión personal, y muchos modernos continúan haciendo lo mismo. La despersonalización de los fenómenos llamados naturales ha necesitado miles de años, y aún no ha finalizado. Pero la búsqueda sincera, honrada y audaz de las causas verdaderas dio origen a la ciencia moderna: convirtió la astrología en astronomía, la alquimia en química y la magia en medicina.
+> 
+> Durante la era anterior a las máquinas, la única manera que tenía el hombre de realizar un trabajo sin hacerlo él mismo consistía en utilizar un animal. La domesticación de los animales puso en sus manos unas herramientas vivientes cuya utilización inteligente preparó el camino para la agricultura y el transporte. Sin estos animales, el hombre no podría haberse elevado desde su estado primitivo hasta los niveles de la civilización posterior.
+> 
+> La mayoría de los animales que convenían mejor para la domesticación se encontraban en Asia, especialmente en las regiones centrales y del suroeste. Ésta fue una de las razones por las cuales la civilización progresó más rápidamente en esta zona que en otras partes del mundo. Muchos de estos animales habían sido domesticados anteriormente dos veces, y en la época de los anditas fueron domesticados una vez más. Pero el perro había permanecido con los cazadores desde que había sido adoptado por el hombre azul muchísimo tiempo antes.
+> 
+> Los anditas del Turquestán fueron los primeros pueblos que domesticaron una gran cantidad de caballos, y ésta es otra razón por la que su cultura predominó durante tanto tiempo. Hacia el año 5000 a. de J.C., los campesinos de Mesopotamia, el Turquestán y China habían empezado a criar ovejas, cabras, vacas, camellos, caballos, aves de corral y elefantes. Empleaban como bestias de carga el buey, el camello, el caballo y el yak. El hombre mismo fue en cierto momento la bestia de carga. Un jefe de la raza azul tuvo en cierta ocasión una colonia de porteadores de cargas de cien mil hombres.[LU 81:2.1-7](/es/The_Urantia_Book/81#p2_1)
 
-> **DEVELOPMENT OF MODERN CIVILIZATION**
-> **2\. THE TOOLS OF CIVILIZATION**
+## Enlaces externos
 
-> The growth of culture is predicated upon the development of the tools of civilization. And the tools which man utilized in his ascent from savagery were effective just to the extent that they released man power for the accomplishment of higher tasks.
-> 
-> You who now live amid latter-day scenes of budding culture and beginning progress in social affairs, who actually have some little spare time in which to think about society and civilization, must not overlook the fact that your early ancestors had little or no leisure which could be devoted to thoughtful reflection and social thinking.
-> 
-> The first four great advances in human civilization were:
-> 
-> 1. The taming of fire.
-> 2. The domestication of animals.
-> 3. The enslavement of captives.
-> 4. Private property.
-> 
-> While fire, the first great discovery, eventually unlocked the doors of the scientific world, it was of little value in this regard to primitive man. He refused to recognize natural causes as explanations for commonplace phenomena.
-> 
-> When asked where fire came from, the simple story of Andon and the flint was soon replaced by the legend of how some Prometheus stole it from heaven. The ancients sought a supernatural explanation for all natural phenomena not within the range of their personal comprehension; and many moderns continue to do this. The depersonalization of so-called natural phenomena has required ages, and it is not yet completed. But the frank, honest, and fearless search for true causes gave birth to modern science: It turned astrology into astronomy, alchemy into chemistry, and magic into medicine.
-> 
-> In the premachine age the only way in which man could accomplish work without doing it himself was to use an animal. Domestication of animals placed in his hands living tools, the intelligent use of which prepared the way for both agriculture and transportation. And without these animals man could not have risen from his primitive estate to the levels of subsequent civilization.
-> 
-> Most of the animals best suited to domestication were found in Asia, especially in the central to southwest regions. This was one reason why civilization progressed faster in that locality than in other parts of the world. Many of these animals had been twice before domesticated, and in the Andite age they were retamed once again. But the dog had remained with the hunters ever since being adopted by the blue man long, long before.
-> 
-> The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a86_371"></a>[UB 81:2.1-7](/en/The_Urantia_Book/81#p2_1)
-
-## External Links
-
-- [This report in UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
-- [Other reports in UBTheNews webpage](https://ubannotated.com/ubthenews/reports_list/)
-- [Topical Studies in UBTheNews webpage]([UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/))
+- [Este informe en el sitio web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
+- [Otros informes en el sitio web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Estudios Temáticos en el sitio UBTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
 - http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text
 - http://www.nature.com/nature/journal/v418/n6898/full/nature01019.html
-- http://archaeology.about.com/od/dterms/a/domestication.htm chart for various animals http://hcs.osu.edu/hcs/tmi/hcs210/hortorigins/BrDomestic.html Britannica 1990
+- http://archaeology.about.com/od/dterms/a/domestication.htm gráfico de los distintos animales
+- http://hcs.osu.edu/hcs/tmi/hcs210/hortorigins/BrDomestic.html Britannica 1990
 - http://darwin-online.org.uk/pdf/1868_Variation_F877.1.pdf
 - http://rspb.royalsocietypublishing.org/content/272/1577/2211.short
-- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1559946/ 2005 three maternal lineages for sheep http://en.wikipedia.org/wiki/History_of_sheep
+- http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1559946/ 2005 tres líneas maternas de ovejas.
+- http://en.wikipedia.org/wiki/History_of_sheep
 
 <br>
 
@@ -106,8 +108,8 @@ Identifying topics that need to have reports written about them takes a lot less
       <tr>
         <td></td>
         <td>
-        <a href="/en/index/articles_ubannotated">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        <a href="/es/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Índice</span>
         </a>
         </td>
         <td></td>
