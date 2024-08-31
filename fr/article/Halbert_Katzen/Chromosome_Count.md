@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Les auteurs du Livre d'Urantia affirment qu'il existe « quarante-huit unités de contrôle des modèles - déterminants des traits - dans les cellules sexuelles de la reproduction humaine ». En 1955, lorsque le livre fut publié pour la première fois, la communauté scientifique générale croyait que les êtres humains avaient quarante-huit chromosomes ; en 1956, les chercheurs déterminèrent qu'il y avait en fait quarante-six chromosomes. Les cellules sexuelles sont distinctes des autres cellules (somatiques). Cette distinction, prise à la lumière de la référence au nombre total d'« unités de contrôle des modèles », soutient une interprétation du Livre d'Urantia qui est cohérente avec l'acceptation désormais universelle de quarante-six comme nombre correct de chromosomes humains.
 
@@ -28,7 +43,7 @@ Cet enregistrement aborde la section du Livre d'Urantia qui est à la base du Ra
 
 Préparé par Kermit O. Anderson, M.Ed., MA, Chris Halvorson, Ph.D., et Halbert Katzen, J.D. [Mis à jour le 30/10/08]
 
-Les auteurs du Livre d'Urantia déclarent : « Sur Urantia, il y a quarante-huit unités de contrôle de modèle – déterminants de traits – dans les cellules sexuelles de la reproduction humaine. »[^1] Lorsque Le Livre d'Urantia fut publié en 1955, on croyait généralement que les êtres humains avaient quarante-huit chromosomes dans chaque cellule du corps. Grâce à des techniques de recherche plus avancées, les scientifiques déterminèrent en 1956 que les cellules humaines avaient 46 chromosomes. Cela conduisit certaines personnes à conclure que les auteurs du Livre d'Urantia s'étaient alignés de manière incorrecte sur les croyances erronées de 1955. Cependant, une analyse plus attentive de cette déclaration et d'autres déclarations du livre révèle que les auteurs ont habilement évité de soutenir la croyance erronée sur le nombre de chromosomes et ont fourni des informations qui étaient cohérentes avec ce qui allait bientôt être déterminé comme le nombre correct de chromosomes.
+Les auteurs du Livre d'Urantia déclarent : « Sur Urantia, il y a quarante-huit unités de contrôle de modèle – déterminants de traits – dans les cellules sexuelles de la reproduction humaine. »[^1] Lorsque _Le Livre d'Urantia_ fut publié en 1955, on croyait généralement que les êtres humains avaient quarante-huit chromosomes dans chaque cellule du corps. Grâce à des techniques de recherche plus avancées, les scientifiques déterminèrent en 1956 que les cellules humaines avaient 46 chromosomes. Cela conduisit certaines personnes à conclure que les auteurs du Livre d'Urantia s'étaient alignés de manière incorrecte sur les croyances erronées de 1955. Cependant, une analyse plus attentive de cette déclaration et d'autres déclarations du livre révèle que les auteurs ont habilement évité de soutenir la croyance erronée sur le nombre de chromosomes et ont fourni des informations qui étaient cohérentes avec ce qui allait bientôt être déterminé comme le nombre correct de chromosomes.
 
 Dans la section du livre intitulée « Les limites de la révélation », les auteurs déclarent : « Nous ne sommes pas libres d’anticiper les découvertes scientifiques de mille ans. » [^2] Mais plus loin dans cette même section, ils ajoutent :
 
@@ -39,7 +54,7 @@ Bien que les déclarations faisant référence à la cosmologie ne soient jamais
 
 La référence à la cosmologie — l’étude de l’univers physique considéré comme une totalité de phénomènes dans le temps et l’espace — peut à première vue sembler un peu trop englobante par rapport à l’affirmation selon laquelle il existe « quarante-huit unités de contrôle de modèle — déterminants de traits — dans les cellules sexuelles de la reproduction humaine ». Cependant, cette information est fournie dans le document 36 : « Les Porteurs de Vie » qui concerne un ordre d’êtres responsables de la conception et de l’implantation de la vie évolutive sur des mondes habitables et apparaît dans un paragraphe notant que le « nombre douze, avec ses subdivisions et ses multiples, traverse tous les modèles de vie de base ». [^4]
 
-Avant d'entrer dans le vif du sujet concernant les « déterminants de traits », il convient de noter que le mot « chromosomes » n'est pas utilisé dans ce contexte, mais il est utilisé ailleurs dans le livre. [^5] Bien que la prémisse sous-jacente dans la préparation des rapports d'LUtheNEWS soit que _Le Livre d'Urantia_ n'a pas droit au « bénéfice du doute », en toute honnêteté, il ne faut pas non plus présumer que les auteurs voulaient dire autre chose que ce qui a été déclaré. Si les auteurs avaient voulu faire référence aux chromosomes, il est clair qu'ils étaient suffisamment familiers avec le terme, car il était utilisé dans un autre contexte.
+Avant d'entrer dans le vif du sujet concernant les « déterminants de traits », il convient de noter que le mot « chromosomes » n'est pas utilisé dans ce contexte, mais il est utilisé ailleurs dans le livre. [^5] Bien que la prémisse sous-jacente dans la préparation des rapports d'UBtheNEWS soit que _Le Livre d'Urantia_ n'a pas droit au « bénéfice du doute », en toute honnêteté, il ne faut pas non plus présumer que les auteurs voulaient dire autre chose que ce qui a été déclaré. Si les auteurs avaient voulu faire référence aux chromosomes, il est clair qu'ils étaient suffisamment familiers avec le terme, car il était utilisé dans un autre contexte.
 
 Un examen de l'histoire de la recherche concernant les chromosomes et l'ADN est nécessaire afin d'apprécier la déclaration du _Livre d'Urantia_ sur les déterminants des traits. Extrait de Wikipédia :
 
@@ -72,18 +87,34 @@ Ainsi, lors de sa publication en 1955, les auteurs du Livre d'Urantia ont fait u
 
 ## Liens externes
 
-- [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Chromosome.pdf)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://papa.indstate.edu/amcbt/volume_22/v22-2p3-9.pdf historique complet de la recherche sur les chromosomes humains
 - http://www.ubfellowship.org/archive/science/kanders1.htm ceci est un article de 1988 de Kermit Anderson sur le sujet
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <br>
 
-## Notes de bas de page :
+## Notes de bas de page :
 
 [^1]: [LU 36:2.4](/fr/The_Urantia_Book/36#p2_4) Les citations du _Livre d'Urantia_ sont fournies sous forme d'Article:Section.Paragraphe. Les « Articles » peuvent être considérés comme des « Chapitres ». « Urantia » est un mot inventé dont le sens étymologique est « (votre) place dans les cieux ».
 

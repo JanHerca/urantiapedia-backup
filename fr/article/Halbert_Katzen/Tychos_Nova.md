@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2009 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D. avec l'aide de Chris Halvorson, Ph.D.
 [Mis à jour le 04/10/09]
@@ -19,9 +34,9 @@ Préparé par Halbert Katzen, J.D. avec l'aide de Chris Halvorson, Ph.D.
 <img src="/image/article/Halbert_Katzen/Tychos_Nova/nova.jpg">
 </figure>
 
-Le Livre d'Urantia déclare que « la plus récente des éruptions cosmiques majeures... fut l'extraordinaire explosion d'une double étoile, dont la lumière atteignit [la Terre] en 1572 après J.-C. Cette conflagration était si intense que l'explosion était clairement visible en plein jour ». L'explosion à laquelle se réfère le Livre d'Urantia est connue sous le nom de Nova de Tycho Brahe. Ce n'est que plusieurs décennies après la publication du Livre d'Urantia que les astronomes ont déterminé que, selon toute vraisemblance, une relation d'étoile double (ou binaire), dans laquelle une étoile finit par accréter une quantité critique de matière de l'autre étoile, est responsable de l'explosion de cette supernova. En 2004, des chercheurs ont annoncé qu'ils pensaient avoir découvert le vestige de l'étoile compagne qui a donné lieu à cette explosion.
+_Le Livre d'Urantia_ déclare que « la plus récente des éruptions cosmiques majeures... fut l'extraordinaire explosion d'une double étoile, dont la lumière atteignit [la Terre] en 1572 après J.-C. Cette conflagration était si intense que l'explosion était clairement visible en plein jour ». L'explosion à laquelle se réfère le Livre d'Urantia est connue sous le nom de Nova de Tycho Brahe. Ce n'est que plusieurs décennies après la publication du Livre d'Urantia que les astronomes ont déterminé que, selon toute vraisemblance, une relation d'étoile double (ou binaire), dans laquelle une étoile finit par accréter une quantité critique de matière de l'autre étoile, est responsable de l'explosion de cette supernova. En 2004, des chercheurs ont annoncé qu'ils pensaient avoir découvert le vestige de l'étoile compagne qui a donné lieu à cette explosion.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Présentation de Tycho's Nova
 
@@ -52,15 +67,15 @@ _Le Livre d'Urantia_ avait plus d'une décennie d'avance sur la science lorsqu'i
 
 ## Rapport Nova de Tycho
 
-La plupart des rapports d'LUtheNEWS corroborent des informations trouvées dans le tiers médian du Livre d'Urantia, L'Histoire d'Urantia [Terre], où est relatée l'histoire de notre planète. Ce rapport, cependant, se rapporte à un commentaire fait plus tôt dans le livre, qui décrit en détail les aspects de notre « univers local », notre section locale de la galaxie. Le chapitre 41, Aspects physiques de l'univers local, fait les commentaires suivants sur les soleils dans la section 3, Nos associés étoilés :
+La plupart des rapports d'UBtheNEWS corroborent des informations trouvées dans le tiers médian du Livre d'Urantia, L'Histoire d'Urantia [Terre], où est relatée l'histoire de notre planète. Ce rapport, cependant, se rapporte à un commentaire fait plus tôt dans le livre, qui décrit en détail les aspects de notre « univers local », notre section locale de la galaxie. Le chapitre 41, Aspects physiques de l'univers local, fait les commentaires suivants sur les soleils dans la section 3, Nos associés étoilés :
 
 > Quand une roue-mère nébuleuse projette des soleils trop grands, ceux-ci ne tardent pas à se fractionner ou à former des étoiles doubles. À l’origine, tous les soleils sont purement gazeux, bien qu’ils puissent exister passagèrement plus tard à l’état semi-liquide. Lorsque votre soleil atteignit cet état quasi liquide de pression supergazeuse, il n’était pas assez grand pour se scinder par l’équateur, ce qui est l’un des modes de formation des étoiles doubles.
 > 
 > Quand les sphères ignées ont moins du dixième de la taille de votre soleil, elles se contractent, se condensent et se refroidissent rapidement. Quand les soleils ont plus de trente fois sa taille — ou plutôt trente fois son contenu global de matériaux effectifs — ces soleils se scindent promptement en deux corps séparés qui peuvent soit devenir les centres de nouveaux systèmes, soit rester dans l’emprise de leur champ de gravité réciproque et tourner autour d’un centre commun, conformément à un type d’étoiles doubles.
 > 
-> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. ([LU 41:3.3-5](/fr/The_Urantia_Book/41#p3_3))
+> La plus récente des éruptions cosmiques majeures dans Orvonton fut l’extraordinaire explosion d’une étoile double dont la lumière atteignit Urantia en 1572. La conflagration fut si intense que l’explosion était clairement visible en plein jour. ([LU 41:3.3-5](/fr/The_Urantia_Book/41#p3_3)) [^1]
 
-Pour apprécier à quel point cette déclaration, publiée dans Le Livre d'Urantia en 1955, était en avance sur la science, il faut acquérir à la fois une compréhension générale de la façon dont la science s'est développée concernant les supernovae et une compréhension spécifique de la façon dont cette histoire de la science se rapporte à la Nova de Tycho, l'explosion de supernovae de 1572 à laquelle Le Livre d'Urantia fait référence. Mais, avant d'apprendre l'histoire des supernovae en général et de la Nova de Tycho en particulier, nous commencerons par définir ce qu'est une étoile double. Les citations suivantes de Wikipédia fournissent une description de base d'une étoile double et indiquent comment « double » et « binaire » sont utilisés de manière interchangeable en référence à cet événement :
+Pour apprécier à quel point cette déclaration, publiée dans _Le Livre d'Urantia_ en 1955, était en avance sur la science, il faut acquérir à la fois une compréhension générale de la façon dont la science s'est développée concernant les supernovae et une compréhension spécifique de la façon dont cette histoire de la science se rapporte à la Nova de Tycho, l'explosion de supernovae de 1572 à laquelle _Le Livre d'Urantia_ fait référence. Mais, avant d'apprendre l'histoire des supernovae en général et de la Nova de Tycho en particulier, nous commencerons par définir ce qu'est une étoile double. Les citations suivantes de Wikipédia fournissent une description de base d'une étoile double et indiquent comment « double » et « binaire » sont utilisés de manière interchangeable en référence à cet événement :
 
 > Une étoile double se produit lorsque deux étoiles apparaissent proches l'une de l'autre vues depuis la Terre.
 > 
@@ -82,7 +97,7 @@ De même, des changements ont été apportés aux modèles de classification des
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Tychos_Nova/classification.jpg">
-<figcaption>Nova de Tycho : Type 1a</figcaption>
+<figcaption>Nova de Tycho : Type 1a</figcaption>
 </figure>
 
 La classification des supernovae en groupes provenant de systèmes d'étoiles simples et doubles n'a pas eu lieu avant 1955. Ce fait est référencé par Wikipédia dans l'histoire suivante de notre appréciation croissante de la nature des supernovae :
@@ -99,7 +114,7 @@ La véritable nature de la supernova est restée obscure pendant un certain temp
 > 
 > Le modèle standard moderne des explosions de supernovae de type Ia[ ] est fondé sur une proposition de Whelan et Iben en 1973, et repose sur un scénario de transfert de masse vers une étoile compagnon dégénérée. En particulier, la courbe de lumière de SN 1972e dans NGC 5253, qui a été observée pendant plus d’un an, a été suivie suffisamment longtemps pour découvrir qu’après sa large « bosse » de luminosité, la supernova s’est estompée à un rythme presque constant d’environ 0,01 magnitude par jour. Traduit dans un autre système d’unités, ce taux est presque le même que celui de la désintégration du cobalt-56 (56Co), dont la demi-vie est de 77 jours. Le modèle d’explosion dégénérée prédit la production d’environ une masse solaire de nickel-56 (56Ni) par l’étoile qui explose. Le 56Ni se désintègre avec une demi-vie de 6,8 jours en 56Co, et la désintégration du nickel et du cobalt fournit l'énergie rayonnée par la supernova à la fin de son histoire. L'accord entre la production totale d'énergie et le taux de disparition
 
-La déclaration ci-dessus sur la façon dont « Le modèle standard moderne pour les explosions de supernovae de type Ia est fondé sur une proposition de Whelan et Iben en 1973, et est basé sur un scénario de transfert de masse vers une étoile compagnon dégénérée », indique que l'affirmation faite par Le Livre d'Urantia en 1955 selon laquelle la Nova de Tycho avait une origine d'étoile double était environ vingt ans en avance sur son temps.
+La déclaration ci-dessus sur la façon dont « Le modèle standard moderne pour les explosions de supernovae de type Ia est fondé sur une proposition de Whelan et Iben en 1973, et est basé sur un scénario de transfert de masse vers une étoile compagnon dégénérée », indique que l'affirmation faite par _Le Livre d'Urantia_ en 1955 selon laquelle la Nova de Tycho avait une origine d'étoile double était environ vingt ans en avance sur son temps.
 
 En prévision de la fourniture d'informations sur certaines des recherches les plus récentes qui indiquent que les astronomes ont peut-être trouvé l'étoile compagne de Tycho, les chercheurs du groupe de télescopes Isaac Newton, dans un article de 2005 intitulé _La recherche de l'étoile compagne de la supernova 1572 de Tycho Brahe_ nous donnent un autre aperçu du développement de la théorie selon laquelle toutes les supernovae de type Ia ont une origine d'étoile double :
 
@@ -127,7 +142,7 @@ Depuis la découverte de sources localisées de rayonnement radioélectrique ext
 > 
 > Le rémanent ... est le résultat de l'explosion de supernova en 1572 qui a été étudiée par Tycho Brahe ... et a depuis été appelée la nova de Tycho, autrement connue sous le nom de Nova B Cassiopia. Le rémanent a été découvert pour la première fois en 1952 par Hanbury Brown et Hazard comme une source radio puissante. Par la suite, Minkowski a trouvé le rémanent optique associé à la source radio. La nova de Tycho est maintenant connue aussi comme une source puissante d'émission de rayons X. En analysant les anciens enregistrements de cette nova, Baade a conclu qu'au maximum elle avait une magnitude visuelle apparente de -4 , sa courbe de lumière correspondant à celle d'une supernova de type I. [^9]
 
-La société Sol Company fournit cet aperçu sur son site Web SolStation.com :
+La société Sol Company fournit cet aperçu sur son site Web SolStation.com :
 
 > Le reste de la supernova n'a été découvert qu'en 1952, grâce au radiotélescope de Jodrell Bank (Brown et Hazard, 1953), catalogué comme source radio 3C 10. Peu de temps après, de faibles traînées optiques au même endroit ont été découvertes à l'aide du télescope de 200 pouces du mont Palomar dans les années 1960, lorsqu'une nébulosité extrêmement faible a été identifiée sur des plaques photographiques. La coquille de gaz se dilate maintenant à environ 9 000 km par seconde (beaucoup plus que la vitesse d'expansion de la nébuleuse du Crabe d'environ 1 000 km par seconde) et a atteint environ 3,7 minutes d'arc (environ 24 années-lumière (al) de large selon une estimation). Cependant, aucune source ponctuelle centrale n'a été détectée dans le reste de supernova de Tycho (SNR), ce qui est cohérent avec d'autres preuves selon lesquelles le SNR a été créé par une supernova de type Ia. [^10]
 
@@ -209,17 +224,32 @@ Citations du Livre d'Urantia :
 - http://astronomy.swin.edu.au/cosmos/T/Type+la+Supernova+Progéniteurs
 - http://heasarc.gsfc.nasa.gov/docs/objects/snrs/snrstext.html#intro
 - http://arxiv.org/pdf/astro-ph/0309009
-- http://adsabs.harvard.edu/full/1993ApJ...413...67V (van den Bergh 1993 : Le Journal d'Astrophysique, 413 : 67-69, 10 août 1993)
+- http://adsabs.harvard.edu/full/1993ApJ...413...67V (van den Bergh 1993 : Le Journal d'Astrophysique, 413 : 67-69, 10 août 1993)
 
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/tychos-nova.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 
@@ -233,7 +263,7 @@ Citations du Livre d'Urantia :
 [^6]: http://www.ing.iac.es/PR/newsletter/news9/science7.html
 [^7]: B Cassiopeiae comme une supernova de type I (Contributions de l'observatoire du mont Wilson, Institution Carnegie de Washington, n° 711.), W. Baade, observatoire du mont Wilson, reçu le 13 juin 1945 [Lien](http://articles.adsabs.harvard.edu/cgi-bin/nph-iarticle_query?db_key=AST&bibcode=1945ApJ...102..309B&letter=.&classic=YES&defaultprint=YES\&whole_paper=YES\&page=309\&epage=309&send=Envoyer+PDF&filetype=.pdf)
 [^8]: http://www.nature.com/nature/journal/v170/n4322/abs/170364a0.html
-[^9] : Une introduction à l'astrophysique par Baidyanath Basu, p. 262
+[^9]: Une introduction à l'astrophysique par Baidyanath Basu, p. 262
 [^10]: http://www.solstation.com/x-objects/tycho-s.htm
 [^11]: http://en.wikipedia.org/wiki/SN_1572
 [^12]: http://www.ing.iac.es/PR/newsletter/news9/science7.html

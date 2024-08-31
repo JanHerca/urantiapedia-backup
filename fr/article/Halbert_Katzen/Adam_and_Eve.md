@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2018 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 _Par Halbert Katzen J.D._
 
@@ -26,13 +41,13 @@ Des recherches complémentaires comparant la propagation de l’introduction d�
 
 ### Déclarations dans *Le Livre d'Urantia* appuyées par la recherche
 
-*Le Livre d’Urantia* fournit des années spécifiques pour l’aube de l’humanité et pour le couple qui a déclenché les traditions religieuses sur Adam et Ève. « De l’année 1934 après J.-C. à la naissance des deux premiers êtres humains, il y a juste 993 419 ans. »[^3] « Adam et Ève sont arrivés sur Urantia [Terre], à partir de l’année 1934 après J.-C., il y a 37 848 ans. »[^4] Et il fournit des détails concernant l’emplacement de la seconde résidence d’Adam et Ève. « Les deux rivières elles-mêmes étaient une bonne défense naturelle à cette époque, et un peu au nord du deuxième jardin, l’Euphrate et le Tigre se rapprochaient de sorte qu’un mur de défense s’étendant sur cinquante-six milles pouvait être construit pour la protection du territoire au sud et entre les rivières. »[^5]
+*Le Livre d’Urantia* fournit des années spécifiques pour l’aube de l’humanité et pour le couple qui a déclenché les traditions religieuses sur Adam et Ève. « De l’année 1934 après J.-C. à la naissance des deux premiers êtres humains, il y a juste 993 419 ans. »[^3] « Adam et Ève arrivèrent sur Urantia [Terre] 37 848 ans avant l’an 1934 de l’ère chrétienne. »[^4] Et il fournit des détails concernant l’emplacement de la seconde résidence d’Adam et Ève. « Les deux fleuves eux-mêmes formaient, à cette époque, une bonne défense naturelle. Un peu au nord du second jardin, l’Euphrate et le Tigre se rapprochaient beaucoup, de sorte qu’il suffisait de construire une muraille de quatre-vingt-dix kilomètres pour protéger le territoire vers le sud entre les fleuves. »[^5]
 
-*Le Livre d'Urantia* indique qu'Adam et Ève avaient un plan pour l'élévation génétique et culturelle de l'humanité et qu'ils avaient l'intention que leurs descendants partagent cette amélioration génétique à travers le monde. Les auteurs parlent de l'impact génétique et culturel qu'Adam et Ève et leurs descendants ont eu sur l'humanité. Voici quelques exemples de ces déclarations : « Adam et Ève n'ont introduit aucun art de civilisation étranger au progrès de la société humaine, mais le sang adamique a augmenté la capacité inhérente des races et a accéléré le rythme du développement économique et de la progression industrielle. L'effusion d'Adam a amélioré la puissance cérébrale des races, accélérant ainsi considérablement les processus d'évolution naturelle. »[^6] « Le résultat du don du plasma vital adamique aux races mortelles est une amélioration immédiate de la capacité intellectuelle et une accélération du progrès spirituel. »[^7] « Vous seriez beaucoup plus résistants aux maladies si vos races portaient davantage de vie adamique. »[^8]
+*Le Livre d'Urantia* indique qu'Adam et Ève avaient un plan pour l'élévation génétique et culturelle de l'humanité et qu'ils avaient l'intention que leurs descendants partagent cette amélioration génétique à travers le monde. Les auteurs parlent de l'impact génétique et culturel qu'Adam et Ève et leurs descendants ont eu sur l'humanité. Voici quelques exemples de ces déclarations : « Adam et Ève n’introduisirent aucun art de la civilisation étranger au progrès de la société humaine, mais le sang adamique accrut les aptitudes inhérentes aux races et accéléra le développement économique et le progrès industriel. L’effusion d’Adam améliora le pouvoir cérébral des races, ce qui hâta considérablement les processus d’évolution naturelle. »[^6] « Lorsque le plasma vital adamique est transmis aux races mortelles, il en résulte un rehaussement immédiat de leur capacité intellectuelle et une accélération de leur progrès spirituel. »[^7] « Vous résisteriez beaucoup mieux aux maladies s’il coulait dans les veines de vos races plus de sang adamique. »[^8]
 
-Les migrations des descendants d’Adam et Ève vers l’Amérique du Sud et l’Afrique se déroulent parallèlement aux recherches génétiques. « Cent trente-deux des descendants d’Adam et Ève, embarquant dans une flotte de petits bateaux en provenance du Japon, ont fini par atteindre l’Amérique du Sud et, par des mariages avec les indigènes des Andes, ont établi l’ascendance des futurs dirigeants des Incas. »[^9] « Ils [les descendants d’Adam et Ève] ont contribué considérablement aux groupes du nord des peuples sahariens. Mais seuls quelques enseignants et commerçants ont pénétré plus au sud de l’Afrique que les sources du Nil. »[^10]
+Les migrations des descendants d’Adam et Ève vers l’Amérique du Sud et l’Afrique se déroulent parallèlement aux recherches génétiques. « Cent-trente-deux membres de cette race s’embarquèrent au Japon sur une flottille de petits bateaux et finirent par atteindre l’Amérique du Sud. Par des mariages mixtes avec les natifs des Andes, ils donnèrent naissance aux ancêtres des chefs ultérieurs des Incas. »[^9] « Ils [les descendants d’Adam et Ève] apportèrent une contribution considérable aux groupes des peuplades sangiks du Sahara septentrional. Toutefois, seul un petit nombre d’instructeurs et de commerçants pénétra en Afrique plus au sud que le cours supérieur du Nil »[^10]
 
-De plus, il existe une corrélation entre la migration des descendants d’Adam et Ève et le développement des langues non tonales. Les langues non tonales, comme l’anglais et d’autres langues européennes, ne nécessitent pas qu’un mot soit accentué d’une flexion spécifique pour être imprégné du sens voulu. « De nombreuses langues modernes sont dérivées de ce langage primitif de ces tribus d’Asie centrale [descendantes d’Adam et Ève] qui ont conquis l’Europe, l’Inde et les hautes plaines de la Mésopotamie. »[^11]
+De plus, il existe une corrélation entre la migration des descendants d’Adam et Ève et le développement des langues non tonales. Les langues non tonales, comme l’anglais et d’autres langues européennes, ne nécessitent pas qu’un mot soit accentué d’une flexion spécifique pour être imprégné du sens voulu. « Bien des langages modernes dérivent de ce langage primitif des tribus d’Asie centrale [descendantes d’Adam et Ève] qui conquirent l’Europe, l’Inde et la partie supérieure des plaines de Mésopotamie. »[^11]
 
 ### Recherche sur l'haplogroupe D de la microcéphaline
 
@@ -62,7 +77,7 @@ L'article révèle que le principal généticien impliqué dans la recherche sur
 
 Les auteurs du *Livre d'Urantia* affirment sans détour que 1) malgré l'importance primordiale de notre égalité spirituelle et des exigences morales qui vont avec, nous sommes physiologiquement et intellectuellement divers de manières qui sont raisonnablement catégorisées comme « supérieures » et « inférieures » et 2) dans une certaine mesure, ces différences sont liées à une introduction par Adam et Ève de la génétique supérieure. Cet aspect du *Livre d'Urantia*, aussi bien aligné avec la science qu'il puisse être, aborde des sujets sensibles d'une manière que certaines personnes considèrent comme « politiquement incorrecte ». Heureusement, *Le Livre d'Urantia* offre également des explications et des idées nouvelles et améliorées pour accompagner ce matériel controversé (et de plus en plus corroboré).
 
-Naturellement, ceux d’entre nous qui travaillent au développement du projet LUtheNEWS anticipent que des études génétiques supplémentaires seront à venir qui vérifieront davantage l’histoire du *Livre d’Urantia* sur Adam et Eve. Sans une compréhension globale de la position du *Livre d’Urantia* sur l’eugénisme et la race, il y a une forte probabilité que les déclarations qu’il fait soient sorties de leur contexte et mal interprétées. Cela, à son tour, décourage d’apprécier la qualité unique de crédibilité qui émerge avec *Le Livre d’Urantia*, en particulier en raison des avancées dans le domaine de la génétique. Dans un effort pour minimiser de tels malentendus, une revue complète des déclarations du *Livre d’Urantia* sur l’eugénisme et la race a été préparée. Voir : *Eugénisme, race et Le Livre d’Urantia*. Le *Rapport du Jardin d’Eden* et le *Rapport de Gobekli Tepe* documentent des preuves supplémentaires de l’histoire du *Livre d’Urantia* sur Adam et Eve.
+Naturellement, ceux d’entre nous qui travaillent au développement du projet UBtheNEWS anticipent que des études génétiques supplémentaires seront à venir qui vérifieront davantage l’histoire du *Livre d’Urantia* sur Adam et Eve. Sans une compréhension globale de la position du *Livre d’Urantia* sur l’eugénisme et la race, il y a une forte probabilité que les déclarations qu’il fait soient sorties de leur contexte et mal interprétées. Cela, à son tour, décourage d’apprécier la qualité unique de crédibilité qui émerge avec *Le Livre d’Urantia*, en particulier en raison des avancées dans le domaine de la génétique. Dans un effort pour minimiser de tels malentendus, une revue complète des déclarations du *Livre d’Urantia* sur l’eugénisme et la race a été préparée. Voir : *Eugénisme, race et Le Livre d’Urantia*. Le *Rapport du Jardin d’Eden* et le *Rapport de Gobekli Tepe* documentent des preuves supplémentaires de l’histoire du *Livre d’Urantia* sur Adam et Eve.
 
 ## Rapport complet
 
@@ -72,17 +87,17 @@ Une compréhension complète de la description du *Livre d’Urantia* de qui ét
 
 En discutant de la contribution génétique et culturelle introduite par Adam et Eve, *Le Livre d'Urantia* déclare :
 
-> L'évolution biologique et la civilisation culturelle ne sont pas nécessairement corrélées ; l'évolution organique à n'importe quelle époque peut se dérouler sans entrave au beau milieu d'une décadence culturelle. Mais si l'on étudie de longues périodes de l'histoire humaine, on constate qu'à terme, évolution et culture deviennent liées comme cause à effet. L'évolution peut progresser en l'absence de culture, mais la civilisation culturelle ne s'épanouit pas sans un contexte adéquat de progression raciale antérieure. Adam et Eve n'ont introduit aucun art de civilisation étranger au progrès de la société humaine, mais le sang adamique a augmenté les capacités inhérentes des races et a accéléré le rythme du développement économique et de la progression industrielle. Le don d'Adam a amélioré la puissance cérébrale des races, accélérant ainsi considérablement les processus d'évolution naturelle.[^14]
+> L’évolution biologique et la civilisation culturelle ne sont pas nécessairement liées ; au cours d’un âge quelconque, l’évolution organique peut poursuivre son cours sans obstacle, même au milieu d’une décadence culturelle. Mais, quand on passe en revue de longues périodes de l’histoire humaine, on constate finalement que l’évolution et la culture ont un lien de cause à effet. L’évolution peut progresser en l’absence de culture, mais la civilisation culturelle ne fleurit pas sans un arrière-plan approprié de progrès racial antérieur. Adam et Ève n’introduisirent aucun art de la civilisation étranger au progrès de la société humaine, mais le sang adamique accrut les aptitudes inhérentes aux races et accéléra le développement économique et le progrès industriel. L’effusion d’Adam améliora le pouvoir cérébral des races, ce qui hâta considérablement les processus d’évolution naturelle.[^14]
 
 Les descendants d'Adam et Ève sont appelés « Adamites » ou « race violette ». Le mélange d'Adamites et de « Nodites » est appelé « Andites ». (Bien que la compréhension de qui étaient les Nodites ne soit pas pertinente pour ce rapport, ceux qui connaissent le récit biblique d'Adam et Ève peuvent se rappeler que Caïn quitta l'Éden et se rendit au « pays de Nod ».) *Le Livre d'Urantia* affirme :
 
-> Les lignées les plus pures de la race violette avaient conservé la tradition adamique de recherche de la paix, ce qui explique pourquoi les premiers mouvements raciaux avaient plutôt ressemblé à des migrations pacifiques. Mais lorsque les Adamites s'unirent aux souches nodites, qui étaient à cette époque une race belliqueuse, leurs descendants andites devinrent, pour leur époque, les militaristes les plus habiles et les plus sagaces qui aient jamais vécu sur Urantia. Dès lors, les mouvements des Mésopotamiens prirent un caractère de plus en plus militaire et s'apparentèrent davantage à de véritables conquêtes.[^15]
+> Les lignées les plus pures de la race violette avaient conservé la tradition adamique de rechercher la paix, ce qui explique pourquoi les premiers déplacements raciaux eurent plutôt la nature de migrations pacifiques. Mais, à mesure que les Adamites s’unirent avec les souches nodites, qui étaient alors une race belliqueuse, leurs descendants Andites devinrent, pour leur époque, les militaristes les plus habiles et les plus sagaces qui aient jamais vécu sur Urantia. Les déplacements des Mésopotamiens prirent désormais un caractère de plus en plus militaire et s’apparentèrent davantage à de réelles conquêtes.[^15]
 > 
-> Ces Andites étaient aventureux ; ils avaient des tempéraments nomades. . . [L]eurs descendants ultérieurs ne s'arrêtèrent jamais avant d'avoir fait le tour du globe et découvert le dernier continent éloigné.[^16]
+> Les Andites étaient aventureux ; ils avaient des dispositions vagabondes. ... leurs descendants n’eurent pas de cesse avant d’avoir effectué la circumnavigation du globe et découvert le dernier des continents lointains.[^16]
 
 En ce qui concerne la question de la santé générale et donc de l’avantage reproductif, il convient de noter que *Le Livre d’Urantia* commente comment l’introduction de la génétique d’Adam et Ève a amélioré la santé.
 
-Français Les auteurs commentent « le retour de certaines formes de vie végétale primitive aux niveaux préchlorophylliens des bactéries parasites sur . . . une échelle étendue. »[^17] Cela aurait conduit à « de nombreuses maladies pénibles chez les mammifères supérieurs, en particulier chez les espèces humaines les plus vulnérables. »[^18] Les auteurs affirment que la contribution génétique d’Adam et Ève aurait idéalement pu « renforcer les pouvoirs de résistance » du corps humain « au point de le rendre pratiquement immunisé contre toutes les maladies produites par le type d’organisme végétal. »[^19] « Vous seriez beaucoup plus résistants aux maladies si vos races portaient davantage de vie adamique. »[^20]
+Français Les auteurs commentent «  la réversion, sur une échelle aussi vaste et aussi inattendue, de certaines vies végétales primitives aux niveaux préchlorophylliens de bactéries parasitaires . . . une échelle étendue. »[^17] Cela aurait conduit à « de nombreuses maladies désolantes chez les mammifères supérieurs, et particulièrement chez l’espèce humaine, plus vulnérable. »[^18] Les auteurs affirment que la contribution génétique d’Adam et Ève aurait idéalement pu « renforcer les pouvoirs de résistance » du corps humain « au point de le rendre pratiquement immunisé contre toutes les maladies produites par le type d’organisme végétal. »[^19] « Vous résisteriez beaucoup mieux aux maladies s’il coulait dans les veines de vos races plus de sang adamique. »[^20]
 
 *Le Livre d’Urantia* est explicite en affirmant que la puissance cérébrale et la santé ont été améliorées par l’introduction de la génétique d’Adam et d’Ève, qui étaient « égales l’une à l’autre, ne différant que par leur nature reproductive et par certaines dotations chimiques. »[^21]
 
@@ -166,13 +181,13 @@ Les résultats de la recherche Microcephalin indiquent :
 
 L'étude de Stanford indique : « L'âge de la mutation 2, il y a environ 40 000 ans, représente une estimation de l'époque du début de l'expansion mondiale. »[^23] De même, l'étude de 2008 sur l'haplogroupe Y F place la date d'origine à 48 000 (38 700–55 700) ans.
 
-*Le Livre d'Urantia* déclare : « Adam et Ève sont arrivés sur Urantia [Terre] en 1934, il y a 37 848 ans. »[^29] Concernant les premiers êtres humains, il dit : « De l'an 1934 à la naissance des deux premiers êtres humains, il y a juste 993 419 ans, »[^30] et il note aussi : « Ce merveilleux couple, les parents réels de toute l'humanité, étaient en tous points supérieurs à beaucoup de leurs descendants immédiats, et ils étaient radicalement différents de tous leurs ancêtres, à la fois immédiats et lointains. »[^31]
+*Le Livre d'Urantia* déclare : « Adam et Ève arrivèrent sur Urantia [Terre] 37 848 ans avant l’an 1934 de l’ère chrétienne. »[^29] Concernant les premiers êtres humains, il dit : « La naissance des deux premiers êtres humains se situe exactement 993 419 ans avant l’année 1 934 de l’ère chrétienne, »[^30] et il note aussi : « Ces deux êtres merveilleux, les véritables parents de toute l’humanité, furent en tous points supérieurs à beaucoup de leurs descendants immédiats, et radicalement différents de tous leurs ancêtres, tant immédiats que lointains. »[^31]
 
 Dans la version de l’histoire humaine du *Livre d’Urantia*, les deux développements génétiques les plus significatifs sont la mutation qui a donné naissance à l’humanité et la mise à niveau génétique apportée par Adam et Ève. Elle a été publiée des décennies avant que les progrès dans l’étude des gènes ne permettent de faire ce type de recherche. L’appréciation subjective de la concordance des résultats de la recherche avec les dates du *Livre d’Urantia* est à l’appréciation du lecteur.
 
 ### Le seul progéniteur de l'haplogroupe D de la microcéphaline
 
-L’affirmation du *Livre d’Urantia* selon laquelle le changement génétique survenu il y a environ 37 000 ans provenait d’une paire d’individus est confirmée par la recherche sur la microcéphalie, qui indique que l’haplogroupe D provenait d’un seul ancêtre. Il est intéressant de noter que dans une section traitant de la physiologie d’Adam et Ève, il est spécifiquement indiqué qu’ils étaient « égaux l’un à l’autre, ne différant que par leur nature reproductive et par certaines caractéristiques chimiques ».[^32]
+L’affirmation du *Livre d’Urantia* selon laquelle le changement génétique survenu il y a environ 37 000 ans provenait d’une paire d’individus est confirmée par la recherche sur la microcéphalie, qui indique que l’haplogroupe D provenait d’un seul ancêtre. Il est intéressant de noter que dans une section traitant de la physiologie d’Adam et Ève, il est spécifiquement indiqué qu’ils étaient « sont égaux sous tous les rapports, sauf en ce qui concerne leur nature de reproducteurs et certaines dotations chimiques ».[^32]
 
 La nature spécifique de la recherche et de l'analyse qui ont conduit à la conclusion que l'haplogroupe D provenait d'un seul progéniteur soulève également des questions liées à l'origine de l'haplogroupe D et à la question de savoir si cela doit être considéré comme une « mise à niveau » ou une « amélioration » de la génétique humaine. La présentation de la recherche sur la microcéphaline a immédiatement suscité une controverse et nous y reviendrons plus loin dans le rapport. Pour l'instant, des citations plus tronquées sont proposées pour documenter que « l'unique progéniteur » est, en fait, la conclusion à laquelle on est parvenu.
 
@@ -191,13 +206,13 @@ Comme on peut le constater, tous les rapports présentés concordent sur l'affir
 
 L’haplogroupe D de la microcéphaline se trouve généralement en pourcentages élevés en Eurasie. Voir [\[Figure 1\]](#Adam_Eve_fig_1). Cela confirme les affirmations faites dans *Le Livre d’Urantia* concernant la migration des descendants d’Adam et Ève. Les auteurs du livre racontent :
 
-> Certains Adamites se dirigèrent très tôt vers l'ouest, dans la vallée du Nil ; d'autres pénétrèrent vers l'est, en Asie, mais ils étaient minoritaires. Le mouvement de masse des derniers temps se dirigea largement vers le nord, puis vers l'ouest. Il s'agissait, dans l'ensemble, d'une poussée progressive mais incessante vers le nord, la plupart se dirigeant vers le nord, puis contournant la mer Caspienne vers l'ouest, en direction de l'Europe.[^34]
+> Quelques Adamites se dirigèrent de bonne heure à l’ouest vers la vallée du Nil ; d’autres allèrent vers l’est et pénétrèrent en Asie, mais ils formaient une minorité. Les mouvements de masse des époques plus tardives s’orientèrent largement vers le nord et de là vers l’ouest. Dans l’ensemble, ce fut une poussée graduelle, mais incessante vers le nord, la majorité des émigrants se dirigeant vers le nord, puis tournant vers l’ouest autour de la mer Caspienne et pénétrant en Europe.[^34]
 > 
-> Il y a environ vingt-cinq mille ans, la plupart des éléments les plus purs des Adamites étaient déjà bien avancés dans leur migration vers le nord. Et à mesure qu'ils pénétraient vers le nord, ils devinrent de moins en moins adamiques jusqu'à ce que, à l'époque de leur occupation du Turkestan, ils se soient complètement mélangés aux autres races... Très peu de lignées pures [Adamites] ont jamais pénétré loin en Europe ou en Asie.[^35]
+> Il y a environ 25 000 ans, un grand nombre des Adamites les plus purs était bien en route pour émigrer vers le nord et, à mesure qu’ils avançaient dans cette direction, ils devenaient de moins en moins adamiques. À la fin, quand ils occupèrent le Turkestan, ils s’étaient complètement mêlés aux autres races, et particulièrement aux Nodites. Les éléments de pure race violette ne pénétrèrent profondément en Europe et en Asie qu’en très petit nombre.[^35]
 > 
-> Alors que la période des premières migrations adamiques prenait fin, vers 15 000 av. J.-C., il y avait déjà plus de descendants d'Adam en Europe et en Asie centrale que partout ailleurs dans le monde, même qu'en Mésopotamie. . . Les terres maintenant appelées Russie et Turkestan étaient occupées dans toute leur étendue méridionale par un grand réservoir d'Adamites mélangés avec. . . [les] races rouges et jaunes.[^36]
+> Quand la période des migrations adamiques primitives prit fin, vers l’an 15 000 av. J.-C. il y avait déjà plus de descendants d’Adam en Europe et en Asie centrale que partout ailleurs dans le monde, et même qu’en Mésopotamie. . . Les pays que l’on appelle aujourd’hui la Russie et le Turkestan étaient occupés dans toutes leurs régions méridionales par un grand réservoir d’Adamites mêlés. . . [les] Sangiks rouges et jaunes.[^36]
 > 
-> [L]es Adamites étaient une véritable nation vers 19 000 av. J.-C., comptant quatre millions et demi de personnes, et ils avaient déjà répandu des millions de leur progéniture dans les peuples environnants.[^37]
+> [L]es Adamites formaient une véritable nation comptant 4 500 000 habitants, et ils avaient déjà déversé des millions de leurs descendants chez les peuples des alentours.[^37]
 
 ### Amérindiens
 
@@ -213,7 +228,7 @@ Cependant, la propagation soudaine de l'haplogroupe D de l'ASPM n'a pas suivi le
 
 Les tests effectués sur les populations d’Amérique du Sud et d’Amérique centrale ont montré une présence particulièrement élevée de l’haplogroupe D de la microcéphaline, les populations d’Amérique centrale en ayant légèrement moins que les populations d’Amérique du Sud. Cette distinction entre les populations d’Amérique du Sud et d’Amérique centrale est cohérente avec *Le Livre d’Urantia*. Dans une section couvrant la période de 12 000 à 8 000 avant J.-C., il est raconté qu’un certain nombre de descendants d’Adam et Ève ont fait le voyage en bateau jusqu’en Amérique du Sud depuis l’Asie.
 
-> Cent trente-deux de cette race [Andites], embarquant dans une flotte de petits bateaux en provenance du Japon, atteignirent finalement l'Amérique du Sud et, par mariage avec les indigènes des Andes, établirent l'ascendance des futurs dirigeants des Incas.[^38]
+> Cent trente-deux de cette race [Andites] s’embarquèrent au Japon sur une flottille de petits bateaux et finirent par atteindre l’Amérique du Sud. Par des mariages mixtes avec les natifs des Andes, ils donnèrent naissance aux ancêtres des chefs ultérieurs des Incas.[^38]
 
 La propagation transocéanique de l’haplogroupe D de la Microcéphaline, en contraste avec la propagation plus régionale de l’haplogroupe D de l’ASPM, souligne d’autant plus les parallèles spécifiques avec la description du *Livre d’Urantia* de la propagation des descendants d’Adam et Ève en Amérique du Sud.
 
@@ -221,11 +236,11 @@ La propagation transocéanique de l’haplogroupe D de la Microcéphaline, en co
 
 Le récit du *Livre d’Urantia* sur les migrations des descendants d’Adam et Ève est cohérent avec les résultats de recherche qui montrent que l’haplogroupe D de la microcéphaline est présent dans des pourcentages significativement plus faibles dans les populations subsahariennes.[^22]
 
-> Isolés en Afrique, les peuples indigo... n'ont reçu que peu ou pas de l'élévation raciale qui aurait été dérivée de l'infusion de la souche adamique.[^39]
+> Isolés en Afrique, les peuples indigo, comme les hommes rouges, ne profitèrent pas ou très peu de l’élévation raciale qu’ils auraient pu tirer d’un apport de lignées adamiques.[^39]
 > 
-> Les Andites n'émigrèrent pas seulement en Europe mais aussi dans le nord de la Chine et de l'Inde, tandis que de nombreux groupes pénétrèrent jusqu'aux extrémités de la terre en tant que missionnaires, enseignants et commerçants. Ils contribuèrent considérablement aux groupes nordiques des peuples sahariens. Mais seuls quelques enseignants et commerçants pénétrèrent plus au sud de l'Afrique que les sources du Nil. Plus tard, des Andites et des Égyptiens mixtes suivirent les côtes est et ouest de l'Afrique bien au-dessous de l'équateur, mais ils n'atteignirent pas Madagascar.[^39]
+> Les Andites émigrèrent non seulement vers l’Europe, mais vers la Chine du Nord et l’Inde, tandis que de nombreux groupes allaient jusqu’aux confins de la terre comme missionnaires, éducateurs et commerçants. Ils apportèrent une contribution considérable aux groupes des peuplades sangiks du Sahara septentrional. Toutefois, seul un petit nombre d’instructeurs et de commerçants pénétra en Afrique plus au sud que le cours supérieur du Nil. Plus tard, des Andites mixtes et des Égyptiens descendirent le long des côtes est et ouest de l’Afrique bien au-dessous de l’équateur, mais sans atteindre Madagascar.[^39]
 > 
-> Les conquêtes migratoires des Andites se poursuivirent jusqu'à leur dispersion finale, de 8000 à 6000 av. J.-C. En quittant la Mésopotamie, ils épuisèrent continuellement les réserves biologiques de leurs terres natales tout en renforçant considérablement les peuples environnants. Et à chaque nation où ils se rendirent, ils apportèrent de l'humour, de l'art, de l'aventure, de la musique et de l'artisanat. Ils étaient d'habiles domestiques d'animaux et d'experts en agriculture. Pour le moment, du moins, leur présence améliora généralement les croyances religieuses et les pratiques morales des races plus anciennes. Et ainsi la culture de la Mésopotamie s'étendit tranquillement sur l'Europe, l'Inde, la Chine, l'Afrique du Nord et les îles du Pacifique.[^41]
+> Les migrations conquérantes des Andites se poursuivirent jusqu’à leurs dernières dispersions entre l’an 8 000 et l’an 6 000 av. J.-C. Quand ils se répandaient hors de Mésopotamie, ils épuisaient constamment les réserves biologiques de leur terre natale, tandis qu’ils renforçaient notablement les peuples environnants. Dans toutes les nations où ils affluèrent, ils apportèrent une contribution d’humour, d’art, d’aventure, de musique et de manufacture. Ils étaient habiles à domestiquer les animaux et experts en agriculture. À cette époque tout au moins, leur présence améliorait généralement les croyances religieuses et les pratiques morales des races plus anciennes. C’est ainsi que la culture mésopotamienne se répandit doucement sur l’Europe, l’Inde, la Chine, l’Afrique du Nord et les iles du Pacifique.[^41]
 
 La migration minimale des descendants d’Adam et Ève vers l’Afrique subsaharienne est également confirmée par la recherche sur le chromosome Y. L’étude de Stanford a révélé que « la mutation 1 définit un clade, distinct des lignées africaines profondes. Au sein de ce clade, un clade plus jeune, composé de 21 lignées dont une seule est africaine, est défini par la mutation 2… »[^23]. En ce qui concerne l’haplogroupe Y F, « les descendants de l’haplogroupe F sont presque absents en Afrique subsaharienne, ce qui confirme la théorie selon laquelle l’haplogroupe F s’est formé peu après que ses ancêtres ont migré hors d’Afrique. »[^24]
 
@@ -236,7 +251,7 @@ Bien que la présence de l’haplogroupe D de la Microcéphaline soit considéra
 <figcaption><em>Zone irriguée par le Nil et ses affluents</em></figcaption>
 </figure>
 
-Le commentaire selon lequel « à chaque nation où ils ont voyagé, ils ont apporté de l'humour, de l'art, de l'aventure, de la musique et de l'industrie » demande à être analysé et examiné de près. Cependant, la norme pour les reportages d'LUtheNEWS est de rester concentré sur les aspects les plus « scientifiques » des informations corroborantes dans *Le Livre d'Urantia*. Pour cette raison, les lecteurs sont laissés à leur propre évaluation de ce commentaire par les auteurs du *Livre d'Urantia*.
+Le commentaire selon lequel « à chaque nation où ils ont voyagé, ils ont apporté de l'humour, de l'art, de l'aventure, de la musique et de l'industrie » demande à être analysé et examiné de près. Cependant, la norme pour les reportages d'UBtheNEWS est de rester concentré sur les aspects les plus « scientifiques » des informations corroborantes dans *Le Livre d'Urantia*. Pour cette raison, les lecteurs sont laissés à leur propre évaluation de ce commentaire par les auteurs du *Livre d'Urantia*.
 
 
 ### Emplacement d'origine
@@ -249,13 +264,13 @@ L’une des similitudes entre le récit biblique d’Adam et Ève et celui du Li
 
 Le récit du *Livre d’Urantia* fournit les déclarations suivantes :
 
-> Il fallut presque une année entière à la caravane d'Adam pour atteindre l'Euphrate. Le trouvant en pleine marée montante, ils campèrent dans les plaines à l'ouest du fleuve pendant près de six semaines avant de traverser vers le pays entre les deux rivières qui allait devenir le deuxième jardin.[^42]
+> Il fallut presque une année entière à la caravane d’Adam pour atteindre l’Euphrate. Ils le trouvèrent en crue et campèrent près de six semaines dans les plaines de l’Ouest avant de le traverser pour pénétrer dans le pays situé entre les deux fleuves, qui allait devenir le second jardin.[^42]
 > 
-> . . . Les deux rivières elles-mêmes constituaient une bonne défense naturelle à cette époque, et un peu au nord du deuxième jardin, l'Euphrate et le Tigre se rapprochaient de sorte qu'un mur de défense s'étendant sur cinquante-six milles pouvait être construit pour la protection du territoire au sud et entre les rivières.[^43]
+> . . . Les deux fleuves eux-mêmes formaient, à cette époque, une bonne défense naturelle. Un peu au nord du second jardin, l’Euphrate et le Tigre se rapprochaient beaucoup, de sorte qu’il suffisait de construire une muraille de quatre-vingt-dix kilomètres pour protéger le territoire vers le sud entre les fleuves.[^43]
 > 
-> Le second Eden fut le berceau de la civilisation pendant près de trente mille ans. C'est ici, en Mésopotamie, que les peuples adamiques se développèrent, envoyant leur progéniture jusqu'aux extrémités de la terre. . .[^44]
+> Le second Éden fut le berceau de la civilisation pendant près de trente-mille ans. Les peuples adamiques se maintinrent là, en Mésopotamie, et envoyèrent leur progéniture aux confins de la terre. . .[^44]
 > 
-> « Le quartier général secondaire ou du nord… était situé à l’est de la rive sud de la mer Caspienne, près des montagnes de Kopet. De ces deux centres partaient vers les terres environnantes la culture et le plasma vital qui ont si immédiatement dynamisé toutes les races. »[^45]
+> «  Le centre secondaire ou nordique… était situé à l’est de la rive Sud de la mer Caspienne, près des monts Kopet. C’est à partir de ces deux centres que se répandirent, dans les pays voisins, la culture et le plasma vital qui vivifièrent immédiatement toutes les races. »[^45]
 
 Il est important de se rappeler que le récit de l’histoire de l’humanité du Livre d’Urantia est en contradiction avec la théorie de l’évolution humaine « hors d’Afrique ». Il affirme que les humains ont évolué il y a un million d’années en Mésopotamie.[^46] L’opinion actuelle des érudits, pour la plupart, adopte un parti pris en faveur de la théorie de l’évolution hors d’Afrique. Au moins tacitement, l’équipe dirigée par Bruce Lahn accepte cette théorie parce qu’elle déclare dans ses rapports :
 
@@ -295,9 +310,9 @@ La distinction entre « l'origine de la culture » et « l'avènement de l'agric
 
 Concernant la contribution d’Adam et Eve à la culture, Le Livre d’Urantia déclare :
 
-> L'évolution peut progresser en l'absence de culture, mais la civilisation culturelle ne s'épanouit pas sans un contexte adéquat de progression raciale antérieure. Adam et Eve n'ont introduit aucun art de civilisation *étranger au progrès de la société humaine*, mais le sang adamique a *augmenté les capacités inhérentes des races* et a accéléré le rythme du développement économique et de la progression industrielle. Le don d'Adam a amélioré la puissance cérébrale des races, *accélérant ainsi considérablement les processus d'évolution naturelle*. [souligné par nous] [^47]
+> L’évolution peut progresser en l’absence de culture, mais la civilisation culturelle ne fleurit pas sans un arrière-plan approprié de progrès racial antérieur. Adam et Ève n’introduisirent aucun art de la civilisation étranger au progrès de la société humaine, mais le sang adamique _accrut les aptitudes inhérentes aux races_ et accéléra le développement économique et le progrès industriel. L’effusion d’Adam améliora le pouvoir cérébral des races, ce qui _hâta considérablement les processus d’évolution naturelle_. [souligné par nous] [^47]
 > 
-> En résumé, Adam et Eve ont grandement contribué à la civilisation rapide et au progrès biologique accéléré de la race humaine. Ils ont laissé une grande culture sur terre, mais il n'était pas possible à une civilisation aussi avancée de survivre face à la dilution précoce et à la submersion éventuelle de l'héritage adamique. Ce sont les gens qui font une civilisation ; la civilisation ne fait pas les gens.[^48]
+> En résumé, Adam et Ève ont puissamment contribué à accélérer la civilisation et le progrès biologique de la race humaine. Ils laissèrent sur terre une grande culture, mais cette civilisation était trop avancée pour pouvoir survivre devant la dilution prématurée et le naufrage final de l’héritage d’Adam. Ce sont les peuples qui font une civilisation ; la civilisation ne fait pas les peuples.[^48]
 
 (Ces déclarations sur une civilisation supérieure qui a commencé en Mésopotamie, mais qui a ensuite connu une « dilution précoce » et une « submersion éventuelle », sont non seulement confirmées par les découvertes archéologiques qui continuent d'être faites sur le site de Gobekli Tepe en Turquie, mais expliquent également un aspect du site qui est par ailleurs très mystérieux : les structures remontent à au moins douze mille ans mais ont été intentionnellement enterrées il y a huit mille ans. Voir le rapport de Gobekli Tepe.)
 
@@ -310,31 +325,30 @@ Lorsqu'un nouveau développement génétique se répand rapidement dans une popu
 
 En décrivant les intentions et la sagesse qui ont guidé Adam dans l'établissement d'une nouvelle civilisation, les auteurs racontent qu'il avait initialement prévu :
 
-> . . . de ne pas lancer le programme d'élévation et de mélange racial avant que sa propre famille n'ait atteint un demi-million de personnes. Il n'a jamais été prévu que le Jardin soit le foyer permanent des Adamites. Ils devaient devenir les émissaires d'une vie nouvelle pour le monde entier ; ils devaient se mobiliser pour une générosité désintéressée envers les races nécessiteuses de la terre.[^49]
+> . . . ne pas inaugurer le programme d’élévation et de mélange des races avant que sa propre famille ne compte un demi-million de membres. Le Jardin ne fut jamais destiné à être la demeure permanente des Adamites. Ceux-ci devaient être les émissaires d’une nouvelle vie pour le monde entier et se mobiliser pour une effusion désintéressée sur les races de la terre qui en avaient bien besoin.[^49]
 > 
-> . . . [I]l devait établir des quartiers généraux raciaux, continentaux et divisionnaires qui seraient sous la responsabilité de ses fils et filles immédiats, tandis que lui et Eve devaient partager leur temps entre ces diverses capitales mondiales en tant que conseillers et coordinateurs du ministère mondial de l'élévation biologique, du progrès intellectuel et de la réhabilitation morale.[^50]
+> . . . [I]l aurait à établir des quartiers généraux raciaux, continentaux et divisionnaires dirigés par ses fils et ses filles immédiats, tandis que lui et Ève partageraient leur temps entre ces diverses capitales mondiales comme conseillers et coordonnateurs du ministère mondial d’élévation biologique, de progrès intellectuel et de réhabilitation morale.[^50]
 
 Les problèmes liés à la nécessité de trouver un nouvel emplacement ont également nécessité un nouveau plan.
 
-> Après s'être établi dans le deuxième jardin sur l'Euphrate, Adam a choisi de laisser derrière lui autant de son plasma vital que possible pour le bien du monde après sa mort. . . [A]vant la mort d'Adam. . . 1 682. . . femmes ont été imprégnées du plasma vital adamique [par insémination artificielle]. Leurs enfants ont tous grandi jusqu'à maturité sauf 112, de sorte que le monde, de cette façon, a bénéficié de l'ajout de 1 570 hommes et femmes supérieurs. . .[^51]
+> Après s’être établi dans le second jardin donnant sur l’Euphrate, Adam décida de laisser après lui le maximum possible de son plasma vital pour en faire bénéficier le monde après sa mort. . . [A]vant la mort d'Adam. . . 1 682. . . femmes ont été imprégnées du plasma vital adamique [par insémination artificielle]. À l’exception de 112, leurs enfants atteignirent tous l’âge adulte, de sorte que le monde bénéficia ainsi d’un supplément de 1 570 hommes et femmes supérieurs. . .[^51]
 
 La localisation et l'impact des centres culturels qui ont pris racine avec l'apport génétique d'Adam et Eve se résument comme suit :
 
-*La race violette – Adamites et Adamsonites*. Le centre principal de la culture adamite se trouvait dans le deuxième jardin, situé dans le triangle formé par le Tigre et l'Euphrate ; c'était en effet le berceau des civilisations occidentales et indiennes. Le centre secondaire ou septentrional de la race violette était le quartier général adamsonite, situé à l'est de la rive sud de la mer Caspienne, près des montagnes de Kopet. De ces deux centres partit vers les terres environnantes la culture et le plasma vital qui animèrent si immédiatement toutes les races.[^52]
+*La race violette — les Adamites et les Adamsonites.* Le principal centre de culture adamite se trouvait dans le second jardin situé dans le triangle du Tigre et de l’Euphrate ; ce fut vraiment le berceau des civilisations occidentales et indiennes. Le centre secondaire ou nordique de la race violette était le quartier général adamsonite situé à l’est de la rive Sud de la mer Caspienne, près des monts Kopet. C’est à partir de ces deux centres que se répandirent, dans les pays voisins, la culture et le plasma vital qui vivifièrent immédiatement toutes les races.[^52]
 
 Le mélange et les implications culturelles de ces évolutions sont également abordés de manière spécifique :
 
-> Pendant vingt mille ans, la culture du deuxième jardin a persisté, mais elle a connu un déclin constant jusqu'à environ 15 000 avant J.-C., lorsque la régénération du sacerdoce séthite et le leadership d'Amosad ont inauguré une ère brillante. Les vagues massives de civilisation qui se sont ensuite répandues sur l'Eurasie ont immédiatement suivi la grande renaissance du Jardin consécutive à l'union extensive des Adamites avec les Nodites mixtes environnants pour former les Andites.
+> La culture du second jardin persista pendant vingt-mille ans, mais elle subit un déclin continu jusqu’à l’an 15 000 av. J.-C., où la régénération de la prêtrise séthite et le commandement d’Amosad inaugurèrent une ère brillante. Les vagues massives de civilisation qui se répandirent plus tard sur l’Eurasie suivirent immédiatement la grande renaissance du Jardin consécutive à de nombreuses unions des Adamites avec les Nodites mixtes des environs pour former les Andites.
 > 
-> Ces Andites inaugurèrent de nouvelles avancées à travers l'Eurasie et l'Afrique du Nord. De la Mésopotamie au Sinkiang, la culture andite était dominante, et la migration constante vers l'Europe était continuellement compensée par de nouveaux arrivants de Mésopotamie. Mais il n'est guère correct de parler des Andites comme d'une race en Mésopotamie proprement dite jusqu'au début des migrations terminales des descendants mixtes d'Adam. À cette époque, même les races du deuxième jardin étaient devenues si mélangées qu'elles ne pouvaient plus être considérées comme des Adamites.
+> Ces Andites firent faire de nouveaux progrès en Eurasie et en Afrique du Nord. De Mésopotamie jusqu’au Sin-Kiang inclus, la culture andite dominait, et les migrations continues vers l’Europe étaient constamment compensées par de nouvelles arrivées de Mésopotamie. Mais il ne serait pas exact de parler des Andites en Mésopotamie comme d’une race proprement dite avant les prodromes des migrations finales des descendants mixtes d’Adam. Dès cette époque, même les races du second jardin étaient tellement mêlées qu’elles ne pouvaient plus être considérées comme adamites.
 > 
-> La civilisation du Turkestan fut constamment ravivée et rafraîchie par les nouveaux venus de Mésopotamie, en particulier par les cavaliers andites ultérieurs. . . [Leur langue] était un mélange du dialecte andonique de cette région avec la langue des Adamsonites et des Andites ultérieurs. De nombreuses langues modernes sont dérivées de ce premier langage de ces tribus d'Asie centrale qui conquirent l'Europe, l'Inde et les hautes plaines de Mésopotamie.[^53]
+> La civilisation du Turkestan était constamment vivifiée et rénovée par les nouveaux arrivants de Mésopotamie, et spécialement par les cavaliers andites venus plus tardivement. . . [Leur langue] était un mélange du dialecte andonique de cette région avec le langage des Adamsonites et des Andites ultérieurs. Bien des langages modernes dérivent de ce langage primitif des tribus d’Asie centrale qui conquirent l’Europe, l’Inde et la partie supérieure des plaines de Mésopotamie.[^53]
 
 Il y a trois chapitres, ou « Fascicules » comme on les appelle dans Le Livre d’Urantia, qui traitent en détail de la migration des descendants d’Adam et Ève. Les lecteurs désirant des détails supplémentaires peuvent consulter les Fascicules 78 à 80. Les déclarations ci-dessus sur leur impact général, génétique et culturel, font partie d’un récit détaillé des migrations de leurs descendants et de leurs interactions avec les gens qu’ils ont rencontrés. Tout cela est, bien sûr, en harmonie avec les preuves génétiques indiquant que, quelle que soit la manière dont cela s’est produit, il y a eu une propagation particulièrement rapide de certaines nouvelles génétiques, probablement originaires de la Mésopotamie à l’époque où le Livre d’Urantia dit qu’Adam et Ève ont vécu – « à partir de l’année 1934 après J.-C., il y a 37 848 ans ».
 
 En génétique, les termes sélection positive, sélection négative et dérive sont utilisés respectivement pour décrire les circonstances qui indiquent une propension à la propagation, un obstacle à la propagation ou une propagation neutre/aléatoire. Naturellement, une sélection positive forte – une propagation rapide – demande une explication. Voici quelques commentaires relatifs à l'haplogroupe D de la microcéphaline :
 
-> 
 > Le gène microcéphaline (MCPH1) régule la taille du cerveau au cours du développement et a subi une sélection positive dans la lignée menant à l'Homo sapiens. Chez les humains modernes, un groupe d'haplotypes étroitement liés à ce locus, connu sous le nom d'haplogroupe D, est né d'une seule copie il y a environ 37 000 ans et a atteint une fréquence exceptionnellement élevée (environ 70 % dans le monde aujourd'hui) en raison de la sélection positive. . . De plus, cela renforce l'idée importante selon laquelle, grâce à un tel mélange, notre espèce a bénéficié de l'évolution en gagnant de nouveaux allèles avantageux.[^28]
 > 
 > L'âge de coalescence beaucoup plus jeune des chromosomes D, malgré leur fréquence beaucoup plus élevée, est cohérent avec l'action de la sélection positive sur l'allèle D comme indiqué précédemment.[^28]
@@ -414,7 +428,7 @@ Le rapport de recherche original, publié dans les Actes de l'Académie national
 
 Il est intéressant de noter que les auteurs du Livre d'Urantia mentionnent spécifiquement l'interrelation entre la propagation des descendants d'Adam et Ève et le développement global des similitudes linguistiques.
 
-> La civilisation du Turkestan fut constamment ravivée et rafraîchie par les nouveaux venus de Mésopotamie, en particulier par les cavaliers andites ultérieurs. . . [Leur langue] était un mélange du dialecte andonique de cette région avec la langue des Adamsonites et des Andites ultérieurs. De nombreuses langues modernes sont dérivées de ce premier langage de ces tribus d'Asie centrale qui conquirent l'Europe, l'Inde et les hautes plaines de Mésopotamie.[^58]
+> La civilisation du Turkestan était constamment vivifiée et rénovée par les nouveaux arrivants de Mésopotamie, et spécialement par les cavaliers andites venus plus tardivement. . . [Leur langue] était un mélange du dialecte andonique de cette région avec le langage des Adamsonites et des Andites ultérieurs. Bien des langages modernes dérivent de ce langage primitif des tribus d’Asie centrale qui conquirent l’Europe, l’Inde et la partie supérieure des plaines de Mésopotamie.[^58]
 
 <figure class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Adam_and_Eve/Picture1_000.png" width="500" heigth="393">
@@ -424,9 +438,9 @@ Il est intéressant de noter que les auteurs du Livre d'Urantia mentionnent spé
 
 Avant de citer une dernière fois le rapport sur la relation entre les langues non tonales et l’haplogroupe D de la microcéphaline et d’en arriver à la fin de la présentation des recherches récentes qui soutiennent le récit du Livre d’Urantia sur Adam et Ève, il est important d’aborder le contexte culturel dans lequel ce type de travail de recherche est effectué. Il est bien évident à ce stade que les auteurs du Livre d’Urantia racontent une histoire intégrée de nouveaux développements génétiques et culturels qui ont été intentionnellement orchestrés.
 
-> Le résultat du don du plasma vital adamique aux races mortelles est une amélioration immédiate de la capacité intellectuelle et une accélération du progrès spirituel.[^59]
+> Lorsque le plasma vital adamique est transmis aux races mortelles, il en résulte un rehaussement immédiat de leur capacité intellectuelle et une accélération de leur progrès spirituel.[^59]
 > 
-> L'évolution peut progresser en l'absence de culture, mais la civilisation culturelle ne s'épanouit pas sans un contexte adéquat de progression raciale antérieure. Adam et Eve n'ont introduit aucun art de civilisation étranger au progrès de la société humaine, mais le sang adamique a augmenté les capacités inhérentes des races et a accéléré le rythme du développement économique et de la progression industrielle. Le don d'Adam a amélioré la puissance cérébrale des races, accélérant ainsi considérablement les processus d'évolution naturelle. [^60]
+> L’évolution peut progresser en l’absence de culture, mais la civilisation culturelle ne fleurit pas sans un arrière-plan approprié de progrès racial antérieur. Adam et Ève n’introduisirent aucun art de la civilisation étranger au progrès de la société humaine, mais le sang adamique accrut les aptitudes inhérentes aux races et accéléra le développement économique et le progrès industriel. L’effusion d’Adam améliora le pouvoir cérébral des races, ce qui hâta considérablement les processus d’évolution naturelle. [^60]
 
 Ils affirment directement que 1) malgré l'importance primordiale de notre égalité spirituelle et des exigences morales qui vont avec, nous sommes physiologiquement et intellectuellement divers et 2) dans une certaine mesure, ces différences sont liées à une introduction par Adam et Ève d'une génétique supérieure. Cet aspect du Livre d'Urantia, aussi bien aligné avec la science qu'il puisse être, fait des déclarations audacieuses sur un sujet hautement controversé et sensible d'une manière que beaucoup de gens considéreraient comme « politiquement incorrecte ».
 
@@ -491,9 +505,9 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](http://ubannotated.com/ubthenews/topics/adam_and_eve/)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 ### Questions politiques
 
@@ -556,7 +570,7 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 	http://www.sdbonline.org/fly/genebrief/microcephalin.htm
 * *Graphiques circulaires des haplogroupes Y et de l'ADN mitochondrial*
 	
-	Notez que la diversité génétique est la plus élevée dans la zone où Le Livre d'Urantia dit que les changements majeurs de l'humanité se sont produits.
+	Notez que la diversité génétique est la plus élevée dans la zone où _Le Livre d'Urantia_ dit que les changements majeurs de l'humanité se sont produits.
 	
 	http://www.scs.uiuc.edu/~mcdonald/Cartes des haplogroupes du monde.pdf
 * *Wikipédia : Microcéphaline*
@@ -594,6 +608,21 @@ Naturellement, en nous basant sur la tendance générale vers la corroboration d
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 

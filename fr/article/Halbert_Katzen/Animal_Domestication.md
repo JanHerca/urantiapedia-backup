@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2007 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
 ## Rapport sur la domestication des animaux (informations préliminaires)
@@ -17,11 +32,11 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 
 ## Citations du _Livre d'Urantia_ sur la domestication primitive des animaux.
 
-> 2. Le conseil de domestication et d'utilisation des animaux. Ce conseil avait pour tâche de sélectionner et d'élever les animaux les mieux adaptés pour aider les êtres humains à porter des fardeaux et à se déplacer, à fournir de la nourriture et plus tard à servir à la culture du sol. Ce corps compétent était dirigé par Bon.
+> 2. *Le conseil de la domestication et de l’utilisation des animaux.* Ce conseil avait pour tâche de choisir et d’élever les animaux les mieux adaptés pour aider les êtres humains à porter des fardeaux et à se faire transporter, pour fournir de la nourriture et plus tard pour servir à cultiver le sol. Ce corps expert était dirigé par Bon.
 > 
-> Plusieurs espèces d'animaux utiles, aujourd'hui disparus, furent apprivoisées, ainsi que d'autres qui ont continué à être domestiquées jusqu'à nos jours. L'homme avait longtemps vécu avec le chien, et l'homme bleu avait déjà réussi à apprivoiser l'éléphant. La vache fut tellement améliorée par un élevage soigneux qu'elle devint une source précieuse de nourriture ; le beurre et le fromage devinrent des aliments courants de l'alimentation humaine. On apprit aux hommes à utiliser les bœufs pour porter des charges, mais le cheval ne fut domestiqué que plus tard. Les membres de ce corps enseignèrent d'abord aux hommes à utiliser la roue pour faciliter la traction. [LU 66:5.5](/fr/The_Urantia_Book/66#p5_5)
+> Des animaux utiles de plusieurs espèces maintenant éteintes furent dressés, ainsi que d’autres qui se perpétuèrent comme animaux domestiques jusqu’à notre époque. L’homme vivait depuis longtemps en compagnie du chien, et l’homme bleu avait déjà réussi à apprivoiser l’éléphant. Les bovins furent améliorés par une reproduction soignée, au point de devenir une précieuse source de nourriture ; le beurre et le fromage devinrent des éléments courants du régime humain. Les hommes apprirent à employer les bœufs pour porter des fardeaux, mais le cheval ne fut domestiqué qu’à une date ultérieure. Les membres de ce corps furent les premiers à enseigner aux hommes l’usage de la roue pour faciliter la traction.
 > 
-> C'est à cette époque que les pigeons voyageurs ont été utilisés pour la première fois, emmenés lors de longs voyages dans le but d'envoyer des messages ou des appels à l'aide. Le groupe de Bon a réussi à entraîner les grands fandors comme oiseaux voyageurs, mais ils ont disparu il y a plus de trente mille ans. [LU 66:5.4-6](/fr/The_Urantia_Book/66#p5_4)
+> Ce fut à cette époque que les pigeons voyageurs furent employés pour la première fois ; ils étaient emportés pour les longs voyages et servaient à envoyer des messages ou à demander de l’aide. Le groupe de Bon réussit à dresser les grands fandors comme oiseaux transporteurs de passagers, mais leur race s’éteignit il y a plus de trente-mille ans. [LU 66:5.4-6](/fr/The_Urantia_Book/66#p5_4)
 
 > 1\. **L'UTILISATION DES ANIMAUX**
 
@@ -69,13 +84,13 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 > 
 > Most of the animals best suited to domestication were found in Asia, especially in the central to southwest regions. This was one reason why civilization progressed faster in that locality than in other parts of the world. Many of these animals had been twice before domesticated, and in the Andite age they were retamed once again. But the dog had remained with the hunters ever since being adopted by the blue man long, long before.
 > 
-> The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a86_371"></a>[UB 81:2.1-7](/en/The_Urantia_Book/81#p2_1)
+> The Andites of Turkestan were the first peoples to extensively domesticate the horse, and this is another reason why their culture was for so long predominant. By 5000 B.C. the Mesopotamia, Turkestan, and Chinese farmers had begun the raising of sheep, goats, cows, camels, horses, fowls, and elephants. They employed as beasts of burden the ox, camel, horse, and yak. <a id="a86_371"></a>[LU 81:2.1-7](/fr/The_Urantia_Book/81#p2_1)
 
 ## Liens externes
 
-- [Ce rapport dans LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
-- [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-- [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+- [Ce rapport dans UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Animal-Domestication.pdf)
+- [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+- [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 - http://ngm.nationalgeographic.com/2011/03/taming-wild-animals/ratliff-text
 - http://www.nature.com/nature/journal/v418/n6898/full/nature01019.html
 - http://archaeology.about.com/od/dterms/a/domestication.htm tableau pour divers animaux
@@ -87,3 +102,18 @@ Identifier les sujets qui nécessitent la rédaction de rapports prend beaucoup 
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2008 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 Préparé par Halbert Katzen, J.D. avec l'aide de Chris Halvorson, Ph.D. [Mis à jour le 11/07/2009]
 
@@ -20,13 +35,13 @@ Préparé par Halbert Katzen, J.D. avec l'aide de Chris Halvorson, Ph.D. [Mis à
 
 Une controverse de longue date existe sur la date de formation des montagnes de la Sierra. Deux écoles de pensée se sont développées, appelées théories de la Sierra ancienne et de la Sierra nouvelle. La théorie de la Sierra ancienne soutient que les montagnes de la Sierra se sont formées il y a environ 50 millions d'années ; la théorie de la Sierra nouvelle affirme qu'elles n'ont qu'environ 5 millions d'années. Bien que la controverse ne soit pas entièrement dissipée par des recherches publiées en 2006, cette nouvelle approche de datation des montagnes utilise une technologie beaucoup plus spécifique que les méthodologies précédentes et a été largement acceptée comme fiable lorsqu'elle est utilisée dans d'autres applications. Les résultats sont en harmonie avec la théorie de la Sierra ancienne et avec ce qui a été affirmé par le Livre d'Urantia en 1955.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Aperçu des montagnes de la Sierra
 
 L'âge de la Sierra Nevada est l'objet d'une controverse depuis longtemps. La théorie de la Nouvelle Sierra, présentée pour la première fois dans les années 1880, affirme que les montagnes de la Sierra ont environ cinq millions d'années. En revanche, la théorie de l'Ancienne Sierra, publiée en 1911, pose que la Sierra aurait entre 40 et 50 millions d'années. Les universitaires ont débattu du bien-fondé de ces deux théories tout au long du XXe siècle, sans parvenir à un consensus, mais la théorie de la Nouvelle Sierra est devenue plus populaire et a été largement enseignée dans les écoles primaires.
 
-En contradiction avec l'opinion populaire de l'époque, Le Livre d'Urantia, publié en 1955, affirme qu'il y a environ quarante millions d'années, les terres de l'Amérique du Nord étaient surélevées, ce qui est cohérent avec la théorie de la vieille Sierra. De plus, Le Livre d'Urantia affirme que la chaîne de montagnes de la Sierra s'élève depuis environ vingt-cinq millions d'années.
+En contradiction avec l'opinion populaire de l'époque, Le Livre d'Urantia, publié en 1955, affirme qu'il y a environ quarante millions d'années, les terres de l'Amérique du Nord étaient surélevées, ce qui est cohérent avec la théorie de la vieille Sierra. De plus, _Le Livre d'Urantia_ affirme que la chaîne de montagnes de la Sierra s'élève depuis environ vingt-cinq millions d'années.
 
 Récemment, de nouvelles preuves ont été mises en lumière qui soutiennent la position adoptée par le Livre d'Urantia et la théorie de la vieille Sierra. En 2006, un trio de scientifiques de Stanford a publié une étude datant la formation de la chaîne de la Sierra Nevada il y a cinquante millions d'années. Ces scientifiques de Stanford, Andreas Mulch, Stephan A. Graham et C. Page Chamberlain, ont utilisé une technique innovante impliquant l'étude des précipitations piégées dans d'anciens lits d'argile.
 
@@ -44,7 +59,7 @@ Mulch, Graham et Chamberlain semblent avoir enfin déterminé scientifiquement c
 
 ## Revue des montagnes de la Sierra
 
-Une controverse de longue date existe sur la date de formation des montagnes de la Sierra. Deux écoles de pensée se sont développées, appelées théories de la Sierra ancienne et de la Sierra nouvelle. La théorie de la Sierra ancienne soutient que les montagnes de la Sierra se sont formées il y a environ 40 à 50 millions d'années ; la théorie de la Sierra nouvelle affirme qu'elles n'ont qu'environ 5 millions d'années. Bien que la controverse ne soit pas entièrement dissipée par des recherches publiées en 2006, cette nouvelle approche de datation des montagnes utilise une technologie beaucoup plus spécifique que les méthodologies précédentes et a été largement acceptée comme fiable lorsqu'elle est utilisée dans d'autres applications. Les résultats sont en harmonie avec ce qui a été affirmé par Le Livre d'Urantia en 1955.
+Une controverse de longue date existe sur la date de formation des montagnes de la Sierra. Deux écoles de pensée se sont développées, appelées théories de la Sierra ancienne et de la Sierra nouvelle. La théorie de la Sierra ancienne soutient que les montagnes de la Sierra se sont formées il y a environ 40 à 50 millions d'années ; la théorie de la Sierra nouvelle affirme qu'elles n'ont qu'environ 5 millions d'années. Bien que la controverse ne soit pas entièrement dissipée par des recherches publiées en 2006, cette nouvelle approche de datation des montagnes utilise une technologie beaucoup plus spécifique que les méthodologies précédentes et a été largement acceptée comme fiable lorsqu'elle est utilisée dans d'autres applications. Les résultats sont en harmonie avec ce qui a été affirmé par _Le Livre d'Urantia_ en 1955.
 
 _Le Livre d'Urantia_ déclare :
 
@@ -52,15 +67,15 @@ _Le Livre d'Urantia_ déclare :
 
 > *Il y a 25 millions d’années,* une légère immersion des terres se produisit après une longue époque d’émersion. La région des montagnes Rocheuses resta très élevée, de sorte que des matériaux d’érosion continuèrent à se déposer vers l’est, sur l’ensemble des basses terres. Les Sierras furent de nouveau exhaussées ; en fait, elles n’ont pas cessé de s’élever depuis lors. La grande faille verticale californienne de six kilomètres et demi date de ce temps-là. ([LU 61:3.3](/fr/The_Urantia_Book/61#p3_3))
 
-L'affirmation du Livre d'Urantia selon laquelle ces montagnes sont apparues il y a 40 millions d'années et se sont élevées pendant les 25 derniers millions d'années est en conflit avec la théorie de New Sierras. De toute évidence, si elles se sont élevées pendant les 25 derniers millions d'années, alors la théorie selon laquelle elles se sont élevées pendant les cinq derniers millions d'années n'est pas complètement fausse ; les preuves qui soutiennent qu'elles se sont élevées pendant les cinq derniers millions d'années ont un degré limité de cohérence avec ce que le Livre d'Urantia dit à propos de leur « élévation depuis » il y a 25 millions d'années. En fait, même cette nouvelle technique de recherche indique que les montagnes se sont légèrement élevées il y a cinq millions d'années. Mais la théorie selon laquelle ces montagnes se sont fondamentalement formées il y a environ cinq millions d'années est fondamentalement en conflit avec le Livre d'Urantia. Le Livre d'Urantia affirme, et la nouvelle étude publiée en 2006 le soutient, que cette chaîne de montagnes existait et a maintenu sa stature depuis bien avant cinq millions d'années.
+L'affirmation du Livre d'Urantia selon laquelle ces montagnes sont apparues il y a 40 millions d'années et se sont élevées pendant les 25 derniers millions d'années est en conflit avec la théorie de New Sierras. De toute évidence, si elles se sont élevées pendant les 25 derniers millions d'années, alors la théorie selon laquelle elles se sont élevées pendant les cinq derniers millions d'années n'est pas complètement fausse ; les preuves qui soutiennent qu'elles se sont élevées pendant les cinq derniers millions d'années ont un degré limité de cohérence avec ce que le Livre d'Urantia dit à propos de leur « élévation depuis » il y a 25 millions d'années. En fait, même cette nouvelle technique de recherche indique que les montagnes se sont légèrement élevées il y a cinq millions d'années. Mais la théorie selon laquelle ces montagnes se sont fondamentalement formées il y a environ cinq millions d'années est fondamentalement en conflit avec le Livre d'Urantia. _Le Livre d'Urantia_ affirme, et la nouvelle étude publiée en 2006 le soutient, que cette chaîne de montagnes existait et a maintenu sa stature depuis bien avant cinq millions d'années.
 
 Le magazine Science a publié un rapport sur cette nouvelle recherche le 7 juillet 2006. Le rapport, Isotopes d'hydrogène dans les graviers fluviaux de l'Éocène et la paléoélévation de la Sierra Nevada, écrit par Andreas Mulch, Stephan A. Graham et C. Page Chamberlain, résume les résultats de cette façon :
 
 > Nous déterminons la paléoélévation [élévation ancienne] de la Sierra Nevada, en Californie, en suivant l'effet de la topographie sur les précipitations, tel qu'enregistré dans les isotopes d'hydrogène de la kaolinite exposée dans les dépôts fluviaux aurifères de la rivière Yuba de l'Eocène. Les données, comparées à la composition isotopique moderne des précipitations, montrent qu'il y a environ 40 à 50 millions d'années, la Sierra Nevada était haute (2200 mètres), un résultat en conflit avec le soulèvement de surface récent proposé par le forçage tectonique et climatique, mais cohérent avec la Sierra Nevada représentant le bord d'un plateau continental pré-Eocène [avant environ 55 millions d'années]. [^3]
 
-(Le mot « Urantia », désignant la Terre, est un mot inventé dans _Le Livre d'Urantia_, avec le sens étymologique de « (votre) place dans les cieux ». _Le Livre d'Urantia_ donne une histoire détaillée de l'évolution géophysique de la planète et du développement évolutif de la vie. En général, les dates données dans _Le Livre d'Urantia_ concernant les développements évolutifs des 35 derniers millions d'années correspondent aux dates fournies par la datation radiométrique. Entre 35 et 450 millions d'années, les dates radiométriques sont gonflées d'un facteur moyen de 1,5, avec un facteur augmentant légèrement des dates les plus récentes aux plus récentes, suivi d'une diminution plus rapide à 1,0. En remontant de 450 à 550 millions d'années, le facteur augmente de 1,4 à 4,0. En remontant à partir d'il y a 550 millions d'années, les dates radiométriques sont constamment gonflées d'un facteur de 4,0 par rapport aux dates du _Livre d'Urantia_. _Le Le Livre d'Urantia dit qu'il y a 550 millions d'années, la vie eucaryote (évolutionnaire) fut implantée sur la planète, qu'il y a 450 millions d'années marque l'apparition des protozoaires et qu'il y a 35 millions d'années est le début de l'âge des mammifères avancés. Le physicien Chris Halvorson, Ph.D., pense - en se basant, par exemple, sur les implications de la découverte de quantités massives de technétium et de prométhium « instables » dans les atmosphères de certaines étoiles - que le taux de désintégration radioactive peut être altéré par l'environnement, en particulier que l'environnement spatial a été régulé dans le cadre du contrôle divin de l'évolution de la vie sur cette planète. Prise sous cet angle, la théorie selon laquelle les Sierras se sont développées il y a environ 50 millions d'années est cohérente avec l'affirmation du Livre d'Urantia selon laquelle elles se sont développées il y a environ 40 millions d'années.)
+(Le mot « Urantia », désignant la Terre, est un mot inventé dans _Le Livre d'Urantia_, avec le sens étymologique de « (votre) place dans les cieux ». _Le Livre d'Urantia_ donne une histoire détaillée de l'évolution géophysique de la planète et du développement évolutif de la vie. En général, les dates données dans _Le Livre d'Urantia_ concernant les développements évolutifs des 35 derniers millions d'années correspondent aux dates fournies par la datation radiométrique. Entre 35 et 450 millions d'années, les dates radiométriques sont gonflées d'un facteur moyen de 1,5, avec un facteur augmentant légèrement des dates les plus récentes aux plus récentes, suivi d'une diminution plus rapide à 1,0. En remontant de 450 à 550 millions d'années, le facteur augmente de 1,4 à 4,0. En remontant à partir d'il y a 550 millions d'années, les dates radiométriques sont constamment gonflées d'un facteur de 4,0 par rapport aux dates du _Livre d'Urantia_. _Le _Le Livre d'Urantia_ dit qu'il y a 550 millions d'années, la vie eucaryote (évolutionnaire) fut implantée sur la planète, qu'il y a 450 millions d'années marque l'apparition des protozoaires et qu'il y a 35 millions d'années est le début de l'âge des mammifères avancés. Le physicien Chris Halvorson, Ph.D., pense - en se basant, par exemple, sur les implications de la découverte de quantités massives de technétium et de prométhium « instables » dans les atmosphères de certaines étoiles - que le taux de désintégration radioactive peut être altéré par l'environnement, en particulier que l'environnement spatial a été régulé dans le cadre du contrôle divin de l'évolution de la vie sur cette planète. Prise sous cet angle, la théorie selon laquelle les Sierras se sont développées il y a environ 50 millions d'années est cohérente avec l'affirmation du Livre d'Urantia selon laquelle elles se sont développées il y a environ 40 millions d'années.)
 
-En général, les rapports d'LUtheNEWS citent les recherches originales sur lesquelles ils sont basés aussi largement que possible. Ceci est fait pour que les lecteurs de ces rapports n'aient pas à faire confiance à l'interprétation des auteurs des rapports scientifiques qui corroborent les informations du Livre d'Urantia. Dans ce cas, la recherche est particulièrement technique et nécessiterait des milliers de mots pour expliquer et définir la terminologie utilisée dans le rapport original. Heureusement, Brittany Grayson, une stagiaire du magazine Discover, a écrit un article intitulé L'énigme de la Sierra Nevada. Cet article couvre non seulement les conclusions et les implications des recherches effectuées par Mulch, Graham et Chamberlain, mais fournit également un historique de la controverse entourant ce sujet et la façon dont cette nouvelle recherche a été reçue. Par conséquent, avec un grand merci à Mme Grayson, son article sera largement cité comme un moyen efficace de fournir la substance du rapport de la Sierra Nevada à partir d'une source indépendante. Le matériel étranger est supprimé par souci de concision.
+En général, les rapports d'UBtheNEWS citent les recherches originales sur lesquelles ils sont basés aussi largement que possible. Ceci est fait pour que les lecteurs de ces rapports n'aient pas à faire confiance à l'interprétation des auteurs des rapports scientifiques qui corroborent les informations du Livre d'Urantia. Dans ce cas, la recherche est particulièrement technique et nécessiterait des milliers de mots pour expliquer et définir la terminologie utilisée dans le rapport original. Heureusement, Brittany Grayson, une stagiaire du magazine Discover, a écrit un article intitulé L'énigme de la Sierra Nevada. Cet article couvre non seulement les conclusions et les implications des recherches effectuées par Mulch, Graham et Chamberlain, mais fournit également un historique de la controverse entourant ce sujet et la façon dont cette nouvelle recherche a été reçue. Par conséquent, avec un grand merci à Mme Grayson, son article sera largement cité comme un moyen efficace de fournir la substance du rapport de la Sierra Nevada à partir d'une source indépendante. Le matériel étranger est supprimé par souci de concision.
 
 De l'énigme de la Sierra Nevada :
 
@@ -74,11 +89,11 @@ La réponse à cette énigme réside peut-être dans les cicatrices laissées su
 
 _Le Livre d'Urantia_ dit non seulement que les Sierras étaient « bien surélevées » et s'élèvent depuis les 25 derniers millions d'années, rejetant la théorie selon laquelle elles n'ont que 5 millions d'années, mais contient également des déclarations qui sont en harmonie avec les découvertes de Mulch, Graham et Chamberlain selon lesquelles les Sierras étaient surélevées il y a 45 millions d'années.
 
-Se référant à la période antérieure et se terminant il y a environ 50 à 60 millions d'années, Le Livre d'Urantia déclare : « Les montagnes les plus jeunes se trouvent dans le système des montagnes Rocheuses, où, pendant des siècles, des élévations de terres n'avaient eu lieu que pour être successivement recouvertes par la mer, bien que certaines des terres les plus élevées soient restées sous forme d'îles... [Un] véritable haut plateau montagneux a été élevé qui était destiné, par la suite, à être sculpté dans les montagnes Rocheuses actuelles par l'art combiné des éléments de la nature. » [^5]
+Se référant à la période antérieure et se terminant il y a environ 50 à 60 millions d'années, _Le Livre d'Urantia_ déclare : « Les montagnes les plus jeunes se trouvent dans le système des montagnes Rocheuses, où, pendant des siècles, des élévations de terres n'avaient eu lieu que pour être successivement recouvertes par la mer, bien que certaines des terres les plus élevées soient restées sous forme d'îles... [Un] véritable haut plateau montagneux a été élevé qui était destiné, par la suite, à être sculpté dans les montagnes Rocheuses actuelles par l'art combiné des éléments de la nature. » [^5]
 
 Dans le chapitre suivant, il est dit : « Il y a 45 000 000 d’années, les dorsales continentales se sont élevées en association avec un affaissement très général des côtes. »[^6]
 
-Revenons maintenant à _L'énigme de la Sierra Nevada_ :
+Revenons maintenant à _L'énigme de la Sierra Nevada_ :
 
 > **Les racines du débat sur la montagne**
 > 
@@ -146,7 +161,7 @@ Les figures 1 et 3 ci-dessous, ainsi que le commentaire, ont été inclus dans l
 <figcaption><b>Fig. 3.</b> (A) Effet orographique du nord de la Sierra Nevada tel qu'observé dans la quantité et la D des précipitations le long de la rivière Yuba moderne (23,27). Les précipitations sur l'aire de répartition moderne sont corrélées avec une forte diminution de Dppt. (B) Une corrélation similaire entre l'élévation de l'Éocène reconstruite (carrés) et la D calculée de l'eau météorique locale de l'Éocène (cercles) est observée pour l'ancienne rivière Yuba. La corrélation moderne de (A) est indiquée à titre de référence.</figcaption>
 </figure>
 
-Revenons maintenant à _L'énigme de la Sierra Nevada_ :
+Revenons maintenant à _L'énigme de la Sierra Nevada_ :
 
 > Les trois scientifiques se dirigèrent vers la Sierra pour des excursions de camping, empruntant des routes étroites battues par les intempéries. Ils y restèrent quatre ou cinq jours à la fois, collectant de la kaolinite dans les zones encore brutes sur les flancs de la montagne. De retour à Stanford, Mulch
 > 
@@ -163,7 +178,7 @@ La figure 2 ci-dessous, ainsi que le commentaire, ont été inclus dans le rappo
 <figcaption><b>Fig. 2.</b> Dkaol le long des rivières Yuba (cercles) et Américaine (triangles) de l'Éocène en fonction de la distance au rivage de l'Éocène. La régression linéaire à travers le Dkaol in situ de la rivière Yuba indique un niveau de la mer Dkaol = -76 &pm; 5 (r2 = 0,76) dans les limites d'erreur identiques à la kaolinite en équilibre isotopique avec les précipitations modernes sur la côte Pacifique (carré gris). La kaolinite détritique (carrés) chevauche la plupart des kaolinites in situ appauvries en D. La diminution de 25 &pm; 5 du Dkaol par rapport au niveau de la mer en amont reflète la pluie lors du soulèvement de l'humidité le long du flanc ouest de la Sierra Nevada de l'Éocène.</figcaption>
 </figure>
 
-Revenons maintenant à _L'énigme de la Sierra Nevada_ :
+Revenons maintenant à _L'énigme de la Sierra Nevada_ :
 
 > **Résultats et réfutation**
 > 
@@ -189,9 +204,9 @@ Abordé sous cet angle, le rapport de 2006 préparé par Mulch, Graham et Chambe
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/SierraMountains.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/SierraMountains.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 
 ## Liens supplémentaires sur les montagnes de la Sierra
@@ -211,7 +226,7 @@ Abordé sous cet angle, le rapport de 2006 préparé par Mulch, Graham et Chambe
 - http://www.livescience.com/strangenews/060706_sierra_nevada.html répétant l'histoire de la nouvelle recherche
 - http://www.stanford.edu/dept/news/pr/2006/pr-sierra-071206.html a les coordonnées des chercheurs et des éditeurs
 
-**Article de Phil Calabrese :**
+**Article de Phil Calabrese :**
 
 **Âge de la chaîne de montagnes de la Sierra Nevada.** Autre exemple de la capacité étonnante du Livre d'Urantia à éviter les erreurs et à fournir la vérité : les géologues de l'Université de Stanford ont pu déterminer un âge minimum pour la chaîne de montagnes de la Sierra Nevada en examinant la pluie tombée il y a 45 millions d'années et capturée dans du gravier trempé. Ils ont découvert qu'elle tombait à des altitudes similaires à celles de la pluie qui tombe là-bas aujourd'hui. (La pluie tombant à basse altitude contient un pourcentage plus élevé de deutérium (hydrogène lourd) que la pluie tombant à haute altitude.) Selon Kathy A Svitil du magazine Discover, cela « a réglé un différend de longue date sur l'âge de la chaîne de montagnes de la Sierra Nevada » dans lequel « la plupart des scientifiques avaient estimé l'âge de la Sierra à moins de 5 millions d'années. » [10]
 
@@ -230,7 +245,7 @@ Si les auteurs du Livre d'Urantia de 1955 n'en savaient pas plus que la plupart 
 
 ## Notes de bas de page
 
-[^1]: [LU 61:1.6](/fr/The_Urantia_Book/61#p1_6) Ce mode de citation du _Livre d'Urantia_ fournit le chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), puis la section, suivie du numéro de paragraphe.
+[^1]: [LU 61:1.6](/fr/The_Urantia_Book/61#p1_6) Ce mode de citation du _Livre d'Urantia_ fournit le chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), puis la section, suivie du numéro de paragraphe.
 
 [^2]: [LU 61:3.3](/fr/The_Urantia_Book/61#p3_3)
 

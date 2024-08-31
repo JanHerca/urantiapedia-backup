@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2012 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Contenu
 
@@ -29,7 +44,7 @@ Préparé par Halbert Katzen, J.D. [Mis à jour le 07/02/12]
 
 Jusque dans les années 1980, lorsque le télescope Hubble a été construit, les astronomes étaient très sceptiques quant à la capacité de télescopes plus puissants à pénétrer l'espace lointain. Divers facteurs ont conduit les astronomes dans cette direction : la théorie du Big Bang, les problèmes de décalage vers le rouge, les forces gravitationnelles, etc. On a dit aux personnes qui ont construit le télescope Hubble de ne pas s'inquiéter de voir des galaxies dans l'espace lointain, car ce ne serait pas possible. En 1977, un article de Scientific American notait que les astronomes estimaient qu'il y avait environ 10 millions de galaxies visibles. Néanmoins, les auteurs du Livre d'Urantia (publié en 1955) affirment : « Dans un avenir pas si lointain, de nouveaux télescopes révéleront au regard émerveillé des astronomes d'Urantia [Terre] pas moins de 375 millions de nouvelles galaxies dans les étendues reculées de l'espace extra-atmosphérique. » Les données recueillies par le télescope Hubble ont considérablement augmenté les estimations précédentes. Actuellement, les astronomes estiment qu'il y a bien plus de 100 milliards de galaxies.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Critique de Galaxies
 
@@ -55,7 +70,7 @@ Toutes les estimations contemporaines du nombre total de galaxies sont des extra
 
 Le terme « espace extérieur » a une signification spécifique dans _Le Livre d'Urantia_. Son commentaire sur la vision de « pas moins de 375 millions de nouvelles galaxies dans les étendues reculées de l'espace extérieur » apparaît dans le Fascicule 12 : _L'Univers des Univers_. Cette section du _Livre d'Urantia_ décrit comment il existe sept « superunivers » habités, chacun étant à peu près équivalent à ce que nous appelons la Voie Lactée :
 
-> Pratiquement tous les royaumes stellaires visibles à l'œil nu sur Urantia appartiennent à la septième section du grand univers, le superunivers d'Orvonton. Le vaste système stellaire de la Voie Lactée représente le noyau central d'Orvonton. . . Ce grand agrégat de soleils, d'îles sombres de l'espace, d'étoiles doubles, d'amas globulaires, de nuages d'étoiles, de nébuleuses spirales et autres, ainsi que des myriades de planètes individuelles, forme un groupement circulaire allongé en forme de montre d'environ un septième des univers évolutionnaires habités.[^8]
+> Pratiquement tous les royaumes étoilés visibles d’Urantia à l’œil nu appartiennent à la septième section du grand univers, le superunivers d’Orvonton. Le vaste système d’étoiles de la Voie Lactée représente le noyau central d’Orvonton et se trouve très au-delà des frontières de votre univers local. Ce grand agrégat de soleils, d’iles obscures de l’espace, d’étoiles doubles, d’amas globulaires, de nuages stellaires, de nébuleuses spirales ou autres, ainsi que de myriades de planètes individuelles, forme un groupement ovale allongé à profil de montre englobant environ un septième des univers évolutionnaires habités.[^8]
 
 L'« espace extérieur » fait référence aux régions actuellement inhabitées au-delà des sept superunivers qui sont en cours de préparation et d'organisation pour une future habitation. _Le Livre d'Urantia_ dit qu'il existe actuellement quatre niveaux d'espace extérieur.[^9] Les auteurs expliquent :
 
@@ -65,21 +80,21 @@ L'« espace extérieur » fait référence aux régions actuellement inhabitées
 
 On dit que les superunivers tournent à l'opposé du premier niveau d'espace extérieur.
 
-> Bien que vos estimations spectroscopiques des vitesses astronomiques soient assez fiables lorsqu'elles sont appliquées aux royaumes stellaires appartenant à votre superunivers et à ses superunivers associés, de tels calculs en référence aux royaumes de l'espace extra-atmosphérique sont totalement peu fiables...
+> Bien que vos estimations spectroscopiques des vitesses astronomiques soient assez fiables lorsqu’elles s’appliquent aux royaumes stellaires appartenant à votre superunivers et aux superunivers associés, vos calculs ne sont pas du tout fiables lorsqu’ils se réfèrent aux domaines de l’espace extérieur...
 > 
-> Mais la plus grande de toutes ces distorsions se produit parce que les vastes univers de l'espace extérieur dans les royaumes voisins des domaines des sept superunivers semblent [aux auteurs célestes présumés du Livre d'Urantia] tourner dans une direction opposée à celle du grand univers. C'est-à-dire que ces myriades de nébuleuses et les soleils et sphères qui les accompagnent tournent actuellement dans le sens des aiguilles d'une montre autour de la création centrale. Les sept superunivers tournent autour du Paradis dans le sens inverse des aiguilles d'une montre. Il semble que le deuxième univers extérieur de galaxies, comme les sept superunivers, tourne dans le sens inverse des aiguilles d'une montre autour du Paradis.[^11]
+> Mais la plus importante de ces distorsions provient de ce que les vastes univers de l’espace extérieur situés dans les royaumes avoisinant les domaines des sept superunivers paraissent effectuer leur rotation en sens inverse de celle du grand univers. Autrement dit, ces myriades de nébuleuses ainsi que les soleils et sphères qui les accompagnent tournent présentement autour de la création centrale dans le sens des aiguilles d’une montre. Or les sept superunivers tournent en sens inverse autour du Paradis. Il semble que le second univers extérieur de galaxies, tout comme les sept superunivers, tourne en sens inverse des aiguilles d’une montre autour du Paradis.[^11]
 
 Le physicien Chris Halvorson, Ph.D., qui est également un spécialiste du Livre d'Urantia, considère que les estimations actuelles du nombre de galaxies observables sont de grossières surestimations. Il souligne que des astronomes distingués, tels que Halton Arp, Geoffrey Burbidge et Margaret Burbidge, ont publié de nombreuses preuves indiquant que les objets à fort décalage vers le rouge ne sont pas extrêmement éloignés, comme le supposent la plupart des astronomes, et que les objets plus jeunes ont des décalages vers le rouge intrinsèques (non véloces) plus importants. Halvorson pense que ces preuves suggèrent que les galaxies à fort décalage vers le rouge des images du champ profond ne sont pas à des milliards d'années-lumière, mais à seulement quelques centaines de millions d'années-lumière (dans ce qui serait le deuxième niveau d'espace extérieur, et non le troisième, selon Le Livre d'Urantia). De plus, comme décrit dans Le Livre d'Urantia, la distribution des galaxies n'est pas sphériquement symétrique : les niveaux sont toroïdaux (en forme de beignet). Ensemble, ces deux idées impliqueraient que les extrapolations actuelles - extrapolations à l'ensemble de la sphère céleste du nombre de galaxies dans les très petites zones angulaires des images du Deep Field - sont d'énormes surestimations.
 
-On ne sait pas encore si ces considérations réduiraient l'estimation à un nombre proche de 375 millions de galaxies. Néanmoins, à ce stade, en toute honnêteté, la seule conclusion à laquelle on puisse parvenir en se basant sur les estimations courantes et largement acceptées du nombre de galaxies observables est qu'elles sont bien supérieures aux 375 millions de galaxies que Le Livre d'Urantia affirmait en 1955 comme devant être observées dans un « avenir pas si lointain ». Et il convient de noter que de telles estimations étaient rares parmi les astronomes lorsque le livre a été publié.
+On ne sait pas encore si ces considérations réduiraient l'estimation à un nombre proche de 375 millions de galaxies. Néanmoins, à ce stade, en toute honnêteté, la seule conclusion à laquelle on puisse parvenir en se basant sur les estimations courantes et largement acceptées du nombre de galaxies observables est qu'elles sont bien supérieures aux 375 millions de galaxies que _Le Livre d'Urantia_ affirmait en 1955 comme devant être observées dans un « avenir pas si lointain ». Et il convient de noter que de telles estimations étaient rares parmi les astronomes lorsque le livre a été publié.
 
 Documenter la manière dont les nouvelles découvertes et les avancées scientifiques soutiennent de plus en plus _Le Livre d'Urantia_ est un processus continu. Plus précisément, le paragraphe qui prédisait combien de galaxies nous pourrions bientôt voir disait également :
 
-> En même temps, ces télescopes plus puissants révéleront que de nombreux univers insulaires autrefois considérés comme situés dans l'espace extra-atmosphérique font en réalité partie du système galactique d'Orvonton [la galaxie de la Voie Lactée]. . . . [L]a périphérie . . . s'étend progressivement ; de nouvelles nébuleuses sont constamment stabilisées et organisées ; et certaines des nébuleuses que les astronomes urantiens considèrent comme extragalactiques sont en fait situées à la périphérie d'Orvonton et voyagent avec nous.[^12]
+> En même temps, ces télescopes plus puissants découvriront que beaucoup d’univers iles que l’on situait précédemment dans l’espace extérieur font en réalité partie du système galactique d’Orvonton [la galaxie de la Voie Lactée]. . . . [L]a périphérie . . . s'étend progressivement ; de nouvelles nébuleuses sont constamment stabilisées et organisées ; et quelques-unes des nébuleuses que les astronomes d’Urantia considèrent comme extragalactiques se trouvent en réalité aux lisières d’Orvonton et poursuivent leur voyage avec nous.[^12]
 
 Les auteurs du Livre d'Urantia utilisent les termes « univers insulaires » et « nébuleuses » comme synonymes, ce qui correspond à la transition de la terminologie des « univers insulaires » aux « nébuleuses ». La page Wikipédia sur les galaxies déclare : « En 1750, Thomas Wright, dans sa théorie originale ou nouvelle hypothèse de l'univers, a émis l'hypothèse (correcte) que la Voie lactée était un disque aplati d'étoiles et que certaines des nébuleuses visibles dans le ciel nocturne pourraient être des Voies lactées distinctes. En 1755, Emmanuel Kant a introduit le terme « univers insulaire » pour ces nébuleuses lointaines. »[^13]
 
-Si vous avez connaissance de découvertes qui soutiennent ces déclarations supplémentaires dans _Le Livre d'Urantia_, veuillez envoyer un courriel au projet LUtheNEWS avec ces informations.
+Si vous avez connaissance de découvertes qui soutiennent ces déclarations supplémentaires dans _Le Livre d'Urantia_, veuillez envoyer un courriel au projet UBtheNEWS avec ces informations.
 
 ## Galaxies : plus profondes et plus larges
 
@@ -98,23 +113,38 @@ La vue optique la plus profonde et la plus détaillée de l'univers, offerte par
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Galaxies.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 <br>
 
-## Notes de bas de page :
+## Notes de bas de page :
 
 [^1]: Livre d'Urantia [LU 12:2.3](/fr/The_Urantia_Book/12#p2_3) Les références au _Livre d'Urantia_ sont formatées en fonction du chapitre (appelé « Fascicules » dans _Le Livre d'Urantia_), de la section et du paragraphe. Dans cet exemple, 12:2.3 fait référence au Fascicule 12, section 2, paragraphe 3. Le mot « Urantia », désignant la Terre, est un mot inventé dans _Le Livre d'Urantia_, avec la signification étymologique de « (votre) place au ciel ».
 [^2]: Michael J. Disney, « Cosmologie moderne : science ou conte populaire ? », _American Scientist_, septembre-octobre 2007, 385 .
 [^3]: http://klima-luft.de/steinicke/Deep-Sky/deep-sky_e.htm
 [^4]: http://www.urantiabook.org/archive/science/milkyway.htm
 [^5]: Morrison, David, Sidney Wolff \& Andrew Fraknoi. Exploration de l'Univers, 7e éd. Philadelphie : Saunders, 1995 : 7.
-[^6] : _Encyclopédie mondiale du livre_. Chicago : World Book, 1997 : 205
+[^6] : _Encyclopédie mondiale du livre_. Chicago : World Book, 1997 : 205
 [^7]: http://www.astro.uu.nl/ strous/AA/fr/antwoorden/melkwegstelsels.htm|\#13
 [^8]: Livre d'Urantia [LU 15:3.1](/fr/The_Urantia_Book/15#p3_1)
 [^9]: Livre d'Urantia [LU 12:1.3](/fr/The_Urantia_Book/12#p1_3)

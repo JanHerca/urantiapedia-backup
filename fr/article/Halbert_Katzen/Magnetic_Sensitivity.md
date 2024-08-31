@@ -9,6 +9,21 @@ dateCreated: 2021-11-28T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris clair lighten-3 px-2">© 2019 Halbert Katzen, JD</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Contenu
 
@@ -30,13 +45,13 @@ Préparé par Halbert Katzen, J.D. [Mis à jour le 15/08/08]
 <img src="/image/article/Halbert_Katzen/Magnetic_Sensitivity/directions.jpg">
 </figure>
 
-Le Livre d'Urantia affirme que tous les organismes ont une sensibilité biologique au champ magnétique terrestre et que cette sensibilité est à la limite de la conscience humaine. Au moment de sa publication en 1955, les scientifiques ne croyaient généralement pas que les organismes biologiques puissent avoir un mécanisme sensible à un champ électromagnétique aussi subtil. Aujourd'hui, on a découvert que de nombreux animaux migrateurs et non migrateurs possèdent une telle sensibilité et certains chercheurs affirment que les êtres humains peuvent également ressentir le champ magnétique terrestre.
+_Le Livre d'Urantia_ affirme que tous les organismes ont une sensibilité biologique au champ magnétique terrestre et que cette sensibilité est à la limite de la conscience humaine. Au moment de sa publication en 1955, les scientifiques ne croyaient généralement pas que les organismes biologiques puissent avoir un mécanisme sensible à un champ électromagnétique aussi subtil. Aujourd'hui, on a découvert que de nombreux animaux migrateurs et non migrateurs possèdent une telle sensibilité et certains chercheurs affirment que les êtres humains peuvent également ressentir le champ magnétique terrestre.
 
-Le Livre d'Urantia affirme que les « corps » responsables de cette sensibilité ont été découverts à peu près à l'époque de la narration du Livre d'Urantia, soit au milieu des années 1930. Au milieu des années 1930, les scientifiques ont effectivement découvert que les ampoules du museau des requins avaient de minuscules poils du type oreille interne et que des nerfs reliaient ces ampoules au cerveau. Ils pouvaient également dire que les requins étaient sensibles aux champs électriques. Mais il a fallu attendre les années 1960 pour découvrir que le mécanisme de ces ampoules était extrêmement sensible aux champs électromagnétiques.
+_Le Livre d'Urantia_ affirme que les « corps » responsables de cette sensibilité ont été découverts à peu près à l'époque de la narration du Livre d'Urantia, soit au milieu des années 1930. Au milieu des années 1930, les scientifiques ont effectivement découvert que les ampoules du museau des requins avaient de minuscules poils du type oreille interne et que des nerfs reliaient ces ampoules au cerveau. Ils pouvaient également dire que les requins étaient sensibles aux champs électriques. Mais il a fallu attendre les années 1960 pour découvrir que le mécanisme de ces ampoules était extrêmement sensible aux champs électromagnétiques.
 
 De plus, « Dans les années 1960, le paléoécologue Heinz Lowenstam de Caltech a surpris les biologistes et les géologues en découvrant que de nombreux animaux font ce que la science conventionnelle considérait comme impossible : ils fabriquent des substances telles que la magnétite, un minéral contenant du fer [le minéral le plus sensible au magnétisme sur Terre] dans leur corps. Les travaux de Lowenstam ont permis de découvrir plus récemment que de nombreux animaux migrateurs, dont les oiseaux, les abeilles et les baleines, génèrent de la magnétite dans leur corps et doivent leur instinct de retour à la maison à la présence de cette « boussole interne » qui leur permet de naviguer au moyen du champ magnétique terrestre. » Aujourd'hui, divers mécanismes biologiques ont été découverts qui jouent un rôle dans la capacité de nombreux types d'animaux à être sensibles au champ magnétique terrestre.
 
-<br style=« clear:les deux; »/>
+<br style="clear:both;"/>
 
 ## Examen de la sensibilité magnétique
 
@@ -126,7 +141,7 @@ Les scientifiques se posent maintenant la question fondamentale : que fait la ma
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Halbert_Katzen/Magnetic_Sensitivity/magnetite2.jpg">
-<figcaption>Ci-dessus : une chaîne linéaire de cristaux de magnétite biogénique, extraits des tissus de la région frontale du saumon rouge, <em>Oncorhynchus nerka</em>, un proche parent de la truite arc-en-ciel, <em>Oncorhynchus mykiss</em>. Il s'agit également de domaines magnétiques simples, avec des alignements de cristaux similaires à ceux des bactéries magnétotactiques. (<em>Crédit photo</em> : S. Mann)</figcaption>
+<figcaption>Ci-dessus : une chaîne linéaire de cristaux de magnétite biogénique, extraits des tissus de la région frontale du saumon rouge, <em>Oncorhynchus nerka</em>, un proche parent de la truite arc-en-ciel, <em>Oncorhynchus mykiss</em>. Il s'agit également de domaines magnétiques simples, avec des alignements de cristaux similaires à ceux des bactéries magnétotactiques. (<em>Crédit photo</em> : S. Mann)</figcaption>
 </figure>
 
 Même si les scientifiques ont découvert de la magnétite biogénique chez les animaux, il reste à déterminer si et comment de tels corps peuvent réellement stimuler le cerveau afin de fournir des informations directionnelles. À la fin des années 1990, des résultats d'expériences ont commencé à être publiés à l'Université d'Auckland qui ont montré que des nerfs connectaient des régions du crâne et du nez de la truite arc-en-ciel où la magnétite est produite. [^7]
@@ -268,7 +283,7 @@ RÉSUMÉ : « L'application d'un champ magnétique de 0-1 G (1 gauss = 10 µT) a
 
 http://jeb.biologists.org/cgi/reprint/70/1/105.pdf
 
-**Site Web du Groupe de Biophysique Théorique et Computationnelle :**
+**Site Web du Groupe de Biophysique Théorique et Computationnelle :**
 **Sensibilité magnétique chez les animaux**
 
 Introduction : « Une grande variété d'animaux possèdent un sens magnétique. Les oiseaux migrateurs utilisent des indices magnétiques (en plus de la polarisation de la lumière, des signes astrologiques, de la position du soleil) pour trouver leur chemin vers le sud en automne et vers le nord au printemps. Les salamandres et les grenouilles utilisent le champ magnétique pour s'orienter lorsqu'elles doivent trouver rapidement la direction du rivage le plus proche, par exemple lorsqu'elles sentent un danger. Les expérimentateurs comportementaux ont utilisé ces modèles de mouvement naturels pour concevoir des expériences qui leur permettent d'étudier de quelle manière les informations géomagnétiques sont utilisées pour l'orientation... »
@@ -297,16 +312,32 @@ http://www.biophysics.uwa.edu.au/magnetite.html
 
 ## Liens externes
 
-* [Ce rapport sur la page Web LUTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Magnetic.pdf)
-* [Autres rapports sur la page Web LUTheNews](https://ubannotated.com/ubthenews/reports_list/)
-* [Études d'actualité sur la page Web LUTheNews](https://ubannotated\.com/main-menu/animated/Topical%20Studies/)
+* [Ce rapport sur la page Web UBTheNews](https://ubannotated.com/wp-content/uploads/2018/03/Magnetic.pdf)
+* [Autres rapports sur la page Web UBTheNews](https://ubannotated.com/ubthenews/reports_list/)
+* [Études d'actualité sur la page Web UBTheNews](https://ubannotated.com/main-menu/animated/Topical%20Studies/)
 
 <br>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/fr/index/articles_ubannotated">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">UB Annotated — Index</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 <br>
 
-## Notes de bas de page :
+## Notes de bas de page :
 
 [^1]: http://en.wikipedia.org/wiki/Magnetoception
 [^2]: http://en.wikipedia.org/wiki/Electromagnetism
