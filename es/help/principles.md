@@ -110,7 +110,7 @@ Pero esta estrategia necesita ser actualizada. Dos tercios de los habitantes del
 <figcaption><em>Porcentaje de lectores potenciales de trabajos secundarios en el mundo en su idioma nativo (julio 2022). En azul la proporción que está disponible. La mayoría de los lectores potenciales de estos trabajos son hablantes de inglés.</em></figcaption>
 </figure>
 
-Si hacemos los mismos cálculos para los trabajos secundarios, la situación es aún peor. Hay muy poca preocupación sobre la traducción de Obras Secundarias. Están principalmente en inglés, con alguna pequeña producción en español o francés. Pero no hay intercambio de ideas de las entre comunidades de diferentes idiomas a través de traducciones, y una gran parte del movimiento Urantia no sabe nada acerca de las Obras Secundarias porque sólo están en inglés. 
+Si hacemos los mismos cálculos para los trabajos secundarios, la situación es aún peor. Hay muy poca preocupación sobre la traducción de Obras Secundarias. Están principalmente en inglés, con alguna pequeña producción en español o francés. Pero no hay intercambio de ideas entre comunidades de diferentes idiomas a través de traducciones, y una gran parte del movimiento Urantia no sabe nada acerca de las Obras Secundarias porque sólo están en inglés. 
 
 Conviene recordar esta cita de *El Libro de Urantia*:
 
@@ -167,7 +167,7 @@ Necesitamos más que nada personas inspiradas, no dinero.
 
 * Las personas inspiradas, las personas desinteresadas que quieren colaborar y servir sin esperar una recompensa son las personas que aportan el mejor trabajo. Necesitamos ante todo ese tipo de colaboradores.
 * Por supuesto necesitamos algo más que solo contenido de *El libro de Urantia*. Para los aspectos técnicos del proyecto, esperamos necesitar al menos dos desarrolladores, uno en los sistemas de *backend* y otro para la parte de *frontend*. Como esto no tiene ninguna relación con el contenido del libro, aquí esperamos contratar algunos colaboradores. Así que el dinero no es la parte importante, pero es importante.
-* Con independencia de lo anterior, el principio principal de *Urantiapeida* es tratar de trabajar desinteresadamente, con un trabajo voluntario, de la misma manera que se hace el trabajo del Paraíso. Para ello estamos agregando el proyecto en diferentes plataformas que permitan una fácil colaboración de los equipos, como [BlueFields](https://blue-fields.netlify.app/), [GitHub](https://github.com/) y [Trello](https://trello.com/).
+* Con independencia de lo anterior, el principio principal de *Urantiapedia* es tratar de trabajar desinteresadamente, con un trabajo voluntario, de la misma manera que se hace el trabajo del Paraíso. Para ello estamos agregando el proyecto en diferentes plataformas que permitan una fácil colaboración de los equipos, como [BlueFields](https://blue-fields.netlify.app/), [GitHub](https://github.com/) y [Trello](https://trello.com/).
 * *Urantiapedia* no tendrá publicidad ni merchandising para la recaudación de fondos. Se basará únicamente en las donaciones.
 * Los costes se mantendrán siempre lo más bajos posible. La parte más costosa es la creación de contenido y esa parte siempre será desinteresada y voluntaria.
 
