@@ -69,7 +69,7 @@ Si alguien ha visto la película «_El día de mañana_» (_The Day After Tomorr
 <br>
 
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/UB_and_the_collapse_of_capitalist_era/The-Day-after-Tomorrow-movie-frozen-New-York.jpg">
 </figure>
 
@@ -167,11 +167,11 @@ Los dos grandes males que aquejan a la civilización actual son la falta de visi
 
 Seguro que algunos sienten la tentación de pensar que estos últimos párrafos del Libro se refieren a las dos primeras guerras mundiales (justo el momento en el que se escribieron), y que no se refieren a nuestro futuro actual[^10]. A esos les pediría que consideraran estas preguntas: ¿Ha mejorado nuestro mundo actual, el de la segunda década del siglo XXI, en visión espiritual y en decrecimiento del afán de lucro, respecto al primer cuarto del siglo XX? ¿O más bien está discurriendo todo a peor? Y, ¿es la actual ONU, la Organización de las Naciones Unidas, ese gobierno planetario global del que habla la revelación?
 
-Es momento de terminar este repaso al Libro de Urantia con una última cita que parece confirmar bastante bien la predicción que he puesto antes acerca de una futura pequeña glaciación, y que seguramente más de un lector habrá tomado por exageración:
+Es momento de terminar este repaso al _Libro de Urantia_ con una última cita que parece confirmar bastante bien la predicción que he puesto antes acerca de una futura pequeña glaciación, y que seguramente más de un lector habrá tomado por exageración:
 
 > ...Mientras las regiones polares continúen cubiertas de hielo, es muy difícil que se produzca otra época glacial, independientemente de las elevaciones terrestres o de las modificaciones de las corrientes oceánicas que tengan lugar en el futuro. [LU 61:7.11](/es/The_Urantia_Book/61#p7_11)
 
-Es decir, los reveladores confirman que los casquetes polares son ese salvavidas que evita la aparición de nuevas glaciaciones. Eso significa que la destrucción de los casquetes polares que estamos produciendo con el calentamiento global ciertamente podrían suscitar una nueva era glacial, ya fuera de gran entidad o no. Y fijémonos en la frase «las modificaciones de las corrientes oceánicas que tengan lugar en el futuro» pues parece profética. Es justo lo que los científicos están descubriendo en estos momentos que ocurre con la importante corriente AMOC. Es decir, sin el colchón que nos proporcionan los hielos polares, un cambio en las corrientes oceánicas ya no será algo inofensivo.
+Es decir, los reveladores confirman que los casquetes polares son ese salvavidas que evita la aparición de nuevas glaciaciones. Eso significa que la destrucción de los casquetes polares que estamos produciendo con el calentamiento global ciertamente podría suscitar una nueva era glacial, ya fuera de gran entidad o no. Y fijémonos en la frase «las modificaciones de las corrientes oceánicas que tengan lugar en el futuro» pues parece profética. Es justo lo que los científicos están descubriendo en estos momentos que ocurre con la importante corriente AMOC. Es decir, sin el colchón que nos proporcionan los hielos polares, un cambio en las corrientes oceánicas ya no será algo inofensivo.
 
 Así pues, ¿predicciones o exageraciones?
 
@@ -204,7 +204,7 @@ Así pues, ¿predicciones o exageraciones?
 
 [^5]: https://es.wikipedia.org/wiki/Pico_del_gas
 
-[^6]: Según _El Libro de Urantia_, en nuestro uso de los combustibles fósiles la humanidad está dando marcha atrás y no hacia adelante. <a id="a220_136"></a>[LU 69:8.12](/es/The_Urantia_Book/69#p8_12) Los reveladores no sienten mucha estima por esta era de mecanización y uso de energía inorgánica que elimina la necesidad de la mano de obra humana y animal. La primera era de la mecanización ha llevado a una masiva extinción de especies animales que ya no se ven útiles (reduciendo las especies a las puramente productivas). La segunda era la tenemos a las puertas, la era de la IA (Inteligencia Artificial) que promete con dejar sin trabajo a millones de seres humanos. Son los efectos de un modelo económico que solo busca el beneficio económico y el crecimiento a toda costa, incluso a expensas de dejar el planeta vacío de seres vivos.
+[^6]: Según _El Libro de Urantia_, en nuestro uso de los combustibles fósiles la humanidad está dando marcha atrás y no hacia adelante. <a id="a220_136"></a>[LU 69:8.12](/es/The_Urantia_Book/69#p8_12) Los reveladores no sienten mucha estima por esta era de mecanización y uso de energía inorgánica que elimina la necesidad de la mano de obra humana y animal. La primera era de la mecanización ha llevado a una masiva extinción de especies animales que ya no se ven útiles (reduciendo las especies a las puramente productivas). La segunda era la tenemos a las puertas, la era de la IA (Inteligencia Artificial) que promete dejar sin trabajo a millones de seres humanos. Son los efectos de un modelo económico que solo busca el beneficio y el crecimiento a toda costa, incluso a expensas de dejar el planeta vacío de seres vivos.
 
 [^7]: https://es.wikipedia.org/wiki/Dryas_Reciente
 
