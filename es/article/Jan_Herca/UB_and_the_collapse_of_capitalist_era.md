@@ -16,9 +16,13 @@ A mediados del siglo XXI se producirá en la economía global del planeta un col
 
 Vivimos en un planeta finito, y todo lo que podemos hacer con él es finito. Quizá no exista límite para la ambición humana ni para el afán de lucro, pero sí lo existe para la falta de miras de largo alcance y para un uso irresponsable de la riqueza. Finalmente, toda esta ambición y derroche, todo esta inconsciencia e irresponsabilidad, chocará contra la única realidad posible como quien choca contra un muro.
 
+<br>
+
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/UB_and_the_collapse_of_capitalist_era/Global-warming-climate-catastrophe.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 ## Breve historia de la sinrazón
 
@@ -34,9 +38,13 @@ Hace tiempo que el capitalismo de gran parte del mundo, sino todo él, ya sobrep
 
 Ahora de lo que se trata es de crecer, crecer a toda costa, crecer aun cuando se agoten los medios para hacerlo. En ese caso hay que buscar algo más que nos permita seguir creciendo. Pero no creciendo un poco cada vez, sino creciendo cada vez más, a un ratio mayor respecto de lo que crecimos el año anterior. Hay que evitar la recesión a toda costa, y si no se puede evitar, atravesarla a toda velocidad, haciendo todas las trampas que se puedan al sistema. Hay que conseguir que la fábrica de hacer dinero que es el mundo no se detenga en ningún momento.
 
+<br>
+
 <figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/UB_and_the_collapse_of_capitalist_era/Chicago-traders.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 Pero, ¿y qué pasará cuando agotemos el petróleo? La respuesta que solía darse era que el petróleo estaba lejísimos de agotarse; no era una preocupación para ahora. Sin embargo, estamos a años de que ocurra, no decenios. [^4] La Agencia Internacional de la Energía (AIE) situó el pico del petróleo crudo convencional (_peak oil_) en 2006. Este pico de la producción marca el momento en el que extraer nuevo crudo empieza a ser cada vez más difícil y más costoso, y por tanto menos rentable, y marca una inevitable tendencia a la baja en su producción. Los primeros años posteriores al pico (ya los estamos viviendo) se caracterizarán por un incremento en los problemas para atender la demanda de este mundo creciente y ávido de energía que no desea parar su maquinaria, sino pisar el acelerador a fondo. A medida que pasen los años, la escasez se volverá más notable hasta llegar a un punto insostenible. Se producirá un crack en la economía no porque se haya acabado el petróleo, sino porque no estaremos dispuestos a pagar más por él y a ver decrecer nuestro ritmo de vida.
 
@@ -58,10 +66,14 @@ Sin embargo, antes de que comenzara esta época de bonanza climática, ocurrió 
 
 Si alguien ha visto la película «_El día de mañana_» (_The Day After Tomorrow_), de Roland Emmerich, y quitan de esa cinta las exageraciones que hacen que la historia suceda en apenas unas semanas, y colocan 20 años en su lugar, tendrán de todos modos una visión exacta de lo que sucedió durante el Dryas Reciente.
 
+<br>
+
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Jan_Herca/UB_and_the_collapse_of_capitalist_era/The-Day-after-Tomorrow-movie-frozen-New-York.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 No se conoce con exactitud qué pudo causar ese vuelco repentino de las temperaturas, pero se sospecha que pudo deberse a una desestabilización de la corriente oceánica del Atlántico Norte (AMOC). Esa corriente es la responsable de conducir agua caliente desde el golfo de México al norte de Europa. Es lo que permite que el clima del norte de Europa sea más suave cuando está incluso a latitudes de Canadá. Pero esa corriente es muy sensible a cambios súbitos, como por ejemplo, una enorme afluencia de agua dulce.
 
@@ -163,9 +175,13 @@ Es decir, los reveladores confirman que los casquetes polares son ese salvavidas
 
 Así pues, ¿predicciones o exageraciones?
 
+<br>
+
 <figure id="Figure_4" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/UB_and_the_collapse_of_capitalist_era/predictions.jpg">
 </figure>
+
+<br style="clear:both;"/>
 
 ## Para leer más
 
