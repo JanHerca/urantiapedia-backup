@@ -1284,6 +1284,8 @@ The prince told him of Bahā Veled, now Sheykh of the city, and the peerless sai
 
 [^9]: 18:1 The truly eminent author of the Mesnevī.
 
+[^10:] (no content)
+
 [^11]: 20:1 From the city of Sarakhs in Khurāsān.
 
 [^12]: 23:1 Had Dr. Tanner, the forty days’ faster at New York, heard of these performances?
@@ -1294,7 +1296,7 @@ The prince told him of Bahā Veled, now Sheykh of the city, and the peerless sai
 
 [^15]: 60:1 The mount where the victims are slaughtered by the pilgrims.
 
-[^16]: 64:1 The great Persian poet Khāqānī, [born](errata.htm#1) at Shirwān, died and was buried at Tebrīz a.h. 582 (a.d. 1186).
+[^16]: 64:1 The great Persian poet Khāqānī, [born](./errata.htm#1) at Shirwān, died and was buried at Tebrīz a.h. 582 (a.d. 1186).
 
 [^17]: 64:2 Sanā’ī, of Gazna in Afgānistān, surnamed “the Wise,” or “the Philosopher,” died and was buried at the place of his birth, a.h. 576 (a.d. 1180).
 

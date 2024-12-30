@@ -40,7 +40,7 @@ Man, is not he Creation's last appeal,
 The light of Wisdom's eye? Behold the wheel
 Of universal life as ’twere a ring,
 But Man the superscription and the seal.
-                                      Omar Khayyam.
+&nbsp;&nbsp;&nbsp;Omar Khayyam.
 
 Οὕτως, φησίν, ἐστι πάνυ βαθεῖα καὶ δυσκατάληπτος ἡ τοῦ τελείου ἀνθρώπου γνῶσις. Ἀρχὴ γάρ, φησίν, τελειώσεως γνῶσις ἀνθρώπου· θεοῦ δὲ γνῶσις ἀπηρτισμένη τελείωσις· Hippolytus.
 
@@ -65,7 +65,7 @@ The markedly Christian flavour of the Ḥallájian doctrine condemned it in Mosl
 
 Jílí begins his work with a statement of his object in composing it [^228]. That object is God (_al-Ḥaqq_): therefore he must treat in the first place, of the Divine names, then of the Divine attributes, and lastly of the Divine essence. “I will call attention,” he says, “to mysteries which no author has ever put into a book [^229], matters concerning the gnosis of God and of the universe, and will tread a path between reserve and divulgation.” He writes throughout as one reporting what has been communicated to him in mystical converse (_mukálama_), <span id="p82">[<sup><small>p. 82</small></sup>]</span> so that “the hearer knows it intuitively to be the word of God [^230].” These private revelations are supported, he asserts, by the Koran and the Sunna, and he warns his readers not to charge him with errors which may arise from their own want of understanding; but while he professes belief in the Mohammedan articles of faith [^231], he interprets them by an allegorising method that yields any and every meaning desired. As a writer, he is not without talent, though his work belongs to mysticism rather than to literature. Besides many poems which he seems to have admired inordinately [^232], he introduces _maqámas_ in rhymed prose and specimens of the Platonic myth. Thus he tells how the stranger, whose name is the Spirit, returned from long exile and imprisonment to the world known as Yúḥ, and entered a spacious city where Khaḍir rules over “the Men of the Unseen” (_rijálu ’l-ghayb_)—exalted saints and angels, of whom six classes are described [^233].
 
-The characteristic of the _Insánu ’l-kámil_ is the idea of the Perfect Man, “who as a microcosmos of a higher order reflects not only the powers of nature but also the divine powers \`as in a mirror' (comp. the γενικὸς ἄνθρωπος of Philo) [^234].” On this basis Jílí builds his mystical philosophy. It will be better grasped as a whole, if before coming to details I endeavour to sketch it in outline.
+The characteristic of the _Insánu ’l-kámil_ is the idea of the Perfect Man, “who as a microcosmos of a higher order reflects not only the powers of nature but also the divine powers 'as in a mirror' (comp. the γενικὸς ἄνθρωπος of Philo) [^234].” On this basis Jílí builds his mystical philosophy. It will be better grasped as a whole, if before coming to details I endeavour to sketch it in outline.
 
 Jílí belongs to the school of Ṣúfís who hold that Being is one [^235], that all apparent differences are modes, aspects, and manifestations of reality, that the phenomenal is the outward expression of the real. He begins by defining essence as that <span id="p83">[<sup><small>p. 83</small></sup>]</span> to which names and attributes are referred; it may be either existent or non-existent, _i.e._, existing only in name, like the fabulous bird called _‘Anqá_. Essence that really exists is of two kinds: Pure Being, or God, and Being joined to not-being, _i.e._, the world of created things. The essence of God is unknowable _per se_; we must seek knowledge of it through its names and attributes. It is a substance with two accidents, eternity and everlastingness; with two qualities, creativeness and creatureliness; with two descriptions, uncreatedness and origination in time; with two names, Lord and slave (God and man); with two aspects, the outward or visible, which is the present world, and the inward or invisible, which is the world to come; both necessity and contingency are predicated of it, and it may be regarded either as non-existent for itself but existent for other, or as non-existent for other but existent for itself [^236].
 
@@ -160,11 +160,10 @@ I trust that the following analysis and exposition is full enough to bring out t
 [^224]: 80:2 Massignon, _Kitáb al-Ṭawásín_, p. 129.
 
 [^225]: 80:3 Contrast this with the monistic expression of the same thought by Jílí (K I. 51, 1): “We are the spirit of One, though we dwell by turns in two bodies.” So, too, Jalálu’ddín Rúmí (Divāni Shamsi Tabrīz, p. 153):
-
-“Happy the moment when we are seated in the palace, thou and I,
- With two forms and with two figures, but with one soul, thou and I.”
-
-Cf. K II. 121, 11 foll.: “Essential love is love in Oneness, so that each of the lovers appears in the form of the other and represents the other. Inasmuch as the love of the body and the soul is essential, the soul is pained by the body's pain in this world, while the body is pained by the soul's pain in the other world: then each of them appears in the other's form.”
+  “Happy the moment when we are seated in the palace, thou and I,
+  With two forms and with two figures, but with one soul, thou and I.”
+  
+  Cf. K II. 121, 11 foll.: “Essential love is love in Oneness, so that each of the lovers appears in the form of the other and represents the other. Inasmuch as the love of the body and the soul is essential, the soul is pained by the body's pain in this world, while the body is pained by the soul's pain in the other world: then each of them appears in the other's form.”
 
 [^226]: 81:1 I do not know on what authority Dr Goldziher in his article on Jílí in the _Encycl. of Islam_ (vol. I, p. 46) connects the _nisba_ with Jíl, a village in the district of Baghdád. Jílí calls himself ![](/image/book/Islam/Studies_in_Islamic_Mysticism/08100.jpg) (Loth, Cat. of Arabic MSS. in the India Office Library, p. 182, col. I, l. 7 from foot). He traced his descent to a _sibṭ_ of ‘Abdu ’l-Qádir, _i.e._, to a son of the Shaykh's daughter.
 
