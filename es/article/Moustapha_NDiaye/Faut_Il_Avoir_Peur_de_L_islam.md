@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Moustapha NDiaye<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Breves reflexiones sobre el tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Las recientes masacres cometidas en América del Norte, Europa y también en Oriente Medio están provocando una ola de incomprensión e indignación en todo el mundo. Esta violencia islamista ligada al yihadismo es reivindicada y justificada en nombre de un Islam riguroso por quienes cometen estas masacres masivas.
@@ -40,7 +64,7 @@ Entre los inicios de lo que podría ser el futuro, cabe señalar también que la
 
 > La fuerza del islam ha residido en su presentación clara y bien definida de Alá como la sola y única Deidad; su debilidad ha consistido en utilizar la fuerza militar para promulgar su religión, junto con la degradación de las mujeres. Pero el islam se ha mantenido inquebrantablemente fiel a su presentación de la Única Deidad Universal de todos, «que conoce lo invisible y lo visible. Él es el misericordioso y el compasivo». «En verdad, Dios concede su bondad en abundancia a todos los hombres». «Y cuando estoy enfermo, él es el que me cura». «Porque cada vez que tres personas se reúnen para hablar, Dios está presente como una cuarta», porque ¿acaso no es «el primero y el último, y también el visible y el oculto»?
 > 
-> La fuerza del islam ha residido en su presentación clara y bien definida de Alá como la sola y única Deidad; su debilidad ha consistido en utilizar la fuerza militar para promulgar su religión, junto con la degradación de las mujeres. Pero el islam se ha mantenido inquebrantablemente fiel a su presentación de la Única Deidad Universal de todos, «que conoce lo invisible y lo visible. Él es el misericordioso y el compasivo». «En verdad, Dios concede su bondad en abundancia a todos los hombres». «Y cuando estoy enfermo, él es el que me cura». «Porque cada vez que tres personas se reúnen para hablar, Dios está presente como una cuarta», porque ¿acaso no es «el primero y el último, y también el visible y el oculto»? ([LU 95:7.6](/es/The_Urantia_Book/95#p7_6))
+> La fuerza del islam ha residido en su presentación clara y bien definida de Alá como la sola y única Deidad; su debilidad ha consistido en utilizar la fuerza militar para promulgar su religión, junto con la degradación de las mujeres. Pero el islam se ha mantenido inquebrantablemente fiel a su presentación de la Única Deidad Universal de todos, «que conoce lo invisible y lo visible. Él es el misericordioso y el compasivo». «En verdad, Dios concede su bondad en abundancia a todos los hombres». «Y cuando estoy enfermo, él es el que me cura». «Porque cada vez que tres personas se reúnen para hablar, Dios está presente como una cuarta», porque ¿acaso no es «el primero y el último, y también el visible y el oculto»? (<a id="a66_724"></a>[LU 95:7.6](/es/The_Urantia_Book/95#p7_6))
 
 Por último, constemos el rechazo a la violencia y, especialmente, a la ideología yihadista, que está perdiendo toda simpatía en casi todo el mundo musulmán, cosa que tampoco ocurría hace apenas unos años. Estamos seguros de que el Islam de mañana será diferente de lo que es hoy, como el mundo de mañana será diferente del de hoy.
 
@@ -66,3 +90,28 @@ Desde entonces, a través de mis numerosas oportunidades de viajar al extranjero
 
 Casado y padre de dos niños y una niña, todos criados, tanto en la tradición religiosa de su país, como en la apertura a la aldea global en la que se ha convertido Urantia, intento encontrar este significado que alguna vez busqué en vano. en los libros, en una relación viva con el Padre a través de todas las oportunidades de la vida familiar, social o internacional, que él habrá suscitado como Ajustador en mi mente o como Dios Supremo en mi destino.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_04">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-75-septiembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 75 — Septiembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Breves_Reflexions_Sur_Le_Temps">
+          <span class="pr-2">Breves reflexiones sobre el tiempo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Claire Mylanus<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una historia de amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Notre_Aventure_3">
+          <span class="pr-2">Nuestra Aventura</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_9" class="image urantiapedia">
@@ -27,11 +51,11 @@ Para crear un documento que refleje el enfoque de revelaciones anteriores en nue
 
 Aquí hay dos citas que nos guiaron en nuestro trabajo:
 
-> «Pero tratar de acelerar con demasiada rapidez el crecimiento religioso no es más que una insensatez. Una raza o una nación sólo puede asimilar, de cualquier religión avanzada, aquello que es razonablemente coherente y compatible con su estado evolutivo en curso, además de su don especial para adaptarse. Todas las condiciones sociales, climáticas, políticas y económicas ejercen su influencia para determinar el curso y el progreso de la evolución religiosa. La moralidad social no está determinada por la religión, es decir, por la religión evolutiva; la moralidad racial es más bien la que dicta las formas de la religión.» ([LU 92:2.4](/es/The_Urantia_Book/92#p2_4))
+> «Pero tratar de acelerar con demasiada rapidez el crecimiento religioso no es más que una insensatez. Una raza o una nación sólo puede asimilar, de cualquier religión avanzada, aquello que es razonablemente coherente y compatible con su estado evolutivo en curso, además de su don especial para adaptarse. Todas las condiciones sociales, climáticas, políticas y económicas ejercen su influencia para determinar el curso y el progreso de la evolución religiosa. La moralidad social no está determinada por la religión, es decir, por la religión evolutiva; la moralidad racial es más bien la que dicta las formas de la religión.» (<a id="a53_631"></a>[LU 92:2.4](/es/The_Urantia_Book/92#p2_4))
 
 Y el segundo:
 
-> «2. *La fecundación intelectual cruzada*. La fraternidad es imposible en un mundo cuyos habitantes son tan primitivos que no logran reconocer la locura del egoísmo sin freno. Debe producirse un intercambio de literatura nacional y racial. Cada raza debe familiarizarse con el pensamiento de todas las razas; cada nación debe conocer los sentimientos de todas las naciones. La ignorancia engendra la desconfianza, y la desconfianza es incompatible con la actitud esencial de simpatía y de amor.» ([LU 52:6.4](/es/The_Urantia_Book/52#p6_4))
+> «2. *La fecundación intelectual cruzada*. La fraternidad es imposible en un mundo cuyos habitantes son tan primitivos que no logran reconocer la locura del egoísmo sin freno. Debe producirse un intercambio de literatura nacional y racial. Cada raza debe familiarizarse con el pensamiento de todas las razas; cada nación debe conocer los sentimientos de todas las naciones. La ignorancia engendra la desconfianza, y la desconfianza es incompatible con la actitud esencial de simpatía y de amor.» (<a id="a57_498"></a>[LU 52:6.4](/es/The_Urantia_Book/52#p6_4))
 
 Para crear nuestro documento, recopilamos citas sobre:
 
@@ -239,3 +263,28 @@ Presidente del Simposio Cultural Mundial
 <figcaption>Participantes viendo una presentación en la sala del primer piso de la Fundación Urantia, donde se celebraron las reuniones del Foro desde febrero de 1923 hasta mayo de 1942</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Agnes_Lazar/Une_Histoire_D_amour">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una historia de amor</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-86-junio-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 86 — Junio 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Notre_Aventure_3">
+          <span class="pr-2">Nuestra Aventura</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

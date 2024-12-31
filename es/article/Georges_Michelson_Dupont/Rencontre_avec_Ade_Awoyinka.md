@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">África subsahariana, tierras fértiles para las enseñanzas del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ade_Awoyinka/La_Religion_Revelee">
+          <span class="pr-2">Religión revelada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ADE AWOYINKA es un nigeriano de habla inglesa (de Nigeria y no de la República de Níger) que emigró al Reino Unido durante mucho tiempo. La breve biografía que ofreció antes de su presentación en Budapest nos dice “que recibió el Libro de Urantia el 1 de julio de 1996; Lo ha estado leyendo desde entonces y, a medida que crece su clarividencia, continúa encontrando verdades todos los días. » Es funcionaria y vive en Londres.
@@ -23,7 +47,7 @@ Sentí por esta hermosa persona un poderoso sentimiento de hermandad junto con a
 
 Su relato también es una prueba de que la expansión de la conciencia cósmica y la mejora de la percepción espiritual están presentes en las enseñanzas del Libro de Urantia y permiten que el Espíritu de la Verdad y los Ajustadores del Pensamiento trabajen más eficazmente en la espiritualización de la mente humana.
 
-> «La ansiedad era el estado natural de la mente salvaje. Cuando los hombres y las mujeres caen víctimas de una ansiedad excesiva, vuelven simplemente al estado natural de sus lejanos antepasados; y cuando la ansiedad se vuelve realmente dolorosa, inhibe la actividad y produce infaliblemente cambios evolutivos y adaptaciones biológicas. El dolor y el sufrimiento son esenciales para la evolución progresiva.» ([LU 86:2.1](/es/The_Urantia_Book/86#p2_1))
+> «La ansiedad era el estado natural de la mente salvaje. Cuando los hombres y las mujeres caen víctimas de una ansiedad excesiva, vuelven simplemente al estado natural de sus lejanos antepasados; y cuando la ansiedad se vuelve realmente dolorosa, inhibe la actividad y produce infaliblemente cambios evolutivos y adaptaciones biológicas. El dolor y el sufrimiento son esenciales para la evolución progresiva.» (<a id="a49_412"></a>[LU 86:2.1](/es/The_Urantia_Book/86#p2_1))
 
 Georges Michelson-Dupont
 
@@ -33,5 +57,30 @@ Otros testimonios edificantes y similares muestran que las enseñanzas de El lib
 
 Guy Stéphane imparte un curso sobre el folleto 83: “La religión primitiva” y presentamos, con su permiso y después de los testimonios de Ade, Arnaud y Guy Stépahane sobre sus respectivos países, algunas preguntas y respuestas que ilustran aún más este temor sobre los africanos. mente, sino también las supersticiones que todavía están vigentes en nuestro mundo occidental.
 
-> «2. Pocas personas viven a la altura de la fe que poseen realmente. El miedo irracional es un fraude intelectual magistral ejercido sobre el alma mortal en evolución.» ([LU 48:7.4](/es/The_Urantia_Book/48#p7_4))
+> «2. Pocas personas viven a la altura de la fe que poseen realmente. El miedo irracional es un fraude intelectual magistral ejercido sobre el alma mortal en evolución.» (<a id="a59_171"></a>[LU 48:7.4](/es/The_Urantia_Book/48#p7_4))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/L_afrique_Subsaharienne_les_enseignements_du_LU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">África subsahariana, tierras fértiles para las enseñanzas del Libro de Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ade_Awoyinka/La_Religion_Revelee">
+          <span class="pr-2">Religión revelada</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

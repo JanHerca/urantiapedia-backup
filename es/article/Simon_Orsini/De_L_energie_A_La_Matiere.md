@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Simon Orsini<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un viaje fantástico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/4000_Ans_De_Machiventa_Melchizedek">
+          <span class="pr-2">4000 años de Maquiventa Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_4" class="image urantiapedia">
@@ -49,7 +73,7 @@ Es la desaceleración del electrón lo que proporciona las diferentes formas de 
 
 Las propiedades físicas de la materia dependen de la velocidad de rotación de los elementos que la componen, de su número, del tamaño de los que giran, de su distancia al cuerpo nuclear o del contenido espacial de la materia. La estabilidad de un átomo depende del número de neutrones eléctricamente inactivos en el núcleo central, el comportamiento químico depende enteramente de la acción de los electrones que giran alrededor del núcleo.
 
-> La creación de la energía y la concesión de la vida son prerrogativas del Padre Universal y de sus personalidades Creadoras asociadas. El río de energía y de vida es una efusión continua de las Deidades, es la corriente universal y unida de la fuerza paradisiaca que sale hacia todo el espacio. Esta energía divina impregna toda la creación. Los organizadores de la fuerza inician los cambios y establecen las modificaciones de la fuerza espacial que se traducen en energía; los directores del poder transmutan la energía en materia; y así nacen los mundos materiales. Los Portadores de Vida inician en la materia muerta los procesos que llamamos vida, la vida material. Los Supervisores del Poder Morontial cumplen igualmente su misión en todos los reinos de transición entre los mundos materiales y los mundos espirituales. Los Creadores espirituales superiores inauguran procesos similares en las formas divinas de la energía, y se originan las formas espirituales superiores de la vida inteligente. ([LU 42:1.5](/es/The_Urantia_Book/42#p1_5))
+> La creación de la energía y la concesión de la vida son prerrogativas del Padre Universal y de sus personalidades Creadoras asociadas. El río de energía y de vida es una efusión continua de las Deidades, es la corriente universal y unida de la fuerza paradisiaca que sale hacia todo el espacio. Esta energía divina impregna toda la creación. Los organizadores de la fuerza inician los cambios y establecen las modificaciones de la fuerza espacial que se traducen en energía; los directores del poder transmutan la energía en materia; y así nacen los mundos materiales. Los Portadores de Vida inician en la materia muerta los procesos que llamamos vida, la vida material. Los Supervisores del Poder Morontial cumplen igualmente su misión en todos los reinos de transición entre los mundos materiales y los mundos espirituales. Los Creadores espirituales superiores inauguran procesos similares en las formas divinas de la energía, y se originan las formas espirituales superiores de la vida inteligente. (<a id="a75_1006"></a>[LU 42:1.5](/es/The_Urantia_Book/42#p1_5))
 
 La existencia de formas preelectrónicas de la materia está indicada por los dos pesos atómicos del plomo, el plomo de formación original pesa un poco más que el plomo producido por la desintegración del uranio por medio de la demanda de radio, la diferencia de peso atómico representa la pérdida real de energía en la demolición del átomo. Creo que si no hubiera energía potencial en reserva, los átomos no podrían durar miles de millones de años.
 
@@ -63,3 +87,28 @@ Para concluir, es importante decir que la salvación para todos consiste en espi
 
 Simón Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Un_Voyage_Fantastique">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un viaje fantástico</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Gallo/4000_Ans_De_Machiventa_Melchizedek">
+          <span class="pr-2">4000 años de Maquiventa Melquisedec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

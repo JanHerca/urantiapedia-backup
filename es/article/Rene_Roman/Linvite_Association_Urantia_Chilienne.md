@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 René Roman<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Filosofía humana y mota.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos amigos y compañeros lectores del _Libro de Urantia_:
@@ -35,13 +59,38 @@ La publicación del _Libro de Urantia_ fue algo prematura porque se publicó muc
 
 Con Jesucristo, Miguel de Nebadon, la palabra de Dios se hizo carne. Con el Libro de Urantia, incluso si el Divino Maestro fue crucificado, esta palabra está en el Libro y no podemos silenciar ni silenciar estas enseñanzas escritas.
 
-Los reveladores, como lo demuestran las páginas [LU 30:0.2](/es/The_Urantia_Book/30#p0_2) y [LU 101:4.2](/es/The_Urantia_Book/101#p4_2), dan un período de 1.000 años a esta quinta revelación histórica, que sigue al otorgamiento del soberano creador del universo local de Nebadon en persona. de Jesús de Nazaret, su vida y sus obras (la Cuarta Revelación).
+Los reveladores, como lo demuestran las páginas <a id="a61_48"></a>[LU 30:0.2](/es/The_Urantia_Book/30#p0_2) y <a id="a61_92"></a>[LU 101:4.2](/es/The_Urantia_Book/101#p4_2), dan un período de 1.000 años a esta quinta revelación histórica, que sigue al otorgamiento del soberano creador del universo local de Nebadon en persona. de Jesús de Nazaret, su vida y sus obras (la Cuarta Revelación).
 
 Urantia tuvo el privilegio de ser elegido por Miguel de Nebadón como mundo de su séptima efusión, es decir uno entre los 3.840.101 planetas habitados de todo Nebadón en el momento de esta Revelación (1934 - 1935). Si tomamos en cuenta la edad posterior al otorgamiento de un Hijo Paradisíaco, que aún puede extenderse entre 10.000 y 100.000 años terrestres antes de la siguiente etapa evolutiva, la de la llegada de los Hijos Instructores de la Trinidad, en incrementos de 1.000 años y más para Llegamos a la Luz y a la Vida, entendemos que el tiempo en el que nos encontramos es de sólo 54 años desde la publicación del _Libro de Urantia_; esto quiere decir que apenas estamos viviendo la historia de la construcción de los primeros avances de los futuros destacamentos de vanguardia de esta Revelación.
 
 Construir un grupo de estudio es un esfuerzo que puede tener resultados significativos más allá de esta vida. Sin embargo, los muchos obstáculos que encontremos los superaremos con la ayuda de nuestro Padre Universal y nuestras propias decisiones de supervivencia. Aplican el sistema de instrucción nebadónico para fortalecer el carácter; Se nos asigna una tarea y se nos instruye sobre la mejor manera de llevarla a cabo.
 
-> «5. *La perspicacia espiritual*. La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres.» ([LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
+> «5. *La perspicacia espiritual*. La fraternidad de los hombres está basada, después de todo, en el reconocimiento de la paternidad de Dios. La manera más rápida de llevar a cabo la fraternidad de los hombres en Urantia consiste en efectuar la transformación espiritual de la humanidad actual. La única técnica para acelerar la tendencia natural de la evolución social es la de aplicar una presión espiritual desde arriba, acrecentando así la perspicacia moral y elevando al mismo tiempo la capacidad del alma de cada mortal para comprender y amar a todos los demás mortales. La comprensión mutua y el amor fraternal son unos civilizadores trascendentes y unos factores poderosos en la realización mundial de la fraternidad de los hombres.» (<a id="a67_743"></a>[LU 52:6.7](/es/The_Urantia_Book/52#p6_7))
 
 René Román
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_Billet_du_President_02">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La nota del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-47-verano-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 47 — Verano 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Philosophie_humaine_et_mota_1">
+          <span class="pr-2">Filosofía humana y mota.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

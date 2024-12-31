@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Philip Calabrese<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo vivir con una mente abierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _por Philip G. Calabrese_
@@ -171,6 +192,28 @@ Nuevamente, al votar a favor de la practicidad, Baumeister, Clark y Luguri dicen
 
 Lo que hay que abandonar es la hipótesis del determinismo absoluto en el cosmos. ¡Simplemente no pertenece a la experiencia personal de nadie! El determinismo absoluto es contrario a las experiencias psicológicas humanas comunes.
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominic_Ronfet/Comment_Vivre_Avec_l_Esprit_Ouvert">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cómo vivir con una mente abierta</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## 5. Implicaciones del libre albedrío.
 
 Hay muchas implicaciones que se pueden extraer de la existencia del libre albedrío en el cosmos. Muchos ya han sido mencionados.
@@ -306,6 +349,6 @@ El científico agnóstico tuerto se equivoca cuando insiste en que el determinis
 
 [^15]: “Creencia y realidad del libre albedrío” R. Baumeister, C. Clark \& J. Luguri, cap. 4 p 51 en [1] 
 
-[^16]: _El libro de Urantia_, (El libro de Urantia) Fundación Urantia, RR Donnelly \& Sons, Chicago 1955, p. 1431. ([LU 130:2.10](/es/The_Urantia_Book/130#p2_10))
+[^16]: _El libro de Urantia_, (El libro de Urantia) Fundación Urantia, RR Donnelly \& Sons, Chicago 1955, p. 1431. (<a id="a351_116"></a>[LU 130:2.10](/es/The_Urantia_Book/130#p2_10))
 
 [^17]: “Creencia y realidad del libre albedrío” R. Baumeister, C. Clark \& J. Luguri, Capítulo 4 p65 en [1]

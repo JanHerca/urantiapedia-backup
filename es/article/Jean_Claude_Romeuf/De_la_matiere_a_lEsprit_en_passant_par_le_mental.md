@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2004 Jean-Claude Romeuf<br>© 2004 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_beaute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Belleza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-30-verano-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 30 — Verano 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti_et_Johanna_Beukers/Partage_du_LU_avec_de_jeunes_Ados">
+          <span class="pr-2">Compartiendo el Libro de Urantia con jóvenes adolescentes.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La vida no es una coincidencia. Es intencional, nunca accidental. La mente unida al Espíritu es creativa y produce vida.
@@ -78,7 +102,7 @@ Pero el hombre es un ser a la vez personal y colectivo. La influencia del Espír
 
 **<ins>4. Hablando de amor</ins>**
 
-Durante el período embrionario, que dura de unos pocos días a algunos meses, cada individuo, ya sea animal o humano, recorre el ciclo evolutivo de millones de años que ha dado las características de su especie. Las capas embrionarias se desarrollan y se especializan cada vez más mediante la multiplicación celular. El Libro de Urantia nos dice [LU 55:6.4](/es/The_Urantia_Book/55#p6_4) que durante la vida intrauterina, los espíritus mentales ayudantes están operativos.
+Durante el período embrionario, que dura de unos pocos días a algunos meses, cada individuo, ya sea animal o humano, recorre el ciclo evolutivo de millones de años que ha dado las características de su especie. Las capas embrionarias se desarrollan y se especializan cada vez más mediante la multiplicación celular. El Libro de Urantia nos dice <a id="a104_345"></a>[LU 55:6.4](/es/The_Urantia_Book/55#p6_4) que durante la vida intrauterina, los espíritus mentales ayudantes están operativos.
 
 El bebé humano que llega al mundo con el cerebro más desarrollado del reino animal, podemos pensar que ya, los primeros cinco ayudantes han comenzado a moldear su mente para que se vuelva sensible, durante su infancia, a los espíritus de adoración y sabiduría. caracterizando la mente material del ser humano. Esto hace del joven un ser volitivo, capaz de elecciones morales y capaz de aprender a descubrir al Dios que ahora lo habita.
 
@@ -102,3 +126,28 @@ Con la autorización póstuma de Georges Brassens, diremos finalmente que quien 
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/La_beaute">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Belleza</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-30-verano-2004">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 30 — Verano 2004</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti_et_Johanna_Beukers/Partage_du_LU_avec_de_jeunes_Ados">
+          <span class="pr-2">Compartiendo el Libro de Urantia con jóvenes adolescentes.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

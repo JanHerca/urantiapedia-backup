@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2008 William S. Sadler Jr.<br>© 2008 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="pr-2">El yo y el ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Traducción de una grabación de Bill Sadler por Chris y Nicole Ragetly (02.2003)
@@ -27,7 +51,7 @@ _Audiencia: ¿Este-Oeste?_
 
 Sí, es Este-Oeste. Y Norte-Sur es igual a uno más un sexto, es un poquito más grande. Y muy plano. Esto le brinda una plantilla básica que determina el arquetipo para todo lo demás. Esta elipse del Paraíso se refleja en todos los niveles concéntricos del espacio en el Universo Maestro. Todo tiene forma elíptica. Me gusta esta redacción: aquí nuevamente tenemos un sentido de proporción. Dicen que donde están las afueras de Upper Heaven, todo termina abruptamente. Luego, explican con circunloquios que el Paraíso es tan enorme que su ángulo terminal es relativamente indistinguible dentro de cualquier área circunscrita.
 
-Tenga en cuenta el ejemplo de humildad dado por los autores de estos artículos. Este folleto, escrito por un Perfeccionador de la Sabiduría, dice entre otras cosas: “...Represento la realidad y la verdad de la naturaleza del Padre y sus atributos con autoridad indiscutible. Sé de lo que estoy hablando. » ([LU 1:7.9](/es/The_Urantia_Book/1#p7_9))
+Tenga en cuenta el ejemplo de humildad dado por los autores de estos artículos. Este folleto, escrito por un Perfeccionador de la Sabiduría, dice entre otras cosas: “...Represento la realidad y la verdad de la naturaleza del Padre y sus atributos con autoridad indiscutible. Sé de lo que estoy hablando. » (<a id="a53_307"></a>[LU 1:7.9](/es/The_Urantia_Book/1#p7_9))
 
 Uno de los colegas de este Divino Consejero introduce así la discusión sobre el Paraíso Inferior: “En lo que respecta al Paraíso Inferior, sólo sabemos lo que se nos revela: las personalidades no permanecen allí. » Tengo un poco más de respeto por la autoridad cuando admite su ignorancia en determinadas áreas. Y el autor del folleto nos dice algo como esto: “Eso nos dijeron, nunca hemos estado allí. Esta es información de segunda mano. »
 
@@ -71,3 +95,28 @@ La Deidad Absoluta es una realidad espiritual. Puede que tenga una relación con
 
 Bill Sadler
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Olga_Lopez/Linvitee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-45-invierno-2008">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 45 — Invierno 2008</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Max_Masotti/Le_Moi_et_lEgo">
+          <span class="pr-2">El yo y el ego</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,11 +9,35 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Michel Rouanet<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Lhumain_et_son_double">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El humano y su doble</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="pr-2">La experiencia de un lector, una experiencia de la que aprender</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Por qué y cómo adorar a Dios? A veces puede parecer difícil responder simplemente a la pregunta de por qué y especialmente cómo adorar al Padre Universal.
 
-> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ ([[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
+> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ (<a id="a39_593"></a>[[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
 
 Al responder aparentemente a la pregunta del por qué, esta explicación parece ofrecernos una técnica de adoración, un cómo: el de un triple movimiento del alma en relación a Dios.
 
@@ -47,7 +71,7 @@ El Ser de nuestros seres, NOSOTROS somos YO.
 
 Tercer movimiento del alma.
 
-> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ ([[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
+> _Os hacéis conscientes de que el hombre es una criatura hermana vuestra porque ya sois conscientes de que Dios es vuestro Padre Creador. La paternidad es la relación por la que llegamos al reconocimiento de la fraternidad. Y la Paternidad se vuelve, o puede volverse, una realidad universal para todas las criaturas morales porque el Padre mismo ha conferido la personalidad a todos esos seres y los ha colocado bajo el dominio del circuito universal de la personalidad. Adoramos a Dios en primer lugar porque *él es,* luego porque *está en nosotros,* y finalmente porque *estamos en él.*_ (<a id="a73_593"></a>[[LU 16:9.14](/es/The_Urantia_Book/16#p9_14))
 
 Una frase de ruta sencilla extraída de multitud de otras frases que constituyen un corpus de 2097 páginas. Una breve hoja de ruta.
 
@@ -61,3 +85,28 @@ El alma en adoración es como la hoja que se ilumina, calienta y crece al sol.
 
 michel r.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Lhumain_et_son_double">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El humano y su doble</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-38-invierno-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 38 — Invierno 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Robert_Mondange/Une_Experience_de_lecteur_une_experience_a_tirer">
+          <span class="pr-2">La experiencia de un lector, una experiencia de la que aprender</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

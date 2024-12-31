@@ -1,5 +1,5 @@
 ---
-title: "visita a italia"
+title: "Visita a Italia"
 description: 
 published: true
 date: 2024-10-20T19:22:11Z
@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Georges Michelson-Dupont<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia - Autoconciencia y Conciencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_2">
+          <span class="pr-2">Grupo de estudio interactivo: segunda serie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 LA primera reunión de lectores italianos de El libro de Urantia tuvo lugar en Verona, la hermosa e histórica ciudad de Romeo y Julieta, del viernes 28 al domingo 30 de agosto. Este evento fue realizado y organizado por mi vieja amiga Danielle La Scala, una italo-suiza.
@@ -34,7 +58,7 @@ Se organizó una breve visita al casco antiguo de Verona, seguida de una excelen
 
 La espiritualización de la mente había sido discutida el día anterior y dedicamos la mañana del domingo a aclarar este proceso descrito en el párrafo 7 de la sección 3 del primer folleto: El Padre Universal:
 
-> «En la experiencia interior del hombre, la mente está unida a la materia. Estas mentes vinculadas a la materia no pueden sobrevivir a la muerte física. La técnica de la supervivencia está incluida en aquellos ajustes de la voluntad humana y en aquellas transformaciones en la mente mortal mediante los cuales ese intelecto consciente de Dios se deja enseñar gradualmente por el espíritu y se deja conducir finalmente por él. Esta evolución de la mente humana desde la asociación con la materia hasta la unión con el espíritu tiene como resultado la transmutación de las fases potencialmente espirituales de la mente mortal en las realidades morontiales del alma inmortal. La mente mortal subordinada a la materia está destinada a volverse cada vez más material y, en consecuencia, a sufrir la extinción final de la personalidad; la mente sometida al espíritu está destinada a volverse cada vez más espiritual y a alcanzar finalmente la unidad con el espíritu divino que sobrevive y la guía, consiguiendo de esta manera la supervivencia y la existencia eterna de la personalidad.» ([LU 1:3.7](/es/The_Urantia_Book/1#p3_7))
+> «En la experiencia interior del hombre, la mente está unida a la materia. Estas mentes vinculadas a la materia no pueden sobrevivir a la muerte física. La técnica de la supervivencia está incluida en aquellos ajustes de la voluntad humana y en aquellas transformaciones en la mente mortal mediante los cuales ese intelecto consciente de Dios se deja enseñar gradualmente por el espíritu y se deja conducir finalmente por él. Esta evolución de la mente humana desde la asociación con la materia hasta la unión con el espíritu tiene como resultado la transmutación de las fases potencialmente espirituales de la mente mortal en las realidades morontiales del alma inmortal. La mente mortal subordinada a la materia está destinada a volverse cada vez más material y, en consecuencia, a sufrir la extinción final de la personalidad; la mente sometida al espíritu está destinada a volverse cada vez más espiritual y a alcanzar finalmente la unidad con el espíritu divino que sobrevive y la guía, consiguiendo de esta manera la supervivencia y la existencia eterna de la personalidad.» (<a id="a60_1083"></a>[LU 1:3.7](/es/The_Urantia_Book/1#p3_7))
 
 Siguió una fascinante discusión compartida de dos horas sobre el significado de “. . . es necesario hacer los ajustes de la voluntad humana y las transformaciones en la mente mortal por medio de las cuales. . . ". y sus implicaciones en la vida diaria, que aclararon muchas ideas que habían permanecido vagas.
 
@@ -42,7 +66,7 @@ Sobre las 11 de la mañana todos se dirigieron a sus habitaciones a preparar el 
 
 El resultado de esta reunión es muy positivo y prometedor. Dos de los tres participantes italianos son lectores devotos y desean sinceramente involucrarse en la formación de grupos de estudio, organizar otras reuniones y generar interés entre los italianos por la lectura de Il Libro di Urantia. Nota de Zago. Ya no desea asumir el papel de persona de contacto y Danielle se ofrece espontáneamente a sustituirlo.
 
-Debemos agradecer a Danielle su iniciativa. Tiene mucho mérito porque la organización fue excelente y no hay duda de que los frutos serán numerosos. “El acto es nuestro, las consecuencias son de Dios. » ([LU 117:5.6](/es/The_Urantia_Book/117#p5_6))
+Debemos agradecer a Danielle su iniciativa. Tiene mucho mérito porque la organización fue excelente y no hay duda de que los frutos serán numerosos. “El acto es nuestro, las consecuencias son de Dios. » (<a id="a68_204"></a>[LU 117:5.6](/es/The_Urantia_Book/117#p5_6))
 
 _Georges Michelson-Dupont_
 
@@ -52,3 +76,28 @@ _Georges Michelson-Dupont_
 <figcaption><em>Al fondo, de izquierda a derecha: Memo Zago, el traductor italiano, Danielle La Scala, Nicol Covaliu, Antonio Shefer representante de la IUA, Nirvana Covaliu y Alberto Dujela. De izquierda a derecha, Guy de Viron, Johana Boekers y Georges Donadieu. Podemos ver las piernas de nuestro presidente a la izquierda.</em></figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Conscience_de_soi_Conscience_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conciencia - Autoconciencia y Conciencia de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_2">
+          <span class="pr-2">Grupo de estudio interactivo: segunda serie</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

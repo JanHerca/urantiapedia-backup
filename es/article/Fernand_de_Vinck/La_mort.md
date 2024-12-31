@@ -9,6 +9,27 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 Fernand de Vinck<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Concepts_Originaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conceptos originales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_7" class="image urantiapedia image-style-align-right">
@@ -41,7 +62,7 @@ LA MUERTE ES SIMPLEMENTE LA TÉCNICA QUE USAMOS PARA ESCAPAR DE LAS LIMITACIONES
 
 La muerte es al mismo tiempo una conclusión y una liberación, es el acontecimiento más maravilloso de esta parte de la vida.
 
-> «El amor de la aventura, la curiosidad y el horror a la monotonía —esas características inherentes a la naturaleza humana en evolución— no han sido puestos ahí simplemente para exasperaros y enojaros durante vuestra breve estancia en la Tierra, sino más bien para sugeriros que la muerte sólo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos.» ([LU 14:5.10](/es/The_Urantia_Book/14#p5_10))
+> «El amor de la aventura, la curiosidad y el horror a la monotonía —esas características inherentes a la naturaleza humana en evolución— no han sido puestos ahí simplemente para exasperaros y enojaros durante vuestra breve estancia en la Tierra, sino más bien para sugeriros que la muerte sólo es el comienzo de una carrera de aventuras sin fin, de una vida perpetua de anticipaciones, de un eterno viaje de descubrimientos.» (<a id="a64_428"></a>[LU 14:5.10](/es/The_Urantia_Book/14#p5_10))
 
 Realmente nos preguntamos qué hacen estos demonios cornudos y estos espectros andrajosos en esta transición hacia la luz, así como las ceremonias de lamentación. Una comprensión personal del significado gozoso de la muerte es esencial para extirpar de nuestra mente profunda estas imágenes absurdas y supersticiones que con demasiada frecuencia todavía nos influyen. Cuando con calma nos esforzamos por comprender el significado de la muerte, descubrimos que nuestra vida terrena ha adquirido un nuevo valor y que nuestro comportamiento armoniza naturalmente con las circunstancias difíciles.
 
@@ -58,3 +79,25 @@ Ahora ya podemos comprender y adoptar esta actitud y así brindar un inmenso ali
 Fernando DE VINCK
 Breine l'Alleud (Bélgica)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Concepts_Originaux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conceptos originales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-81-marzo-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 81 — Marzo 2018</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

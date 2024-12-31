@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2001 Guy Bourhis<br>© 2001 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_democratie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Democracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sylvette_Perrier/Le_bon_comportement">
+          <span class="pr-2">Buen comportamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Quedé muy impresionado al leer el discurso pronunciado por Nicholas W. SCALZO (Estados Unidos) en la conferencia internacional de la IUA en agosto de 2000 y reproducido en el último número de la revista de esta asociación, página 3 (septiembre de 2000, volumen 7, nº3).
@@ -23,9 +47,34 @@ Afirmo que Nicolás tiene razón: Dios nos ayuda, más allá de lo que se nos pe
 
 Ejemplo: cuando un ser más débil (o en situación de fragilidad física o psíquica) es agredido en la vía pública, en el transporte público o en cualquier otro lugar, debe acudir inmediatamente en su auxilio, incluso si el agresor es portador de. un arma. Dios te anima, eres todo amor y ves cómo se desarrolla la escena como en “cambio de espectador”. Estás en la acción y fuera de ella: es un poco como si Dios fuera el actor. El agresor o agresores se precipitan hacia ti, arma en mano y, al llegar a unos centímetros de ti, se encuentran paralizados por el amor que hay en ti, que irradia de ti y los encierra en sus mallas. Los sientes “desinflarse” por su violencia y volverse mansos como corderos. Un día, uno de ellos incluso me entregó sus papeles, aunque unos minutos antes se había abalanzado sobre mí con un pesado instrumento contundente en la mano.
 
-«Amando a los hombres y deseando sinceramente servirles...» [[LU 110:3.6-10](/es/The_Urantia_Book/110#p3_6)], ya sean agredidos o agresores, colocamos a ambos en la calidad de hijos de Dios de los cuales los segundos nunca debieron desintegrarse por siquiera un solo momento. En este sentido, la imagen del agresor arrojando su arma con una mano y extendiendo sus papeles [^1] con la otra es muy simbólica: representa la sumisión a la voluntad de Dios en el círculo de los tres humanos de los cuales él es. es y quiere ser, al menos provisionalmente, el tercer elemento.
+«Amando a los hombres y deseando sinceramente servirles...» <a id="a49_60"></a>[[LU 110:3.6-10](/es/The_Urantia_Book/110#p3_6)], ya sean agredidos o agresores, colocamos a ambos en la calidad de hijos de Dios de los cuales los segundos nunca debieron desintegrarse por siquiera un solo momento. En este sentido, la imagen del agresor arrojando su arma con una mano y extendiendo sus papeles [^1] con la otra es muy simbólica: representa la sumisión a la voluntad de Dios en el círculo de los tres humanos de los cuales él es. es y quiere ser, al menos provisionalmente, el tercer elemento.
 
 Vivamos la voluntad de nuestro Padre en nuestra experiencia diaria (en la oficina, en la calle, en familia, en vacaciones). Si el esquema de esta historia “auténtica” ha interesado a los lectores del Libro de Urantia, puedo sacar a relucir las notas que tomé sobre ella y sobre otras experiencias. Hay suficiente para formar un pequeño “condensado”.
 
 Guy Bourhis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/La_democratie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Democracia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-17-primavera-2001">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 17 — Primavera 2001</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sylvette_Perrier/Le_bon_comportement">
+          <span class="pr-2">Buen comportamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

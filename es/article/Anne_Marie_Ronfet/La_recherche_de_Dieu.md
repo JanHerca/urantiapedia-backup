@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2005 Anne-Marie Ronfet<br>© 2005 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amigo de dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-33-primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 33 — Primavera 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestra concepción de la verdad, la belleza y la bondad no deja de crecer, desde nuestra vida hasta nuestra llegada ante el Padre. Dios se revela a nosotros como verdad absoluta, belleza absoluta, bondad absoluta. No podemos formarnos otra idea. Este es nuestro mejor concepto de Dios. Imaginamos el Paraíso como un lugar de impresionante belleza. Imaginamos a los seres que rodean al Padre como verdaderas inteligencias vivientes y al Padre mismo como una bondad ilimitada.
@@ -17,13 +41,13 @@ Porque Dios se manifiesta a nosotros de esta manera.
 
 Nuestra mente piensa en Dios como verdad, belleza y bondad.
 
-> _La divinidad es comprensible para las criaturas como verdad, belleza y bondad; está correlacionada en la personalidad como amor, misericordia y ministerio; y se revela en los niveles impersonales como justicia, poder y soberanía._ ([LU 0:1.17](/es/The_Urantia_Book/0#p1_17))
+> _La divinidad es comprensible para las criaturas como verdad, belleza y bondad; está correlacionada en la personalidad como amor, misericordia y ministerio; y se revela en los niveles impersonales como justicia, poder y soberanía._ (<a id="a43_235"></a>[LU 0:1.17](/es/The_Urantia_Book/0#p1_17))
 
 E incluso podemos ir más allá. Sólo entendemos a Dios en la medida en que somos sensibles a estos tres valores. Cuanto más elevada sea nuestra idea de la verdad, más armoniosa y ética sea nuestra idea de la belleza, más lugar tendrá nuestro sentido de bondad en nuestra vida y más cerca estaremos de Dios. Por tanto, es fundamental tener una idea clara de estos tres valores y darles un lugar destacado en nuestra experiencia diaria.
 
 Dios se manifiesta a nosotros en la medida en que podemos comprenderlo y sólo lo entendemos a través de estos tres valores.
 
-> El misterio divino consiste en la diferencia inherente que existe entre lo finito y lo infinito, lo temporal y lo eterno, la criatura espacio-temporal y el Creador Universal, lo material y lo espiritual, la imperfección del hombre y la perfección de la Deidad del Paraíso. El Dios del amor universal se manifiesta infaliblemente a cada una de sus criaturas hasta la plenitud de la capacidad de esa criatura para captar espiritualmente las cualidades de la verdad, la belleza y la bondad divinas. ([LU 1:4.5](/es/The_Urantia_Book/1#p4_5))
+> El misterio divino consiste en la diferencia inherente que existe entre lo finito y lo infinito, lo temporal y lo eterno, la criatura espacio-temporal y el Creador Universal, lo material y lo espiritual, la imperfección del hombre y la perfección de la Deidad del Paraíso. El Dios del amor universal se manifiesta infaliblemente a cada una de sus criaturas hasta la plenitud de la capacidad de esa criatura para captar espiritualmente las cualidades de la verdad, la belleza y la bondad divinas. (<a id="a49_499"></a>[LU 1:4.5](/es/The_Urantia_Book/1#p4_5))
 
 Es en la experiencia espiritual donde se unifican estos tres valores. No pueden operar separadamente unos de otros sin crear desequilibrios.
 
@@ -57,3 +81,28 @@ Finalmente, se dejan “olvidar” en una especie de llamado a la unidad de toda
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/L_ami_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Amigo de dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-33-primavera-2005">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 33 — Primavera 2005</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Pensee">
+          <span class="pr-2">Pensamiento</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

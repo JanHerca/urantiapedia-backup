@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 1998 Jeanmarie Chaise<br>© 1998 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-8-invierno-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">¿Qué pasa después de la muerte?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El lado maravilloso de la vida que se nos ofrece es que somos libres tanto de unir como de desunir, y de darnos cuenta siempre que, en definitiva, por ser piramidal la organización cósmica de Dios, todo lo que es unión tiende hacia el Creador, hacia el Padre, hacia la cumbre, mientras que todo lo que es desunión implica la necesidad de nuevos esfuerzos futuros para volver a unirnos o despojarnos definitivamente del proyecto divino. De hecho, parece que nunca podremos progresar espiritualmente si dejamos atrás enemistades fundamentales de las que no podemos regresar. Jesús nos invitó a amar incluso a nuestros enemigos, no teniendo, en verdad, ningún mérito amar sólo a quienes nos aman. El ejemplo magistral de esto nos lo da el Libro de Urantia.
@@ -23,7 +47,7 @@ La parábola del hijo perdido basta para demostrar la inmensa bondad de Dios. Lo
 
 La inteligencia del corazón es, por tanto, sinónimo de apertura de miras, de mirar a los demás intentando comprenderlos cada vez más sin condenarlos nunca a priori. Naturalmente, es también Jesús enseñando a sus apóstoles quien mejor nos explica, a través de una imagen impactante, qué se entiende por apertura de espíritu gracias a la inteligencia del corazón, qué se entiende por tolerancia gracias al esfuerzo por comprender al otro.
 
-> «_Tratad de ver con los ojos de la imaginación el retrato de uno de vuestros antepasados primitivos de los tiempos de las cavernas —un hombre bajo, contrahecho, sucio, corpulento y gruñón, que permanece con las piernas abiertas, levantando un garrote, respirando odio y animosidad, mientras mira ferozmente delante de él. Esta imagen difícilmente representa la dignidad divina del hombre. Pero ampliemos el cuadro. Delante de este humano animado se encuentra agazapado un tigre con dientes de sable. Detrás del hombre hay una mujer y dos niños. Reconocéis inmediatamente que esta imagen representa los principios de muchas cosas hermosas y nobles de la raza humana, pero el hombre es el mismo en los dos cuadros. Sólo que en el segundo esbozo contáis con la ayuda de un horizonte más amplio. En él discernís la motivación de este mortal evolutivo. Su actitud se vuelve digna de elogio porque lo comprendéis. Si tan sólo pudierais sondear los móviles de vuestros compañeros, cuánto mejor los comprenderíais. Si tan sólo pudierais conocer a vuestros semejantes, terminaríais por enamoraros de ellos._» ([LU 100:4.5](/es/The_Urantia_Book/100#p4_5))
+> «_Tratad de ver con los ojos de la imaginación el retrato de uno de vuestros antepasados primitivos de los tiempos de las cavernas —un hombre bajo, contrahecho, sucio, corpulento y gruñón, que permanece con las piernas abiertas, levantando un garrote, respirando odio y animosidad, mientras mira ferozmente delante de él. Esta imagen difícilmente representa la dignidad divina del hombre. Pero ampliemos el cuadro. Delante de este humano animado se encuentra agazapado un tigre con dientes de sable. Detrás del hombre hay una mujer y dos niños. Reconocéis inmediatamente que esta imagen representa los principios de muchas cosas hermosas y nobles de la raza humana, pero el hombre es el mismo en los dos cuadros. Sólo que en el segundo esbozo contáis con la ayuda de un horizonte más amplio. En él discernís la motivación de este mortal evolutivo. Su actitud se vuelve digna de elogio porque lo comprendéis. Si tan sólo pudierais sondear los móviles de vuestros compañeros, cuánto mejor los comprenderíais. Si tan sólo pudierais conocer a vuestros semejantes, terminaríais por enamoraros de ellos._» (<a id="a49_1103"></a>[LU 100:4.5](/es/The_Urantia_Book/100#p4_5))
 
 ¿Hay límites a la inteligencia del corazón? Debemos responder negativamente, porque si sólo a través del amor todo puede comenzar, también es a través del amor que todo puede durar para siempre.
 
@@ -31,3 +55,28 @@ Este es el surgimiento primordial en el que Jesús nos invitó a todos a partici
 
 Silla Jeanmarie
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/008">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-8-invierno-1998">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 8 — Invierno 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Castel/Que_se_passe_t_il_apres_la_mort">
+          <span class="pr-2">¿Qué pasa después de la muerte?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

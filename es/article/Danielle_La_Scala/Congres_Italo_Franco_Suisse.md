@@ -9,6 +9,27 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Danielle La Scala<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio interactivo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Del jueves 6 de octubre al domingo 9 de octubre de 2016_
@@ -37,7 +58,7 @@ Inscripción al Congreso (3 días) | 30€
 
 El hotel está a 2 km de la estación de tren de Desenzano, el precio del taxi es de unos 8€, el aeropuerto de Verona Catullo está a unos 30 km, el aeropuerto de Milano-Orio-al-Serio está a unos 80 km.
 
-El tema de este encuentro será “la supervivencia del yo humano” [LU 10:4.2](/es/The_Urantia_Book/10#p4_2)
+El tema de este encuentro será “la supervivencia del yo humano” <a id="a60_64"></a>[LU 10:4.2](/es/The_Urantia_Book/10#p4_2)
 
 Regístrese lo antes posible para realizar la reserva firme de habitaciones a mi dirección de correo electrónico: danielle.lascala@yahoo.it o a mi dirección postal: Danielle La Scala, 123 chemin de Bouger, F 74250 Fillinges
 
@@ -49,3 +70,25 @@ Semejante. :+33 4508707 16—Móvil: +33 633843440
 <figcaption>El hotel Europa al borde del lago</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Grupo de estudio interactivo</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

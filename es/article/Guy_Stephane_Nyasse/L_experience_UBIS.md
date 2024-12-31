@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Guy Stéphane Nyasse<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creencia y fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="pr-2">Nuestros imperativos educativos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El Libro de Urantia_ me lo regalaron en 2012 y lo leí por mi cuenta durante 3 años. Fue una elección personal; No quería dejarme influenciar por nadie más. Quería formar mi propia perspectiva sobre estas maravillosas enseñanzas. Convencido del valor de esta revelación, comencé a buscar lectores. Es muy curioso que nunca he visto la escuela UBIS porque está ahí desde hace varios años en el sitio web de la Fundación. Descubrí la UBIS en 2015 cuando leí el libro por primera vez en versión papel porque en la primera página del libro estaba. Es una mención del enlace de Internet de la escuela UBIS.
@@ -25,14 +49,14 @@ Estas clases coincidieron con un período difícil, muy difícil de mi vida. Me 
 
 Una de las preguntas nos pedía que respondiéramos sobre nuestras dificultades, y un hermano compartió sobre su dificultad para calentar agua para su baño, porque vivía en el último piso de su edificio. Tenía dificultades para encontrar comida y, al leer lo que compartió, se lo conté. Muchos hermanos ponen en perspectiva su nivel de dificultad. Uno de ellos me escribió un mensaje personal con este pasaje:
 
-> _La experiencia religiosa espiritual personal resuelve eficientemente la mayoría de las dificultades de los mortales; clasifica, evalúa y ajusta eficazmente todos los problemas humanos. La religión no aleja ni destruye las dificultades humanas, pero las disuelve, las absorbe, las ilumina y las trasciende. La verdadera religión unifica la personalidad para que se ajuste eficazmente a todas las necesidades de los mortales. La fe religiosa —la guía positiva de la presencia divina interior— permite indefectiblemente al hombre que conoce a Dios salvar ese abismo que existe entre la lógica intelectual que reconoce a la Primera Causa Universal como *Eso*, y las afirmaciones positivas del alma que afirman que esta Primera Causa es *Él*, el Padre celestial del evangelio de Jesús, el Dios personal de la salvación humana._ ([LU 196:3.1](/es/The_Urantia_Book/196#p3_1))
+> _La experiencia religiosa espiritual personal resuelve eficientemente la mayoría de las dificultades de los mortales; clasifica, evalúa y ajusta eficazmente todos los problemas humanos. La religión no aleja ni destruye las dificultades humanas, pero las disuelve, las absorbe, las ilumina y las trasciende. La verdadera religión unifica la personalidad para que se ajuste eficazmente a todas las necesidades de los mortales. La fe religiosa —la guía positiva de la presencia divina interior— permite indefectiblemente al hombre que conoce a Dios salvar ese abismo que existe entre la lógica intelectual que reconoce a la Primera Causa Universal como *Eso*, y las afirmaciones positivas del alma que afirman que esta Primera Causa es *Él*, el Padre celestial del evangelio de Jesús, el Dios personal de la salvación humana._ (<a id="a51_827"></a>[LU 196:3.1](/es/The_Urantia_Book/196#p3_1))
 
 No les diré que hasta hoy entendí el significado completo de este pasaje; Lo que les diré es que gracias al compartir de este hermano, miré con otros ojos la situación que estaba viviendo. Honestamente me posicioné como un hijo de Dios y decidí enfrentar con valentía estas dificultades.
 
 Este mismo hermano me hizo una invitación por Skype. Nos vimos y hablamos por videoconferencia. Continuamos nuestras discusiones y tuve la oportunidad de explorar este otro pasaje con más profundidad:
 
 > _Las incertidumbres de la vida y las vicisitudes de la existencia no contradicen de ninguna manera el concepto de la soberanía universal de Dios. La vida de cualquier criatura evolutiva está asaltada por ciertas *inevitabilidades.* Examinad las siguientes:_
-> _1. *La valentía* —la fuerza de carácter— ¿es deseable? Entonces el hombre debe educarse en un entorno donde sea necesario luchar contra las dificultades y reaccionar ante las decepciones._ ([LU 3:5.5-6](/es/The_Urantia_Book/3#p5_5))
+> _1. *La valentía* —la fuerza de carácter— ¿es deseable? Entonces el hombre debe educarse en un entorno donde sea necesario luchar contra las dificultades y reaccionar ante las decepciones._ (<a id="a58_193"></a>[LU 3:5.5-6](/es/The_Urantia_Book/3#p5_5))
 
 Ahora vivo una vida religiosa personal plena. Avanzo con valentía hacia mis metas, sigo siendo honesto y sincero hacia Dios y hacia mí mismo.
 
@@ -49,3 +73,28 @@ Un poco más tarde conocí a un viejo lector camerunés, de aproximadamente la m
 Guy Stéphane NYASSE
 Duala, Camerún
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/La_Croyance_et_la_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Creencia y fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/David_Elders/Nos_imperatifs_d_education">
+          <span class="pr-2">Nuestros imperativos educativos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

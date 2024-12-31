@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 George Michelson-Dupont<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la 3ª Conferencia Internacional de Asociaciones Afiliadas a la I.U.A.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Hanian/La_Consecration">
+          <span class="pr-2">La Consagración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todos sabemos que sólo se producirá una difusión planetaria de la Quinta Revelación si el texto original _El Libro de URANTIA_ es traducido a los idiomas de las razas y pueblos de Urantia. Esta obligación está incluida en la “Declaración de Fideicomiso” que rige la Fundación Urantia y es por eso que, dada la importancia de la tarea, parecía necesario reunir en un solo lugar, no sólo a los Patronos de la Fundación (subrayando así el interés que tenido en esta misión) sino también toda la buena voluntad que, directa o indirectamente, han estado o están involucrados en un proceso de traducción.
@@ -52,11 +76,36 @@ La Fundación URANTIA, para financiar las traducciones, funciona con la ayuda de
 
 La Fundación URANTIA necesita la ayuda y el apoyo de todos los lectores urantianos para llevar a cabo esta histórica misión planetaria. Con la inminente publicación de las traducciones al ruso, holandés y coreano, nos enfrentaremos a un nuevo desafío: el de la internacionalización. Los diferentes componentes de nuestro movimiento necesitan enormemente reconciliarse y no exportar sus divisiones como el cáncer en un organismo sano.
 
-> Entonces Jesús dijo: «¿Cómo puede Satanás echar fuera a Satanás? Un reino dividido contra sí mismo no puede subsistir; si una casa está dividida contra sí misma, pronto cae en la desolación{38}. ¿Puede una ciudad resistir el asedio si está desunida? Si Satanás echa a Satanás, está dividido contra sí mismo; ¿cómo podrá entonces subsistir su reino? Pero deberíais saber que nadie puede entrar en la casa de un hombre fuerte y despojarlo de sus bienes, a menos que primero lo haya vencido y atado. Así pues, si echo fuera a los demonios por el poder de Belcebú, ¿por quién los echan vuestros hijos? Por eso ellos serán vuestros jueces. Pero si echo fuera a los demonios por el espíritu de Dios, entonces el reino de Dios ha venido realmente hasta vosotros. Si no estuvierais cegados por los prejuicios y descarriados por el miedo y el orgullo, percibiríais fácilmente que alguien más grande que los demonios está en medio de vosotros. Me obligáis a proclamar que el que no está conmigo está contra mí, y que el que no recoge conmigo desparrama en todas direcciones. ¡Dejad que os haga una advertencia solemne, a vosotros que, con los ojos abiertos y una malicia premeditada, os atrevéis a atribuir a sabiendas las obras de Dios a las acciones de los demonios! En verdad, en verdad os digo que todos vuestros pecados serán perdonados, e incluso todas vuestras blasfemias, pero cualquiera que blasfeme contra Dios de manera deliberada y con una intención perversa, nunca será perdonado. Puesto que esos autores permanentes de la iniquidad nunca buscarán ni recibirán el perdón, son culpables del pecado de rechazar eternamente el perdón divino». ([LU 153:4.3](/es/The_Urantia_Book/153#p4_3))
+> Entonces Jesús dijo: «¿Cómo puede Satanás echar fuera a Satanás? Un reino dividido contra sí mismo no puede subsistir; si una casa está dividida contra sí misma, pronto cae en la desolación{38}. ¿Puede una ciudad resistir el asedio si está desunida? Si Satanás echa a Satanás, está dividido contra sí mismo; ¿cómo podrá entonces subsistir su reino? Pero deberíais saber que nadie puede entrar en la casa de un hombre fuerte y despojarlo de sus bienes, a menos que primero lo haya vencido y atado. Así pues, si echo fuera a los demonios por el poder de Belcebú, ¿por quién los echan vuestros hijos? Por eso ellos serán vuestros jueces. Pero si echo fuera a los demonios por el espíritu de Dios, entonces el reino de Dios ha venido realmente hasta vosotros. Si no estuvierais cegados por los prejuicios y descarriados por el miedo y el orgullo, percibiríais fácilmente que alguien más grande que los demonios está en medio de vosotros. Me obligáis a proclamar que el que no está conmigo está contra mí, y que el que no recoge conmigo desparrama en todas direcciones. ¡Dejad que os haga una advertencia solemne, a vosotros que, con los ojos abiertos y una malicia premeditada, os atrevéis a atribuir a sabiendas las obras de Dios a las acciones de los demonios! En verdad, en verdad os digo que todos vuestros pecados serán perdonados, e incluso todas vuestras blasfemias, pero cualquiera que blasfeme contra Dios de manera deliberada y con una intención perversa, nunca será perdonado. Puesto que esos autores permanentes de la iniquidad nunca buscarán ni recibirán el perdón, son culpables del pecado de rechazar eternamente el perdón divino». (<a id="a78_1646"></a>[LU 153:4.3](/es/The_Urantia_Book/153#p4_3))
 
 Y en la cena de despedida dio la siguiente exhortación:
 
-> «_Después de unos momentos de conversación informal, Jesús se levantó y dijo: «Cuando representé para vosotros una parábola que indicaba de qué manera deberíais estar dispuestos a serviros los unos a los otros, dije que deseaba daros un nuevo mandamiento; quisiera hacerlo ahora que estoy a punto de dejaros. Conocéis bien el mandamiento que ordena que os améis los unos a los otros; que améis a vuestro prójimo como a vosotros mismos. Pero incluso esta dedicación sincera por parte de mis hijos no me satisface plenamente. Quisiera que realizarais unos actos de amor aún más grandes en el reino de la fraternidad de los creyentes. Y por eso os doy este nuevo mandamiento: Que os améis los unos a los otros como yo os he amado. De esta manera, si os amáis así los unos a los otros, todos los hombres sabrán que sois mis discípulos»{6}._» ([LU 180:1.1](/es/The_Urantia_Book/180#p1_1))
+> «_Después de unos momentos de conversación informal, Jesús se levantó y dijo: «Cuando representé para vosotros una parábola que indicaba de qué manera deberíais estar dispuestos a serviros los unos a los otros, dije que deseaba daros un nuevo mandamiento; quisiera hacerlo ahora que estoy a punto de dejaros. Conocéis bien el mandamiento que ordena que os améis los unos a los otros; que améis a vuestro prójimo como a vosotros mismos. Pero incluso esta dedicación sincera por parte de mis hijos no me satisface plenamente. Quisiera que realizarais unos actos de amor aún más grandes en el reino de la fraternidad de los creyentes. Y por eso os doy este nuevo mandamiento: Que os améis los unos a los otros como yo os he amado. De esta manera, si os amáis así los unos a los otros, todos los hombres sabrán que sois mis discípulos»{6}._» (<a id="a82_841"></a>[LU 180:1.1](/es/The_Urantia_Book/180#p1_1))
 
 Resumen preparado por G. Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Dupont/Compte_rendu_de_la_3eme_Conference_Internationale">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Informe de la 3ª Conferencia Internacional de Asociaciones Afiliadas a la I.U.A.</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-2-otoño-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 2 — Otoño 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Michael_Hanian/La_Consecration">
+          <span class="pr-2">La Consagración</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

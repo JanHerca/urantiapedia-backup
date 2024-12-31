@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2023 Georges Michelson Dupont<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio en Filipinas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_De_La_Fondation_Urantia">
+          <span class="pr-2">Noticias de la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Recordatorio de la pedagogía escolar.
@@ -40,10 +64,35 @@ Esta es posiblemente la pregunta que más hacen los estudiosos de la quinta reve
 </figure>
 
 
-> «Fue una conversación que duró hasta bien entrada la noche, en el transcurso de la cual el joven pidió a Jesús que le explicara la diferencia entre la voluntad de Dios y el acto mental humano de elegir, que también se llama voluntad. En sustancia, Jesús dijo: La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero. La voluntad del hombre es el camino del hombre, la suma y la sustancia de lo que el mortal escoge ser y hacer. La voluntad es la elección deliberada de un ser auto-consciente, que conduce a una decisión y a un comportamiento basados en una reflexión inteligente.» ([LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
+> «Fue una conversación que duró hasta bien entrada la noche, en el transcurso de la cual el joven pidió a Jesús que le explicara la diferencia entre la voluntad de Dios y el acto mental humano de elegir, que también se llama voluntad. En sustancia, Jesús dijo: La voluntad de Dios es el camino de Dios, el asociarse con la elección de Dios frente a cualquier alternativa potencial. En consecuencia, hacer la voluntad de Dios es la experiencia progresiva de parecerse cada vez más a Dios, y Dios es la fuente y el destino de todo lo que es bueno, bello y verdadero. La voluntad del hombre es el camino del hombre, la suma y la sustancia de lo que el mortal escoge ser y hacer. La voluntad es la elección deliberada de un ser auto-consciente, que conduce a una decisión y a un comportamiento basados en una reflexión inteligente.» (<a id="a66_831"></a>[LU 130:2.7](/es/The_Urantia_Book/130#p2_7))
 
 <figure id="Figure_15" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/134.jpg">
 <figcaption>Agnès Lazare y Guy Perron</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Eugene_Asidao/Ministere_Aux_Philippines">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ministerio en Filipinas</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_De_La_Fondation_Urantia">
+          <span class="pr-2">Noticias de la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Johanna Beukers<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François y el caballito de mar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Pronombres indefinidos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La mayoría de los participantes llegaron el jueves por la tarde, donde una excelente comida confirmó directamente la acogida seria y cálida que estábamos acostumbrados a experimentar en reuniones anteriores.
@@ -21,7 +45,7 @@ El Presidente nos contó una ficción que pretendía confrontarnos con una nueva
 
 El viernes por la mañana, **Guy Antéquéra**, un lector muy anciano, abrió un primer debate con su presentación sobre los primeros momentos de nuestra supervivencia, acompañada de documentos en vídeo. Desde hace varios años, con algunos participantes de su grupo, se interesó en profundizar su investigación sobre el despertar post-mortem, un área que nos concierne a todos. Los Reveladores nos hablan de ello de cierta manera pero nos dejan buscar por nosotros mismos ciertas coherencias entre los diversos textos del LU, sabiendo bien que estos últimos están sujetos “_por restricciones impuestas por las autoridades celestiales que gobiernan Urantia_” %%0% %. La conferencia de Guy concluyó que según sus tesis, algunos mortales fallecidos despertarían en el tercer período, mientras que otros estarían dormidos y esperando una próxima dispensa.
 
-Después de lo cual Guy añade el hecho de aquellos a quienes «se les puede impedir salir hasta que se haya completado el juicio de sus asuntos...». [LU 112:5.10](/es/The_Urantia_Book/112#p5_10). Y nos hicimos esta pregunta: ¿Dónde están estos mortales?
+Después de lo cual Guy añade el hecho de aquellos a quienes «se les puede impedir salir hasta que se haya completado el juicio de sus asuntos...». <a id="a47_147"></a>[LU 112:5.10](/es/The_Urantia_Book/112#p5_10). Y nos hicimos esta pregunta: ¿Dónde están estos mortales?
 
 Guy nos mantuvo en vilo al presentar varias sugerencias relacionadas con este tema. Los debates seguirán abiertos para seguir filosofando entre nosotros sobre este enigma que no es nada mediocre. La conferencia de Guy está disponible para todos nuestros miembros, simplemente solicítela a la secretaria para obtenerla.
 
@@ -51,3 +75,28 @@ Fraternalmente.
 
 Johanna Beukers
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Philippe_Dubath/Jean_Francois_et_l_hippocampe">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Jean-François y el caballito de mar</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-49-invierno-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 49 — Invierno 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sam_Real_Brousseau/Les_pronoms_indefinis">
+          <span class="pr-2">Pronombres indefinidos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

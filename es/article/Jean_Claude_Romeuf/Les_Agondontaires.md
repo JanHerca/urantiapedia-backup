@@ -9,6 +9,30 @@ dateCreated: 2024-10-17T22:23:59Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2013 Jean-Claude Romeuf<br>© 2013 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En la luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Amor: El Corazón de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Qué afortunados sois vosotros, los agondontarios, porque “desde el principio se os confiarán muchas tareas especiales en empresas cósmicas donde la fe incuestionable y la confianza sublime son esenciales para el éxito”.
@@ -35,7 +59,32 @@ Tengo la esperanza de que la palabra “agondontario” se aplique a todos aquel
 
 ¡Qué lástima quizás para la carrera de Mensajero Poderoso! Pero en cualquier caso, ¡es seguro que haré lo que pueda para ser abrazado por la Trinidad del Paraíso! ¿Qué elegirías tú en mi lugar? ¿Criado con autoridad o sin nombre ni número?
 
-> «_Vosotros, los mortales que leéis este mensaje, podéis ascender hasta el Paraíso, conseguir el abrazo de la Trinidad, ser destinados en las épocas lejanas futuras al servicio de los Ancianos de los Días en uno de los siete superuniversos, y recibir alguna vez la misión de ampliar la revelación de la verdad en algún planeta habitado en evolución, tal como yo lo hago actualmente en Urantia._» ([LU 22:4.7](/es/The_Urantia_Book/22#p4_7))
+> «_Vosotros, los mortales que leéis este mensaje, podéis ascender hasta el Paraíso, conseguir el abrazo de la Trinidad, ser destinados en las épocas lejanas futuras al servicio de los Ancianos de los Días en uno de los siete superuniversos, y recibir alguna vez la misión de ampliar la revelación de la verdad en algún planeta habitado en evolución, tal como yo lo hago actualmente en Urantia._» (<a id="a61_398"></a>[LU 22:4.7](/es/The_Urantia_Book/22#p4_7))
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Anatole_France/A_la_lumiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">En la luz</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-62-primavera-2013">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 62 — Primavera 2013</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Amour_Le_Coeur_De_Dieu">
+          <span class="pr-2">Amor: El Corazón de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atracción espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">El movimiento urantiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Los primeros cristianos hicieron pocos intentos por dilucidar las relaciones entre el Padre, el Hijo y el Espíritu. Tertuliano (150-225) fue quizás el primero en utilizar el término Trinidad. “Dios es una sustancia en tres personas coherentes e inseparables. »
@@ -17,7 +41,7 @@ La fórmula utilizada por Jesús y que se encuentra en el Evangelio de Juan: “
 
 Para Tertuliano, sin embargo, esta fórmula significaba unidad de sustancia y no singularidad de número. El asunto cobrará impulso con Arrio, diciendo que el Hijo fue la primera creación del Padre, y conducirá al Concilio de Nicea en 325 donde Atanasio condenará la posición de Arrio por segunda vez y afirmará que el Logos (Cristo) era de la misma sustancia que el Padre. Contrariamente a lo que esperaba Constantino, este no fue el final de la controversia; Arrio y muchos obispos continuaron con sus argumentos, incluso ganándose para su causa al emperador Constancio II, y Atanasio fue depuesto de su obispado cinco veces.
 
-Este Atanasio es el que se menciona en el Libro de Urantia y de quien se dice que «se presentó con tanta valentía en Nicea y desafió a la asamblea con tal valentía que el concilio no se atrevió a oscurecer el concepto de la naturaleza de Jesús hasta el punto». de arriesgarse a hacer que el mundo pierda la verdad sobre su otorgamiento. Este griego se llamaba Atanasio. Sin la elocuencia y la lógica de este creyente, las persuasivas opiniones de Arrio habrían triunfado._ » [LU 195:0.18](/es/The_Urantia_Book/195#p0_18)
+Este Atanasio es el que se menciona en el Libro de Urantia y de quien se dice que «se presentó con tanta valentía en Nicea y desafió a la asamblea con tal valentía que el concilio no se atrevió a oscurecer el concepto de la naturaleza de Jesús hasta el punto». de arriesgarse a hacer que el mundo pierda la verdad sobre su otorgamiento. Este griego se llamaba Atanasio. Sin la elocuencia y la lógica de este creyente, las persuasivas opiniones de Arrio habrían triunfado._ » <a id="a43_475"></a>[LU 195:0.18](/es/The_Urantia_Book/195#p0_18)
 
 Pero, de hecho, en Nicea sigue prevaleciendo la relación Padre-Hijo, aunque se menciona al Espíritu Santo, éste sólo aparece vagamente, al final de una frase y sin matizaciones, a diferencia del Hijo.
 
@@ -39,3 +63,28 @@ Sólo nos queda examinar las relaciones del Padre, el Hijo y el Espíritu en la 
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Attirance_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Atracción espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Royer/Le_mouvement_urantien">
+          <span class="pr-2">El movimiento urantiano</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

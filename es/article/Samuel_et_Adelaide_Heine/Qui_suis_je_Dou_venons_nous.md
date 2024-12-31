@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Samuel y Adélaïde Heine<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soberanía espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Todo individuo que es consciente de estar consciente y dotado de un mecanismo equilibrado se plantea en algún momento de su existencia las siguientes preguntas fundamentales:
@@ -51,7 +72,7 @@ El mundo pronto necesitará soluciones concretas a estos problemas y nadie debe 
 
 ¿No nos dice El Libro de Urantia que la mejor manera para que un renacuajo se convierta en rana es vivir su vida como renacuajo?
 
-> «El hombre primitivo vivía una vida de esclavitud supersticiosa al miedo religioso. El hombre civilizado moderno teme la idea de caer bajo el dominio de fuertes convicciones religiosas. El hombre inteligente siempre ha tenido miedo de estar *sujeto* a una religión. Cuando una religión fuerte y activa amenaza con dominarlo, intenta invariablemente racionalizarla, institucionalizarla y convertirla en una tradición, esperando de este modo poder controlarla. Mediante este procedimiento, incluso una religión revelada se convierte en una religión elaborada y dominada por el hombre. Los hombres y las mujeres modernos e inteligentes rehuyen la religión de Jesús por temor a lo que ésta *les* hará —y a lo que hará *con* ellos. Y todos estos temores están bien fundados. En verdad, la religión de Jesús domina y transforma a sus creyentes, pidiendo a los hombres que dediquen su vida a buscar el conocimiento de la voluntad del Padre que está en los cielos, y exigiendo que las energías de la vida se consagren al servicio desinteresado de la fraternidad de los hombres.» ([LU 195:9.6](/es/The_Urantia_Book/195#p9_6))
+> «El hombre primitivo vivía una vida de esclavitud supersticiosa al miedo religioso. El hombre civilizado moderno teme la idea de caer bajo el dominio de fuertes convicciones religiosas. El hombre inteligente siempre ha tenido miedo de estar *sujeto* a una religión. Cuando una religión fuerte y activa amenaza con dominarlo, intenta invariablemente racionalizarla, institucionalizarla y convertirla en una tradición, esperando de este modo poder controlarla. Mediante este procedimiento, incluso una religión revelada se convierte en una religión elaborada y dominada por el hombre. Los hombres y las mujeres modernos e inteligentes rehuyen la religión de Jesús por temor a lo que ésta *les* hará —y a lo que hará *con* ellos. Y todos estos temores están bien fundados. En verdad, la religión de Jesús domina y transforma a sus creyentes, pidiendo a los hombres que dediquen su vida a buscar el conocimiento de la voluntad del Padre que está en los cielos, y exigiendo que las energías de la vida se consagren al servicio desinteresado de la fraternidad de los hombres.» (<a id="a74_1074"></a>[LU 195:9.6](/es/The_Urantia_Book/195#p9_6))
 
 Mientras tanto, queridos hermanos, que esta idea germine en ustedes y se haga realidad de una manera que evolucione creativamente.
 
@@ -60,3 +81,25 @@ Tus servidores en colaboración con el Supremo.
 Samuel y Adelaida Heine
 (Isla de la Reunión)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Souverainete_spirituelle">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Soberanía espiritual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-36-primavera-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 36 — Primavera 2006</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

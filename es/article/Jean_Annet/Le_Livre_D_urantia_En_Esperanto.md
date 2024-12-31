@@ -9,6 +9,30 @@ dateCreated: 2024-11-2T13:5:38Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2020 Jean Annet<br>© 2020 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un universo sin big bang</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_2">
+          <span class="pr-2">Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En 2003, JeanMarie Chaise completó, después de 7 años de esfuerzo, la traducción de El libro de Urantia al esperanto.
@@ -51,7 +75,7 @@ Es difícil para todos determinar su número de seguidores. Hay quienes están a
 
 También podría decir que este proyecto de traducir _El Libro de Urantia_ al Esperanto va en la dirección de Luz y Vida.
 
-Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa de anclaje en la luz sin haberse unido a un solo lenguaje, una sola religión, una sola filosofía. [LU 55:3.22](/es/The_Urantia_Book/55#p3_22)
+Ningún mundo evolutivo puede esperar progresar más allá de la primera etapa de anclaje en la luz sin haberse unido a un solo lenguaje, una sola religión, una sola filosofía. <a id="a77_174"></a>[LU 55:3.22](/es/The_Urantia_Book/55#p3_22)
 
 _El Libro de Urantia_ en esperanto es la religión universal en el idioma universal.
 
@@ -89,3 +113,28 @@ El número de esperantófonos es difícil de estimar. Las estimaciones varían e
 
 **Esperantia** (Esperanto: Esperanto) es el nombre que se le da al área lingüística correspondiente a los países del mundo donde hay esperantohablantes, un total de al menos 120 países 1 del mundo, aunque no tenga ninguna política política. form2 o territorio dedicado sobre la superficie de la Tierra; de la misma manera llamamos “Francofonía” a todos los países de habla francesa. Por extensión, Esperantia también se refiere a la cultura generada por los millones de esperantófonos, así como a los lugares e instituciones donde se utiliza el idioma.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/Un_Univers_Sans_Big_Bang">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Un universo sin big bang</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-92-dieciembre-2020">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 92 — Dieciembre 2020</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/La_personnalite_2">
+          <span class="pr-2">Personalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Un_Anniversaire">
+          <span class="pr-2">Un cumpleaños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Comité del Congreso Europeo
@@ -27,9 +51,9 @@ La Asociación Urantia de España, la Asociación Urantia Internacional y el Com
 
 ### SOBRE EL TEMA
 
-Según los reveladores, ***...lo peor de la era materialista ya pasó; el día de una mayor comprensión ya está comenzando a amanecer (195:6.4, 2076.9), y el mundo necesita ver a Jesús vivo nuevamente en la tierra en la experiencia de los mortales nacidos del espíritu que realmente revelan al Maestro a todos los hombres *** (. [LU 195:10.1](/es/The_Urantia_Book/195#p10_1)).
+Según los reveladores, ***...lo peor de la era materialista ya pasó; el día de una mayor comprensión ya está comenzando a amanecer (195:6.4, 2076.9), y el mundo necesita ver a Jesús vivo nuevamente en la tierra en la experiencia de los mortales nacidos del espíritu que realmente revelan al Maestro a todos los hombres *** (. <a id="a53_326"></a>[LU 195:10.1](/es/The_Urantia_Book/195#p10_1)).
 
-Pero ¿cómo podemos dejar atrás el materialismo y nacer del espíritu? ¿Cómo podemos desarrollarnos espiritualmente? El mismo Jesús dijo que _el dominio de sí es la medida de la naturaleza moral del hombre y el indicador de su desarrollo espiritual_. ([LU 143:2.3](/es/The_Urantia_Book/143#p2_3)) Aprender el arte del autocontrol parece, por tanto, fundamental para progresar, tanto moral como espiritualmente. Por eso, durante el 3er Congreso Europeo Urantia, exploraremos las diferentes facetas que nos parecen más importantes para gobernarnos a nosotros mismos. Con esta intención, se ofreció una serie de talleres bajo el título común de “El camino hacia la autodominio”.
+Pero ¿cómo podemos dejar atrás el materialismo y nacer del espíritu? ¿Cómo podemos desarrollarnos espiritualmente? El mismo Jesús dijo que _el dominio de sí es la medida de la naturaleza moral del hombre y el indicador de su desarrollo espiritual_. (<a id="a55_250"></a>[LU 143:2.3](/es/The_Urantia_Book/143#p2_3)) Aprender el arte del autocontrol parece, por tanto, fundamental para progresar, tanto moral como espiritualmente. Por eso, durante el 3er Congreso Europeo Urantia, exploraremos las diferentes facetas que nos parecen más importantes para gobernarnos a nosotros mismos. Con esta intención, se ofreció una serie de talleres bajo el título común de “El camino hacia la autodominio”.
 
 **Considerando la parte física, mental y espiritual** de nosotros mismos, hemos diseñado los talleres con la intención de examinar todos los aspectos y herramientas que nos permiten dominarnos a nosotros mismos: — **Autocontrol desde una perspectiva neurofisiológica (cuerpo)* *: Somos seres mortales que vivimos nuestras vidas a través de cuerpos de carne y hueso y todavía estamos muy condicionados por la materia. Este taller abordará aspectos relacionados con la genética y otras condiciones fisiológicas, como las partes que componen el cerebro y cómo influyen en nuestro comportamiento y su neuroplasticidad, lo que ofrece la posibilidad de cambiar nuestros patrones de comportamiento.
 
@@ -44,3 +68,28 @@ El objetivo de los talleres es fundamentalmente práctico, por lo que al princip
 Para registrarse, diríjase al sitio de registro en la siguiente dirección: www.urantiaevents.com
 donde encontrarás una selección de 5 idiomas diferentes.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Un_Anniversaire">
+          <span class="pr-2">Un cumpleaños</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -40,7 +40,7 @@ El hombre, ¿no es él? El último llamado de la Creación,
 ¿La luz del ojo de la Sabiduría? He aquí la rueda
 De la vida universal como si fuera un anillo,
 Pero el hombre la inscripción y el sello.
-                                      Omar Khayyam.
+&nbsp;&nbsp;&nbsp;Omar Khayyam.
 
 Οὕτως, φησίν, ἐστι πάνυ βαθεῖα καὶ δυσκατάληπτος ἡ τοῦ τελείου ἀνθρώπου γνῶσις. Ἀρχὴ γάρ, φησίν, τελειώσεως γνῶσις ἀνθρώπου· θεοῦ δὲ γνῶσις ἀπηρτισμένη τελείωσις· Hipólito.
 
@@ -65,7 +65,7 @@ El marcado sabor cristiano de la doctrina Ḥallájiana la condenó a los ojos m
 
 Jílí comienza su obra con una declaración de su objetivo al componerla [^228]. Ese objetivo es Dios (_al-Ḥaqq_): por lo tanto, debe tratar en primer lugar, de los nombres divinos, luego de los atributos divinos y, por último, de la esencia divina. «Llamaré la atención», dice, «a misterios que ningún autor ha puesto jamás en un libro [^229], asuntos concernientes a la gnosis de Dios y del universo, y recorreré un camino entre la reserva y la divulgación». Escribe a lo largo de todo el libro como alguien que informa de lo que se le ha comunicado en una conversación mística (_mukálama_), <span id="p82">[<sup><small>p. 82</small></sup>]</span> de modo que «el oyente sepa intuitivamente que es la palabra de Dios [^230]». Estas revelaciones privadas están respaldadas, afirma, por el Corán y la Sunna, y advierte a sus lectores que no lo acusen de errores que puedan surgir de su propia falta de comprensión; pero mientras profesa la creencia en los artículos de fe mahometanos [^231], los interpreta mediante un método alegorizador que produce todos y cada uno de los significados deseados. Como escritor, no carece de talento, aunque su obra pertenece al misticismo más que a la literatura. Además de muchos poemas que parece haber admirado desmesuradamente [^232], introduce _maqámas_ en prosa rimada y muestras del mito platónico. Así, cuenta cómo el extraño, cuyo nombre es el Espíritu, regresó de un largo exilio y prisión al mundo conocido como Yúḥ, y entró en una ciudad espaciosa donde Khaḍir gobierna sobre «los Hombres de lo Invisible» (_rijálu ’l-ghayb_) - santos y ángeles exaltados, de los cuales se describen seis clases [^233].
 
-La característica del _Insánu ’l-kámil_ es la idea del Hombre Perfecto, «que como un microcosmos de un orden superior refleja no sólo los poderes de la naturaleza sino también los poderes divinos \`como en un espejo' (compárese con el γενικὸς ἄνθρωπος de Filón) [^234]». Sobre esta base, Jílí construye su filosofía mística. Se comprenderá mejor en su conjunto si, antes de entrar en detalles, intento esbozarla en líneas generales.
+La característica del _Insánu ’l-kámil_ es la idea del Hombre Perfecto, «que como un microcosmos de un orden superior refleja no sólo los poderes de la naturaleza sino también los poderes divinos 'como en un espejo' (compárese con el γενικὸς ἄνθρωπος de Filón) [^234]». Sobre esta base, Jílí construye su filosofía mística. Se comprenderá mejor en su conjunto si, antes de entrar en detalles, intento esbozarla en líneas generales.
 
 Jílí pertenece a la escuela de los Ṣúfís que sostienen que el Ser es uno [^235], que todas las diferencias aparentes son modos, aspectos y manifestaciones de la realidad, que lo fenomenal es la expresión externa de lo real. Comienza definiendo la esencia como ese <span id="p83">[<sup><small>p. 83</small></sup>]</span> al que se refieren los nombres y atributos; puede ser existente o no existente, es decir, existir solo en nombre, como el pájaro fabuloso llamado _‘Anqá_. La esencia que realmente existe es de dos tipos: Ser puro, o Dios, y Ser unido al no ser, es decir, el mundo de las cosas creadas. La esencia de Dios es incognoscible _per se_; debemos buscar conocimiento de ella a través de sus nombres y atributos. Es una sustancia con dos accidentes, eternidad y perdurabilidad; con dos cualidades, creatividad y criatura; con dos descripciones, increación y origen en el tiempo; con dos nombres, Señor y esclavo (Dios y hombre); con dos aspectos, el exterior o visible, que es el mundo presente, y el interior o invisible, que es el mundo venidero; tanto la necesidad como la contingencia se predican de él, y puede ser considerado como inexistente para sí mismo pero existente para otros, o como inexistente para otros pero existente para sí mismo [^236].
 
@@ -160,11 +160,10 @@ Confío en que el análisis y la exposición que siguen sean lo suficientemente 
 [^224]: 80:2 Massignon, _Kitáb al-Ṭawásín_, p. 129.
 
 [^225]: 80:3 Contraste esto con la expresión monista del mismo pensamiento por Jílí (K I. 51, 1): «Somos el espíritu del Uno, aunque moramos por turnos en dos cuerpos». Así también, Jalálu’ddín Rúmí (Divāni Shamsi Tabrīz, p. 153):
-
-“Feliz el momento en que estamos sentados en el palacio, tú y yo,
-Con dos formas y con dos figuras, pero con una sola alma, tú y yo.”
-
-Cf. K II. 121, 11 ss.: «El amor esencial es el amor en la Unidad, de modo que cada uno de los amantes aparece en la forma del otro y representa al otro. En cuanto el amor del cuerpo y del alma es esencial, el alma sufre por el dolor del cuerpo en este mundo, mientras que el cuerpo sufre por el dolor del alma en el otro mundo: entonces cada uno de ellos aparece en la forma del otro».
+  “Feliz el momento en que estamos sentados en el palacio, tú y yo,
+  Con dos formas y con dos figuras, pero con una sola alma, tú y yo.”
+  
+  Cf. K II. 121, 11 ss.: «El amor esencial es el amor en la Unidad, de modo que cada uno de los amantes aparece en la forma del otro y representa al otro. En cuanto el amor del cuerpo y del alma es esencial, el alma sufre por el dolor del cuerpo en este mundo, mientras que el cuerpo sufre por el dolor del alma en el otro mundo: entonces cada uno de ellos aparece en la forma del otro».
 
 [^226]: 81:1 No sé con qué autoridad el Dr. Goldziher en su artículo sobre Jílí en la _Encycl. of Islam_ (vol. I, p. 46) conecta la _nisba_ con Jíl, un pueblo en el distrito de Bagdad. Jílí se llama a sí mismo ![](/image/book/Islam/Studies_in_Islamic_Mysticism/08100.jpg) (Loth, Cat. de manuscritos árabes en la Biblioteca de la Oficina de la India, p. 182, col. I, l. 7 desde el pie). Él trazó su descendencia a un _sibṭ_ de ‘Abdu ’l-Qádir, _es decir_, a un hijo de la hija del Shaykh.
 

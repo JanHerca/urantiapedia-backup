@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Sophie Malicot<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una búsqueda espiritual: Dios en cuestión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">Los peligros de un planeta decimal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sofía Malicot
@@ -45,19 +69,19 @@ Pero, una vez más, el niño que se rebela contra su autosacrificio no se dobleg
 
 Se requiere otra explicación sobre este ser humano a imagen de Dios y sin embargo imperfecto. _El Libro de Urantia_ responde.
 
-> «El relato de la creación en el Antiguo Testamento data de mucho tiempo después de la época de Moisés; éste nunca enseñó a los hebreos una historia tan deformada. Pero sí presentó a los israelitas un relato sencillo y condensado de la creación, esperando realzar así su llamamiento a la adoración del Creador, el Padre Universal, a quien él llamaba el Señor Dios de Israel.» ([LU 74:8.7](/es/The_Urantia_Book/74#p8_7))
+> «El relato de la creación en el Antiguo Testamento data de mucho tiempo después de la época de Moisés; éste nunca enseñó a los hebreos una historia tan deformada. Pero sí presentó a los israelitas un relato sencillo y condensado de la creación, esperando realzar así su llamamiento a la adoración del Creador, el Padre Universal, a quien él llamaba el Señor Dios de Israel.» (<a id="a71_378"></a>[LU 74:8.7](/es/The_Urantia_Book/74#p8_7))
 
 El misterio no reside entre el ser humano creado perfecto y el estado de imperfección experimentado; el misterio reside en esta extensión de Dios a través de la creación de Su Creación en la que reside esta exclusividad de sí misma respecto de la experiencia humana. ¿Es Dios todo pero no completamente? ¿Todo menos este pedacito de nuestra trayectoria humana?
 
-> «En todo el universo no hay nada que pueda sustituir el hecho de la experiencia en los niveles no existenciales. El Dios infinito está, como siempre, repleto y completo, e incluye infinitamente a todas las cosas, excepto el mal y la experiencia de las criaturas. Dios no puede hacer el mal; es infalible. Dios no puede conocer experiencialmente lo que no ha experimentado nunca personalmente. El preconocimiento de Dios es existencial. Por eso el espíritu del Padre desciende del Paraíso para participar con los mortales finitos en cada experiencia de buena fe de la carrera ascendente; únicamente mediante este método es como el Dios existencial podía convertirse, en verdad y de hecho, en el Padre experiencial del hombre. La infinidad del Dios eterno abarca el potencial para la experiencia finita, el cual se vuelve real en verdad en el ministerio de los fragmentos Ajustadores, que comparten realmente las experiencias de las vicisitudes de la vida de los seres humanos.» ([LU 108:0.2](/es/The_Urantia_Book/108#p0_2))
+> «En todo el universo no hay nada que pueda sustituir el hecho de la experiencia en los niveles no existenciales. El Dios infinito está, como siempre, repleto y completo, e incluye infinitamente a todas las cosas, excepto el mal y la experiencia de las criaturas. Dios no puede hacer el mal; es infalible. Dios no puede conocer experiencialmente lo que no ha experimentado nunca personalmente. El preconocimiento de Dios es existencial. Por eso el espíritu del Padre desciende del Paraíso para participar con los mortales finitos en cada experiencia de buena fe de la carrera ascendente; únicamente mediante este método es como el Dios existencial podía convertirse, en verdad y de hecho, en el Padre experiencial del hombre. La infinidad del Dios eterno abarca el potencial para la experiencia finita, el cual se vuelve real en verdad en el ministerio de los fragmentos Ajustadores, que comparten realmente las experiencias de las vicisitudes de la vida de los seres humanos.» (<a id="a75_980"></a>[LU 108:0.2](/es/The_Urantia_Book/108#p0_2))
 
 ¿Una incompletitud divina que abre otra posición a los humanos? Eso es lo que dice el texto. La aventura humana se vincula entonces de otra manera. Dios “YO SOY” creó al Hijo eterno y se convirtió en Dios-Padre a través del Hijo. Sin duda amó profundamente esta paternidad hasta el punto de proponer al Hijo:
 
-> «Aunque el Hijo Eterno no puede participar personalmente en la concesión de los Ajustadores del Pensamiento, en el eterno pasado se sentó en consejo con el Padre Universal, y aprobó el plan y prometió una cooperación sin fin cuando el Padre, al proyectar la concesión de los Ajustadores del Pensamiento, le propuso al Hijo: «Hagamos al hombre mortal a nuestra propia imagen»{14}. Y al igual que el fragmento espiritual del Padre habita en vosotros, la presencia espiritual del Hijo os envuelve, y los dos trabajan constantemente como uno solo para vuestro progreso espiritual.» ([LU 6:5.7](/es/The_Urantia_Book/6#p5_7))
+> «Aunque el Hijo Eterno no puede participar personalmente en la concesión de los Ajustadores del Pensamiento, en el eterno pasado se sentó en consejo con el Padre Universal, y aprobó el plan y prometió una cooperación sin fin cuando el Padre, al proyectar la concesión de los Ajustadores del Pensamiento, le propuso al Hijo: «Hagamos al hombre mortal a nuestra propia imagen»{14}. Y al igual que el fragmento espiritual del Padre habita en vosotros, la presencia espiritual del Hijo os envuelve, y los dos trabajan constantemente como uno solo para vuestro progreso espiritual.» (<a id="a79_581"></a>[LU 6:5.7](/es/The_Urantia_Book/6#p5_7))
 
 Esta palabra fue dicha al Hijo siguiendo la propuesta del Padre de conceder a los Ajustadores del Pensamiento. Aquí está la cita completa:
 
-> «Aunque el Hijo Eterno no puede participar personalmente en la concesión de los Ajustadores del Pensamiento, en el eterno pasado se sentó en consejo con el Padre Universal, y aprobó el plan y prometió una cooperación sin fin cuando el Padre, al proyectar la concesión de los Ajustadores del Pensamiento, le propuso al Hijo: «Hagamos al hombre mortal a nuestra propia imagen»{14}. Y al igual que el fragmento espiritual del Padre habita en vosotros, la presencia espiritual del Hijo os envuelve, y los dos trabajan constantemente como uno solo para vuestro progreso espiritual.» ([LU 6:5.7](/es/The_Urantia_Book/6#p5_7))
+> «Aunque el Hijo Eterno no puede participar personalmente en la concesión de los Ajustadores del Pensamiento, en el eterno pasado se sentó en consejo con el Padre Universal, y aprobó el plan y prometió una cooperación sin fin cuando el Padre, al proyectar la concesión de los Ajustadores del Pensamiento, le propuso al Hijo: «Hagamos al hombre mortal a nuestra propia imagen»{14}. Y al igual que el fragmento espiritual del Padre habita en vosotros, la presencia espiritual del Hijo os envuelve, y los dos trabajan constantemente como uno solo para vuestro progreso espiritual.» (<a id="a83_581"></a>[LU 6:5.7](/es/The_Urantia_Book/6#p5_7))
 
 **Cabe destacar los siguientes 3 puntos:**
 
@@ -73,7 +97,7 @@ _El Libro de Urantia_ inserta este proyecto divino en el librito 6 relativo al H
 
 Desde este punto de vista, la imperfección es una etapa normal de la relatividad del estado evolutivo. Los humanos no son intrínsecamente “pecaminosos”; la imperfección de su acercamiento hacia Dios se debe al estiramiento deseado por Dios mismo, entre Él y Su Creación, implicando un importante grado legítimo de ignorancia humana. De esta ignorancia surge el mal, esta falta de ajuste en nuestra comprensión del plan divino. El mal es, por tanto, inevitable, común, inseparable de nuestra materialidad, pero no debe equipararse al pecado, que ciertamente existe pero de forma mucho más limitada que el mal.
 
-> AL HOMBRE evolutivo le resulta difícil comprender plenamente el significado y captar el sentido del mal, del error, del pecado y de la iniquidad. El hombre es lento en percibir que la perfección y la imperfección contrapuestas producen el mal potencial; que la verdad y la falsedad en conflicto crean el error desconcertante; que el don divino de poder elegir mediante el libre albedrío conduce a los reinos divergentes del pecado y de la rectitud; que la búsqueda perseverante de la divinidad conduce al reino de Dios, en contraste con su continuo rechazo, el cual conduce a los dominios de la iniquidad. ([LU 54:0.1](/es/The_Urantia_Book/54#p0_1))
+> AL HOMBRE evolutivo le resulta difícil comprender plenamente el significado y captar el sentido del mal, del error, del pecado y de la iniquidad. El hombre es lento en percibir que la perfección y la imperfección contrapuestas producen el mal potencial; que la verdad y la falsedad en conflicto crean el error desconcertante; que el don divino de poder elegir mediante el libre albedrío conduce a los reinos divergentes del pecado y de la rectitud; que la búsqueda perseverante de la divinidad conduce al reino de Dios, en contraste con su continuo rechazo, el cual conduce a los dominios de la iniquidad. (<a id="a99_609"></a>[LU 54:0.1](/es/The_Urantia_Book/54#p0_1))
 
 Recuerda que es un acto voluntario de no cooperación con el plan divino. Entonces, para ser pecador, primero debes conocer el plan divino...
 
@@ -87,3 +111,28 @@ Esta nueva concepción abre la liberación del ser humano de un yugo que pesa mu
 
 “Paz en la tierra y buena voluntad entre los hombres”, esa buena voluntad que hace avanzar a la humanidad en la justicia y la verdad. Y la tierra está llena de gente de buena voluntad.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Mamadou_Doudou_Diagne/Une_Quete_Spirituelle_Dieu_En_Question">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una búsqueda espiritual: Dios en cuestión</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Les_Aleas_D_une_Planete_Decimale">
+          <span class="pr-2">Los peligros de un planeta decimal</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

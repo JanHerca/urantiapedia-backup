@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Dominique Ronfet<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Auto_Guerison">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autosanación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Deberíamos oponer “el hombre de deseo” al “hombre de voluntad”?
@@ -17,7 +38,7 @@ dateCreated: 2024-09-29T14:02:03.086Z
 
 (¿En qué sentido vivir?)
 
-> 3. El anhelo de la personalidad por parecerse a Dios —el deseo sincero de hacer la voluntad del Padre{16}. ([LU 1:2.6](/es/The_Urantia_Book/1#p2_6))
+> 3. El anhelo de la personalidad por parecerse a Dios —el deseo sincero de hacer la voluntad del Padre{16}. (<a id="a40_110"></a>[LU 1:2.6](/es/The_Urantia_Book/1#p2_6))
 
 ¿Entonces el deseo precede a la voluntad?
 Quien se conoce a sí mismo, conoce su deseo.
@@ -33,3 +54,25 @@ Finalmente, sus deseos...
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Johanna_Beukers/Auto_Guerison">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Autosanación</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-46-primavera-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 46 — Primavera 2009</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

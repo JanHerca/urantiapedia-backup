@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 André Chappuis<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS El marco de estudio — Pedagogía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="pr-2">El libro de Urantia: Correcciones al texto de 1955</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -36,19 +60,19 @@ Dios los bendijo y les dijo: “Creced y multiplicaos; llenad la tierra y sojuzg
 
 Podemos admitir que esta sentencia tuvo su razón de ser hasta finales del siglo XIX, pero después se deberían haber tomado medidas para conseguir que la población dejara de aumentar. Desde su creación, la ONU debería haber tomado medidas para estabilizar la población del planeta. ¿Por qué no se hizo esto? Probablemente porque, en la conferencia de Yalta, a principios de febrero de 1945, Churchill, Roosevelt y Stalin habían decidido que la organización que unos meses más tarde sustituiría a la Sociedad de Naciones debía estar sobre todo al servicio de los vencedores de la Segunda Guerra. .
 
-En el siglo V a.C., los sacerdotes hebreos que escribieron el Génesis en Babilonia (ver [LU 78:7.3](/es/The_Urantia_Book/78#p7_3)), debieron haber completado este versículo 28 del primer capítulo con:
+En el siglo V a.C., los sacerdotes hebreos que escribieron el Génesis en Babilonia (ver <a id="a62_88"></a>[LU 78:7.3](/es/The_Urantia_Book/78#p7_3)), debieron haber completado este versículo 28 del primer capítulo con:
 
 Pero, cuando hayas llenado la tierra, deja de crecer y multiplicarte y ten una población estable.
 
 El Libro de Urantia nos dice que, en un mundo normal, la población se estabiliza durante las eras posadámicas. Vea abajo.
 
-“En un mundo normal, la aptitud biológica de la raza alcanzó un alto nivel hace mucho tiempo, durante las eras posadámicas; y, ahora, la evolución física de los hombres continúa de edad en edad durante las eras de anclaje. El campo de visión y audición se expande. La cifra de población ahora es estacionaria. La reproducción se regula según las necesidades planetarias y los dones hereditarios innatos. Durante esta edad, los habitantes del planeta se dividen en cinco a diez grupos, y a los grupos inferiores se les permite tener sólo la mitad de hijos que a los grupos superiores. » [LU 55:6.3](/es/The_Urantia_Book/55#p6_3)
+“En un mundo normal, la aptitud biológica de la raza alcanzó un alto nivel hace mucho tiempo, durante las eras posadámicas; y, ahora, la evolución física de los hombres continúa de edad en edad durante las eras de anclaje. El campo de visión y audición se expande. La cifra de población ahora es estacionaria. La reproducción se regula según las necesidades planetarias y los dones hereditarios innatos. Durante esta edad, los habitantes del planeta se dividen en cinco a diez grupos, y a los grupos inferiores se les permite tener sólo la mitad de hijos que a los grupos superiores. » <a id="a68_586"></a>[LU 55:6.3](/es/The_Urantia_Book/55#p6_3)
 
 Por tanto, es normal estabilizar la población en el momento adecuado. Esto también les sucede a otros seres vivos. En un territorio determinado sólo hay un número determinado de animales de cada especie, que corresponde a la cantidad de estos animales que ese territorio puede alimentar y albergar. En lugares donde no interviene el hombre, la cantidad de plantas de cada especie se estabiliza al cabo de un tiempo determinado.
 
 Para dar cabida a la población adicional que hay en la Tierra cada año, se deben construir nuevos apartamentos. Para no invadir demasiado las zonas agrícolas, las autoridades recomiendan densificar las zonas edificables. Esta densificación consiste en limitar el número de villas y construir edificios de alquiler cada vez mayores, por lo tanto con cada vez más viviendas por edificio.
 
-Pero la densificación es contraria a lo que nos enseña El Libro de Urantia. El documento 72, que describe la vida de la nación más evolucionada en otro planeta de Satania, nos fue transmitido para que sirviera de modelo ([LU 72:12.3](/es/The_Urantia_Book/72#p12_3)). En el primer párrafo del capítulo 3 se nos dice que en esta nación se han prohibido las viviendas colectivas. La vivienda familiar más pequeña debe tener media hectárea de terreno. Esto significa que cada familia produce gran parte de sus propios alimentos, incluso en la ciudad, ya que con cada casa hay suficiente terreno para ello. Con la densificación estamos lejos de poder lograrlo.
+Pero la densificación es contraria a lo que nos enseña El Libro de Urantia. El documento 72, que describe la vida de la nación más evolucionada en otro planeta de Satania, nos fue transmitido para que sirviera de modelo (<a id="a74_221"></a>[LU 72:12.3](/es/The_Urantia_Book/72#p12_3)). En el primer párrafo del capítulo 3 se nos dice que en esta nación se han prohibido las viviendas colectivas. La vivienda familiar más pequeña debe tener media hectárea de terreno. Esto significa que cada familia produce gran parte de sus propios alimentos, incluso en la ciudad, ya que con cada casa hay suficiente terreno para ello. Con la densificación estamos lejos de poder lograrlo.
 
 En 1935, esta nación aún no necesitaba estabilizar su población, ya que nos dicen que las familias tenían en promedio 5 hijos, mientras que para una población estabilizada, las familias tienen entre uno y tres hijos.
 
@@ -59,3 +83,28 @@ Teniendo en cuenta lo anterior, sólo podemos señalar que se está volviendo ur
 27 de marzo de 2017
 André Chappuis
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">UBIS El marco de estudio — Pedagogía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/TUB_Corrections_au_texte_de_1955">
+          <span class="pr-2">El libro de Urantia: Correcciones al texto de 1955</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

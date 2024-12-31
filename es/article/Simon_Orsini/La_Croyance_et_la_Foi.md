@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Simon Orsini<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asamblea de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="pr-2">La experiencia UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Creer es el primer paso de la fe. Este análisis depende enteramente de las revelaciones y no deja lugar a la improvisación.
@@ -35,7 +59,7 @@ La teología es el estudio de las acciones y reacciones del espíritu humano. La
 
 Cuando la investigación se hace desde dentro (el Paraíso) da lugar a la teología.
 
-> Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos de esa religión, puesto que consideráis que el concepto supremo de vuestra religión es digno de la adoración de toda la humanidad, de todas las inteligencias del universo. Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual. Si vuestra religión es una experiencia espiritual, el objeto de vuestra adoración debe ser la realidad y el ideal espiritual universal de todos vuestros conceptos espiritualizados. Todas las religiones que se basan en el miedo, la emoción, la tradición y la filosofía, las califico de religiones intelectuales, mientras que aquellas que se basan en la verdadera experiencia espiritual las calificaría de religiones verdaderas. El objeto de la devoción religiosa puede ser material o espiritual, verdadero o falso, real o irreal, humano o divino. Las religiones pueden ser, por tanto, buenas o malas. ([LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
+> Si algo se ha vuelto una religión en vuestra experiencia, es evidente que ya sois evangelistas activos de esa religión, puesto que consideráis que el concepto supremo de vuestra religión es digno de la adoración de toda la humanidad, de todas las inteligencias del universo. Si no sois unos evangelistas convencidos y misioneros de vuestra religión, os engañáis a vosotros mismos, en el sentido de que aquello que llamáis religión no es más que una creencia tradicional o un simple sistema de filosofía intelectual. Si vuestra religión es una experiencia espiritual, el objeto de vuestra adoración debe ser la realidad y el ideal espiritual universal de todos vuestros conceptos espiritualizados. Todas las religiones que se basan en el miedo, la emoción, la tradición y la filosofía, las califico de religiones intelectuales, mientras que aquellas que se basan en la verdadera experiencia espiritual las calificaría de religiones verdaderas. El objeto de la devoción religiosa puede ser material o espiritual, verdadero o falso, real o irreal, humano o divino. Las religiones pueden ser, por tanto, buenas o malas. (<a id="a61_1119"></a>[LU 160:5.3](/es/The_Urantia_Book/160#p5_3))
 
 En la etapa humana nada se puede probar, la ciencia y la religión se basan ambas en hipótesis, la ciencia se convierte en el dominio mental de las matemáticas.
 
@@ -51,3 +75,28 @@ Cada vez que construyo un texto, lo considero una tarea. (Para tomar en ambos se
 
 _Simón Orsini_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Asamblea de Dios</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Guy_Stephane_Nyasse/L_experience_UBIS">
+          <span class="pr-2">La experiencia UBIS</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

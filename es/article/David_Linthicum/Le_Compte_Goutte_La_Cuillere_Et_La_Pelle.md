@@ -9,6 +9,30 @@ dateCreated: 2024-10-31T13:15:44Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2018 David Linthicum<br>© 2018 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sea sensible al circuito de la Personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/La_rencontre_internationale_de_Amsterdam">
+          <span class="pr-2">El encuentro internacional en Amsterdam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _David Linthicum_
@@ -25,7 +49,7 @@ Las enseñanzas de Jesús cambiaron el mundo. Sus enseñanzas finalmente llevaro
 
 Jesús logró cambiar la percepción de Dios de Moisés, que representaba un Dios enojado y vengativo, a un Dios de Amor, un Padre amoroso que adora a sus hijos terrenales. Jesús nos enseñó sobre el Reino de los Cielos y la Hermandad del Hombre, que los hombres y las mujeres son “salvados” sólo por su fe.
 
-> _No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará._ ([[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
+> _No os desaniméis; la evolución humana continúa avanzando, y la revelación de Dios al mundo, en Jesús y por Jesús, no fracasará._ (<a id="a51_133"></a>[[LU 196:3.33](/es/The_Urantia_Book/196#p3_33))
 
 Estos sencillos mensajes de amor, fe y familia sirvieron para cambiar la percepción que las personas tenían de Dios y su relación con Él. Dios se volvió una persona más amable, más comprensiva y compasiva con nuestras luchas terrenas.
 
@@ -128,3 +152,28 @@ Cuando viajes recuerda llevar el gotero y la cuchara, y dejar el cacito en casa.
 
 Gracias y Dios los bendiga a todos...
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Etre_sensible_au_circuit_de_Personnalite">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sea sensible al circuito de la Personalidad</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-82-junio-2018">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 82 — Junio 2018</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/La_rencontre_internationale_de_Amsterdam">
+          <span class="pr-2">El encuentro internacional en Amsterdam</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

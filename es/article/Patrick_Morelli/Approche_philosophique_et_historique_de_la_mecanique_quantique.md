@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Patrick Morelli<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="pr-2">La traducción china del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Patricio Morelli
@@ -133,9 +157,9 @@ Emergen las fuerzas energéticas como la mental, la espiritual por el Espíritu 
 
 En comparación con las preguntas formuladas anteriormente, las respuestas dadas por L. U. pueden tener un eco satisfactorio.
 
-> «La mente mortal es un sistema intelectual temporal prestado a los seres humanos para ser utilizado durante una vida material, y según la manera en que utilicen esta mente, estarán aceptando o rechazando el potencial de la existencia eterna. La mente es casi todo lo que poseéis de la realidad universal que está sometido a vuestra voluntad, y el alma —el yo morontial— describirá fielmente la cosecha de decisiones temporales que habrá tomado el yo mortal. La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente. Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender; lo que constituye la identificación con el espíritu no es tanto cómo es la mente sino cómo la mente se esfuerza por ser. Lo que conduce a la ascensión por el universo no es tanto que el hombre sea consciente de Dios como que el hombre anhele a Dios. Lo que sois hoy no es tan importante como lo que vais siendo día tras día y en la eternidad.» ([LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
+> «La mente mortal es un sistema intelectual temporal prestado a los seres humanos para ser utilizado durante una vida material, y según la manera en que utilicen esta mente, estarán aceptando o rechazando el potencial de la existencia eterna. La mente es casi todo lo que poseéis de la realidad universal que está sometido a vuestra voluntad, y el alma —el yo morontial— describirá fielmente la cosecha de decisiones temporales que habrá tomado el yo mortal. La conciencia humana descansa suavemente sobre el mecanismo electroquímico situado debajo, y toca delicadamente el sistema energético morontial-espiritual situado encima. El ser humano nunca es completamente consciente de ninguno de estos dos sistemas durante su vida mortal; por eso tiene que trabajar en la mente, de la cual sí es consciente. Lo que asegura la supervivencia no es tanto lo que la mente comprende como lo que la mente desea comprender; lo que constituye la identificación con el espíritu no es tanto cómo es la mente sino cómo la mente se esfuerza por ser. Lo que conduce a la ascensión por el universo no es tanto que el hombre sea consciente de Dios como que el hombre anhele a Dios. Lo que sois hoy no es tan importante como lo que vais siendo día tras día y en la eternidad.» (<a id="a159_1259"></a>[LU 111:1.5](/es/The_Urantia_Book/111#p1_5))
 
-> «La mente material del hombre mortal es el telar cósmico que contiene los tejidos morontiales sobre los cuales el Ajustador del Pensamiento interior entreteje las formas espirituales de un carácter universal compuesto de valores duraderos y de significados divinos —un alma sobreviviente con un destino último y una carrera sin fin, un finalitario potencial.» ([LU 111:2.2](/es/The_Urantia_Book/111#p2_2))
+> «La mente material del hombre mortal es el telar cósmico que contiene los tejidos morontiales sobre los cuales el Ajustador del Pensamiento interior entreteje las formas espirituales de un carácter universal compuesto de valores duraderos y de significados divinos —un alma sobreviviente con un destino último y una carrera sin fin, un finalitario potencial.» (<a id="a161_363"></a>[LU 111:2.2](/es/The_Urantia_Book/111#p2_2))
 
 También estos detalles sobre los significados que siguen al trabajo de la mente:
 
@@ -167,7 +191,7 @@ Lo que significa que el paralelo de mis observaciones con la ola global sólo pu
 
 Para cerrar estas aproximaciones, folleto 36:6.7:
 
-> «Hay algunas cosas relacionadas con la elaboración de la vida en los planetas evolutivos que no están del todo claras para nosotros. Comprendemos plenamente la organización física de las fórmulas electroquímicas de los Portadores de Vida, pero no entendemos por completo la naturaleza y la fuente de la *chispa que activa la vida*. Sabemos que la vida proviene del Padre, pasa por el Hijo y fluye *a través* del Espíritu. Es muy probable que los Espíritus Maestros sean el canal séptuple del río de vida que se derrama sobre toda la creación. Pero no comprendemos la técnica por medio de la cual el Espíritu Maestro supervisor participa en el episodio inicial de conferir la vida en un nuevo planeta. Estamos seguros de que los Ancianos de los Días también participan de alguna manera en esta inauguración de la vida en un nuevo mundo, pero ignoramos por completo la naturaleza de dicha participación. Sabemos que el Espíritu Madre del Universo vitaliza realmente los modelos sin vida y confiere a ese plasma activado las prerrogativas de la reproducción del organismo. Observamos que estas tres personalidades constituyen los niveles de Dios Séptuple, y son a veces denominadas los Creadores Supremos del tiempo y del espacio; pero por lo demás, sabemos poco más que los mortales de Urantia —simplemente que el concepto es inherente al Padre, la expresión al Hijo y la realización de la vida al Espíritu.» ([LU 36:6.7](/es/The_Urantia_Book/36#p6_7))
+> «Hay algunas cosas relacionadas con la elaboración de la vida en los planetas evolutivos que no están del todo claras para nosotros. Comprendemos plenamente la organización física de las fórmulas electroquímicas de los Portadores de Vida, pero no entendemos por completo la naturaleza y la fuente de la *chispa que activa la vida*. Sabemos que la vida proviene del Padre, pasa por el Hijo y fluye *a través* del Espíritu. Es muy probable que los Espíritus Maestros sean el canal séptuple del río de vida que se derrama sobre toda la creación. Pero no comprendemos la técnica por medio de la cual el Espíritu Maestro supervisor participa en el episodio inicial de conferir la vida en un nuevo planeta. Estamos seguros de que los Ancianos de los Días también participan de alguna manera en esta inauguración de la vida en un nuevo mundo, pero ignoramos por completo la naturaleza de dicha participación. Sabemos que el Espíritu Madre del Universo vitaliza realmente los modelos sin vida y confiere a ese plasma activado las prerrogativas de la reproducción del organismo. Observamos que estas tres personalidades constituyen los niveles de Dios Séptuple, y son a veces denominadas los Creadores Supremos del tiempo y del espacio; pero por lo demás, sabemos poco más que los mortales de Urantia —simplemente que el concepto es inherente al Padre, la expresión al Hijo y la realización de la vida al Espíritu.» (<a id="a193_1410"></a>[LU 36:6.7](/es/The_Urantia_Book/36#p6_7))
 
 En lo que a nosotros respecta, ¿no es buscar la meta de un buscador de la verdad?
 
@@ -184,3 +208,28 @@ Toda la información relativa a la mecánica cuántica ha sido recogida en los s
 - Ondas cerebrales y energías en la física cuántica _Paul Millemann_
 - El Hombre Cuántico _E Ransford O Chambon T Atam_
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Nouvelles_de_la_Fondation_Urantia_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Noticias de la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-105-marzo-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 105 — Marzo 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_chinoise_de_The_Urantia_Book">
+          <span class="pr-2">La traducción china del Libro de Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

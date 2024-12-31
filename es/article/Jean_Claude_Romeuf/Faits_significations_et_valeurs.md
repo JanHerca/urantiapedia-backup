@@ -9,13 +9,37 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Jean-Claude Romeuf<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús? (FIN)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poema…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «_Para la ciencia, Dios es una causa; para la filosofía, una idea; para la religión, una persona e incluso el Padre amoroso y celestial. Para los científicos, Dios es una fuerza primordial; para los filósofos, una hipótesis de unidad; para las personas religiosas, una experiencia espiritual viviente. El concepto inadecuado del hombre sobre la personalidad del Padre Universal sólo puede mejorar mediante el progreso espiritual del hombre en el universo, y sólo se volverá verdaderamente adecuado cuando los peregrinos del tiempo y del espacio alcancen finalmente el abrazo divino del Dios viviente en el Paraíso._» ([LU 1:6.2](/es/The_Urantia_Book/1#p6_2))
+
+> «_Para la ciencia, Dios es una causa; para la filosofía, una idea; para la religión, una persona e incluso el Padre amoroso y celestial. Para los científicos, Dios es una fuerza primordial; para los filósofos, una hipótesis de unidad; para las personas religiosas, una experiencia espiritual viviente. El concepto inadecuado del hombre sobre la personalidad del Padre Universal sólo puede mejorar mediante el progreso espiritual del hombre en el universo, y sólo se volverá verdaderamente adecuado cuando los peregrinos del tiempo y del espacio alcancen finalmente el abrazo divino del Dios viviente en el Paraíso._» (<a id="a37_620"></a>[LU 1:6.2](/es/The_Urantia_Book/1#p6_2))
 
 **A — nivel humano de realidades cósmicas o dominio de los hechos.** Podemos considerar como “hecho” todo lo que existe, todo lo que sucede, todo lo que se pone en acción: las cosas, los seres, los eventos son hechos. Su análisis subjetivo por parte de la mente es materia de significados.
 
-Por eso los hechos son los pilares que hacen posible la construcción de la sabiduría ([LU 111:6.6](/es/The_Urantia_Book/111#p6_6)). Son el material básico a partir del cual la mente construye su madurez, porque, desprovistos de significado, son sólo un estado estático de existencia en el que falta la noción de crecimiento evolutivo: el mineral, la planta, el hombre, Júpiter y Mercurio son hechos. Como tales, forman parte del campo de la ciencia y pueden analizarse metódicamente. Los hechos se suceden según leyes que la curiosidad científica se obliga a descubrir y utilizar a través de la tecnología: el viento que sopla da origen a los molinos de viento.
+Por eso los hechos son los pilares que hacen posible la construcción de la sabiduría (<a id="a41_86"></a>[LU 111:6.6](/es/The_Urantia_Book/111#p6_6)). Son el material básico a partir del cual la mente construye su madurez, porque, desprovistos de significado, son sólo un estado estático de existencia en el que falta la noción de crecimiento evolutivo: el mineral, la planta, el hombre, Júpiter y Mercurio son hechos. Como tales, forman parte del campo de la ciencia y pueden analizarse metódicamente. Los hechos se suceden según leyes que la curiosidad científica se obliga a descubrir y utilizar a través de la tecnología: el viento que sopla da origen a los molinos de viento.
 
 Los hechos, sujetos o no a la apreciación de la mente, pueden, por su realidad intrínseca, expresar la perfección en el nivel que se les confiere: el diamante como la gota de agua que emerge responde a la pureza mineral teórica y al ideal de lo terrestre. mundo; de la misma manera, Dios es el ser absolutamente perfecto del mundo paradisíaco. Cada nivel de la realidad cósmica tiene su propio grado de perfección, imposible de superar pero que los ciudadanos del universo, comprometidos en la carrera ascendente, buscan alcanzar.
 
@@ -51,3 +75,28 @@ También hay valores adquiridos que no son otros que los significados espiritual
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus_fin">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús? (FIN)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-11-otoño-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 11 — Otoño 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Poeme">
+          <span class="pr-2">Poema…</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

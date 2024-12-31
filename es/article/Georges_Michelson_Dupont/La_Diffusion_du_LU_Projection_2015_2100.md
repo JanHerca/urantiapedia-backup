@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Georges Michelson-Dupont<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traducción de El libro de Urantia: situación actual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Grupo de estudio interactivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## El interés de los franceses en la difusión de las Enseñanzas del Libro de Urantia en todo el mundo.
@@ -98,7 +122,32 @@ El personal del gobierno planetario a cargo del proyecto El Libro de Urantia ant
 
 Todos estos acontecimientos muestran que existe un plan general y una organización precisa establecidos por nuestros amigos invisibles y por el gobierno planetario de los serafines para hacer evolucionar la espiritualidad de Urantia. Más concretamente y en lo que respecta al mundo francófono, la explosión demográfica en África es un gran desafío futuro y debemos prepararnos para ello. Las claves se encuentran ciertamente en el “mandato de publicación” y los cinco puntos mencionados anteriormente están en su lugar: nos corresponde a nosotros participar según nuestras posibilidades.
 
-> «CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo.» ([LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
+> «CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo.» (<a id="a124_196"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
 
 Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/La_traduction_de_TUB_Etat_Des_Lieux">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Traducción de El libro de Urantia: situación actual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-74-junio-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 74 — Junio 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Groupe_d_etude_interactif_4">
+          <span class="pr-2">Grupo de estudio interactivo</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

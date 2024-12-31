@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1996 Dominique Ronfet<br>© 1996 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/001">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="pr-2">Brújula cósmica infalible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestro héroe, cansado, acababa de regresar a casa. Por tanto, terminaba una jornada de trabajo (“ordinaria”, pensaba). Música, un baño...quizás un 'aperitivo'. Se lo merecía.
@@ -17,7 +41,7 @@ De hecho, nuestro héroe no quedó muy satisfecho con este día.
 
 Ahora que se encontraba solo, poco a poco la calma volvió a él... así como una frase sorprendente que había leído unos días antes y lo había dejado escéptico:
 
-> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» ([LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
+> «La personalidad es un nivel de realidad deificada, y se extiende desde el nivel humano e intermedio de mayor activación mental de la adoración y la sabiduría, y asciende a través de los niveles morontiales y espirituales hasta alcanzar el estado definitivo de la personalidad. Ésta es la ascensión evolutiva de la personalidad de los mortales y de otras criaturas similares, pero existen otras muchas clases de personalidades en el universo.» (<a id="a43_447"></a>[LU 0:5.1](/es/The_Urantia_Book/0#p5_1))
 
 Recordó algunos hechos de las últimas horas y se preguntó quién los había vivido así.
 
@@ -43,3 +67,28 @@ Así fue como nuestro héroe se fue a la cama con sabias resoluciones y el _sent
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/001">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano de 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-1-verano-1996">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 1 — Verano 1996</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Davier/Infaillible_compas_cosmique">
+          <span class="pr-2">Brújula cósmica infalible</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Association Francophone des Lecteurs du Livre d’Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudio sobre ángeles guardianes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Danielle_La_Scala/Rencontre_En_Italie_Veme_Congres">
+          <span class="pr-2">Reunión En Italia V Congreso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Nuestra Señora de las Luces
@@ -248,9 +272,9 @@ La asamblea nombra sustituto a Gilles Mauroy.
 
 No hay más discusiones en la agenda. La reunión finaliza a las 11:30 horas.
 
-> CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo. ([LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
+> CON Dios Padre, la gran relación que existe es la filiación. Con Dios Supremo, la realización es el requisito previo para conseguir una posición —uno tiene que hacer algo, así como ser algo. (<a id="a274_194"></a>[LU 115:0.1](/es/The_Urantia_Book/115#p0_1))
 
-> Todo el proyecto de la creación y de la evolución universales, en todos los niveles experienciales, es aparentemente una cuestión de conversión de las potencialidades en manifestaciones; y esta transmutación concierne por igual a los dominios de la potencia espacial, de la potencia mental y de la potencia espiritual. ([LU 115:2.3](/es/The_Urantia_Book/115#p2_3))
+> Todo el proyecto de la creación y de la evolución universales, en todos los niveles experienciales, es aparentemente una cuestión de conversión de las potencialidades en manifestaciones; y esta transmutación concierne por igual a los dominios de la potencia espacial, de la potencia mental y de la potencia espiritual. (<a id="a276_322"></a>[LU 115:2.3](/es/The_Urantia_Book/115#p2_3))
 
 <figure id="Figure_5" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/005.jpg">
@@ -262,3 +286,28 @@ No hay más discusiones en la agenda. La reunión finaliza a las 11:30 horas.
 
 todos se reconocerán.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/Etude_Sur_Les_Anges_Gardiens_2">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Estudio sobre ángeles guardianes</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-87-septiembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 87 — Septiembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Danielle_La_Scala/Rencontre_En_Italie_Veme_Congres">
+          <span class="pr-2">Reunión En Italia V Congreso</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

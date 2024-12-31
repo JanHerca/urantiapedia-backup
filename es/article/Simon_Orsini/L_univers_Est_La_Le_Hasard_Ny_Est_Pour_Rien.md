@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Simon Orsini<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="pr-2">¿Puede el término “tensión” iluminarnos sobre la Trinidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El mundo no surgió por un movimiento de la llamada varita mágica de la naturaleza, sino por un Creador cuyo propósito fue llevado a cabo por sus subordinados. La organización del universo es inteligente, por tanto debe tener el mismo origen.
@@ -96,7 +120,7 @@ Dios Padre de los universos, no te pide lo imposible, simplemente te pide que vi
 
 <br estilo=«claro:ambos;»/>
 
-> Aunque la creación y la organización de los universos permanece eternamente bajo el control de los Creadores infinitos y de sus asociados, todo el fenómeno se desarrolla de acuerdo con una técnica ordenada y de conformidad con las leyes gravitatorias de la fuerza, la energía y la materia. Pero hay algo misterioso asociado a la carga de fuerza universal del espacio; comprendemos plenamente la organización de las creaciones materiales desde la etapa ultimatónica en adelante, pero no comprendemos por completo la ascendencia cósmica de los ultimatones. Estamos convencidos de que estas fuerzas ancestrales tienen su origen en el Paraíso, porque giran perpetuamente en el espacio penetrado siguiendo exactamente la silueta gigantesca del Paraíso. Aunque no es sensible a la gravedad del Paraíso, esta carga de fuerza del espacio, antepasada de toda materialización, reacciona siempre a la presencia del Paraíso inferior, pues está aparentemente incorporada en un circuito dentro y fuera del centro del Paraíso inferior. ([LU 15:4.1](/es/The_Urantia_Book/15#p4_1))
+> Aunque la creación y la organización de los universos permanece eternamente bajo el control de los Creadores infinitos y de sus asociados, todo el fenómeno se desarrolla de acuerdo con una técnica ordenada y de conformidad con las leyes gravitatorias de la fuerza, la energía y la materia. Pero hay algo misterioso asociado a la carga de fuerza universal del espacio; comprendemos plenamente la organización de las creaciones materiales desde la etapa ultimatónica en adelante, pero no comprendemos por completo la ascendencia cósmica de los ultimatones. Estamos convencidos de que estas fuerzas ancestrales tienen su origen en el Paraíso, porque giran perpetuamente en el espacio penetrado siguiendo exactamente la silueta gigantesca del Paraíso. Aunque no es sensible a la gravedad del Paraíso, esta carga de fuerza del espacio, antepasada de toda materialización, reacciona siempre a la presencia del Paraíso inferior, pues está aparentemente incorporada en un circuito dentro y fuera del centro del Paraíso inferior. (<a id="a122_1024"></a>[LU 15:4.1](/es/The_Urantia_Book/15#p4_1))
 
 Voy a hablarles del átomo. Está claro que los científicos tardarán mucho en saber todo lo que se puede saber.
 
@@ -122,3 +146,28 @@ La conclusión es sencilla. Si todavía no estás convencido, nunca volverás a 
 
 Simón Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_09">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-80-dieciembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 80 — Dieciembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Patrick_Morelli/Le_Terme_Tension_Peut_Il_nous_Eclairer_sur_la_Trinite">
+          <span class="pr-2">¿Puede el término “tensión” iluminarnos sobre la Trinidad?</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

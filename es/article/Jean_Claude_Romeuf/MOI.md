@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Jean-Claude Romeuf<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">Cuando pasó</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¡Fueron necesarios millones y millones de años de evolución para obtener una criatura tan hermosa como yo! No soy perfecto, lo sé, ¡pero estoy trabajando en ello! Dado que los Portadores de Vida prometieron no interferir más con el curso de la evolución orgánica de mi planeta, yo soy responsable de mi destino. ¡A principios de siglo $XXI^º$ me parece que me estoy dando cuenta de que mi destino y el de toda la humanidad están en mis manos!
@@ -34,7 +58,7 @@ Al comienzo de la evolución, la mente mecánica sólo sirve para mantener los f
 
 Cuando un ser vivo se vuelve capaz de actuar sobre el entorno externo, en lugar de reaccionar automáticamente a los estímulos sin hacer nada más, comienza a pensar y se convierte en algo más que una máquina. “Si me pongo debajo de esta piedra”, piensa el escorpión, “el sol no me quemará”: el espíritu de la intuición es entonces capaz de establecer contacto con la mente mecánica. Yo actúo de la misma manera: las fantasías eróticas, las emociones conscientes pueden acelerar los latidos de mi corazón. Los sentimientos que experimento son obra del Ministerio Materno **espíritus mentales ayudantes**. A través de ellos tengo la oportunidad de expresar mi voluntad. ¡Como hombre, incluso soy capaz de reconocer la existencia de una fuerza mucho mayor que la mía que exalta mis emociones hasta el punto de la adoración! ¡Ahora puedo disfrutar la experiencia sabiamente!
 
-A pesar de todo lo que pueda decirse sobre ellas, las mentes mentales auxiliares son meros circuitos a través de los cuales la mente material se distribuye a las criaturas inteligentes. _¡No los adoraré, no les hablaré, no los adoraré!_ A riesgo de enfadarme con todos, declaro, como el Libro de Urantia, al [LU 36:5.16](/es/The_Urantia_Book/36#p5_16), que los cinco primeros no tener alguna repercusión en el Ser Supremo, lo que significa que para él como para mí, lo que tiene valor y beneficia tanto su crecimiento personal como el mío, es la mentalidad espiritualizada, no animal, propia del hombre como de todas las criaturas celestiales. dotado de personalidad.
+A pesar de todo lo que pueda decirse sobre ellas, las mentes mentales auxiliares son meros circuitos a través de los cuales la mente material se distribuye a las criaturas inteligentes. _¡No los adoraré, no les hablaré, no los adoraré!_ A riesgo de enfadarme con todos, declaro, como el Libro de Urantia, al <a id="a60_308"></a>[LU 36:5.16](/es/The_Urantia_Book/36#p5_16), que los cinco primeros no tener alguna repercusión en el Ser Supremo, lo que significa que para él como para mí, lo que tiene valor y beneficia tanto su crecimiento personal como el mío, es la mentalidad espiritualizada, no animal, propia del hombre como de todas las criaturas celestiales. dotado de personalidad.
 
 No sé exactamente a qué edad recibí el don de la personalidad del Padre Eterno, pero estoy seguro de que los primeros cinco ayudantes ya fluían dentro de mí. Ningún animal dotado de los cinco primeros ayudantes posee personalidad. ¡Desde mi más tierna infancia he sido algo más que un simple animal!
 
@@ -48,3 +72,28 @@ Admira y protege al mismo tiempo, al pequeño ser que soy, luchando en las incer
 
 Jean-Claude Romeuf
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Samuel_Heine/La_Foi">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Fe</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Adolfo_Guzman/Quand_il_passait">
+          <span class="pr-2">Cuando pasó</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

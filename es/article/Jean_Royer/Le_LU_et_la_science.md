@@ -9,6 +9,30 @@ dateCreated: 2024-10-19T15:5:2Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2014 Jean Royer<br>© 2014 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sabias palabras (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">El proyecto de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La versión española de **Wikipedia**, en el artículo **El Libro de Urantia** da una docena de puntos científicos que, según afirma, la ciencia ha demostrado que son falsos.
@@ -39,9 +63,34 @@ En cuanto a la refutación mediante la técnica del análisis de ADN del origen 
 
 El día en que, en lugar de buscar en África, busquemos en otra parte, tal vez las cosas cambien.
 
-Una última cosa, pero es totalmente errónea, la penúltima crítica de esta Wikipedia se refiere a Mercurio y dice que LU afirma que Mercurio siempre presenta la misma cara al sol, mientras que la ciencia desde 1965 demostró que Mercurio todavía gira lentamente. Esta leyenda surge del hecho de que los primeros lectores del libro leyeron lo que querían leer y que estaba conforme a las creencias de la época, pero una lectura atenta muestra que el LU distingue claramente la luna que presenta el lado opuesto a la Tierra. , de Mercurio que es uno de los planetas que giran cada vez más lentamente. (ver [LU 57:6.2](/es/The_Urantia_Book/57#p6_2))
+Una última cosa, pero es totalmente errónea, la penúltima crítica de esta Wikipedia se refiere a Mercurio y dice que LU afirma que Mercurio siempre presenta la misma cara al sol, mientras que la ciencia desde 1965 demostró que Mercurio todavía gira lentamente. Esta leyenda surge del hecho de que los primeros lectores del libro leyeron lo que querían leer y que estaba conforme a las creencias de la época, pero una lectura atenta muestra que el LU distingue claramente la luna que presenta el lado opuesto a la Tierra. , de Mercurio que es uno de los planetas que giran cada vez más lentamente. (ver <a id="a65_602"></a>[LU 57:6.2](/es/The_Urantia_Book/57#p6_2))
 
 A esta información falsa añadiría otra leyenda que sigue floreciendo en Internet según la cual la LU habla de 48 cromosomas cuando sabemos que el hombre tiene 46 cromosomas. Una vez más, una lectura atenta muestra que el LU en ninguna parte habla de 48 cromosomas en relación con el hombre sino de cuarenta y ocho unidades de control arquetípicas, las determinantes de las características, evitando cuidadosamente utilizar el término cromosoma que él conoce.
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Paroles_sages_Khalil_Gibran">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sabias palabras (Khalil Gibran)</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-66-primavera-2014">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 66 — Primavera 2014</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Armand_Hourtal/Le_Projet_de_Vie">
+          <span class="pr-2">El proyecto de vida</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

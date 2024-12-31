@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Mamadou Doudou Diagne<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">De la incompletitud divina a la aventura humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por
@@ -32,7 +56,7 @@ De hecho, no estoy presentando una conferencia en el sentido clásico del térmi
 
 Nuestra búsqueda significa que consideramos que el ser humano como criatura, como mortal ascendente, tiene un objetivo esencial: Dios que es un ser absoluto, eterno, infinito y perfecto. Y este ser, en lo que respecta al hombre, está representado por el Ajustador del Pensamiento. Pero el hombre se da cuenta de que Dios no es tan obvio para él como el mundo lo es para él. En efecto, ni el sentido humano, ni la mente material, ni la personalidad humana parecen estar suficientemente dotados del poder para permitir la transparencia de la realidad espiritual de Dios. Por eso el hombre en su búsqueda espiritual debe reconocer que Dios es una cuestión de conciencia, un problema a resolver, una cuestión fundamental.
 
-Conviene, por tanto, que el ser humano entable una relación sincera e íntima en una experiencia criatura-creadora, lo que presupone que Dios también quiera darse a conocer. En realidad, se trata de dos seres simétricos que se posicionan en una experiencia ontológica que hizo decir al Maestro Hijo Creador Jesús, dirigiéndose a Nicodemo, este anciano rabino del Sanedrín: “Te declaro que, a menos que nazcas del espíritu, un hombre no pueden entrar en el Reino de Dios” ([LU 142:6.5](/es/The_Urantia_Book/142#p6_5)).
+Conviene, por tanto, que el ser humano entable una relación sincera e íntima en una experiencia criatura-creadora, lo que presupone que Dios también quiera darse a conocer. En realidad, se trata de dos seres simétricos que se posicionan en una experiencia ontológica que hizo decir al Maestro Hijo Creador Jesús, dirigiéndose a Nicodemo, este anciano rabino del Sanedrín: “Te declaro que, a menos que nazcas del espíritu, un hombre no pueden entrar en el Reino de Dios” (<a id="a58_471"></a>[LU 142:6.5](/es/The_Urantia_Book/142#p6_5)).
 
 Es precisamente esta cuestión central tan conmovedora de Nicodemo la que revela otras muy importantes de las que mencionaré 6 que me parecen esenciales pero sobre las que espero vuestras enriquecedoras aportaciones.
 
@@ -76,3 +100,28 @@ Voy a concluir. Dios nos crea y nos da vida, una mente y una personalidad de ord
 
 Gracias por su atención.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_27">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-98-junio-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 98 — Junio 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Sophie_Malicot/De_L_incompletude_Divine_A_L_aventure_Humaine">
+          <span class="pr-2">De la incompletitud divina a la aventura humana</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

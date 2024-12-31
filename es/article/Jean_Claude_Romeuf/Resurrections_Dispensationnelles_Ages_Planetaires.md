@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2023 Jean Claude Romeuf<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la necesaria fertilización de nuestro pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jean Claude Romeuf — 14 de julio de 2023
@@ -49,7 +70,7 @@ Los humildes serafines destinados en el planeta se habían instalado en las grad
 
 De repente, a las tres y dos minutos, un clamor llenó el estadio. Las siete personalidades no identificadas del Paraíso manifiestan su intención de partir inmediatamente hacia Uversa. Cantos acompañados de música celestial se elevan de todos lados y su eco trasciende los límites del universo local, sede del séptimo superuniverso y llena de alegría todas las esferas del Paraíso mientras los habitantes de Havona no comprenden lo que sucede más abajo. , porque aún no han eliminado los cuerpos de gravedad oscuros que bloquean su visión.
 
-Aunque está prohibido, algunos ángeles encienden fuegos de Bengala, sin duda querubines y sanobins que son los más traviesos de los espíritus tutelares. Por supuesto, se alegran cuando uno de los mortales a los que han acompañado entra en el tercer círculo cósmico, pero en ese momento expresan un ligero sentimiento de tristeza porque ya no pueden prestarle ayuda: el papel de protección angélica queda entonces enteramente asignado al guardián seráfico personal que está más preocupado por salvaguardar el alma que por nimiedades. ([LU 113:1.7-8](/es/The_Urantia_Book/113#p1_7); tener en cuenta la palabra exclusivamente en 8)
+Aunque está prohibido, algunos ángeles encienden fuegos de Bengala, sin duda querubines y sanobins que son los más traviesos de los espíritus tutelares. Por supuesto, se alegran cuando uno de los mortales a los que han acompañado entra en el tercer círculo cósmico, pero en ese momento expresan un ligero sentimiento de tristeza porque ya no pueden prestarle ayuda: el papel de protección angélica queda entonces enteramente asignado al guardián seráfico personal que está más preocupado por salvaguardar el alma que por nimiedades. (<a id="a72_534"></a>[LU 113:1.7-8](/es/The_Urantia_Book/113#p1_7); tener en cuenta la palabra exclusivamente en 8)
 
 Ya no nos oímos hablar. Luego, la forma morontial resucitada y la personalidad de Jesús de Nazaret fueron colocadas sobre la tumba en presencia de Gabriel, su Brillante Estrella de la Mañana. Lo saludó primero y levantó los brazos como si todavía estuviera en la cruz, para pedir un poco de silencio. Luego expresó su deseo de hacer una pausa en la Tierra y en los mundos de las casas, para participar en la vida de sus criaturas ascendentes y revelar un poco más la voluntad de su Padre Paradisíaco. Por tanto, se tomará el tiempo necesario antes de despedirse.
 
@@ -104,7 +125,7 @@ Muy rápidamente, el nivel cultural y espiritual retrocedió, lo que no impidió
 
 Durante esta edad de oro del hombre primitivo, las resurrecciones periódicas se hicieron posibles así como las resurrecciones al tercer día: Onagar que enseñó el culto a un solo Dios, el Dador del Aliento, es el único personaje anterior al Príncipe Planetario que fue elegido entre los carreras de Urantia para ser uno de los 24 Concejales que desempeñan un papel en la administración del sistema local.
 
-Posteriormente, la sociedad primitiva cayó en decadencia cultural y espiritual. Durante esta primera época, sin embargo, ciertos pueblos de Foxhall en Inglaterra y las tribus de Badonan en el noroeste de la India continuaron manteniendo algunas tradiciones de Andon y algunos restos de la cultura Onagar. ([LU 64:2.4](/es/The_Urantia_Book/64#p2_4))
+Posteriormente, la sociedad primitiva cayó en decadencia cultural y espiritual. Durante esta primera época, sin embargo, ciertos pueblos de Foxhall en Inglaterra y las tribus de Badonan en el noroeste de la India continuaron manteniendo algunas tradiciones de Andon y algunos restos de la cultura Onagar. (<a id="a127_306"></a>[LU 64:2.4](/es/The_Urantia_Book/64#p2_4))
 
 Sobre todo, debemos recordar que las migraciones permiten la conservación y el desarrollo de la cultura.
 
@@ -119,3 +140,25 @@ La migración de las razas de color fue posible cuando los continentes que conoc
 Hoy en día, las luchas tienen lugar entre naciones y grupos de naciones. Las guerras sólo podrán terminar cuando los pueblos de la tierra unan sus fuerzas en un solo gobierno mundial. Esto es lo que enseña el Libro de Urantia.
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/De_La_Necessaire_Fecondation_De_Notre_Pensee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Sobre la necesaria fertilización de nuestro pensamiento</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-103-septiembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 103 — Septiembre 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

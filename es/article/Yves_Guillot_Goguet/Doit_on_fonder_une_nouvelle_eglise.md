@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2002 Yves Guillot-Goguet<br>© 2002 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una mirada a la organización general del Universo Maestro y la teoría de la totalidad por investigadores de Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 El número de junio de 2001 del “Journal de l'IUA” me agradó especialmente por la posición equilibrada y tolerante de Andrés Rodríguez “La virginidad de María”; el punto de vista está bien argumentado y evita cualquier exceso en un sentido u otro. Pero es sobre todo el artículo de Seppo Kanerva “¿Acerca de la religión deberíamos fundar una nueva iglesia? lo que me lleva a escribirte.
@@ -31,11 +55,11 @@ Podemos citar particularmente [Lucas 17, 21](/es/Bible/Luke/17#v21): “El reino
 
 Lo que me llamó la atención al leer El libro de Urantia es que, hasta donde yo sé, Jesús no usó el término «iglesia»; por otro lado, el reino regresa en casi cada uno de sus discursos.
 
-Para mí, uno de los que mejor describe lo que es el reino es durante su discurso en la sinagoga de Cafarnaúm al inicio mismo de su ministerio ([LU 137:8.13](/es/The_Urantia_Book/137#p8_13)).
+Para mí, uno de los que mejor describe lo que es el reino es durante su discurso en la sinagoga de Cafarnaúm al inicio mismo de su ministerio (<a id="a57_143"></a>[LU 137:8.13](/es/The_Urantia_Book/137#p8_13)).
 
 Es indiscutible que el reino tiene un solo significado y es espiritual:
 
-> ««No os dejéis engañar por aquellos que vienen diciendo: el reino está aquí o el reino está allá, porque el reino de mi Padre no tiene nada que ver con las cosas visibles y materiales. Este reino ya se encuentra ahora entre vosotros, porque allí donde el espíritu de Dios enseña y dirige el alma del hombre, allí está en realidad el reino de los cielos. Y este reino de Dios es rectitud, paz y alegría en el Espíritu Santo»{32}.» ([LU 137:8.9](/es/The_Urantia_Book/137#p8_9))
+> ««No os dejéis engañar por aquellos que vienen diciendo: el reino está aquí o el reino está allá, porque el reino de mi Padre no tiene nada que ver con las cosas visibles y materiales. Este reino ya se encuentra ahora entre vosotros, porque allí donde el espíritu de Dios enseña y dirige el alma del hombre, allí está en realidad el reino de los cielos. Y este reino de Dios es rectitud, paz y alegría en el Espíritu Santo»{32}.» (<a id="a61_433"></a>[LU 137:8.9](/es/The_Urantia_Book/137#p8_9))
 
 No parece en absoluto que Jesús quisiera crear una Iglesia, al igual que las religiones establecidas ya existentes.
 
@@ -47,7 +71,7 @@ La estancia en Roma es bastante significativa:
 
 Nunca abordó sus errores y ni siquiera mencionó los defectos de sus enseñanzas.
 
-En cada caso, seleccionó la porción de verdad en sus lecciones, y luego se comprometió a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo, esta mejora de la verdad efectivamente ahuyentó el error anterior. » ([LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
+En cada caso, seleccionó la porción de verdad en sus lecciones, y luego se comprometió a embellecer e iluminar esta verdad en sus mentes de tal manera que en muy poco tiempo, esta mejora de la verdad efectivamente ahuyentó el error anterior. » (<a id="a73_245"></a>[LU 132:0.4](/es/The_Urantia_Book/132#p0_4))
 
 Me parece que lo que era válido hace dos mil años lo es también hoy.
 
@@ -57,7 +81,7 @@ Existe una gran cantidad de religiones cristianas o cercanas al cristianismo; Ta
 
 El aspecto más importante que se puede extraer de las enseñanzas de Jesús es que la religión debe ir más allá del lado dogmático para insertarse profundamente en la realidad cotidiana de la vida:
 
-> «Algún día, una reforma en la iglesia cristiana podría causar un impacto lo suficientemente profundo como para regresar a las enseñanzas religiosas puras de Jesús, el autor y consumador de nuestra fe{15}. Podéis *predicar* una religión *acerca de* Jesús, pero la religión *de* Jesús, forzosamente, tenéis que *vivirla*. En el entusiasmo de Pentecostés, Pedro inauguró involuntariamente una nueva religión, la religión del Cristo resucitado y glorificado. El apóstol Pablo transformó más tarde este nuevo evangelio en el cristianismo{16}, una religión que incluye sus propias opiniones teológicas y describe su propia *experiencia personal* con el Jesús del camino de Damasco. El evangelio del reino está fundado en la experiencia religiosa personal de Jesús de Galilea; el cristianismo está fundado casi exclusivamente en la experiencia religiosa personal del apóstol Pablo. Casi todo el Nuevo Testamento está dedicado, no a describir la vida religiosa significativa e inspiradora de Jesús, sino a examinar la experiencia religiosa de Pablo y a describir sus convicciones religiosas personales. Las únicas excepciones notables a esta afirmación son el Libro de los Hebreos y la Epístola de Santiago, además de algunos fragmentos de Mateo, Marcos y Lucas. El mismo Pedro sólo volvió una vez, en sus escritos{17}, a la vida religiosa personal de su Maestro. El Nuevo Testamento es un magnífico documento cristiano, pero sólo refleja pobremente la religión de Jesús.» ([LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
+> «Algún día, una reforma en la iglesia cristiana podría causar un impacto lo suficientemente profundo como para regresar a las enseñanzas religiosas puras de Jesús, el autor y consumador de nuestra fe{15}. Podéis *predicar* una religión *acerca de* Jesús, pero la religión *de* Jesús, forzosamente, tenéis que *vivirla*. En el entusiasmo de Pentecostés, Pedro inauguró involuntariamente una nueva religión, la religión del Cristo resucitado y glorificado. El apóstol Pablo transformó más tarde este nuevo evangelio en el cristianismo{16}, una religión que incluye sus propias opiniones teológicas y describe su propia *experiencia personal* con el Jesús del camino de Damasco. El evangelio del reino está fundado en la experiencia religiosa personal de Jesús de Galilea; el cristianismo está fundado casi exclusivamente en la experiencia religiosa personal del apóstol Pablo. Casi todo el Nuevo Testamento está dedicado, no a describir la vida religiosa significativa e inspiradora de Jesús, sino a examinar la experiencia religiosa de Pablo y a describir sus convicciones religiosas personales. Las únicas excepciones notables a esta afirmación son el Libro de los Hebreos y la Epístola de Santiago, además de algunos fragmentos de Mateo, Marcos y Lucas. El mismo Pedro sólo volvió una vez, en sus escritos{17}, a la vida religiosa personal de su Maestro. El Nuevo Testamento es un magnífico documento cristiano, pero sólo refleja pobremente la religión de Jesús.» (<a id="a83_1468"></a>[LU 196:2.1](/es/The_Urantia_Book/196#p2_1))
 
 También me gustaron mucho ciertos pasajes de obras de gran significado espiritual que muestran que la religión hay que vivirla ante todo:
 
@@ -100,5 +124,30 @@ que si busca imponerse mediante la aparición de un nuevo movimiento espiritual;
 
 Yves Guillot-Goguet
 
-> _La conciencia intelectual puede descubrir la belleza de la verdad, su calidad espiritual, no sólo por la coherencia filosófica de sus conceptos, sino con más certeza y seguridad por la respuesta infalible del Espíritu de la Verdad siempre presente. La felicidad es el resultado del reconocimiento de la verdad porque ésta puede *exteriorizarse;* puede vivirse. La decepción y la tristeza acompañan al error porque, como éste no es una realidad, no se puede llevar a cabo en la experiencia. La verdad divina se conoce mejor por su *sabor espiritual*{65}._ ([LU 2:7.6](/es/The_Urantia_Book/2#p7_6))
+> _La conciencia intelectual puede descubrir la belleza de la verdad, su calidad espiritual, no sólo por la coherencia filosófica de sus conceptos, sino con más certeza y seguridad por la respuesta infalible del Espíritu de la Verdad siempre presente. La felicidad es el resultado del reconocimiento de la verdad porque ésta puede *exteriorizarse;* puede vivirse. La decepción y la tristeza acompañan al error porque, como éste no es una realidad, no se puede llevar a cabo en la experiencia. La verdad divina se conoce mejor por su *sabor espiritual*{65}._ (<a id="a126_559"></a>[LU 2:7.6](/es/The_Urantia_Book/2#p7_6))
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una mirada a la organización general del Universo Maestro y la teoría de la totalidad por investigadores de Uversa</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-21-primavera-2002">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 21 — Primavera 2002</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Maia_Neveu/Rotation">
+          <span class="pr-2">Rotación</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

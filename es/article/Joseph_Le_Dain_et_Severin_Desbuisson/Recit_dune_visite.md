@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2003 Joseph Le Dain y Séverin Desbuisson<br>© 2003 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Despertar repentino (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Hace unas semanas recibimos malas noticias: Jacques estaba muy enfermo. Muchas veces, al acercarnos a la partida definitiva de un ser querido, sentimos remordimiento por no haberlo visitado, por no haber confraternizado suficientemente con él, por no haber hecho todo lo que debíamos haber hecho, en definitiva, por no haber hecho lo que Jesús hubiera hecho. ...
@@ -87,7 +111,32 @@ Alrededor de las 17:30 terminó una discusión de tres horas. Luego Jacques nos 
 
 _De este intercambio sólo conservamos las experiencias y anécdotas propias del tema espiritual. La vida de Jacques es evidentemente mucho más rica e incluye ámbitos personales, familiares y profesionales. Como palabra final quisiéramos desearle “buen viaje” en la aventura que le espera y citar el Libro de Urantia, precisando que ilustra perfectamente a nuestros ojos, a través de su valentía y perseverancia, las siguientes palabras:_
 
-> ««En este día, hijo mío, has de nacer de nuevo, restablecido como un hombre de fe, de valor y de servicio consagrado a los hombres por amor a Dios. Cuando te hayas reajustado así a la vida, dentro de ti mismo, también te habrás reajustado con el universo; habrás nacido de nuevo —nacido del espíritu— y en adelante toda tu vida será una consecución victoriosa. Los problemas te fortificarán, las decepciones te espolearán, las dificultades serán un desafío y los obstáculos, un estímulo. ¡Levántate, joven!. Di adiós a la vida de temores serviles y de huidas cobardes. Regresa rápidamente a tu deber y vive tu vida en la carne como un hijo de Dios, como un mortal dedicado al servicio ennoblecedor del hombre en la Tierra, y destinado al magnífico y perpetuo servicio de Dios en la eternidad».» ([LU 130:6.4](/es/The_Urantia_Book/130#p6_4))
+> ««En este día, hijo mío, has de nacer de nuevo, restablecido como un hombre de fe, de valor y de servicio consagrado a los hombres por amor a Dios. Cuando te hayas reajustado así a la vida, dentro de ti mismo, también te habrás reajustado con el universo; habrás nacido de nuevo —nacido del espíritu— y en adelante toda tu vida será una consecución victoriosa. Los problemas te fortificarán, las decepciones te espolearán, las dificultades serán un desafío y los obstáculos, un estímulo. ¡Levántate, joven!. Di adiós a la vida de temores serviles y de huidas cobardes. Regresa rápidamente a tu deber y vive tu vida en la carne como un hijo de Dios, como un mortal dedicado al servicio ennoblecedor del hombre en la Tierra, y destinado al magnífico y perpetuo servicio de Dios en la eternidad».» (<a id="a113_798"></a>[LU 130:6.4](/es/The_Urantia_Book/130#p6_4))
 
 Joseph Le Dain y Séverin Desbuisson
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Ignorance">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ignorancia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-25-primavera-2003">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 25 — Primavera 2003</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Reveil_soudain_2">
+          <span class="pr-2">Despertar repentino (segunda parte)</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

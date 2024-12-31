@@ -9,6 +9,30 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2021 Michelle Heulot<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vida en espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="pr-2">Dios, el tiempo, el universo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 michelle heulot
@@ -39,7 +63,7 @@ Poco a poco me liberé de limitaciones materiales, espirituales e intelectuales 
 
 Poco a poco entendí que El Libro de Urantia amplía y aclara las muchas enseñanzas y conceptos de la Biblia difíciles de entender; que los aparentes conflictos entre la Biblia y las ciencias surgen de diversas doctrinas e interpretaciones teológicas. Tomé conciencia de la preciosa contribución de la Biblia al progresivo despertar de la humanidad, para que pueda acoger y apreciar las revelaciones ofrecidas por personalidades espirituales. Y sobre todo recibí la conclusión del libro como una lección de humildad al darme cuenta de que el cristianismo, las religiones y las sectas combinadas, han luchado y todavía luchan para dar a conocer el mensaje de Cristo lo mejor que pueden. ¡Cuál fue mi alegría al saber que las verdades del evangelio persistirán gloriosamente gracias a nuevos educadores que se atreverán a depender únicamente de Jesús y sus incomparables enseñanzas para dedicarse a la regeneración espiritual de la humanidad!
 
-Desde hace cinco años que camino por este camino de experiencias dedicadas a hacer la voluntad de Dios de todo corazón, me acompaña cada día una nueva conciencia de fortaleza y alegría espiritual, una fe viva y creciente, en un mundo benevolente y espiritual, que es un lugar acogedor. respuesta a mi exigente y sincera búsqueda de Dios! y descubrí buscando y encontrando mis propias verdades, alimentando mi relación personal con el Espíritu de Dios, “_una paz dinámica y sublime, esta paz que sobrepasa todo entendimiento humano, este equilibrio cósmico que denota la ausencia de toda duda y de toda agitación. ._» [LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
+Desde hace cinco años que camino por este camino de experiencias dedicadas a hacer la voluntad de Dios de todo corazón, me acompaña cada día una nueva conciencia de fortaleza y alegría espiritual, una fe viva y creciente, en un mundo benevolente y espiritual, que es un lugar acogedor. respuesta a mi exigente y sincera búsqueda de Dios! y descubrí buscando y encontrando mis propias verdades, alimentando mi relación personal con el Espíritu de Dios, “_una paz dinámica y sublime, esta paz que sobrepasa todo entendimiento humano, este equilibrio cósmico que denota la ausencia de toda duda y de toda agitación. ._» <a id="a65_617"></a>[LU 100:6.6](/es/The_Urantia_Book/100#p6_6)
 
 Esta fuerza, esta paz, este equilibrio, los aprecio y los comparto con peregrinos que buscan la verdad como yo, impartiendo cursos en el marco de la ubis, participando en encuentros y debates espirituales, visitando a personas mayores y aisladas. sirviendo y amando!
 
@@ -49,5 +73,30 @@ Esta confianza y seguridad en las realidades eternas y universales alimenta cons
 
 Un vuelo hacia la libertad espiritual y un compromiso total con el amor universal sin fronteras ni prejuicios, esto es lo que significa para mí el Libro de Urantia, con este mandato de nuestro Maestro Cristo Jesús impreso en mi alma:
 
-“Dedica tu vida a demostrar que el amor es lo más grande del mundo”. [LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
+“Dedica tu vida a demostrar que el amor es lo más grande del mundo”. <a id="a75_69"></a>[LU 192:2.1](/es/The_Urantia_Book/192#p2_1)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Andre_Desjardins/La_Vie_En_Esprit">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Vida en espíritu</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-95-septiembre-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 95 — Septiembre 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Dieu_Le_Temps_L_univers">
+          <span class="pr-2">Dios, el tiempo, el universo.</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

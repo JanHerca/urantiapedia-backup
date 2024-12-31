@@ -1,5 +1,5 @@
 ---
-title: "mi vida en el paraiso"
+title: "Mi vida en el paraiso"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Elisabeth Liswen Delval<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cerrado nuevamente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">CV de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Queridos urantianos, después de nuestro encuentro en Chalès, quería llamar vuestra atención sobre un bonito libro “Mi vida en el paraíso” que relata los testimonios de Mons. Robert Hugh Benson, arzobispo de Canterbury, fallecido en 1914, que dictó en espíritu a Antonio Borgia. , medio, los primeros días y las primeras impresiones de su llegada a la otra vida.
@@ -19,7 +43,7 @@ Para aquellos que se hacen preguntas un poco más sensatas, si se me permite dec
 
 Comenzaremos la historia a su llegada allí arriba.
 
-“Tan pronto como pude mirar a mi alrededor y apreciar mi nuevo estado, se me unió uno de mis antiguos colegas, un sacerdote que había muerto unos años antes” [LU 47:3.6](/es/The_Urantia_Book/47#p3_6)
+“Tan pronto como pude mirar a mi alrededor y apreciar mi nuevo estado, se me unió uno de mis antiguos colegas, un sacerdote que había muerto unos años antes” <a id="a45_158"></a>[LU 47:3.6](/es/The_Urantia_Book/47#p3_6)
 
 Tenéis tiempo para satisfacer vuestro deseo de consultar el libro de registro y de visitar a vuestros seres queridos y a otros amigos terrenales que os han precedido en este mundo.
 
@@ -53,7 +77,7 @@ La vista era sencillamente magnífica. Nunca hubiera esperado contemplar un mar 
 
 “Los edificios magníficos ofrecen la imagen de permanencia eterna. Los materiales con los que están construidos son imperecederos. Las superficies están tan limpias y frescas como el primer día. Nada los contamina. Los materiales con los que están construidos son los del mundo espiritual, por lo que su belleza es divina. 
 
-[LU 48:1.3](/es/The_Urantia_Book/48#p1_3) Los Maestros Controladores Físicos y los Supervisores del Poder Morontial pueden modificar la rotación de unidades primarias de materia y al mismo tiempo transformar estas asociaciones de energía de tal manera que se cree esta nueva sustancia.
+<a id="a79_0"></a>[LU 48:1.3](/es/The_Urantia_Book/48#p1_3) Los Maestros Controladores Físicos y los Supervisores del Poder Morontial pueden modificar la rotación de unidades primarias de materia y al mismo tiempo transformar estas asociaciones de energía de tal manera que se cree esta nueva sustancia.
 
 “Una casa de reposo: servía a aquellos que habían llegado al mundo espiritual después de una larga enfermedad, o que habían muerto de muerte violenta... Inmediatamente encima del edificio, una gran cúpula de luz azul lo envolvía en su influencia. Era un fluido revitalizante, un gran resplandor sanador enviado a aquellos que aún no habían despertado espiritualmente. »
 
@@ -75,3 +99,28 @@ Antonio Borgia: MI VIDA EN EL PARAÍSO publicado por Editions de Roseau/o Editio
 
 Elisabeth Liswen Delval
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Recloses">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Cerrado nuevamente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-52-otoño-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 52 — Otoño 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Louis_Fournier/Le_CV_de_Dieu">
+          <span class="pr-2">CV de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

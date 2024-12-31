@@ -1,5 +1,5 @@
 ---
-title: "tradición perdida"
+title: "Tradición perdida"
 description: 
 published: true
 date: 2024-11-7T14:46:54Z
@@ -9,6 +9,30 @@ dateCreated: 2024-11-7T14:46:54Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2024 Dominique Ronfet<br>© 2024 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Detrás del “YO SOY” ¿qué hay?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="pr-2">YO SOY y el Principio de Causalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Dominique Ronfet
@@ -25,7 +49,7 @@ El Libro de Urantia nos enfatiza que el camino no está en el miedo al pasado, n
 
 Sino más bien ser lo más justos y precisos posible en nuestro presente, imbuidos de un sentimiento de absoluta confianza, a pesar de un estado muy real de incertidumbre mental y temporal.
 
-> La incertidumbre en la seguridad{4} es la esencia de la aventura hacia el Paraíso —incertidumbre en el tiempo y en la mente, incertidumbre en cuanto a los acontecimientos del desarrollo de la ascensión hacia el Paraíso; seguridad en espíritu y en la eternidad, seguridad en la confianza sin reserva del hijo creado en la compasión divina y en el amor infinito del Padre Universal; incertidumbre como ciudadano inexperto del universo; seguridad como hijo ascendente en las mansiones universales de un Padre infinitamente poderoso, sabio y amoroso. ([LU 111:7.1](/es/The_Urantia_Book/111#p7_1))
+> La incertidumbre en la seguridad{4} es la esencia de la aventura hacia el Paraíso —incertidumbre en el tiempo y en la mente, incertidumbre en cuanto a los acontecimientos del desarrollo de la ascensión hacia el Paraíso; seguridad en espíritu y en la eternidad, seguridad en la confianza sin reserva del hijo creado en la compasión divina y en el amor infinito del Padre Universal; incertidumbre como ciudadano inexperto del universo; seguridad como hijo ascendente en las mansiones universales de un Padre infinitamente poderoso, sabio y amoroso. (<a id="a51_550"></a>[LU 111:7.1](/es/The_Urantia_Book/111#p7_1))
 
 <figure id="Figure_3" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/168.jpg">
@@ -79,7 +103,7 @@ Aquellos que han estudiado los métodos de condicionamiento y adoctrinamiento, y
 
 Derviches de comunicación
 
-> La llegada del Espíritu de la Verdad en Pentecostés hizo posible una religión que no es ni radical ni conservadora; no es ni antigua ni nueva; no debe estar dominada ni por los viejos ni por los jóvenes. El hecho de la vida terrenal de Jesús proporciona un punto fijo para el ancla del tiempo, mientras que la donación del Espíritu de la Verdad asegura la expansión perpetua y el crecimiento sin fin de la religión que Jesús vivió y del evangelio que proclamó. El espíritu conduce a *toda* la verdad; enseña la expansión y el constante crecimiento de una religión de progreso sin fin y de descubrimiento divino. Este nuevo instructor estará revelando siempre al creyente que busca la verdad aquello que estaba tan divinamente contenido en la persona y en la naturaleza del Hijo del Hombre. ([LU 194:3.8](/es/The_Urantia_Book/194#p3_8))
+> La llegada del Espíritu de la Verdad en Pentecostés hizo posible una religión que no es ni radical ni conservadora; no es ni antigua ni nueva; no debe estar dominada ni por los viejos ni por los jóvenes. El hecho de la vida terrenal de Jesús proporciona un punto fijo para el ancla del tiempo, mientras que la donación del Espíritu de la Verdad asegura la expansión perpetua y el crecimiento sin fin de la religión que Jesús vivió y del evangelio que proclamó. El espíritu conduce a *toda* la verdad; enseña la expansión y el constante crecimiento de una religión de progreso sin fin y de descubrimiento divino. Este nuevo instructor estará revelando siempre al creyente que busca la verdad aquello que estaba tan divinamente contenido en la persona y en la naturaleza del Hijo del Hombre. (<a id="a105_793"></a>[LU 194:3.8](/es/The_Urantia_Book/194#p3_8))
 
 ## sufismo
 
@@ -89,3 +113,28 @@ El sufismo nunca se practica solo: quien aspira a él, el mourid, debe ser atend
 
 Los sufíes creen que el nombre de Mahoma es santo y sagrado. La devoción a Mahoma es la práctica más fuerte del sufismo. Los sufíes siempre han reverenciado a Mahoma como la principal personalidad de grandeza espiritual.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Gallo/Derriere_le_JE_SUIS_qu_est_Ce_Qu_il_y_a">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Detrás del “YO SOY” ¿qué hay?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-107-septiembre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 107 — Septiembre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/JE_SUIS_et_le_Principe_de_causalite">
+          <span class="pr-2">YO SOY y el Principio de Causalidad</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2006 Jean Royer<br>© 2006 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Double_nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naturaleza dual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/La_Foi">
+          <span class="pr-2">Fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ¿Por qué apareció el Libro de Urantia en 1934 y quizás también apareció en Chicago? Una posible respuesta se encuentra en los siguientes hechos.
@@ -35,13 +59,38 @@ Otro ejemplo dado por Steven Lewis: nuestro nombre no indica nuestras diferentes
 
 El Libro de Urantia recuerda a menudo el principio del razonamiento por niveles. La palabra nivel en singular o niveles en plural se utiliza más de 800 veces en el libro. Aquí sólo citaremos tres.
 
-> _La Deidad desempeña sus funciones en los niveles personales, prepersonales y superpersonales. La Deidad Total está actuando en los siete niveles siguientes:_ ([LU 0:1.3](/es/The_Urantia_Book/0#p1_3))
+> _La Deidad desempeña sus funciones en los niveles personales, prepersonales y superpersonales. La Deidad Total está actuando en los siete niveles siguientes:_ (<a id="a61_162"></a>[LU 0:1.3](/es/The_Urantia_Book/0#p1_3))
 
-> _La conciencia cósmica implica el reconocimiento de una Causa Primera, la sola y única realidad sin causa. Dios, el Padre Universal, actúa en tres niveles de personalidad de la Deidad, que tienen un valor subinfinito y expresan de manera relativa la divinidad:_ ([LU 0:2.2](/es/The_Urantia_Book/0#p2_2))
+> _La conciencia cósmica implica el reconocimiento de una Causa Primera, la sola y única realidad sin causa. Dios, el Padre Universal, actúa en tres niveles de personalidad de la Deidad, que tienen un valor subinfinito y expresan de manera relativa la divinidad:_ (<a id="a63_265"></a>[LU 0:2.2](/es/The_Urantia_Book/0#p2_2))
 
-> _DIOS es un símbolo verbal con el que se designan todas las personalizaciones de la Deidad. Este vocablo necesita una definición diferente en cada nivel personal donde actúa la Deidad, y debe ser redefinido posteriormente dentro de cada uno de dichos niveles, porque esta palabra se puede utilizar para designar las diversas personalizaciones coordinadas y subordinadas de la Deidad, como por ejemplo los Hijos Creadores Paradisiacos —los padres de los universos locales._ ([LU 0:2.6](/es/The_Urantia_Book/0#p2_6))
+> _DIOS es un símbolo verbal con el que se designan todas las personalizaciones de la Deidad. Este vocablo necesita una definición diferente en cada nivel personal donde actúa la Deidad, y debe ser redefinido posteriormente dentro de cada uno de dichos niveles, porque esta palabra se puede utilizar para designar las diversas personalizaciones coordinadas y subordinadas de la Deidad, como por ejemplo los Hijos Creadores Paradisiacos —los padres de los universos locales._ (<a id="a65_476"></a>[LU 0:2.6](/es/The_Urantia_Book/0#p2_6))
 
 Sería necesario un estudio serio de «Salud mental y psíquica» de Korzybski (1933) para darse cuenta de que la evolución de las mentalidades, al menos entre los investigadores del siglo XX, era una condición sine qua non para la publicación del libro. Quizás esto también explique en parte por qué tuvimos que esperar hasta ese momento para recibir una revelación recomendada desde hace varios siglos por nuestros amigos invisibles.
 
 Jean-Royer
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Royer/Double_nature">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Naturaleza dual</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-37-otoño-2006">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 37 — Otoño 2006</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Samuel_Heine/La_Foi">
+          <span class="pr-2">Fe</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

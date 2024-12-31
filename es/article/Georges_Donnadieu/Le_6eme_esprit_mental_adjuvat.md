@@ -9,11 +9,35 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2010 Georges Donnadieu<br>© 2010 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Octavie_Jung/Poesie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poesía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/BD_humoristique">
+          <span class="pr-2">Cómics humorísticos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La adoración es el impulso religioso que produce satisfacción en la adoración, siempre de acuerdo con nuestro propio curso de acción, dirigido por (1) nuestra intuición, asociado con (2) nuestro entendimiento, apoyado por (3) nuestro coraje, aprobado por (4) nuestro conocimiento. , orientado (5) en el consejo, a llegar a un estado de adoración satisfaciendo las necesidades de la intuición.
 
-Ejemplo #20 de “Morontielle Mota” es: “Sólo un poeta puede discernir la poesía en la vida cotidiana” ([LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
+Ejemplo #20 de “Morontielle Mota” es: “Sólo un poeta puede discernir la poesía en la vida cotidiana” (<a id="a39_102"></a>[LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
 
 Ilustraré este aforismo con dos poemas de adoración de dos poetas del siglo XIX, nacidos en dos continentes ribereños del Atlántico. Ambos poemas se dirigen al Creador de nuestro universo local de Nebadón y a las huestes celestiales, incluso en nuestro sistema local y en nuestro planeta Urantia.
 
@@ -78,3 +102,28 @@ Te amo y no quiero nada más,
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Octavie_Jung/Poesie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Poesía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-53-invierno-2010">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 53 — Invierno 2010</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/BD_humoristique">
+          <span class="pr-2">Cómics humorísticos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1999 Anne-Marie Ronfet<br>© 1999 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">Trinitización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _El siguiente artículo está inspirado en la lectura del “Centro del Ser” de K. G. DURCKHEIM [^1], un psicoterapeuta alemán que vivió mucho tiempo en Japón. Discípulo de Jung, intentó conciliar la espiritualidad occidental y oriental y sólo trató a personas con problemas psicológicos debido a una búsqueda espiritual. De hecho, estaba interesado en lo que es común a todas las religiones: un método para ayudar al hombre a acceder a la “Trascendencia”._
@@ -43,7 +67,7 @@ _“En todo lo que vive encontrarás:_
 2. _la ley que se manifiesta en todo lo que vive en un impulso hacia su realización, su forma. Este es el orden del devenir._
 3. _cada ser vivo demuestra una unidad con lo que va más allá de él. Todo lo que vive vive en un todo que lo engloba. » Durckheim_
 
-> «La criatura personal dotada de la mente cósmica y habitada por un Ajustador posee la capacidad innata de reconocer y comprender la realidad de la energía, la realidad de la mente y la realidad del espíritu. La criatura volitiva está equipada así para discernir el hecho de Dios, la ley de Dios y el amor de Dios. Aparte de estos tres elementos inalienables de la conciencia humana, toda experiencia humana es realmente subjetiva, excepto esta comprensión intuitiva de lo que es válido vinculada a la *unificación* de estas tres respuestas del reconocimiento cósmico a la realidad universal.» ([LU 16:9.1](/es/The_Urantia_Book/16#p9_1))
+> «La criatura personal dotada de la mente cósmica y habitada por un Ajustador posee la capacidad innata de reconocer y comprender la realidad de la energía, la realidad de la mente y la realidad del espíritu. La criatura volitiva está equipada así para discernir el hecho de Dios, la ley de Dios y el amor de Dios. Aparte de estos tres elementos inalienables de la conciencia humana, toda experiencia humana es realmente subjetiva, excepto esta comprensión intuitiva de lo que es válido vinculada a la *unificación* de estas tres respuestas del reconocimiento cósmico a la realidad universal.» (<a id="a69_596"></a>[LU 16:9.1](/es/The_Urantia_Book/16#p9_1))
 
 _Para terminar :_
 
@@ -51,3 +75,28 @@ Dürckheim: “Una objeción común es que la Trascendencia es externa al hombre
 
 Anne-Marie Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Qui_etait_Jesus">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Quién era Jesús?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-9-primavera-1999">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 9 — Primavera 1999</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Nicole_Ragetly/La_trinitisation">
+          <span class="pr-2">Trinitización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

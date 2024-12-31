@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual de la AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="pr-2">Asamblea de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _con la participación de lectores francófonos_
@@ -30,7 +54,7 @@ El Congreso está abierto a cualquier lector o partidario de El Libro de Urantia
 
 ## El tema será: la voluntad del Padre
 
-([LU 108:2.10](/es/The_Urantia_Book/108#p2_10) — [LU 11:5.4](/es/The_Urantia_Book/11#p5_4) — [LU 141:2.2](/es/The_Urantia_Book/141#p2_2) — [LU 153:3.2](/es/The_Urantia_Book/153#p3_2) — [LU 110](/es/The_Urantia_Book/110#) — [LU 111](/es/The_Urantia_Book/111#).)
+(<a id="a56_1"></a>[LU 108:2.10](/es/The_Urantia_Book/108#p2_10) — <a id="a56_49"></a>[LU 11:5.4](/es/The_Urantia_Book/11#p5_4) — <a id="a56_93"></a>[LU 141:2.2](/es/The_Urantia_Book/141#p2_2) — <a id="a56_139"></a>[LU 153:3.2](/es/The_Urantia_Book/153#p3_2) — [LU 110](/es/The_Urantia_Book/110#) — [LU 111](/es/The_Urantia_Book/111#).)
 
 Nos reuniremos en Rimini, una encantadora ciudad italiana, que se describe a continuación.
 
@@ -78,3 +102,28 @@ Durante el Renacimiento, la ciudad pasó a ser dominio de los príncipes de Mala
 
 Este pequeño pueblo ofrece muchas oportunidades tanto para el turismo como para el descanso.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_annuelle_de_l_AFLLU">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Reunión anual de la AFLLU</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-79-septiembre-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 79 — Septiembre 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Assemblee_de_Dieu">
+          <span class="pr-2">Asamblea de Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

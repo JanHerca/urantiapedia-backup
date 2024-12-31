@@ -9,9 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Simon Orsini<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alguna información sobre la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> _A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos; los preceptos, e incluso el ejemplo, no les influye de manera duradera. Las personas leales son personas que crecen, y el crecimiento es una realidad que impresiona e inspira. Vivid lealmente hoy —creced— y mañana será otro día. La manera más rápida que tiene un renacuajo de convertirse en una rana consiste en vivir lealmente cada instante como un renacuajo._ ([LU 100:1.4](/es/The_Urantia_Book/100#p1_4))
+
+> _A los niños sólo les impresiona de manera permanente la lealtad de sus compañeros adultos; los preceptos, e incluso el ejemplo, no les influye de manera duradera. Las personas leales son personas que crecen, y el crecimiento es una realidad que impresiona e inspira. Vivid lealmente hoy —creced— y mañana será otro día. La manera más rápida que tiene un renacuajo de convertirse en una rana consiste en vivir lealmente cada instante como un renacuajo._ (<a id="a34_457"></a>[LU 100:1.4](/es/The_Urantia_Book/100#p1_4))
 
 El _Libro de Urantia_ nos da con este ejemplo, la manera de vivir la vida en una experiencia personal, que debe crecer, en proporción a la creciente búsqueda de valores finales.
 
@@ -35,7 +56,7 @@ Es único en el tiempo, en el espacio, en la Eternidad.
 
 No puede haber copia de la personalidad. Ella es una súper yo. Permite al hombre coordinar sus ideas en su pensamiento dentro de un marco universal.
 
-> _En la madurez del yo en desarrollo, el pasado y el futuro se reúnen para iluminar el verdadero significado del presente. A medida que el yo madura, se aleja cada vez más en el pasado en busca de experiencia, mientras que sus previsiones de sabiduría tratan de penetrar cada vez más profundamente en el futuro desconocido. Y a medida que el yo que concibe extiende su alcance cada vez más lejos tanto en el pasado como en el futuro, su juicio depende cada vez menos del presente pasajero. Las acciones y decisiones empiezan de esta manera a liberarse de las trabas del presente en movimiento, mientras que se comienza a aceptar los aspectos de importancia pasado-futura._ ([LU 118:1.5](/es/The_Urantia_Book/118#p1_5))
+> _En la madurez del yo en desarrollo, el pasado y el futuro se reúnen para iluminar el verdadero significado del presente. A medida que el yo madura, se aleja cada vez más en el pasado en busca de experiencia, mientras que sus previsiones de sabiduría tratan de penetrar cada vez más profundamente en el futuro desconocido. Y a medida que el yo que concibe extiende su alcance cada vez más lejos tanto en el pasado como en el futuro, su juicio depende cada vez menos del presente pasajero. Las acciones y decisiones empiezan de esta manera a liberarse de las trabas del presente en movimiento, mientras que se comienza a aceptar los aspectos de importancia pasado-futura._ (<a id="a58_675"></a>[LU 118:1.5](/es/The_Urantia_Book/118#p1_5))
 
 El pensamiento está enteramente sujeto a la voluntad, pero puede correr peligro cuando no se respetan las reglas, los valores.
 
@@ -61,3 +82,25 @@ Al observar las incesantes luchas de las criaturas por alcanzar la perfección, 
 
 **Simón Orsini**
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Alguna información sobre la Fundación Urantia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

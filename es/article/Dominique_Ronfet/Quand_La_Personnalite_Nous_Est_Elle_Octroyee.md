@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Dominique Ronfet<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo se nos concede la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="pr-2">Alguna información sobre la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Hechos, significados... ¿y qué?
@@ -95,9 +119,34 @@ No siempre somos bailarines brillantes.
 
 —Está bien, ve a Leonington.
 
-\*[LU 196:3.2](/es/The_Urantia_Book/196#p3_2)
+\*<a id="a121_2"></a>[LU 196:3.2](/es/The_Urantia_Book/196#p3_2)
 
-\*\* [LU 111:2.4](/es/The_Urantia_Book/111#p2_4)
+\*\* <a id="a123_5"></a>[LU 111:2.4](/es/The_Urantia_Book/111#p2_4)
 
 dominical
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Claude_Flibotte/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo se nos concede la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Quelques_informations_sur_la_Fondation_Urantia">
+          <span class="pr-2">Alguna información sobre la Fundación Urantia</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2009 Chris Ragetly<br>© 2009 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado: el extraterrestre Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">El osteoclasto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (siguiente)
@@ -33,7 +57,7 @@ Ya sea a nivel material, intelectual o espiritual, podemos discernir en todo una
 
 21\. ***La alta misión de un arte es prefigurar a través de sus ilusiones una realidad superior del universo, cristalizar las emociones del tiempo en un pensamiento de la eternidad.***
 
-Las artes tal como las entendemos, es decir la música, la literatura, la pintura, la escultura, la danza, etc. despierta nuestras emociones en mayor o menor medida, dependiendo de si somos más sensibles a un arte que a otro. Pero esta realidad superior del universo (que puede ser la realidad morontial a través de la música) a la que a veces llegamos a través de un arte nos deja prever un lenguaje universal. _La belleza es la madrina del arte, la música y los ritmos significativos de toda experiencia humana._ ([LU 56:10.10](/es/The_Urantia_Book/56#p10_10)) El arte en su sentido más amplio sólo puede ser belleza, esto es lo que esperamos a lo largo de todos los universos del tiempo y la eternidad.
+Las artes tal como las entendemos, es decir la música, la literatura, la pintura, la escultura, la danza, etc. despierta nuestras emociones en mayor o menor medida, dependiendo de si somos más sensibles a un arte que a otro. Pero esta realidad superior del universo (que puede ser la realidad morontial a través de la música) a la que a veces llegamos a través de un arte nos deja prever un lenguaje universal. _La belleza es la madrina del arte, la música y los ritmos significativos de toda experiencia humana._ (<a id="a59_515"></a>[LU 56:10.10](/es/The_Urantia_Book/56#p10_10)) El arte en su sentido más amplio sólo puede ser belleza, esto es lo que esperamos a lo largo de todos los universos del tiempo y la eternidad.
 
 22\. ***Un alma en evolución no se vuelve divina por lo que hace, sino por lo que se esfuerza por hacer.***
 
@@ -69,3 +93,28 @@ _Un ensayo de Matthew Block titulado: “Morontia Mota: una nueva perspectiva”
 
 RMC
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Guy_de_Viron/LInvite_Lextraterrestre_Usain_Bolt">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El invitado: el extraterrestre Usain Bolt</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-48-otoño-2009">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 48 — Otoño 2009</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/L_osteoclaste">
+          <span class="pr-2">El osteoclasto</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

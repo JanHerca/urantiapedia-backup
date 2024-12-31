@@ -9,6 +9,27 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Marlène y Georges Michelson-Dupont<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón del hermano Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 (SIGUIENTE ARTÍCULO DEL ENLACE 39)
@@ -33,7 +54,7 @@ Por eso ha dotado a sus criaturas de todo lo necesario para poder cumplir su des
 
 La noción misma de progreso implica la idea de tiempo y espacio. Por eso, para nosotros, las criaturas, necesitamos un comienzo en el tiempo, un nacimiento en un lugar en el espacio. Este es el comienzo de nuestra vida.
 
-El Libro de Urantia define la vida de la siguiente manera: “La vida es en realidad un proceso que tiene lugar entre el organismo (la individualidad) y su entorno. La personalidad comunica valores identitarios y significados de continuidad a esta asociación de un organismo y un entorno._» ([LU 112:1.13](/es/The_Urantia_Book/112#p1_13))
+El Libro de Urantia define la vida de la siguiente manera: “La vida es en realidad un proceso que tiene lugar entre el organismo (la individualidad) y su entorno. La personalidad comunica valores identitarios y significados de continuidad a esta asociación de un organismo y un entorno._» (<a id="a56_290"></a>[LU 112:1.13](/es/The_Urantia_Book/112#p1_13))
 
 Desde su concepción, y a lo largo de la vida humana, el hombre construye, en su mente y mediante un proceso consciente e inconsciente de asociación de ideas, un conjunto de reacciones (podríamos hablar de condicionamiento) al entorno para formar lo que comúnmente se llama carácter. Por ejemplo, si acostumbramos a un niño desde muy pequeño a compartir con su hermano, esta asociación de ideas le servirá como respuesta preferente al entorno en situaciones similares. Así, el libre albedrío del que está dotada nuestra personalidad tenderá a responder de manera recurrente a situaciones similares.
 
@@ -61,3 +82,25 @@ Esperamos verlo en el próximo “Enlace” para discutir este fascinante tema.
 
 Marlene \& Georges Michelson-Dupont
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">El rincón del hermano Dominique</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

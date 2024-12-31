@@ -9,9 +9,33 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2011 Georges Donnadieu<br>© 2011 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Octavie_Jung/La_FEMME">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La MUJER</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Course_a_l_autre_Terre">
+          <span class="pr-2">Carrera hacia la otra Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 
-> «20. Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria.» ([LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
+
+> «20. Sólo un poeta puede discernir la poesía en la prosa corriente de la existencia rutinaria.» (<a id="a37_99"></a>[LU 48:7.22](/es/The_Urantia_Book/48#p7_22))
 
 12 de octubre de 1955: publicación en Chicago del _Libro de Urantia_. El año 1955 es una cosecha excepcional para las lecturas pasadas, presentes y futuras del _Libro de Urantia_.
 
@@ -59,7 +83,7 @@ _Nota 1_: Pierre Delanoë escribió varios éxitos de Gilbert Bécaud — de los
 
 _Nota 2_: Las Navidades... y los diluvios: Noé, del hebreo nuah (descansar), nombre que parece más o menos una traducción o adaptación del nombre del héroe del diluvio sumerio Ziusudra (vida de jornadas largas).
 
-El [LU 78:7.2](/es/The_Urantia_Book/78#p7_2) “_Las inundaciones de Mesopotamia_” habla precisamente de esta inundación sumeria y de Noé, viticultor de Aram. En las leyendas hawaianas, el héroe del diluvio se llama Nuu y en las leyendas chinas se le llama Nuwa.
+El <a id="a85_3"></a>[LU 78:7.2](/es/The_Urantia_Book/78#p7_2) “_Las inundaciones de Mesopotamia_” habla precisamente de esta inundación sumeria y de Noé, viticultor de Aram. En las leyendas hawaianas, el héroe del diluvio se llama Nuu y en las leyendas chinas se le llama Nuwa.
 
 En este artículo, el poeta Pierre Delanoë evoca a Bertrand Delanoë, actual alcalde de París, ciudad cuyo lema “_Fluctuat nec mergitur_” es todo un programa, en caso de inundación.
 
@@ -71,3 +95,28 @@ _Nota 3_: Aviso de investigación: gracias a los lectores avezados del LU por in
 
 Georges Donnadieu
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Octavie_Jung/La_FEMME">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La MUJER</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-55-verano-2011">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 55 — Verano 2011</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Course_a_l_autre_Terre">
+          <span class="pr-2">Carrera hacia la otra Tierra</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

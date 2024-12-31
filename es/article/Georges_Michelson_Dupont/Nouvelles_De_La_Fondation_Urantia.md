@@ -9,6 +9,27 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2023 Georges Michelson Dupont<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuela UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 VENTAS DEL LIBRO DE URANTIA
@@ -33,7 +54,7 @@ Después de varios años de desarrollo, la Fundación se enorgullece de anunciar
 
 **Recordatorio**: para quienes poseen un iPhone de Apple, también hay una versión gratuita disponible para descargar desde Apple Store con las mismas funciones.
 
-> _5. *Los documentos de Urantia*. Los documentos, de los cuales éste mismo forma parte, constituyen la presentación más reciente de la verdad a los mortales de Urantia. Estos documentos difieren de todas las revelaciones anteriores, ya que no son el trabajo de una sola personalidad del universo, sino una presentación compuesta realizada por numerosos seres. Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio. Aunque una confesión como ésta quizás pueda reducir la fuerza y la autoridad inmediatas de todas las revelaciones, ha llegado la hora en que es conveniente hacer estas sinceras declaraciones incluso a riesgo de debilitar la influencia y la autoridad futuras de esta obra, que es la revelación más reciente de la verdad para las razas mortales de Urantia._ ([[LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
+> _5. *Los documentos de Urantia*. Los documentos, de los cuales éste mismo forma parte, constituyen la presentación más reciente de la verdad a los mortales de Urantia. Estos documentos difieren de todas las revelaciones anteriores, ya que no son el trabajo de una sola personalidad del universo, sino una presentación compuesta realizada por numerosos seres. Pero ninguna revelación puede ser nunca completa hasta que no se alcanza al Padre Universal. Todos los demás ministerios celestiales no son más que parciales, transitorios y prácticamente adaptados a las condiciones locales en el tiempo y el espacio. Aunque una confesión como ésta quizás pueda reducir la fuerza y la autoridad inmediatas de todas las revelaciones, ha llegado la hora en que es conveniente hacer estas sinceras declaraciones incluso a riesgo de debilitar la influencia y la autoridad futuras de esta obra, que es la revelación más reciente de la verdad para las razas mortales de Urantia._ (<a id="a56_969"></a>[[LU 92:4.9](/es/The_Urantia_Book/92#p4_9))
 
 
 
@@ -74,3 +95,25 @@ Los proyectos seleccionados y aceptados son:
 
 1. Este proyecto tiene como objetivo financiar apoyo técnico para tener una conexión a Internet más fuerte para reunirse con miembros del Grupo de Estudio Urantia y producir y publicar en línea cuatro videos cortos de popularización.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Ecole_UBIS">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Escuela UBIS</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

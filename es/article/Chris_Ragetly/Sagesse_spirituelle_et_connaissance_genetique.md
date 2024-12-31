@@ -9,13 +9,37 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Chris Ragetly<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">El rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Por qué utilizar... _la técnica de acercarse al hombre y sus problemas planetarios, emprendiendo el viaje a través del espacio-tiempo desde el infinito, eterno y divino Paraíso Fuente-Centro de toda realidad de la personalidad y de toda existencia cósmica._
 
 Muchos lectores o futuros lectores de El libro de Urantia prefieren comenzar su lectura con la vida de Jesús o con otra parte del libro, sin empezar por el principio. _El Libro de Urantia_ nos da muy buenas razones para empezar por el principio. Éstos son algunos de ellos:
 
-> _Por ejemplo: la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la *sabiduría espiritual.* Este procedimiento es el camino más fácil para llegar a cierta forma de *conocimiento genético,* que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino._ ([LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
+> _Por ejemplo: la mente humana anhelaría normalmente acercarse a la filosofía cósmica descrita en estas revelaciones procediendo de lo simple y de lo finito a lo complejo y a lo infinito, de los orígenes humanos a los destinos divinos. Pero este camino no conduce a la *sabiduría espiritual.* Este procedimiento es el camino más fácil para llegar a cierta forma de *conocimiento genético,* que en el mejor de los casos sólo puede revelar el origen del hombre, pero que revela poco o nada sobre su destino divino._ (<a id="a41_516"></a>[LU 19:1.5](/es/The_Urantia_Book/19#p1_5))
 
 Siguiendo los consejos del autor (un Consejero Divino), nuestra mente humana inconscientemente se pone en sintonía con la mente cósmica, o al menos intenta hacerlo, lo cual ya no está tan mal, es el primer paso hacia la sabiduría espiritual. .
 
@@ -47,3 +71,28 @@ Chris Ragetly
 
 (Las citas de El libro de Urantia están en cursiva. Todas están en la página 215. Las palabras en negrita son mías).
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Michel_Rouanet/Le_mot_du_President_03">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Una palabra del presidente</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-39-verano-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 39 — Verano 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Le_coin_de_Frere_Dominique_01">
+          <span class="pr-2">El rincón del hermano Dominique</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 1997 Agnès Coulon<br>© 1997 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Le_Rohellec/Conference_Internationale_de_lIUA_a_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congreso Internacional de la I.U.A. en Helsinki del 7 al 10 de agosto de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="pr-2">Pensamientos metafísicos de un agnóstico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_2" class="image urantiapedia">
@@ -30,7 +54,7 @@ Con los Frutos del Espíritu, es respeto por los demás:
 - sea modesto y nunca se imponga ni se imponga.
 
 
-Los Frutos del Espíritu ([LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
+Los Frutos del Espíritu (<a id="a56_25"></a>[LU 193:2.2](/es/The_Urantia_Book/193#p2_2))
 
 | &nbsp; | &nbsp; | &nbsp;
 | --- | --- | ---
@@ -68,3 +92,28 @@ Agnes Coulon
 <img src="/image/article/Le_Lien/images_01/009.jpg">
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Francois_Le_Rohellec/Conference_Internationale_de_lIUA_a_Helsinki">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Congreso Internacional de la I.U.A. en Helsinki del 7 al 10 de agosto de 1998</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-5-otoño-1997">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 5 — Otoño 1997</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Francois_Dupont/Pensees_metaphysiques_dun_agnostique">
+          <span class="pr-2">Pensamientos metafísicos de un agnóstico</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

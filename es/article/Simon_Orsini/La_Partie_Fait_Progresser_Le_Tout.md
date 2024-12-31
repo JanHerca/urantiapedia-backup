@@ -9,6 +9,30 @@ dateCreated: 2024-10-30T16:26:51Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2017 Simon Orsini<br>© 2017 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="pr-2">UBIS El marco de estudio — Pedagogía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 La entrañable creencia ha sido superada por una conciencia superior del destino, es liberada por la fe. La fe es la prueba piloto de la mente, porque permite que cada individuo tenga una conexión directa con nuestro creador.
@@ -19,7 +43,7 @@ Es importante avanzar el potencial de manera positiva, dándole a lo negativo s�
 
 Toda reflexión debe estar motivada por un sentido colectivo de valores, no hay nada fácil en la lucha por la vida, son los fracasos de cada individuo, y los avances de los que nos hacen progresar, los que reflejan la línea rectora en la que nos orientamos.
 
-> LA EXPERIENCIA de una vida religiosa dinámica transforma a un individuo mediocre en una personalidad con un poder idealista. La religión contribuye al progreso de todos fomentando el progreso de cada individuo, y el progreso de cada uno aumenta con el logro de todos. ([LU 100:0.1](/es/The_Urantia_Book/100#p0_1))
+> LA EXPERIENCIA de una vida religiosa dinámica transforma a un individuo mediocre en una personalidad con un poder idealista. La religión contribuye al progreso de todos fomentando el progreso de cada individuo, y el progreso de cada uno aumenta con el logro de todos. (<a id="a45_271"></a>[LU 100:0.1](/es/The_Urantia_Book/100#p0_1))
 
 Los contactos entre humanos son a veces difíciles, por lo que debemos dejar en manos de aquellos que tienen más talento el conducir la naturaleza humana hacia una armonía superior.
 
@@ -45,3 +69,28 @@ Tengamos cuidado de no olvidar el gran río de verdades que ha corrido a través
 
 Simón Orsini
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Ivan_Stol/Editorial_07">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-78-junio-2017">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 78 — Junio 2017</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/UBIS_Le_Cadre_D_etude_La_Pedagogie">
+          <span class="pr-2">UBIS El marco de estudio — Pedagogía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

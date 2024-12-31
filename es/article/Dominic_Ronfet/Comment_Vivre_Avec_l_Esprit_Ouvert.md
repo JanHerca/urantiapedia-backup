@@ -9,6 +9,30 @@ dateCreated: 2024-10-27T10:7:29Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2016 Dominic Ronfet<br>© 2016 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio de Costa de Marfil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Implication_of_Free_Will_in_the_Cosmos">
+          <span class="pr-2">Implicaciones del libre albedrío en el cosmos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 _Traducción: Cómo vivir abiertos al Espíritu_
@@ -54,7 +78,7 @@ Mi objetivo es colocarnos a nosotros, los individuos, en condiciones de tener un
 
 Una primera cita para poner nuestra perspectiva:
 
-> «Jesús sabía que los hombres son diferentes, y así lo enseñó a sus apóstoles. Los exhortaba constantemente a que se abstuvieran de intentar moldear a los discípulos y a los creyentes según un modelo predeterminado. Intentaba dejar que cada alma se desarrollara según su propia manera, como un individuo distinto que se perfecciona ante Dios. En respuesta a una de las numerosas preguntas de Pedro, el Maestro dijo: «Quiero liberar a los hombres para que puedan empezar de nuevo como niños pequeños en una vida nueva y mejor». Jesús insistía siempre en que la verdadera bondad debe ser inconsciente{81}, que al hacer caridad no hay que dejar que la mano izquierda se entere de lo que hace la derecha.» ([LU 140:8.26](/es/The_Urantia_Book/140#p8_26))
+> «Jesús sabía que los hombres son diferentes, y así lo enseñó a sus apóstoles. Los exhortaba constantemente a que se abstuvieran de intentar moldear a los discípulos y a los creyentes según un modelo predeterminado. Intentaba dejar que cada alma se desarrollara según su propia manera, como un individuo distinto que se perfecciona ante Dios. En respuesta a una de las numerosas preguntas de Pedro, el Maestro dijo: «Quiero liberar a los hombres para que puedan empezar de nuevo como niños pequeños en una vida nueva y mejor». Jesús insistía siempre en que la verdadera bondad debe ser inconsciente{81}, que al hacer caridad no hay que dejar que la mano izquierda se entere de lo que hace la derecha.» (<a id="a80_704"></a>[LU 140:8.26](/es/The_Urantia_Book/140#p8_26))
 
 - Quisiera señalar cuatro puntos en este extracto:
 - Tener moderación en relación con un modelo de enseñanza preestablecido,
@@ -96,13 +120,13 @@ Debemos sentir, a través de nuestro cuerpo, nuestra capacidad de pensar bien.
 
 Pero ¿qué es este Espíritu que, bajo la expresión del Espíritu de la Verdad, busca unificar a la humanidad?
 
-> «Pentecostés estaba destinado a disminuir la presunción de las personas, los grupos, las naciones y las razas. La tensión de este espíritu de presunción es la que se acrecienta tanto que periódicamente se desata en guerras destructivas. La humanidad sólo puede unificarse mediante el acercamiento espiritual, y el Espíritu de la Verdad es una influencia mundial común para todos.» ([LU 194:3.18](/es/The_Urantia_Book/194#p3_18))
+> «Pentecostés estaba destinado a disminuir la presunción de las personas, los grupos, las naciones y las razas. La tensión de este espíritu de presunción es la que se acrecienta tanto que periódicamente se desata en guerras destructivas. La humanidad sólo puede unificarse mediante el acercamiento espiritual, y el Espíritu de la Verdad es una influencia mundial común para todos.» (<a id="a122_384"></a>[LU 194:3.18](/es/The_Urantia_Book/194#p3_18))
 
 El exceso de confianza es una forma bastante extendida de expresión de poder y dominación de una población sobre otra, de un individuo sobre otro.
 
 Toda nuestra historia se construye en torno a estas batallas que, en última instancia, parten de individuos mal construidos, convencidos de comprender el significado de lo que les sucede, mientras nosotros somos como ciegos guiando a otros ciegos por la fuerza.
 
-> «El día de Pentecostés, la religión de Jesús rompió todas las restricciones nacionales y todas las cadenas raciales. Es eternamente cierto que «allí donde se encuentra el espíritu del Señor, está la libertad»{18}. Aquel día, el Espíritu de la Verdad se convirtió en el don personal del Maestro para cada mortal. Este espíritu se otorgó con la finalidad de cualificar a los creyentes para que predicaran más eficazmente el evangelio del reino, pero confundieron la experiencia de recibir el espíritu derramado con una parte del nuevo evangelio que inconscientemente estaban formulando.» ([LU 194:3.5](/es/The_Urantia_Book/194#p3_5))
+> «El día de Pentecostés, la religión de Jesús rompió todas las restricciones nacionales y todas las cadenas raciales. Es eternamente cierto que «allí donde se encuentra el espíritu del Señor, está la libertad»{18}. Aquel día, el Espíritu de la Verdad se convirtió en el don personal del Maestro para cada mortal. Este espíritu se otorgó con la finalidad de cualificar a los creyentes para que predicaran más eficazmente el evangelio del reino, pero confundieron la experiencia de recibir el espíritu derramado con una parte del nuevo evangelio que inconscientemente estaban formulando.» (<a id="a128_589"></a>[LU 194:3.5](/es/The_Urantia_Book/194#p3_5))
 
 Entonces, ¿por qué prestamos tan poca atención a los demás? ¿Por qué todavía tenemos estos reflejos presuntuosos, creyendo que nuestras certezas son verdades de experiencias que deben imponerse, absolutamente?
 
@@ -136,3 +160,28 @@ _y ante él se abren los siglos._
 
 Dominique Ronfet.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Robert_Mondange/Temoignage_de_Cote_d_Ivoire">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Testimonio de Costa de Marfil</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-76-dieciembre-2016">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 76 — Dieciembre 2016</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Philip_Calabrese/Implication_of_Free_Will_in_the_Cosmos">
+          <span class="pr-2">Implicaciones del libre albedrío en el cosmos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

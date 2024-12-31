@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="pr-2">Reunión de Neylière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 DURANTE la Asamblea General celebrada en Neylière en este hermoso mes de junio del año de Nuestro Señor 2015, se propuso y aprobó reformular la carta editorial de nuestro periódico _le Lien_. Recuerde que _le Lien_ se publica trimestralmente desde marzo de 1996, fecha de creación de nuestra asociación, en continuidad con _La Lettre_ publicada anteriormente por el C.E.R.D.H. de la cual nuestra asociación es una emanación (Ver Art. 1: Constitución de los estatutos). 
@@ -71,7 +95,7 @@ Recordemos aquí que la AFLLU es una asociación apolítica y aconfesional de le
 - Relatar un evento relacionado con el _Libro de Urantia_.
 - Ser un poema u obra artística de inspiración urantiana.
 
-Respecto a las referencias tomadas del _Libro de Urantia_ deben seguir la regla internacionalmente aceptada: Folleto: Apartado. Párrafo enmarcado por paréntesis de apertura y cierre, por ejemplo ([LU 110:3.5](/es/The_Urantia_Book/110#p3_5)) con dos puntos después del número de edición, un punto después del número de sección. No se aceptarán estudios, artículos u obras relacionadas con obras o temas ajenos al _Libro de Urantia_. Sin embargo, en el contexto de un estudio comparativo con ideas o conceptos del _Libro de Urantia_ (por ejemplo un estudio comparativo de la naturaleza de Dios descrita en la Biblia y en el _Libro de Urantia_) serán aceptados siempre que se mantengan estrictamente dentro de este marco. .
+Respecto a las referencias tomadas del _Libro de Urantia_ deben seguir la regla internacionalmente aceptada: Folleto: Apartado. Párrafo enmarcado por paréntesis de apertura y cierre, por ejemplo (<a id="a97_196"></a>[LU 110:3.5](/es/The_Urantia_Book/110#p3_5)) con dos puntos después del número de edición, un punto después del número de sección. No se aceptarán estudios, artículos u obras relacionadas con obras o temas ajenos al _Libro de Urantia_. Sin embargo, en el contexto de un estudio comparativo con ideas o conceptos del _Libro de Urantia_ (por ejemplo un estudio comparativo de la naturaleza de Dios descrita en la Biblia y en el _Libro de Urantia_) serán aceptados siempre que se mantengan estrictamente dentro de este marco. .
 
 ## El estilo:
 
@@ -91,3 +115,28 @@ El equipo de Lien os desea provechosos momentos de lectura y reflexión.
 
 ***El equipo editorial***
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Editorial_01">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Editorial</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-71-otoño-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 71 — Otoño 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Reunion_de_Neyliere">
+          <span class="pr-2">Reunión de Neylière</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

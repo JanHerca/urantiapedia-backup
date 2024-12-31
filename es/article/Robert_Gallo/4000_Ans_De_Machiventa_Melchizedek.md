@@ -9,11 +9,35 @@ dateCreated: 2024-11-3T19:50:31Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2021 Robert Gallo<br>© 2021 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/De_L_energie_A_La_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la energía a la materia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Vovages_De_Jesus_Avant_Son_Ministere_Public">
+          <span class="pr-2">Los viajes de Jesús antes de su ministerio público</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Jesús nació al mediodía del 21 de agosto del año 7 antes de la era cristiana (año -7), y por tanto el 21 de agosto de 2021 celebraremos su cumpleaños número 2027 en Urantia. Además, está escrito en el folleto 93:2.1:
 
-> «Maquiventa se donó a las razas humanas de Urantia 1.973 años antes del nacimiento de Jesús. Su llegada no fue espectacular; su materialización no fue contemplada por los ojos humanos. La primera vez que un hombre mortal lo observó fue el día memorable en que entró en la tienda de Amdón, un pastor caldeo de origen sumerio. Y la proclamación de su misión estuvo sintetizada en la simple declaración que le hizo a este pastor: «Soy Melquisedek, sacerdote de El Elyón, el Altísimo, el solo y único Dios»{0}.» ([LU 93:2.1](/es/The_Urantia_Book/93#p2_1))
+> «Maquiventa se donó a las razas humanas de Urantia 1.973 años antes del nacimiento de Jesús. Su llegada no fue espectacular; su materialización no fue contemplada por los ojos humanos. La primera vez que un hombre mortal lo observó fue el día memorable en que entró en la tienda de Amdón, un pastor caldeo de origen sumerio. Y la proclamación de su misión estuvo sintetizada en la simple declaración que le hizo a este pastor: «Soy Melquisedek, sacerdote de El Elyón, el Altísimo, el solo y único Dios»{0}.» (<a id="a39_511"></a>[LU 93:2.1](/es/The_Urantia_Book/93#p2_1))
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/054.jpg">
@@ -30,3 +54,28 @@ Sería muy apropiado movilizar a nuestras autoridades globales para convertirlo 
 
 Roberto Gallo.
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Simon_Orsini/De_L_energie_A_La_Matiere">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">De la energía a la materia</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-93-marzo-2021">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 93 — Marzo 2021</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Le_Lien/Vovages_De_Jesus_Avant_Son_Ministere_Public">
+          <span class="pr-2">Los viajes de Jesús antes de su ministerio público</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

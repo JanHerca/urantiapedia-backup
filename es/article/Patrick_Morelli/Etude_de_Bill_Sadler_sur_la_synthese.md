@@ -9,6 +9,30 @@ dateCreated: 2024-10-20T19:22:11Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2015 Patrick Morelli<br>© 2015 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Deja_60_ans">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ya tengo 60 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="pr-2">Encuentro Internacional de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 En su estudio Bill nos da más que una pista para intentar comprender el “Desafío de la síntesis Personalidad-Poder”.
@@ -28,7 +52,7 @@ Entendiendo que la definición de Triunidad es “asociación funcional” y que
 
 Volviendo a la 2ª fase de diferenciación del Padre Universal, Padre-Hijo-Espíritu, sin Paraíso, la convergencia hacia la unidad primaria de la corriente no se produce ya que el Paraíso está aislado de la Trinidad paradisíaca. La convergencia probablemente sólo pueda lograrse gracias a la asociación personalidad-poder que sólo se actualizará con la unificación absoluta, absonita y finita, es decir, Trinidad de la Supremacía, Trinidad de lo Último y Absoluto de la Deidad. Cuando se consideran estos tres niveles Supremo, Último y Absoluto, ya no es gracias a las Triunidades que son y funcionan en el nivel existencial, sino gracias a las dos Triodidades, al actual Hijo Eterno - Isla del Paraíso - Actor Conjunto y al potencial Absoluto de Deidad - Absoluto Universal - Absoluto Incalificado que son una divergencia vertical.
 
-[LU 104:5.12](/es/The_Urantia_Book/104#p5_12): “Así como las triunidades se ocupan principalmente de unificar funcionalmente el infinito, las triodidades están involucradas en la apariencia cósmica de las Deidades experienciales. Las triunidades están indirectamente interesadas en las Deidades experienciales (Suprema, Última y Absoluta), pero las triodidades lo están directamente. Aparecen en la síntesis emergente de personalidad-poder del Ser Supremo. Y, para las criaturas temporales del espacio, el Ser Supremo es una revelación de la unidad del YO SOY.
+<a id="a54_0"></a>[LU 104:5.12](/es/The_Urantia_Book/104#p5_12): “Así como las triunidades se ocupan principalmente de unificar funcionalmente el infinito, las triodidades están involucradas en la apariencia cósmica de las Deidades experienciales. Las triunidades están indirectamente interesadas en las Deidades experienciales (Suprema, Última y Absoluta), pero las triodidades lo están directamente. Aparecen en la síntesis emergente de personalidad-poder del Ser Supremo. Y, para las criaturas temporales del espacio, el Ser Supremo es una revelación de la unidad del YO SOY.
 
 Al inaugurar la primera distribución de sí mismo surgiendo del YO SOY como se dijo anteriormente, comienza el proceso de divergencia - convergencia del Centro Primera Fuente; con en cada etapa de metamorfosis lateral y vertical el retorno convergente por el sistema de trinitización inmediata y en el largo y mediano plazo.
 
@@ -38,3 +62,28 @@ Todo esto posiblemente puede imaginarse a través de un diferencial permanente q
 
 _Patricio Morelli._
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Deja_60_ans">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Ya tengo 60 años</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-72-invierno-2015">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 72 — Invierno 2015</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Ivan_Stol/Rencontre_Internationale_du_Quebec">
+          <span class="pr-2">Encuentro Internacional de Quebec</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

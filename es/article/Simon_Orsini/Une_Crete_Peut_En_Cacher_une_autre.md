@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2019 Simon Orsini<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Conference_a_Tallinn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia en Tallin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-85-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 85 — Marzo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Les_Paraboles_2">
+          <span class="pr-2">Las parábolas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 
@@ -23,7 +47,7 @@ En esta tierra, el destino es una transición entre el estado mortal de un ser h
 > Las numerosas formas de la fuerza cósmica, de la energía física, del poder del universo y de las diversas materializaciones, revelan tres etapas generales de reacción, aunque no perfectamente definidas, a la gravedad del Paraíso:
 > Las numerosas formas de la fuerza cósmica, de la energía física, del poder del universo y de las diversas materializaciones, revelan tres etapas generales de reacción, aunque no perfectamente definidas, a la gravedad del Paraíso:
 > 
-> Las numerosas formas de la fuerza cósmica, de la energía física, del poder del universo y de las diversas materializaciones, revelan tres etapas generales de reacción, aunque no perfectamente definidas, a la gravedad del Paraíso: ([LU 11:8.4](/es/The_Urantia_Book/11#p8_4))
+> Las numerosas formas de la fuerza cósmica, de la energía física, del poder del universo y de las diversas materializaciones, revelan tres etapas generales de reacción, aunque no perfectamente definidas, a la gravedad del Paraíso: (<a id="a49_233"></a>[LU 11:8.4](/es/The_Urantia_Book/11#p8_4))
 
 Me sumergí en una ensoñación cuyo secreto sólo el superconsciente iniciado tiene el secreto, descubrí un mundo desconocido, con múltiples virtudes que estaban presentes en el pensamiento de las personas que allí vivían, una moral ejemplar que podría haber convertido a todo un ejército de soldados, estás en guerra.
 
@@ -117,7 +141,7 @@ Jesús bendijo a los pobres cuando eran sinceros y piadosos y condenó a los ric
 
 <br estilo=«claro:ambos;»/>
 
-> «SI LA mente finita del hombre es incapaz de comprender cómo un Dios tan grande y tan majestuoso como el Padre Universal puede descender de su residencia eterna de perfección infinita para fraternizar con las criaturas humanas individuales, entonces ese intelecto finito debe basar su seguridad de comunión divina en la verdad del hecho de que un fragmento real del Dios viviente reside en el intelecto de cada mortal de Urantia provisto de una mente normal y de una conciencia moral. Los Ajustadores del Pensamiento interiores son una parte de la Deidad eterna del Padre Paradisiaco. El hombre no tiene necesidad de ir más allá de su propia experiencia interior, donde el alma contempla la presencia de esta realidad espiritual, para encontrar a Dios y tratar de comulgar con él.» ([LU 5:0.1](/es/The_Urantia_Book/5#p0_1))
+> «SI LA mente finita del hombre es incapaz de comprender cómo un Dios tan grande y tan majestuoso como el Padre Universal puede descender de su residencia eterna de perfección infinita para fraternizar con las criaturas humanas individuales, entonces ese intelecto finito debe basar su seguridad de comunión divina en la verdad del hecho de que un fragmento real del Dios viviente reside en el intelecto de cada mortal de Urantia provisto de una mente normal y de una conciencia moral. Los Ajustadores del Pensamiento interiores son una parte de la Deidad eterna del Padre Paradisiaco. El hombre no tiene necesidad de ir más allá de su propia experiencia interior, donde el alma contempla la presencia de esta realidad espiritual, para encontrar a Dios y tratar de comulgar con él.» (<a id="a143_785"></a>[LU 5:0.1](/es/The_Urantia_Book/5#p0_1))
 
 El Padre ha trazado un camino, pasa por el hijo, al decir esto hago una afirmación circunstancial.
 
@@ -129,3 +153,28 @@ Simón Orsini
 
 
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Le_Lien/Conference_a_Tallinn">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Conferencia en Tallin</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-85-marzo-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 85 — Marzo 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jeanmarie_Chaise/Les_Paraboles_2">
+          <span class="pr-2">Las parábolas</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

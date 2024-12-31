@@ -1,5 +1,5 @@
 ---
-title: "botella pequeña llena"
+title: "Botella pequeña llena"
 description: 
 published: true
 date: 2024-09-29T14:02:03.086Z
@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2000 Christine Baussain<br>© 200 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente animal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Desvaríos supremos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Gracias a todos por sus respuestas sobre una práctica común basada en el _Libro de Urantia_. La reflexión se estaba gestando visiblemente, por lo que se abrió, aunque un poco retrasada, un poco “apagada”, ya que todo, por así decirlo, sucedió por teléfono.
@@ -21,11 +45,11 @@ Pero esta misma palabra «práctica» designa también el camino ascendente, cen
 
 El lado personal, incluso íntimo, no compartible, de esta práctica es obvio: la fuerza que extraemos de ella también. Por lo tanto, las religiones evolutivas, deseosas de utilizar este potencial para sí mismas, siempre se han esforzado en dar formas colectivas a esta práctica, a fin de aumentar el sentimiento de pertenencia a la comunidad, la fuerza de la cohesión y, en última instancia, el poder de impacto y expansión de la comunidad. el grupo. Los resultados que se nos presentan en el mundo actual no siempre son atractivos, y los lectores de L.U. en particular son desconfiados (¿lo que quizás explica sus dificultades para expresarse públicamente sobre este tema?)
 
-Sin embargo, y bien lo dice el Libro, hay un tesoro escondido en la práctica colectiva, un tesoro para todos y cada uno: “_La diferencia característica entre una reunión social y una reunión religiosa radica en que a diferencia de la primera, la segunda está imbuido de una atmósfera de comunión. De esta manera, la asociación humana engendra un sentimiento de comunidad con lo divino, y éste es el comienzo del culto comunitario. ([LU 103:4.1](/es/The_Urantia_Book/103#p4_1)) Se trata, pues, de nosotros, que nos presentamos como lectores sinceros y comprometidos, de dejar de lado nuestros miedos y nuestros tabúes para empezar poco a poco, con flexibilidad y tacto, a pensar en esta dirección, en cualquier sentido. caso aquellos que se sienten atraídos por tal enfoque.
+Sin embargo, y bien lo dice el Libro, hay un tesoro escondido en la práctica colectiva, un tesoro para todos y cada uno: “_La diferencia característica entre una reunión social y una reunión religiosa radica en que a diferencia de la primera, la segunda está imbuido de una atmósfera de comunión. De esta manera, la asociación humana engendra un sentimiento de comunidad con lo divino, y éste es el comienzo del culto comunitario. (<a id="a47_432"></a>[LU 103:4.1](/es/The_Urantia_Book/103#p4_1)) Se trata, pues, de nosotros, que nos presentamos como lectores sinceros y comprometidos, de dejar de lado nuestros miedos y nuestros tabúes para empezar poco a poco, con flexibilidad y tacto, a pensar en esta dirección, en cualquier sentido. caso aquellos que se sienten atraídos por tal enfoque.
 
 Y ahí lo tienes, ¡el primer resultado no es tan malo! Aquí, desordenadas, en un ramo, las propuestas contenidas hasta la fecha en la botella:
 
-Sin olvidar empezar por cuidar bien nuestras relaciones: interés mutuo, ayuda mutua, llamadas telefónicas periódicas, postales navideñas... (_Recordad que, en la medida en que os queráis, todos los hombres sabrán que sois mi discípulos._ [LU 191:4.3](/es/The_Urantia_Book/191#p4_3)) también podríamos
+Sin olvidar empezar por cuidar bien nuestras relaciones: interés mutuo, ayuda mutua, llamadas telefónicas periódicas, postales navideñas... (_Recordad que, en la medida en que os queráis, todos los hombres sabrán que sois mi discípulos._ <a id="a51_238"></a>[LU 191:4.3](/es/The_Urantia_Book/191#p4_3)) también podríamos
 
 1. Abra el libro al mismo tiempo para
 	- a) simplemente lea
@@ -43,3 +67,28 @@ Buen tema para reflexionar, ¿no? Mientras tanto, si lo deseas, este debate apen
 
 Cristina Baussain
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Chris_Ragetly/Le_mental_animal">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La mente animal</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-15-otoño-2000">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 15 — Otoño 2000</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Supremes_elucubrations">
+          <span class="pr-2">Desvaríos supremos</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

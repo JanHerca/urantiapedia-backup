@@ -9,6 +9,30 @@ dateCreated: 2024-11-1T18:24:19Z
 ---
 
 <p class="v-card v-sheet theme--gris claro aclarar-3 px-2">© 2019 Georges Michelson-Dupont<br>© 2019 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo se nos concede la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Chercher_Decouvrir_Comprendre">
+          <span class="pr-2">Buscar, descubrir, comprender</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 ## Un comentario sobre las traducciones
@@ -19,7 +43,7 @@ Me gustaría agradecer, desde el fondo de mi corazón, a todos los traductores y
 
 Sabemos que la revelación se adelanta a su tiempo para preparar el terreno a una difusión mucho más amplia cuando llegue el momento, es decir, cuando la humanidad esté más dispuesta a vivir el Evangelio de Jesús. Las traducciones son parte integral del plan de los reveladores, son esenciales para eliminar confusiones ideológicas y teológicas, elevar la calidad del pensamiento, cambiar las mentalidades sociales, mejorar la calidad de las relaciones humanas, ampliar el nivel de conciencia del universo en el que vivimos. vivir y potenciar la espiritualidad de nuestra humanidad. Las traducciones participan en la construcción de las bases que sustentarán eficazmente los nuevos tiempos venideros, la época en la que el amor, es decir el deseo de hacer el bien a los demás, se convertirá en la palabra clave del progreso espiritual y de la justicia social.
 
-> «No podéis amar realmente a vuestros compañeros con un simple acto de voluntad. El amor sólo nace de una comprensión completa de los móviles y sentimientos de vuestros semejantes. Amar hoy a todos los hombres no es tan importante como aprender cada día a amar a un ser humano más. Si cada día o cada semana lográis comprender a uno más de vuestros compañeros, y si éste es el límite de vuestra capacidad, entonces estáis sin duda haciendo sociable y espiritualizando realmente vuestra personalidad. El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero sólo el amor auténtico y desinteresado es verdaderamente contagioso. Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres.» ([LU 100:4.6](/es/The_Urantia_Book/100#p4_6))
+> «No podéis amar realmente a vuestros compañeros con un simple acto de voluntad. El amor sólo nace de una comprensión completa de los móviles y sentimientos de vuestros semejantes. Amar hoy a todos los hombres no es tan importante como aprender cada día a amar a un ser humano más. Si cada día o cada semana lográis comprender a uno más de vuestros compañeros, y si éste es el límite de vuestra capacidad, entonces estáis sin duda haciendo sociable y espiritualizando realmente vuestra personalidad. El amor es contagioso, y cuando la devoción humana es inteligente y sabia, el amor es más contagioso que el odio. Pero sólo el amor auténtico y desinteresado es verdaderamente contagioso. Si tan sólo cada mortal pudiera convertirse en un foco de afecto dinámico, este virus benigno del amor pronto impregnaría la corriente de emoción sentimental de la humanidad hasta tal punto que toda la civilización quedaría envuelta en el amor, y ésta sería la realización de la fraternidad de los hombres.» (<a id="a45_998"></a>[LU 100:4.6](/es/The_Urantia_Book/100#p4_6))
 
 ## Una breve historia
 
@@ -150,3 +174,28 @@ Vicepresidente Internacional.
 
 Responsable de traducciones de la Fundación
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Quand_La_Personnalite_Nous_Est_Elle_Octroyee">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">¿Cuándo se nos concede la personalidad?</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-88-dieciembre-2019">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 88 — Dieciembre 2019</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Simon_Orsini/Chercher_Decouvrir_Comprendre">
+          <span class="pr-2">Buscar, descubrir, comprender</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

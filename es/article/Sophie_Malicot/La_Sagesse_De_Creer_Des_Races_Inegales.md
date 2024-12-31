@@ -9,6 +9,30 @@ dateCreated: 2024-11-4T22:59:3Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2022 Sophie Malicot<br>© 2022 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sabiduría de crear razas desiguales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Pourquoi_Je_Crois_en_Dieu">
+          <span class="pr-2">Por qué creo en Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Sofía Malicot
@@ -19,7 +43,7 @@ Jesús enseñó que la fe, la simple creencia infantil, es la llave de la puerta
 > 1. El hombre dispone realmente del perdón de Dios, y lo experimenta personalmente, en la medida exacta en que perdona a sus semejantes{37}.
 > 2. El hombre no perdona de verdad a sus semejantes a menos que los ame como a sí mismo.
 > 3. Amar así al prójimo como a sí mismo{38} *es* la ética más elevada.
-> 4. La conducta moral, la verdadera rectitud, se convierte entonces en el resultado natural de ese amor. ([UB 170:3.3-7](/es/The_Urantia_Book/170#p3_3))
+> 4. La conducta moral, la verdadera rectitud, se convierte entonces en el resultado natural de ese amor. (<a id="a45_107"></a>[UB 170:3.3-7](/es/The_Urantia_Book/170#p3_3))
 
 <figure id="Figure_3" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/092.jpg">
@@ -50,7 +74,7 @@ Así, el perdón no es un proceso para hacernos sentir culpables, sino exactamen
 
 La gracia del perdón no ocurre ni en la rigidez ni en la rigidez. Se experimenta en el corazón de la profunda vulnerabilidad del ser, donde todos los mecanismos de defensa son eliminados. Cuando los resentimientos, las amarguras, los insultos y los juicios se agotan, dejando atrás sólo el vaciamiento del ser, y cuando, a pesar de ellos, ninguna reparación es efectiva, entonces, de repente, puede surgir una apertura hacia el HACER similar. Más allá de todo; y todo lo que hizo. Si el camino para alcanzar el perdón es largo, el perdón es instantáneo. Surge –inesperadamente– incluso si lo esperábamos; De repente, incluso brutalmente, empuja y derriba al ser de un solo suspiro. La mirada cambia irremediablemente, atraviesa incluso la luz, devolviendo la honorabilidad del prójimo, así como se restablece la propia honorabilidad. Porque son hermanas siamesas; se hunden o regresan al mismo yugo. Además, el perdón suele ser bilateral.
 
-> «Dios es inherentemente bondadoso, compasivo por naturaleza y perpetuamente misericordioso. Nunca es necesario ejercer ninguna influencia sobre el Padre para suscitar su bondad. La necesidad de las criaturas es enteramente suficiente para asegurar todo el caudal de la tierna misericordia del Padre y de su gracia salvadora. Puesto que Dios lo sabe todo acerca de sus hijos, le resulta fácil perdonar. Cuanto mejor comprende el hombre a su prójimo, más fácil le resulta perdonarlo, e incluso amarlo.» ([LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
+> «Dios es inherentemente bondadoso, compasivo por naturaleza y perpetuamente misericordioso. Nunca es necesario ejercer ninguna influencia sobre el Padre para suscitar su bondad. La necesidad de las criaturas es enteramente suficiente para asegurar todo el caudal de la tierna misericordia del Padre y de su gracia salvadora. Puesto que Dios lo sabe todo acerca de sus hijos, le resulta fácil perdonar. Cuanto mejor comprende el hombre a su prójimo, más fácil le resulta perdonarlo, e incluso amarlo.» (<a id="a76_504"></a>[LU 2:4.2](/es/The_Urantia_Book/2#p4_2))
 
 Así que este nuevo look sólo puede ser amado. Ama a los demás, divinamente. Pasa de enemigo a alma hermano-hermana, en una dimensión gloriosa de cumplimiento del Reino, trascendiendo el tiempo actual. Mirada de prefiguración del ser cósmico. Las fronteras están abolidas; el perdón no tiene fronteras, raza, color o religión. Tampoco tiene edad. ¿De dónde surge? ¿De qué fuente? Ser ? Dios ? La simultaneidad respondería a ambas cosas. El camino para acceder a él invita a la integración de un nivel de relaciones donde los valores divinos son la sustancia.
 
@@ -65,3 +89,28 @@ La experiencia del perdón es sin duda la más costosa que atraviesa un ser (un 
 <figcaption>El regreso del hijo pródigo, de Pompeo Batoni Wikipedia.</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/James_Perry/La_Sagesse_De_Creer_Des_Races_Inegales">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">La sabiduría de crear razas desiguales</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-99-septiembre-2022">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 99 — Septiembre 2022</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Georges_Michelson_Dupont/Pourquoi_Je_Crois_en_Dieu">
+          <span class="pr-2">Por qué creo en Dios</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

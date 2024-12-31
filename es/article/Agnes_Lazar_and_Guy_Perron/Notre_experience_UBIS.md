@@ -9,6 +9,30 @@ dateCreated: 2024-11-6T12:40:15Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Agnès Lazar y Guy Perron<br>© 2023 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación de la Edad Media</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="pr-2">Fantasía sobre un tema importante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 <figure id="Figure_5" class="image urantiapedia">
@@ -31,10 +55,35 @@ En enero de 2023 se ofreció la segunda parte de la trilogía. A lo largo de est
 
 > LA EXPERIENCIA de una vida religiosa dinámica transforma a un individuo mediocre en una personalidad con un poder idealista. La religión contribuye al progreso de todos fomentando el progreso de cada individuo, y el progreso de cada uno aumenta con el logro de todos.
 > 
-> La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso —una atracción objetiva en lugar de una satisfacción subjetiva— y sin embargo proporciona la satisfacción subjetiva suprema. La religión ennoblece el pesado trabajo común de la vida diaria. ([LU 100:0.1-2](/es/The_Urantia_Book/100#p0_1))
+> La asociación íntima con otras personas religiosas estimula mutuamente el crecimiento espiritual. El amor suministra el terreno para el crecimiento religioso —una atracción objetiva en lugar de una satisfacción subjetiva— y sin embargo proporciona la satisfacción subjetiva suprema. La religión ennoblece el pesado trabajo común de la vida diaria. (<a id="a57_351"></a>[LU 100:0.1-2](/es/The_Urantia_Book/100#p0_1))
 
 <figure id="Figure_6" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_03/125.jpg">
 <figcaption>Pintura de David Guzmán</figcaption>
 </figure>
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Georges_Donnadieu/Revelation_du_Moyen_Age">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Revelación de la Edad Media</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-101-marzo-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 101 — Marzo 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Dominique_Ronfet/Fantaisie_Sur_Un_Theme_Majeur_1">
+          <span class="pr-2">Fantasía sobre un tema importante</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

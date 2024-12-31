@@ -9,6 +9,30 @@ dateCreated: 2024-09-29T14:02:03.086Z
 ---
 
 <p class="v-card tema v-sheet--gris claro aclarar-3 px-2">© 2007 Dominique Ronfet<br>© 2007 Association Francophone des Lecteurs du Livre d'Urantia</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinidad de supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Reflexiones de Georges y Marlène</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 
 Buen día,
@@ -25,7 +49,7 @@ Y tratemos de comprender este espacio en el que, en definitiva, nos encontramos.
 
 Entonces, ¿cómo nadar bien? ¿Cómo pensar bien? ¿Cómo podemos desarrollarnos y convertirnos en verdaderos pensadores?
 
-> _Pero en la gran mayoría de los urantianos, el Ajustador debe esperar pacientemente la llegada de la liberación por medio de la muerte; debe esperar que el alma emergente se libere de la dominación casi completa de los modelos energéticos y de las fuerzas químicas inherentes a vuestra orden material de existencia. La principal dificultad que experimentáis para poneros en contacto con vuestro Ajustador consiste en esta misma naturaleza material inherente. Hay tan pocos mortales que sean verdaderos pensadores; no desarrolláis ni disciplináis espiritualmente vuestra mente hasta el punto de establecer una conexión favorable con los Ajustadores divinos. La mente humana hace casi oídos sordos a las súplicas espirituales que el Ajustador traduce de los múltiples mensajes de las transmisiones universales de amor procedentes del Padre de las misericordias. Al Ajustador le resulta casi imposible registrar estas directrices espirituales inspiradoras en una mente animal tan completamente dominada por las fuerzas químicas y eléctricas inherentes a vuestra naturaleza física._ ([LU 110:7.6](/es/The_Urantia_Book/110#p7_6))
+> _Pero en la gran mayoría de los urantianos, el Ajustador debe esperar pacientemente la llegada de la liberación por medio de la muerte; debe esperar que el alma emergente se libere de la dominación casi completa de los modelos energéticos y de las fuerzas químicas inherentes a vuestra orden material de existencia. La principal dificultad que experimentáis para poneros en contacto con vuestro Ajustador consiste en esta misma naturaleza material inherente. Hay tan pocos mortales que sean verdaderos pensadores; no desarrolláis ni disciplináis espiritualmente vuestra mente hasta el punto de establecer una conexión favorable con los Ajustadores divinos. La mente humana hace casi oídos sordos a las súplicas espirituales que el Ajustador traduce de los múltiples mensajes de las transmisiones universales de amor procedentes del Padre de las misericordias. Al Ajustador le resulta casi imposible registrar estas directrices espirituales inspiradoras en una mente animal tan completamente dominada por las fuerzas químicas y eléctricas inherentes a vuestra naturaleza física._ (<a id="a51_1082"></a>[LU 110:7.6](/es/The_Urantia_Book/110#p7_6))
 
 Sin llegar a hablar de un hipotético contacto con el Huésped divino (ese es otro tema), me interesa el desarrollo de nuestro pensamiento.
 
@@ -49,3 +73,28 @@ Entonces, ¿no seríamos verdaderos pensadores combinando disciplina e imaginaci
 
 Dominique Ronfet
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        <a href="/es/article/Jean_Claude_Romeuf/Trinite_de_Suprematie">
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Trinidad de supremacía</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/index/articles_le_lien#le-lien-urantien-número-41-invierno-2007">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Le Lien Urantien — Número 41 — Invierno 2007</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/Marlene_et_Georges_Michelson_Dupont/Reflexions_de_Georges_et_Marlene_02">
+          <span class="pr-2">Reflexiones de Georges y Marlène</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
