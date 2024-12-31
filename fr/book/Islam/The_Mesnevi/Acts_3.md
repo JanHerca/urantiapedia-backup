@@ -66,7 +66,7 @@ Il leur dit alors que, tandis qu'il leur parlait encore, une troupe de formes vi
 
 Un autre témoin, un disciple du père de Jelāl, a raconté que Bahā Veled affirmait souvent publiquement que son Seigneur, Jelāl, était de descendance exaltée, étant de la lignée d'un roi, et aussi d'un saint héréditaire.
 
-Sa grand-mère maternelle était une fille du grand imam Es-Sarakhsī[^10](mort à Damas en 571 a.H., 1175 ap.J.-C.), qui était de la lignée du Prophète. La mère d'Es-Sarakhsī était une descendante du calife 'Alī, et la grand-mère paternelle de Jelāl était une fille du roi de Kh'ārezm, qui résidait à Balkh.
+Sa grand-mère maternelle était une fille du grand imam Es-Sarakhsī[^10](./mort à Damas en 571 a.H., 1175 ap.J.-C.), qui était de la lignée du Prophète. La mère d'Es-Sarakhsī était une descendante du calife 'Alī, et la grand-mère paternelle de Jelāl était une fille du roi de Kh'ārezm, qui résidait à Balkh.
 
 L'arrière-arrière-grand-mère paternelle de Jelāl, également mère d'Ahmed El-Khatībī, grand-père du père de Jelāl, était la fille d'un roi de Balkh. Ces détails établissent que Jelāl était bien né des deux côtés, au sens profane et au sens spirituel. Le proverbe bien connu :
 
@@ -359,7 +359,7 @@ Le vieil homme suivit aussitôt le conseil de Jelâl et demanda pardon à Dieu. 
 
 Jelāl donnait un jour une conférence, lorsqu'un jeune homme distingué entra, se fraya un chemin et prit un siège plus haut qu'un vieil homme, l'un des membres de l'auditoire.
 
-Jelâl fit aussitôt cette remarque : « Autrefois, Dieu ordonnait que si un jeune homme prenait le pas sur un vieillard, la terre l’engloutît aussitôt ; telle était la punition divine pour cette faute. Mais maintenant, je vois que les jeunes gens, à peine sortis de la chaîne, ne respectent pas l’âge, mais piétinent ceux qui sont âgés. Ils ne craignent pas que la terre les engloutisse, ni d’être transformés en singes. »[12] Or, il arriva qu’un matin, le Lion victorieux de Dieu, ‘Alî, fils d’Abû-Tâlib, sortait précipitamment de sa maison pour faire ses dévotions à l’aube dans la mosquée du Prophète. Sur son chemin, il rencontra un vieillard, un Juif, qui allait dans la même direction. Le futur calife, par noblesse et politesse innées, respectait l’âge du Juif et ne voulait pas le dépasser, bien que le Juif fût lent. Quand ‘Alī arriva à la mosquée, le Prophète était déjà prosterné dans ses dévotions et s’apprêtait à chanter le « Gloria » ; mais, sur ordre de Dieu, Gabriel descendit, posa sa main sur l’épaule du Prophète et l’arrêta, de peur que ‘Alī ne perde <span id="p41">[<sup><small>p. 41</small></sup>]</span> le mérite attaché à sa présence à l’ouverture de l’office de l’aube ; car il est plus méritoire d’accomplir ce service matinal une fois, que d’accomplir les dévotions de cent ans à d’autres heures de la journée. Le Prophète a dit : « Le premier acte de révérence lors du culte de l’aube a plus de valeur que le monde et tout ce qu’il contient. »
+Jelâl fit aussitôt cette remarque : « Autrefois, Dieu ordonnait que si un jeune homme prenait le pas sur un vieillard, la terre l’engloutît aussitôt ; telle était la punition divine pour cette faute. Mais maintenant, je vois que les jeunes gens, à peine sortis de la chaîne, ne respectent pas l’âge, mais piétinent ceux qui sont âgés. Ils ne craignent pas que la terre les engloutisse, ni d’être transformés en singes. »[^12] Or, il arriva qu’un matin, le Lion victorieux de Dieu, ‘Alî, fils d’Abû-Tâlib, sortait précipitamment de sa maison pour faire ses dévotions à l’aube dans la mosquée du Prophète. Sur son chemin, il rencontra un vieillard, un Juif, qui allait dans la même direction. Le futur calife, par noblesse et politesse innées, respectait l’âge du Juif et ne voulait pas le dépasser, bien que le Juif fût lent. Quand ‘Alī arriva à la mosquée, le Prophète était déjà prosterné dans ses dévotions et s’apprêtait à chanter le « Gloria » ; mais, sur ordre de Dieu, Gabriel descendit, posa sa main sur l’épaule du Prophète et l’arrêta, de peur que ‘Alī ne perde <span id="p41">[<sup><small>p. 41</small></sup>]</span> le mérite attaché à sa présence à l’ouverture de l’office de l’aube ; car il est plus méritoire d’accomplir ce service matinal une fois, que d’accomplir les dévotions de cent ans à d’autres heures de la journée. Le Prophète a dit : « Le premier acte de révérence lors du culte de l’aube a plus de valeur que le monde et tout ce qu’il contient. »
 
 « Lorsque l’Apôtre de Dieu eut terminé son adoration, offert ses prières habituelles et récité ses leçons habituelles du Coran, il se tourna et demanda à Gabriel la cause occulte de son interruption à ce moment-là. Gabriel répondit que Dieu n’avait pas jugé bon que ‘Alī soit privé du mérite attaché à l’accomplissement de la première partie de l’adoration de l’aube, à cause du respect qu’il avait montré au vieux Juif qu’il avait rattrapé, mais qu’il ne voulait pas dépasser.
 
@@ -619,7 +619,7 @@ Un jour, Jelāl sortit et prêcha sur le marché. La foule se rassembla autour d
 
 Les chiens du marché se rassemblèrent alors en cercle autour de lui, remuant la queue et gémissant.
 
-Voyant cela, Jelâl s'écria : « Par le Seigneur, le Très-Haut, le Très-Fort, l'Imposant, à côté de qui nul n'est élevé, fort ou puissant ! Ces chiens comprennent mon discours et les vérités que j'expose. Les hommes les appellent chiens ; mais à partir de maintenant, qu'on ne les appelle plus ainsi. Ils sont de la famille des « Sept Dormants ». »[13]
+Voyant cela, Jelâl s'écria : « Par le Seigneur, le Très-Haut, le Très-Fort, l'Imposant, à côté de qui nul n'est élevé, fort ou puissant ! Ces chiens comprennent mon discours et les vérités que j'expose. Les hommes les appellent chiens ; mais à partir de maintenant, qu'on ne les appelle plus ainsi. Ils sont de la famille des « Sept Dormants ». »[^13]
 
 ## 42.
 
@@ -797,7 +797,7 @@ L'homme érudit se déclara immédiatement disciple et composa un panégyrique s
 
 ## 58.
 
-La légende raconte que Jelâl avait pour habitude de voir la nouvelle lune du nouvel an arabe et prononçait toujours la prière suivante en la voyant : « Ô notre Seigneur Dieu ! Tu es l'Éternel du Passé, l'Éternel du Futur, l'Ancien ! C'est une nouvelle année. Je Te prie de faire preuve de constance pour résister à Satan lapidé[17] et de m'aider contre l'esprit rebelle (en moi) ; de m'occuper également de ce qui me rapprochera de Toi et d'éviter ce qui pourrait m'éloigner de Toi. Ô Dieu ! Ô le Tout Miséricordieux, le Tout Compatissant ! Par Ta miséricorde, ô le Plus Compatissant des miséricordieux ! Ô toi Seigneur de majesté et d'honneur ! »
+La légende raconte que Jelâl avait pour habitude de voir la nouvelle lune du nouvel an arabe et prononçait toujours la prière suivante en la voyant : « Ô notre Seigneur Dieu ! Tu es l'Éternel du Passé, l'Éternel du Futur, l'Ancien ! C'est une nouvelle année. Je Te prie de faire preuve de constance pour résister à Satan lapidé[^17] et de m'aider contre l'esprit rebelle (en moi) ; de m'occuper également de ce qui me rapprochera de Toi et d'éviter ce qui pourrait m'éloigner de Toi. Ô Dieu ! Ô le Tout Miséricordieux, le Tout Compatissant ! Par Ta miséricorde, ô le Plus Compatissant des miséricordieux ! Ô toi Seigneur de majesté et d'honneur ! »
 
 ## 59.
 
@@ -1151,7 +1151,7 @@ Avec son dernier souffle, Jelāl recommanda à Husāmu-’d-Dīn de le déposer 
 
 Alors qu'il était dans une grande maladie, il y eut des tremblements de terre pendant sept jours et sept nuits, si violents que les murs et les maisons furent renversés. La septième fois, tous ses disciples furent alarmés. Il fit cependant une remarque calme : « Pauvre terre ! Elle a soif d'un morceau de viande ! Elle en aura un ! »
 
-Il donna ensuite ses dernières instructions à ses disciples, comme suit : « Je vous recommande la crainte de Dieu, en public et en privé ; l’abstinence dans le manger et le dormir, ainsi que dans la parole ; l’évitement de la rébellion et du péché ; la constance dans le jeûne, le culte continuel et l’abstinence perpétuelle des convoitises charnelles ; la patience face aux mauvais traitements de toute l’humanité ; éviter la compagnie des esprits légers et du commun des mortels ; s’associer aux justes et aux hommes de valeur. Car en vérité, « le meilleur des hommes est celui qui fait du bien aux hommes »[22] et « le meilleur discours est celui qui est bref et qui va droit au but »[23].
+Il donna ensuite ses dernières instructions à ses disciples, comme suit : « Je vous recommande la crainte de Dieu, en public et en privé ; l’abstinence dans le manger et le dormir, ainsi que dans la parole ; l’évitement de la rébellion et du péché ; la constance dans le jeûne, le culte continuel et l’abstinence perpétuelle des convoitises charnelles ; la patience face aux mauvais traitements de toute l’humanité ; éviter la compagnie des esprits légers et du commun des mortels ; s’associer aux justes et aux hommes de valeur. Car en vérité, « le meilleur des hommes est celui qui fait du bien aux hommes »[^22] et « le meilleur discours est celui qui est bref et qui va droit au but »[^23].
 
 ## 88.
 
@@ -1228,7 +1228,7 @@ belle-mère, la veuve de Jelāl, Kirā Khātūn, et Husāmu-’d-Dīn, lorsque s
 
 Jelāl avait une disciple, une sainte, nommée Nizāma Khātūn, une amie intime de sa femme.
 
-Nizâma forma le projet d'offrir une fête spirituelle à Jelâl, avec un divertissement pour ses disciples. Elle ne possédait rien d'autre qu'un voile de Thevr (ou de Sevr)[24], qu'elle avait destiné à être son propre linceul.
+Nizâma forma le projet d'offrir une fête spirituelle à Jelâl, avec un divertissement pour ses disciples. Elle ne possédait rien d'autre qu'un voile de Thevr (ou de Sevr)[^24], qu'elle avait destiné à être son propre linceul.
 
 Elle ordonna alors à ses servantes de vendre ce voile, et de se procurer ainsi les objets nécessaires à la fête projetée. Mais, ce même matin, Jelâl vint chez elle avec ses disciples et, s'adressant à elle, lui dit : « Nizâma Khâtûn, ne vends pas ton voile ; pour toi, c'est un meuble indispensable. Voici que nous sommes venus pour ton divertissement. »
 
@@ -1284,6 +1284,8 @@ Le prince lui parla de Baha Veled, désormais cheikh de la ville et saint incomp
 
 [^9]: 18:1 L'auteur véritablement éminent du Mesnevī.
 
+[^10:] (no content)
+
 [^11]: 20:1 De la ville de Sarakhs au Khurāsān.
 
 [^12]: 23:1 Le Dr Tanner, le jeûneur de quarante jours à New York, avait-il entendu parler de ces performances ?
@@ -1294,7 +1296,7 @@ Le prince lui parla de Baha Veled, désormais cheikh de la ville et saint incomp
 
 [^15]: 60:1 Le mont où les victimes sont massacrées par les pèlerins.
 
-[^16]: 64:1 Le grand poète persan Khāqānī, [né](errata.htm#1) à Shirwān, est mort et a été enterré à Tebrīz a.h. 582 (ad.d. 1186).
+[^16]: 64:1 Le grand poète persan Khāqānī, [né](./errata.htm#1) à Shirwān, est mort et a été enterré à Tebrīz a.h. 582 (ad.d. 1186).
 
 [^17]: 64:2 Sanā’ī, de Gazna en Afghanistan, surnommé « le Sage » ou « le Philosophe », mourut et fut enterré à l’endroit de sa naissance, en 576 ah. (1180 ap. J.-C.).
 
