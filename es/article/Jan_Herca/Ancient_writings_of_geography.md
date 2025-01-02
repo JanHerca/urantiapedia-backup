@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Siguiendo a Jean-Noël Robert, los escritos antiguos sobre geografía que han llegado hasta nosotros los podemos catalogar en tres tipos:
 
 - descripciones de itinerarios, ejemplo de los cuales sería el «Periplo del Mar Eritreo»;
@@ -41,3 +57,19 @@ El mapa más conocido es el llamado de «Peutinger», copia medieval de un origi
 ## Referencias
 
 Jean-Noël Robert, _De Roma a China. Por la ruta de la seda en tiempos de la Roma antigua_, Editorial Herder, 1993
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

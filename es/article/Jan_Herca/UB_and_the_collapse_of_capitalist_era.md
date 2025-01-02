@@ -10,6 +10,22 @@ dateCreated: 2024-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## La predicción
 
 A mediados del siglo XXI se producirá en la economía global del planeta un colapso repentino. Dos sucesos dramáticos se darán cita para producir esta devacle. El primero será un notable decremento de la reserva de materias primas energéticas, que dejará de permitir aumentar la producción industrial. Ocurrirá incluso a pesar de los desesperados intentos de los países más industrializados del mundo por introducir en la economía todo tipo de alternativas, como los biocombustibles, las energías fotovoltaica y eólica, o la biomasa. El segundo suceso, más dramático aún si cabe, será un cambio bastante repentino en el clima global del planeta ocasionado por la paralización de la corriente oceánica del Atlántico Norte (AMOC). Esta detención provocará una pequeña glaciación en algunas zonas del norte terrestre y terribles desertificaciones en el sur. En el último momento se intentará hacer un esfuerzo colectivo y global por revertir esta situación, a la que durante años se estuvo ignorando, pero todo esto dará igual. Ya será tarde; habremos sobrepasado mucho antes el punto de no retorno, y las consecuencias de ambos eventos serán catastróficas.
@@ -191,6 +207,22 @@ Así pues, ¿predicciones o exageraciones?
 - _El otoño de la civilización. Texto para una revolución inevitable._ Juan Bordera y Antonio Turiel. Escritos Contextatarios. 2022.
 - _Colapso. Capitalismo terminal, Transición Ecosocial, Ecofascismo._ Carlos Taibo. Catarata. 2016.
 - _Tecnofeudalismo: El sigiloso sucesor del capitalismo._ Yanis Varoufakis. Deusto. 2024
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 
