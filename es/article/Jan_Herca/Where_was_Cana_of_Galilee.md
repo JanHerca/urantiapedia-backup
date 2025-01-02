@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Aunque parezca mentira, todavía existen muchos lugares bíblicos de los que se desconoce su localización exacta. En ocasiones no se ha descubierto el emplazamiento, pero en otras existe una multiplicidad de hipótesis que dificultan de igual modo decidir por una ubicación. Este es el caso de Caná de Galilea, la antigua ciudad donde según el evangelio de Juan Jesús realizó su primer milagro, convirtiendo agua en vino.
 
 Muchos autores y estudiosos de la vida de Jesús dan por sentado tan sólo una localización para Caná, pero la realidad es que no existe unanimidad entre los arqueólogos y los expertos sobre el emplazamiento correcto.
@@ -149,3 +165,19 @@ Pero, una vez decidido que Kefar Kenna no es el correcto emplazamiento, surge ot
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/donde-estaba-cana-de-galilea/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Nazaret es una parada obligatoria en el trazado de cualquier ruta relacionada con la vida de Jesús. Aparece en multitud de ocasiones en los evangelios (aunque nunca en el Antiguo Testamento), mencionada como la ciudad en la que vivió Jesús de joven.
 
 Surge, pues, la necesidad de buscar información que nos aporte una idea de cómo fue esta población en la que tantos años vivió Jesús. Seguiré la narración que proporciona _El Libro de Urantia_ para poder esbozar unas líneas generales de conocimiento sobre cómo pudo ser la ciudad. También utilizaré la narración que el periodista J.J. Benítez hace en su best-seller _Caballo de Troya 4 y 5_. Por último, contrastaremos estas informaciones con los datos que aporta la arqueología moderna sobre la ciudad.
@@ -125,3 +141,19 @@ Quizá nuevos hallazgos futuros traigan descubrimientos que amplíen nuestra vis
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/como-fue-nazaret-en-tiempos-de-jesus/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

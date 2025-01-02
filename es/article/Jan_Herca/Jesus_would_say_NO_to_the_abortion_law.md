@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 De todos los dilemas éticos o morales que acucian a la sociedad actual, a nuestra civilización y al planeta, ninguno creo que alcanza en magnitud al de la despenalización del aborto voluntario.
 
 El mundo actual ha tenido que dar un giro en redondo en sus ideales religiosos para lanzarse a esta nueva era de locura y sinrazón. Estos son los efectos devastadores de un laicismo dogmático que viene con fuerza y decisión a imitar al totalitarismo eclesiástico de las épocas pasadas.
@@ -37,3 +53,19 @@ Jesús, Creador de más de tres millones de planetas como nuestra Tierra, Padre 
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/jesus-diria-no-a-la-ley-del-aborto/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 En algunas partes de mi novela sobre Jesús[^1] éste aparece nombrado como «Salvin». Este nombre en realidad está tomado de _El Libro de Urantia_, donde descubrimos toda una suerte de nuevas exposiciones sobre la personalidad divina de Jesús.
 
 La vieja y eterna discusión sobre la divinidad de Jesús es un tema recurrente a lo largo de los siglos. Las primitivas comunidades cristianas pronto empezaron a adorar a Jesús como a un dios, o más aún, como a Dios mismo. Esto acabó derivando en la idea de la Santa Trinidad, una idea compleja según la cual, Dios, siendo un único ser, tenía tres personalidades o manifestaciones, una el Padre, otra el Hijo, y otra el Espíritu Santo. Como resulta obvio, a Jesús se le identificó con el Hijo, la segunda personalidad.
@@ -39,6 +55,22 @@ Según muestro en mi novela existe una posible explicación al novedoso interés
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/salvin-pero-que-nombre-es-este/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

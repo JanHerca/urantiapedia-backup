@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2009 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 Es muy poco lo que sabemos de la familia de Jesús, es decir, de los hermanos y hermanas de sus padres y de sus abuelos. No hay prácticamente ni rastro en los evangelios, y las menciones de los primeros cristianos tampoco son muy numerosas. Esto ha venido a construir una idea anómala de la vida de Jesús, imaginándole como un muchacho que creció sin apenas contacto familiar a excepción de sus padres. Pero esta visión no parece concordar con las numerosas parábolas en las que Jesús utilizaba las relaciones familiares para expresar sus enseñanzas, y que seguramente estaban sacadas de la propia experiencia personal.
 
 ¿Pero qué podemos saber sobre su familia según los evangelios?
@@ -171,6 +187,22 @@ Pero de sus descendientes, excepto una anécdota recogida por el historiador Heg
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/la-familia-de-jesus/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
 
 ## Notas
 

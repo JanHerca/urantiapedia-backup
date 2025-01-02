@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2006 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Importancia del mar de Galilea para la pesca judía
 
 El territorio judío apenas tenía salida al mar. El mar muerto no era apto para la pesca, y de la extensa franja de Gaza y la costa mediterránea hasta Fenicia, ninguno de los puertos pesqueros importantes permanecieron bajo influencia judía por mucho tiempo. De las ciudades Gaza Maiumas, Antedón, Ascalón, Asdod Paralios, Jamnia Paralios, Jope, Apolonia Sozusa, Cesarea Marítima y Dora, tan sólo Jope se puede considerar un puerto judío, pues en el resto sus habitantes son casi todos griegos o gentiles. Por ello, en Jerusalén, la llamada puerta de los Peces ([Neh 3:3](/es/Bible/Nehemiah/3#v3)) era llamada así porque solía ser el lugar donde los mercaderes fenicios de Tiro y la costa fenicia solían vender su producto.
@@ -198,3 +214,19 @@ El símbolo del pez fue utilizado por los cristianos perseguidos como un código
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/el-sector-de-la-pesca-en-el-mar-de-galilea)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

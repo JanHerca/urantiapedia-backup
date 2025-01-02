@@ -10,6 +10,22 @@ dateCreated: 2023-09-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2007 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 El papel de la mujer en el mundo oriental de aquella época y en particular en Israel era mucho más asfixiante de lo que hoy se puede pensar. El desprecio de los hombres de aquellos días por sus mujeres era algo que hoy resulta difícil de comprender.
 
 Por ejemplo, cuando la mujer judía salía de su casa, no importaba para qué, tenía que llevar siempre la cara cubierta con un tocado que comprendía dos velos sobre la cabeza, una diadema sobre la frente, con cintas colgantes hasta la barbilla, y una malla de cordones y nudos. De este modo no se podían reconocer los rasgos de su rostro. La mujer que de este modo salía de su casa sin llevar la cabeza cubierta ofendía hasta tal punto las «buenas costumbres» que su marido tenía el derecho y, según los doctores de la ley, hasta el deber de despedirla, sin estar obligado a pagarle la suma estipulada para el caso de divorcio. Y sobre esto hay que decir que había mujeres tan estrictas también, que tampoco se descubrían en su propia casa. Sólo el día de la boda, y si la mujer era virgen y no viuda, aparecía en el cortejo con la cabeza al descubierto.
@@ -54,3 +70,19 @@ Teniendo en cuenta todos estos precendentes se valorará más en su justa medida
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/situacion-social-de-la-mujer-judia-en-tiempos-de-jesus)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

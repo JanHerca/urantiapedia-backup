@@ -10,6 +10,22 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2005 Jan Herca (licencia <a href="/es/license">Creative Commons Attribution-ShareAlike 4.0</a>)</p>
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 ## Acepciones
 
 En arameo se solía designar a la sinagoga como _knst_ o _knyst_ (_keneset_), que venía a significar «la congregación religiosa». Aquí el significado estaba orientado al aspecto comunitario del vocablo. No se trataba de designar un lugar reservado para el culto, sino del acto de la reunión en sí. Lo importante para los judíos no era el lugar de culto. El único lugar de culto al que verdaderamente reverenciaban los judíos de tiempos de Jesús era el templo de Jerusalén. Las sinagogas tan sólo eran un lugar donde reunirse para debatir los asuntos de interés comunitario, que casi siempre eran de índole religioso. Hay que decir que en los siglos siguientes, tras la destrucción del templo, la actitud de los judíos hacia la sinagoga cambió hasta convertirla en centro de sus costumbres.
@@ -113,3 +129,19 @@ El mobiliario de las sinagogas antiguas era muy simple. El principal objeto era 
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/la-sinagoga-judia/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td></td>
+        <td>
+        <a href="/es/index/articles_jan_herca">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Artículos de Jan Herca — Índice</span>
+        </a>
+        </td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
