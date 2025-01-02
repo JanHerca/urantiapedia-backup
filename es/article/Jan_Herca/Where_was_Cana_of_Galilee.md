@@ -120,7 +120,7 @@ Hace pocos meses saltó a la prensa una noticia, de la que no he podido obtener 
 
 El hallazgo se refiere a unas excavaciones que se vienen realizando desde 1999 en las proximidades de Kefar Cana, a la que ya es costumbre llamar la «Caná actual» (por ser el único emplazamiento, quitando la Caná fenicia, que está habitado en la actualidad).
 
-Sin embargo, resulta un poco sorprendente la escasa cautela con la que los arqueólogos de esta excavación han propagado sus hallazgos, afirmando, por el simple hecho de haber encontrado restos de vasijas de piedra, haber dado con la casa incluso en la que tuvo lugar la boda. Recordemos que el evangelio de Juan menciona con gran precisión que «en la boda se utilizaron seis tinajas de piedra de unos 80 a 100 litros cada una» (Jn 2:6). Al parecer los arqueólogos han desenterrado restos de unas vasijas de estas dimensiones.
+Sin embargo, resulta un poco sorprendente la escasa cautela con la que los arqueólogos de esta excavación han propagado sus hallazgos, afirmando, por el simple hecho de haber encontrado restos de vasijas de piedra, haber dado con la casa incluso en la que tuvo lugar la boda. Recordemos que el evangelio de Juan menciona con gran precisión que «en la boda se utilizaron seis tinajas de piedra de unos 80 a 100 litros cada una» ([Jn 2:6](/es/Bible/John/2#v6)). Al parecer los arqueólogos han desenterrado restos de unas vasijas de estas dimensiones.
 
 Pero, ¿significa esto que hemos descubierto la casa en cuestión? Estas vasijas, como otras muchas excavaciones han demostrado, eran un mobiliario muy habitual en la época de Jesús. Serán necesarios muchos más estudios y excavaciones sosegadas para llegar a alguna conclusión sobre estos nuevos hallazgos, pero lo que está claro es que suponen un interesante aliciente añadido a la polémica de cuál es el verdadero emplazamiento de Caná.
 
@@ -134,7 +134,7 @@ Por tanto, ¿por cuál decantarse?
 
 En mi opinión, y siguiendo a los expertos, los dos primeros emplazamientos, Kana y 'Ain Kanah no tienen base sólida como para justificar su elección. Nos quedamos por tanto con dos opciones: Kefar Kenna y Khirbet Kana.
 
-Aunque muchos expertos plantean con facilidad la elección de Kefar Kenna, después de haber examinado los testimonios, de cotejar planos y referencias geográficas, y de haber accedido a las páginas web donde se muestran los progresos de las campañas arqueológicas en ambos yacimientos, personalmente me decanto por Khirbet Kana, y así queda reflejado en _Jesús de Nazaret_.
+Aunque muchos expertos plantean con facilidad la elección de Kefar Kenna, después de haber examinado los testimonios, de cotejar planos y referencias geográficas, y de haber accedido a las páginas web donde se muestran los progresos de las campañas arqueológicas en ambos yacimientos, personalmente me decanto por Khirbet Kana, y así queda reflejado en _Jesús de Nazaret_[^1].
 
 Debe tenerse en cuenta que Kefar Kenna estaba en la época de Jesús situada en la carretera que unía Séforis con Tiberias. Sin embargo, sabemos que Tiberias se empezó a construir durante la juventud de Jesús, y que Séforis vivió una profunda remo delación urbanística también por esa época. Todo esto se debía al espíritu constructor de Herodes Antipas, que eligió primero Séforis y después Tiberias como capitales de su reino.
 
@@ -181,3 +181,7 @@ Pero, una vez decidido que Kefar Kenna no es el correcto emplazamiento, surge ot
     </tbody>
   </table>
 </figure>
+
+## Notas
+
+[^1]: Este libro es la novela [«Jesús de Nazaret»](/es/book/Jan_Herca/Jesus_of_Nazareth), una biografía sobre el Maestro basada en _El Libro de Urantia_ que está en preparación por el autor.

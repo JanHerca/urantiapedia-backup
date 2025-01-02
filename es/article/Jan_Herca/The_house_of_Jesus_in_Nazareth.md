@@ -51,10 +51,6 @@ El patio lo mantenía María adornado con enredaderas y flores de Galilea en sus
 
 Encima de las habitaciones, subiendo por una escalera de piedra sin barandilla en el interior del patio (<a id="a35_105"></a>[LU 123:4.5](/es/The_Urantia_Book/123#p4_5)), había unas terrazas donde se disponían techumbres provisionales de lona en verano. La gente solía dormir en el techo en verano, al abrigo de estos toldos y de las balaustradas, puesto que el intenso calor del verano lo permitía. Las lluvias de otoño ocasionaban frecuentes goteras en los techos, que había que reparar mediante rodillos de piedra que prensaban el suelo y tapaban las grietas y oquedades.
 
-## Referencias
-
-- Varios autores, _El Libro de Urantia_, 1955.
-
 ## Enlaces externos
 
 * [Artículo original](https://buscandoajesus.wordpress.com/articulos/la-casa-de-jesus-en-nazaret/)
