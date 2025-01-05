@@ -54,7 +54,7 @@ Une autre information du _Le Livre d'Urantia_ qui offre une vision de Nazareth c
 L'image ci-dessous montre un diagramme qui localise les références proposées par _Le Livre d'Urantia_.
 
 <figure id="Figure_1" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazareth.jpg">
+<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazaret.jpg">
 <figcaption>Nazareth selon <em>Le Livre d'Urantia</em></figcaption>
 </figure>
 
@@ -94,7 +94,7 @@ Toutes ces découvertes signifient au moins combler le fossé des découvertes s
 Malgré toutes ces découvertes, le Nazareth que nous révèle l'archéologie actuelle ne coïncide pas, aujourd'hui, avec les révélations du _Livre d'Urantia_. À la lumière des vestiges mis au jour, Nazareth apparaît comme une petite ville qui a vécu dans l'anonymat jusqu'à ce qu'elle soit sauvée de l'oubli par le christianisme. Selon _Le Livre d'Urantia_, Nazareth était une ville prospère située dans une enclave stratégique, sur la route des caravanes, une position exceptionnelle pour un personnage unique comme Jésus, attentif aux nouvelles du monde.
 
 <figure id="Figure_2" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazareth2.jpg">
+<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazaret2.jpg">
 <figcaption>Plan superposé à une image satellite moderne d'après Google Maps. La basilique de l'Annonciation est visible au sud, très loin de la maison de Marie et Joseph. D'après le dessin, la maison de Jésus se trouve au 6031 rue dans le district nord, une rue en montée vers les contreforts nord du Nebi Sa'in. Mais c'est une hypothèse très risquée. </figcaption>
 </figure>
 
@@ -116,7 +116,7 @@ Ce que ces deux érudits n'expliquent pas, c'est comment Jésus peut apparaître
 L’importance de connaître Nazareth est vitale, comme on peut le constater, pour mieux comprendre la vie de Jésus et qui il était. En décrivant _Le Livre d'Urantia_ comme une petite ville avec une synagogue et avec une copie des Écritures, il est plus facile de comprendre que Jésus a été éduqué, comme beaucoup d'autres Juifs, dans un environnement urbain, dans lequel la lecture et l'écriture faisaient partie des règles. besoins quotidiens. Il est facile de comprendre comment il pouvait entrer dans les synagogues et pouvoir lire sans problème « l’hébreu » des Écritures et le traduire en araméen pour le public, qui était la langue préférée. Il est finalement plus facile de comprendre que Jésus s'est développé dans un environnement qui lui a fourni une base culturelle suffisante pour étonner ensuite ses compatriotes par sa connaissance des Écritures.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazareth.jpg">
+<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/Nazareth_the_holy_land_1842.jpg">
 <figcaption>Nazareth la terre sainte, 1842. Collection de David Roberts. <a href="https://es.wikipedia.org/wiki/Archivo:Nazareth_the_holy_land_1842.jpg">Wikipédia</a></figcaption>
 </figure>
 

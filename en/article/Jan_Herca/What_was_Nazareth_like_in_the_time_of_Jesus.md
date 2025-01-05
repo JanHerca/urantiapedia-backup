@@ -116,7 +116,7 @@ What these two scholars do not explain is how Jesus can appear in the Gospels en
 The importance of knowledge of Nazareth is vital, as you can see, to better understand the life of Jesus and who he was. As _The Urantia Book_ describes Nazareth as a small town with a synagogue, and a copy of the scriptures, it is easier to understand that Jesus was raised, like many other Jews, in an urban environment, where reading and writing were part of daily necessities. It is easy to understand that he would enter the synagogues and be able to read the "Hebrew" of the scriptures without any problem and translate it into Aramaic for the audience, which was the preferred language. It is easier, in short, to understand that Jesus developed in an environment that provided him with a sufficient cultural foundation to later astonish his countrymen with his knowledge of the scriptures.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazareth.jpg">
+<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/Nazareth_the_holy_land_1842.jpg">
 <figcaption>Nazareth the holy land, 1842. Collection of David Roberts. <a href="https://es.wikipedia.org/wiki/Archivo:Nazareth_the_holy_land_1842.jpg">Wikipedia</a></figcaption>
 </figure>
 

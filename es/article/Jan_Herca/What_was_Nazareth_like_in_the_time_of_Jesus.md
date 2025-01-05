@@ -116,7 +116,7 @@ Lo que estos dos estudiosos no explican es cómo puede aparecer Jesús en los ev
 La importancia del conocimiento de Nazaret es vital, como se ve, para entender mejor la vida de Jesús y quién fue él. Al describir _El Libro de Urantia_ a Nazaret como una pequeña ciudad con una sinagoga, y con una copia de las escrituras, resulta más fácil entender que Jesús fue educado, como muchos otros judíos, en un ambiente urbano, en el que leer y escribir formaba parte de las necesidades diarias. Resulta fácil comprender que entrara en las sinagogas y pudiera leer sin problemas el «hebreo» de las escrituras y lo tradujera al arameo para la audiencia, que era el idioma preferido. Resulta más sencillo, en definitiva, comprender que Jesús se desenvolvió en un ambiente que le proporcionó una base cultural suficiente como para asombrar posteriormente a sus paisanos con su conocimiento de las escrituras.
 
 <figure id="Figure_3" class="image urantiapedia">
-<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/nazaret.jpg">
+<img src="/image/article/Jan_Herca/What_was_Nazareth_like_in_the_time_of_Jesus/Nazareth_the_holy_land_1842.jpg">
 <figcaption>Nazaret the holy land, 1842. Colección de David Roberts. <a href="https://es.wikipedia.org/wiki/Archivo:Nazareth_the_holy_land_1842.jpg">Wikipedia</a></figcaption>
 </figure>
 
