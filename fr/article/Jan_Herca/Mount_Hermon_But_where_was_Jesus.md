@@ -92,18 +92,18 @@ C'est curieux mais ce livre raconte que des êtres du ciel, que le Livre d'Enoch
 
 ## Références et notes
 
-[^1] : [Voir Beit Jinn sur Google Terre](https://earth.google.com/web/search/Beit+Jinn/@33.30893515,35.90933815,1095.75467981a,7526.62686461d,35y,-27.90186367h,40.84939154t,0r/data=CnMaSRJDCiQweDE1MTkzNGIxYTZkMDY0NGI6MHg5YWNiYWE2MDM2ZjVhNmMZuHx_3q-nQEAhxm9l5If1QUAqCUJlaXQgSmlubhgBIAEiJgokCco_acyKtkBAERHW-hz1pUBAGRLnDt6BAUJAIXy469GY6kFAOgMKATA) : résultat de la saisie de « Beit Jinn, Syrie » dans le champ de recherche.
+[^1]: [Voir Beit Jinn sur Google Terre](https://earth.google.com/web/search/Beit+Jinn/@33.30893515,35.90933815,1095.75467981a,7526.62686461d,35y,-27.90186367h,40.84939154t,0r/data=CnMaSRJDCiQweDE1MTkzNGIxYTZkMDY0NGI6MHg5YWNiYWE2MDM2ZjVhNmMZuHx_3q-nQEAhxm9l5If1QUAqCUJlaXQgSmlubhgBIAEiJgokCco_acyKtkBAERHW-hz1pUBAGRLnDt6BAUJAIXy469GY6kFAOgMKATA) : résultat de la saisie de « Beit Jinn, Syrie » dans le champ de recherche.
 
-[^2] : [Informations de localisation pour Beit Jenn.](http://www.fallingrain.com/world/SY/8/Bayt_Jinn.html)
+[^2]: [Informations de localisation pour Beit Jenn.](http://www.fallingrain.com/world/SY/8/Bayt_Jinn.html)
 
-[^3] : Institut Géographique National de France, _Liban. Carte Générale au 1:200 000_.
+[^3]: Institut Géographique National de France, _Liban. Carte Générale au 1:200 000_.
 
-[^4] : [Images d'une montagne](http://www.imagenesdeisrael.com/Imagen-988.html) qui a beaucoup changé aujourd'hui.
+[^4]: [Images d'une montagne](http://www.imagenesdeisrael.com/Imagen-988.html) qui a beaucoup changé aujourd'hui.
 
-[^5] : [Le voyage intéressant de deux lecteurs enthousiastes](http://www.squarecircles.com/articles/joysastrip/joysastoryD2.htm) du _Le Livre d'Urantia_.
+[^5]: [Le voyage intéressant de deux lecteurs enthousiastes](http://www.squarecircles.com/articles/joysastrip/joysastoryD2.htm) du _Le Livre d'Urantia_.
 
-[^6] : J.J. Benítez, _Caballo de Troya 6_, Editorial Planeta, 1999.
+[^6]: J.J. Benítez, _Caballo de Troya 6_, Editorial Planeta, 1999.
 
-[^7] : Ce livre est le roman [«Jésus de Nazareth»](/fr/book/Jan_Herca/Jesus_of_Nazareth), une biographie sur le Maître basée sur _Le Livre d'Urantia_ qui est en préparation par l'auteur.
+[^7]: Ce livre est le roman [«Jésus de Nazareth»](/fr/book/Jan_Herca/Jesus_of_Nazareth), une biographie sur le Maître basée sur _Le Livre d'Urantia_ qui est en préparation par l'auteur.
 
-[^8] : _Livre 1 d'Enoch ou Enoch éthiopien_ 6 :5-8, _Traduit de « Les Apocryphes et Pseudepigrapha de l'Ancien Testament », par RH Charles [1913]_ Il y a des fragments de ce verset dans le manuscrit 4QEna et 4QEnb de Qumrân.
+[^8]: _Livre 1 d'Enoch ou Enoch éthiopien_ 6 :5-8, _Traduit de « Les Apocryphes et Pseudepigrapha de l'Ancien Testament », par RH Charles [1913]_ Il y a des fragments de ce verset dans le manuscrit 4QEna et 4QEnb de Qumrân.
