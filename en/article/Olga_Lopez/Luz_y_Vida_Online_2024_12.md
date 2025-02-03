@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — December 2024 — Bulletin"
+title: "Luz y Vida — January 2025 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12">
+          <span class="pr-2">Luz y Vida — January 2025 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
-Light and Life — December 2024
+Light and Life — January 2025
 
 ## In this issue
 
-- Editorial – December 2025 — M. José Sánchez Santamaría
+- Editorial – January 2025 — M. José Sánchez Santamaría
 - Jobs – our recommendations of the month
 - History and teachings: Chronicle of the life of Jesus
 - The Urantia Book Children's Guide: Jesus Brings Judah to Jerusalem
@@ -27,7 +48,7 @@ Light and Life — December 2024
 - My favorite paragraph — Jan Herca
 -Urantian Questionnaire
 
-## Editorial – December 2025 — Mr. José Sánchez Santamaría
+## Editorial – January 2025 — Mr. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Editorial-ene-25-2.jpg" alt="Editorial ene 25-2" width="350">
@@ -41,7 +62,7 @@ This moment of closure, of clearing our lives of certain cobwebs that we have ac
 
 Those of us who read and want to put _The Urantia Book_ into practice know that nothing really bad is going to happen to us, that everything will be for our good and growth, guided by a loving hand:
 
-Jesus' peace of mind was founded on an absolute human faith in the wise and compassionate care of the divine Father. Jesus had difficulties on earth, he has even been improperly called “man of sorrows”, but in all these experiences he had the consolation of a confidence that always gave him strength to continue forward with the purpose of his life in the full assurance that he was fulfilling the will of the Father. [UB 181:1.8](/en/The_Urantia_Book/181#p1_8)
+Jesus' peace of mind was founded on an absolute human faith in the wise and compassionate care of the divine Father. Jesus had difficulties on earth, he has even been improperly called “man of sorrows”, but in all these experiences he had the consolation of a confidence that always gave him strength to continue forward with the purpose of his life in the full assurance that he was fulfilling the will of the Father. <a id="a64_419"></a>[UB 181:1.8](/en/The_Urantia_Book/181#p1_8)
 <br style="clear:both;"/>
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12)
@@ -211,7 +232,7 @@ A series of concepts related to truth were differentiated: divine truth, truth a
 
 <br style="clear:both;"/>
 
-> “Do not overlook the value of your spiritual heritage, the river of truth running down through the centuries, even to the barren times of a materialistic and secular age. In all your worthy efforts to rid yourselves of the superstitious creeds of past ages, make sure that you hold fast the eternal truth. But be patient! when the present superstition revolt is over, the truths of Jesus’ gospel will persist gloriously to illuminate a new and better way.” ([UB 195:9.1](/en/The_Urantia_Book/195#p9_1))
+> “Do not overlook the value of your spiritual heritage, the river of truth running down through the centuries, even to the barren times of a materialistic and secular age. In all your worthy efforts to rid yourselves of the superstitious creeds of past ages, make sure that you hold fast the eternal truth. But be patient! when the present superstition revolt is over, the truths of Jesus’ gospel will persist gloriously to illuminate a new and better way.” (<a id="a234_460"></a>[UB 195:9.1](/en/The_Urantia_Book/195#p9_1))
 
 This paragraph has always been inspiring to me since I first read it thirty years ago. It has been in front of me for a long time, on a note pinned to a corkboard, as a reminder. And I chose this paragraph as the introductory quote for a novel I have written. I always believed that its author was Mantutia, the director of the revealing commission, perhaps because it is located in a document of The Urantia Book that tells things about the future, and I felt that only a Melchizedek could have such profound vision about the times to come.
 
@@ -238,7 +259,87 @@ I came to him at a very particular moment in my life, in a difficult and crucial
 
 [Read more](/en/article/Luz_y_Vida/Cuestionario_Urantiano_Julio_J_Miranda)
 
+## January Urantia Talk
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/Charlas-urantianas-v2.jpg" alt="Charla urantiana enero 25" width="350">
+</figure>
+
+The Urantia Association of Spain organizes and sponsors the so-called "Urantian talks", Zoom sessions in which a presenter offers a starting topic, followed by a moderated debate in which attendees can participate.
+
+This is the talk scheduled for the month of January:
+
+**Saturday 18th**: Exploring _The Urantia Book_ with Artificial Intelligence: a new era of study (Ariel Vargas)
+
+In this talk, we will explore how Artificial Intelligence tools can facilitate the understanding of the vast content of _The Urantia Book_. From text analysis to summary generation and philosophical debates, you will learn how to integrate modern technology to delve deeper into the spiritual and scientific concepts presented in this monumental work. Discover how technologies based on Artificial Intelligence can be allies in the study of _The Urantia Book_. This talk will show practical applications, such as the creation of conceptual maps, answers to complex questions, and connections between the philosophical and spiritual themes of the text, opening up new perspectives for learning.
+
+Location: [Zoom room of the Urantia Association of Spain](https://zoom.us/j/362798144)
+
+Room ID: 362 798 144
+
+Time: **7:00 p.m.** (CET, Spanish peninsular time)
+
+We look forward to seeing you!
+<br style="clear:both;"/>
+
+## New courses at the Urantia Book International School (UBIS)
+
+<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Light_and_Life/LyV_2024_12/UBIS-septiembre-2021.jpg" alt="UBIS Courses September" width="350">
+</figure>
+
+A new term of courses at the Urantia Book International School (UBIS) begins in January. The registration period begins on **Monday, January 6** and ends on **Sunday, January 19**. Courses begin on **Monday, January 20** with orientation week.
+
+These are the courses that will be offered this quarter:
+<br style="clear:both;"/>
+
+1. **The Lessons of the Cross**. Facilitated by: Ana Eguren. Level: Basic. Duration: 10 weeks.
+2. **Lucifer's Rebellion: Origin, History, and Destiny**. Facilitated by: Irma E. Aguilar. Level: Basic. Duration: 10 weeks.
+3. **The Father's Great Gift to Mortals: Thought Adjusters**. Facilitated by: Orfelina Castro. Level: Basic. Duration: 10 weeks
+4. **God, Deity, and Divinity: Revelation to the Universe**. Facilitated by: Gabriela Arcaute. Level: Intermediate. Duration: 10 weeks.
+5. **Jesus, the Master of Masters**. Facilitated by: Erika Webster. Level: Basic. Duration: 8 weeks. Study group format.
+
+If you are interested in applying for a course, you must first create an account on the school's website, [http://ubis.urantia.org](http://ubis.urantia.org/). This can be done before registration begins.
+
+Spaces are limited, so sign up as soon as possible!
+
+For more information about the courses, you can visit [this page](https://www.urantia.org/es/educacion/escuela-virtual)
+
+## About the Luz y Vida newsletter
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida is the newsletter of the Urantia Association of Spain. From 2005 to 2016 it was published in PDF format and distributed by post and email to the association's reader list, but is currently distributed in newsletter format from HTML content.
+
+If you wish to receive the newsletter in your email, [contact the association](https://aue.urantia-association.org/contact-us/) to be subscribed to the recipient list.
+
+All work and news from readers and study groups are welcome, so if you wish to share any secondary work, writing, outline, image, etc., you can [send it to the association](https://aue.urantia-association.org/contact-us/) and we will publish it after evaluating its suitability. Likewise, the Communications Committee of the board of directors of the Urantia Association of Spain reserves the right to edit it to meet minimum spelling quality standards.
+
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2025/)
+- [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-january-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — January 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12">
+          <span class="pr-2">Luz y Vida — January 2025 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

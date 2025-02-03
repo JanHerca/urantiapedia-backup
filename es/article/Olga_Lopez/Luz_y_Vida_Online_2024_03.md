@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Marzo 2024 — Boletín"
+title: "Luz y Vida — Abril 2024 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Luz y Vida — Abril 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Marzo 2024
+Luz y Vida — Abril 2024
 
 ## En este número
 
-- Editorial – Marzo 2024 — M. José Sánchez Santamaría
+- Editorial – Abril 2024 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Jesús lleva a Santiago a Jerusalén
@@ -27,7 +48,7 @@ Luz y Vida — Marzo 2024
 - Cuestionario urantiano — Ana Eguren
 - El Grupo de Estudio de Madrid cumple 20 años
 
-## Editorial – Marzo 2024 — M. José Sánchez Santamaría
+## Editorial – Abril 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Editorial-abr-24-4.jpg" alt="Editorial abr-2024-4" width="350">
@@ -78,7 +99,7 @@ En esta presentación, que se ofreció en uno de los encuentros de lectores espa
 
 [**El trabajo en equipo (Chris Ragelty)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
 
-Este breve artículo se publicó inicialmente en francés en el boletín _Le Lien Urantien_ de la AFFLU (Asociación de lectores francófonos de _El libro de Urantia_). En él, se incide en la importancia del trabajo en equipo no solo en este mundo, sino a lo largo de toda la carrera ascendente, tal como se refleja en esta cita que encabeza el artículo: «Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. Hay pocas tareas en el universo para el servidor solitario. Cuanto más alto ascendáis, más solos os sentiréis cuando estéis temporalmente sin la compañía de vuestros semejantes». [LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
+Este breve artículo se publicó inicialmente en francés en el boletín _Le Lien Urantien_ de la AFFLU (Asociación de lectores francófonos de _El libro de Urantia_). En él, se incide en la importancia del trabajo en equipo no solo en este mundo, sino a lo largo de toda la carrera ascendente, tal como se refleja en esta cita que encabeza el artículo: «Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. Hay pocas tareas en el universo para el servidor solitario. Cuanto más alto ascendáis, más solos os sentiréis cuando estéis temporalmente sin la compañía de vuestros semejantes». <a id="a101_761"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
 <br style="clear:both;"/>
 
 ---
@@ -161,7 +182,7 @@ Un hombre del pueblo Neguá, en la costa de Colombia, pudo subir al alto cielo. 
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Mi-parrafo-favorito-Charles-Perrotta.jpg" alt="Mi párrafo favorito-Charles Perrotta" width="250">
 </figure>
 
-Al entrar en Sidón, Jesús y sus asociados pasaron por un puente, el primero que muchos de ellos habían visto nunca. Mientras caminaban por él, entre otras cosas, Jesús dijo: «Este mundo no es más que un puente; podéis atravesarlo, pero no deberíais pensar en construir una morada encima de él.» [LU 156:2.1](/es/The_Urantia_Book/156#p2_1)
+Al entrar en Sidón, Jesús y sus asociados pasaron por un puente, el primero que muchos de ellos habían visto nunca. Mientras caminaban por él, entre otras cosas, Jesús dijo: «Este mundo no es más que un puente; podéis atravesarlo, pero no deberíais pensar en construir una morada encima de él.» <a id="a184_295"></a>[LU 156:2.1](/es/The_Urantia_Book/156#p2_1)
 
 Tan simple y tan difícil… Pero es la concreción de la fe, ese no instalarse en este mundo ni en sus valores materiales; e incluyo en estos últimos también valores emocionales. Tanto lo ganado como lo perdido no deberían ser más que aceptados como resultado del normal desarrollo de los acontecimientos. Y sin embargo el creyente, en su animalesca pero inocente búsqueda, encuentra o cree encontrar respuestas, o vistazos de lo que vendrá. Si logro tener un pie en este mundo pero mis ojos en el siguiente, no solo cumplo con el consejo de Jesús y acreciento mi fe, sino que también aligero las cargas de este mundo, haciendo, principalmente las pérdidas, muchísimo más entendibles y llevaderas, con sus consecuentes lecciones espirituales.
 <br style="clear:both;"/>
@@ -197,7 +218,106 @@ Recuerdo aún la emoción y expectación que sentía al conseguir reunir una doc
 
 [Leer más](/es/article/Mariano_Perez/Grupo_de_Estudio_de_Madrid_aniversario)
 
+## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-septiembre-2021.jpg" alt="Cursos UBIS" width="350">
+</figure>
+
+En abril comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 22 de abril** y finaliza el **domingo 5 de mayo**. Los cursos comienzan el **lunes 29 de abril** con la semana de orientación.
+
+Estos son los cursos que se ofrecerán en abril (todos son cursos reducidos, de 6 semanas):
+<br style="clear:both;"/>
+
+1. **En el gran circuito del amor**. Facilita: Luis Alfonso Rojas Rosillo. Nivel: básico.
+2. **Vida después de la vida: ¿qué hay después?** Facilita: Gabriela Westphal. Nivel: intermedio.
+3. **La vida religiosa de Jesús.** Facilita: Irma E. Aguilar. Nivel: básico.
+4. **Introducción a la oración y la adoración.** Facilita: Darío Franco Cuartas. Nivel: básico.
+
+Si estáis interesados en solicitar algún curso, previamente debéis crear una cuenta en la web de la escuela, [http://ubis.urantia.org](http://ubis.urantia.org/). Esto puede hacerse antes de que comience la inscripción.
+
+Los cupos son limitados, ¡así que inscribíos lo antes posible!
+
+Para obtener más información sobre los cursos, podéis visitar esta página: [https://www.urantia.org/es/education/programacion-de-cursos](https://www.urantia.org/es/education/programacion-de-cursos)
+
+
+## Serie de presentaciones «En el foco» de la UBIS
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Luz_y_Vida/LyV_2024_03/UBIS-En-el-foco.png" alt="UBIS En el foco" width="350">
+</figure>
+
+La Escuela Internacional de _El libro de Uran_tia (UBIS por sus siglas en inglés) ofrece un ciclo de seminarios web «En el foco», relacionados con temas de _El libro de Urantia_ o de la comunidad de lectores.
+
+En el idioma español, las sesiones duran entre 60 y 90 minutos, y se celebran un sábado al mes a las 6 de la tarde (hora de Madrid, París, Roma). El presentador da una presentación introductoria sobre el tema en cuestión, tras la que hay ocasión para que los asistentes participen en un debate.
+
+Esta es la presentación prevista para el mes de abril:
+
+**Día: sábado 6 de abril**
+**Hora: 18:00 horas** **CET** (Madrid, París, Roma)
+**Título: ¿Por qué el Padre nos exige criar hijos?**
+**Presenta: Sebastián Nozzi**
+Sala Zoom: [https://urantia-org.zoom.us/j/5136302555](https://urantia-org.zoom.us/j/5136302555)
+
+<br style="clear:both;"/>
+
+Podéis ver el vídeo de la sesión anterior en este enlace
+
+https://youtu.be/Fxvl5qM6qv0?si=0XITDdF1p7JuckyO
+
+
+## Charla urantiana de abril
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-center">
+<img src="/image/article/Luz_y_Vida/LyV_2024_03/Charlas-urantianas-nov21.png" alt="UBIS Charlas urantianas" width="250">
+</figure>
+
+La Asociación Urantia de España organiza y patrocina las llamadas «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado entre los asistentes.
+
+Esta es la charla programada para el mes de abril:
+
+**Viernes 19: El gobierno planetario seráfico** **(Francisco J. Santos Castilla)**
+
+Lugar: [sala Zoom de la Asociación](https://zoom.us/j/362798144)
+Hora: **19:00 horas** (hora peninsular española)
+<br style="clear:both;"/>
+
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
+
+
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-abril-2024/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-abril-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Abril 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_03">
+          <span class="pr-2">Luz y Vida — Abril 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

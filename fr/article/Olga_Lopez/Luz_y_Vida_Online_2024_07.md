@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Juillet 2024 — Bulletin"
+title: "Luz y Vida — Juillet-Août 2024 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Éditorial Luz y Vida – Juillet-Août 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Juillet 2024
+Lumière et Vie — Juillet-Août 2024
 
 ## Dans ce numéro
 
-- Éditorial – Juillet 2024 — M. José Sánchez Santamaría
+- Éditorial – Juillet-Août 2024 — M. José Sánchez Santamaría
 - Présentations de la XXe Rencontre des lecteurs du Livre d'Urantia en Espagne
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Le Livre d'Urantia pour les enfants : Rebecca
@@ -24,7 +45,7 @@ Lumière et Vie — Juillet 2024
 - Rapport sur le Cercle de Confiance — Fernando Carazo
 - Nouvelle aide à l'étude de Hara Davis : La famille
 
-## Éditorial – Juillet 2024 — M. José Sánchez Santamaría
+## Éditorial – Juillet-Août 2024 — M. José Sánchez Santamaría
 
 Manuel Vicent dans son dernier livre, Une histoire particulière, nous dit ces belles paroles au début :
 
@@ -34,7 +55,7 @@ Certes, ces quatre cordes auxquelles fait allusion l’écrivain espagnol sont f
 
 Ceux d'entre nous qui lisent _Le Livre d'Urantia_ connaissent les difficultés que rencontre la vie matérielle, en particulier dans un monde décimal, en rébellion, sans l'aide d'un gouvernement planétaire physique et, à de nombreuses occasions, avec la prédominance de notre partie instinctive sur notre partie plus élevée. . Il est vrai qu’il existe de nombreux êtres humains qui n’aspirent qu’à naître, grandir, se reproduire et mourir ; de reproduire la course incessante du hamster, qui ne mène nulle part. Maintenant, _Le Livre d'Urantia_ nous dit :
 
-> À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. ([LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
+> À l’époque du présent écrit, les pires moments de l’âge matérialiste sont passés ; l’aube d’une meilleure compréhension commence déjà à poindre. Ceux qui, dans le monde scientifique, disposent d’un mental supérieur, ont cessé d’avoir une philosophie entièrement matérialiste, mais le commun du peuple incline toujours dans cette direction par suite des enseignements antérieurs. Toutefois, cet âge de réalisme physique n’est qu’un épisode transitoire dans la vie de l’homme sur terre. La science moderne a laissé intacte la vraie religion : les enseignements de Jésus traduits dans la vie de ceux qui croient en lui. Tout l’accomplissement de la science a consisté à détruire les illusions enfantines des fausses interprétations de la vie. (<a id="a57_743"></a>[LU 195:6.4](/fr/The_Urantia_Book/195#p6_4))
 
 [Lire la suite](/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07)
 
@@ -137,13 +158,48 @@ _La Famille, l'Unité Fondamentale de la Fraternité_, un nouvel ouvrage d'aide 
 
 Selon les mots de l’auteur : « Le Livre d’Urantia accorde une importance significative à la famille en tant qu’unité sociale fondamentale et en tant que facteur crucial dans le développement des individus et de la société. Dans ce support d’étude, nous examinons la famille comme élément fondamental de la civilisation humaine. Nous commençons par examiner l’unité et la diversité au sein de la famille divine (…) Nous explorons les origines évolutives de l’institution familiale, en commençant par la façon dont le mariage a progressé depuis les temps primitifs jusqu’à nos jours et les différences entre les hommes et les femmes. Nous étudions le développement de la famille depuis sa forme primitive jusqu'aux unités familiales les plus complexes et organisées qui existent aujourd'hui, y compris les questions de genre et d'égalité des sexes (…) Nous examinons la responsabilité des parents dans l'éducation des enfants, en soulignant l'importance de l'éducation et de la formation les premières années de la vie d’un enfant (…) Nous examinons également les dimensions spirituelles de la vie de famille et le potentiel de croissance et de développement spirituels dans le contexte familial. À titre d’exemple, nous étudions la vie de famille de Jésus et les nombreuses qualités qu’il a acquises lors de sa transition de l’enfance au début de l’âge adulte.
 
-[Lien pour acheter _The Family_ sur [Amazon](https://www.amazon.es/Familia-unidad-fundamental-fraternidad/dp/B0D5343MD4?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.mF7fvE5ykgbmYWckPQqelVlMJV-Ip87fCkGd9NfkfvqH6xUluVxPuS5ox3FhLLslnf-tv-qxAFkDCbLFYC3zBjQZN5gFJMJef2qpGhuZpeqzJeWFM9rn8_RduQ9fdleHgJCr wd_dlGuCUwXTCKkM39oKPetr1F5ihX8YM7KPH82PX9aA7Blk4ZdCCV_v2ugdZZQ8RNubDwR8QmOW-InUIOGWyDEJVtTcXTQmpyK187o.KpyEkqE1BRxyGyH32cbmmdraMQ9aoQmAP5GYiEvcNtg&dib_tag=AUTEUR)
+[Lien pour acheter _The Family_ sur Amazon](https://www.amazon.es/Familia-unidad-fundamental-fraternidad/dp/B0D5343MD4?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.mF7fvE5ykgbmYWckPQqelVlMJV-Ip87fCkGd9NfkfvqH6xUluVxPuS5ox3FhLLslnf-tv-qxAFkDCbLFYC3zBjQZN5gFJMJef2qpGhuZpeqzJeWFM9rn8_RduQ9fdleHgJCrwd_dlGuCUwXTCKkM39oKPetr1F5ihX8YM7KPH82PX9aA7Blk4ZdCCV_v2ugdZZQ8RNubDwR8QmOW-InUIOGWyDEJVtTcXTQmpyK187o.KpyEkqE1BRxyGyH32cbmmdraMQ9aoQmAP5GYiEvcNtg&dib_tag=AUTHOR)
 
 <br style="clear:both;"/>
+
+## À propos de la newsletter Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia-association.org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
 
 
 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2024/)
+- [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-juilletaoût-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Juillet-Août 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Éditorial Luz y Vida – Juillet-Août 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

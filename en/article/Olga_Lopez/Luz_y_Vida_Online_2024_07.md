@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — July 2024 — Bulletin"
+title: "Luz y Vida — July-August 2024 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Luz y Vida — July-August 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
-Light and Life — July 2024
+Light and Life — July-August 2024
 
 ## In this issue
 
-- Editorial – July 2024 — M. José Sánchez Santamaría
+- Editorial – July-August 2024 — M. José Sánchez Santamaría
 - Presentations of the XX Meeting of readers of The Urantia Book in Spain
 - History and teachings: Chronicle of the life of Jesus
 - Urantia Book Children's Guide: Rebecca
@@ -24,7 +45,7 @@ Light and Life — July 2024
 - Report on the Circle of Trust — Fernando Carazo
 - New Hara Davis Study Aid: The Family
 
-## Editorial – July 2024 — M. José Sánchez Santamaría
+## Editorial – July-August 2024 — M. José Sánchez Santamaría
 
 Manuel Vicent in his latest book, A Particular Story, tells us these beautiful words at the beginning:
 
@@ -34,7 +55,7 @@ Certainly, those four strings to which the Spanish writer alludes are fundamenta
 
 Those of us who read _The Urantia Book_ know the difficulties that material life has, especially in a decimal world, in rebellion, without the help of a physical planetary government and, on many occasions, with the predominance of our instinctive part over our highest part. It is true that there are many human beings who only aspire to be born, grow, reproduce and die; to reproduce the incessant race of the hamster, which leads nowhere. Now, _The Urantia Book_ tells us:
 
-> At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life. ([UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
+> At the time of this writing the worst of the materialistic age is over; the day of a better understanding is already beginning to dawn. The higher minds of the scientific world are no longer wholly materialistic in their philosophy, but the rank and file of the people still lean in that direction as a result of former teachings. But this age of physical realism is only a passing episode in man’s life on earth. Modern science has left true religion—the teachings of Jesus as translated in the lives of his believers—untouched. All science has done is to destroy the childlike illusions of the misinterpretations of life. (<a id="a57_627"></a>[UB 195:6.4](/en/The_Urantia_Book/195#p6_4))
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07)
 
@@ -137,13 +158,46 @@ Now available in Spanish is _The Family, the Fundamental Unit of Fraternity_, a 
 
 In the words of the author: “_The Urantia Book_ places significant emphasis on the family as the fundamental social unit and as a crucial factor in the development of individuals and society. In this study aid, we examine the family as a basic element of human civilization. We begin by examining unity and diversity within the divine family (…) We explore the evolutionary origins of the family institution, beginning with the way marriage progressed from primitive times to the present day and the differences between men and women. We study the development of the family from the primitive form to the more complex and organized family units that exist today, including issues of gender and equality of the sexes (…) We examine the responsibility of parents in the rearing of children, emphasizing the importance of education and training in the early years of a child’s life (…) We also examine the spiritual dimensions of family life and the potential for spiritual growth and development in the family context. As an example, we study Jesus' family life and the many qualities he learned in his transition from childhood to early adulthood.
 
-[Link to purchase _The Family_ in Amazon](https://www.amazon.es/Familia-unidad-fundamental-fraternidad/dp/B0D5343MD4?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.mF7fvE5ykgbmYWckPQqelVlMJV-Ip87fCkGd9NfkfvqH6xUluVx PuS5ox3FhLLslnf-tv-qxAFkDCbLFYC3zBjQZN5gFJMJef2qpGhuZpeqzJeWFM9rn8_RduQ9fdleHgJCrw d_dlGuCUwXTCKkM39oKPetr1F5ihX8YM7KPH82PX9aA7Blk4ZdCCV_v2ugdZZQ8RNubDwR8QmOW-InUIO GWyDEJVtTcXTQmpyK187o.KpyEkqE1BRxyGyH32cbmmdraMQ9aoQmAP5GYiEvcNtg&dib_tag=AUTHOR)
+[Link to purchase _The Family_ in Amazon](https://www.amazon.es/Familia-unidad-fundamental-fraternidad/dp/B0D5343MD4?ref_=ast_author_dp&dib=eyJ2IjoiMSJ9.mF7fvE5ykgbmYWckPQqelVlMJV-Ip87fCkGd9NfkfvqH6xUluVxPuS5ox3FhLLslnf-tv-qxAFkDCbLFYC3zBjQZN5gFJMJef2qpGhuZpeqzJeWFM9rn8_RduQ9fdleHgJCrwd_dlGuCUwXTCKkM39oKPetr1F5ihX8YM7KPH82PX9aA7Blk4ZdCCV_v2ugdZZQ8RNubDwR8QmOW-InUIOGWyDEJVtTcXTQmpyK187o.KpyEkqE1BRxyGyH32cbmmdraMQ9aoQmAP5GYiEvcNtg&dib_tag=AUTHOR)
 
 <br style="clear:both;"/>
 
+## About the Luz y Vida newsletter
 
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida is the newsletter of the Urantia Association of Spain. From 2005 to 2016 it was published in PDF format and distributed by post and email to the association's reader list, but is currently distributed in newsletter format from HTML content.
+
+If you wish to receive the newsletter in your email, [contact the association](https://aue.urantia-association.org/contact-us/) to be subscribed to the recipient list.
+
+All work and news from readers and study groups are welcome, so if you wish to share any secondary work, writing, outline, image, etc., you can [send it to the association](https://aue.urantia-association.org/contact-us/) and we will publish it after evaluating its suitability. Likewise, the Communications Committee of the board of directors of the Urantia Association of Spain reserves the right to edit it to meet minimum spelling quality standards.
 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2024/)
+- [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-julyaugust-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — July-August 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Luz y Vida — July-August 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

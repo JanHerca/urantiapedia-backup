@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Diciembre 2024 — Boletín"
+title: "Luz y Vida — Enero 2025 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12">
+          <span class="pr-2">Luz y Vida — Enero 2025 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Diciembre 2024
+Luz y Vida — Enero 2025
 
 ## En este número
 
-- Editorial – Diciembre 2025 — M. José Sánchez Santamaría
+- Editorial – Enero 2025 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Jesús lleva a Judá a Jerusalén
@@ -27,7 +48,7 @@ Luz y Vida — Diciembre 2024
 - Mi párrafo favorito — Jan Herca
 - Cuestionario urantiano
 
-## Editorial – Diciembre 2025 — M. José Sánchez Santamaría
+## Editorial – Enero 2025 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Editorial-ene-25-2.jpg" alt="Editorial ene 25-2" width="350">
@@ -41,7 +62,7 @@ Este momento de cierre, de limpiar nuestras vidas de ciertas telarañas que hemo
 
 Quienes leemos y queremos poner en práctica _El libro de Urantia_ sabemos que nada realmente malo nos va a suceder, que todo será para nuestro bien y crecimiento, guiados por una mano amorosa:
 
-La paz mental de Jesús estaba fundada en una fe humana absoluta en el cuidado sabio y compasivo del Padre divino. Jesús tuvo dificultades en la tierra, ha sido incluso llamado impropiamente «varón de dolores», pero en todas esas experiencias tuvo el consuelo de una confianza que siempre le dio fuerzas para seguir adelante con el propósito de su vida en la plena seguridad de que estaba cumpliendo la voluntad del Padre. [LU 181:1.8](/es/The_Urantia_Book/181#p1_8)
+La paz mental de Jesús estaba fundada en una fe humana absoluta en el cuidado sabio y compasivo del Padre divino. Jesús tuvo dificultades en la tierra, ha sido incluso llamado impropiamente «varón de dolores», pero en todas esas experiencias tuvo el consuelo de una confianza que siempre le dio fuerzas para seguir adelante con el propósito de su vida en la plena seguridad de que estaba cumpliendo la voluntad del Padre. <a id="a64_422"></a>[LU 181:1.8](/es/The_Urantia_Book/181#p1_8)
 <br style="clear:both;"/>
 
 [Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12)
@@ -211,7 +232,7 @@ Se diferenciaron una serie de conceptos relacionados con la verdad: verdad divin
 
 <br style="clear:both;"/>
 
-> «No paséis por alto el valor de vuestra herencia espiritual, el río de verdad que fluye a través de los siglos, incluso hasta la época estéril de una era materialista y laica. En todos vuestros esfuerzos meritorios por desembarazaros de los credos supersticiosos de las épocas pasadas, aseguraos de conservar firmemente la verdad eterna. ¡Pero tened paciencia! Cuando la sublevación actual contra la superstición haya terminado, las verdades del evangelio de Jesús sobrevivirán gloriosamente para iluminar un camino nuevo y mejor.» [LU 195:9.1](/es/The_Urantia_Book/195#p9_1)
+> «No paséis por alto el valor de vuestra herencia espiritual, el río de verdad que fluye a través de los siglos, incluso hasta la época estéril de una era materialista y laica. En todos vuestros esfuerzos meritorios por desembarazaros de los credos supersticiosos de las épocas pasadas, aseguraos de conservar firmemente la verdad eterna. ¡Pero tened paciencia! Cuando la sublevación actual contra la superstición haya terminado, las verdades del evangelio de Jesús sobrevivirán gloriosamente para iluminar un camino nuevo y mejor.» <a id="a234_534"></a>[LU 195:9.1](/es/The_Urantia_Book/195#p9_1)
 
 Este párrafo siempre me ha resultado inspirador desde que lo leí por primera vez hace ya treinta años. Ha estado durante mucho tiempo delante de mí, en una nota pinchada en un panel de corcho, a modo de recordatorio. Y elegí este párrafo como cita introductoria de una novela que tengo escrita. Siempre creí que su autor era Mantutia, el director de la comisión reveladora, quizá porque está situada en un documento de _El libro de Urantia_ en el que se narran cosas acerca del futuro, y estimé que sólo un Melquisedec podía tener una visión tan profunda sobre los tiempos que han de venir.
 
@@ -238,7 +259,91 @@ Llegué a él en un momento muy particular de mi vida, en una etapa difícil y c
 
 [Leer más](/es/article/Luz_y_Vida/Cuestionario_Urantiano_Julio_J_Miranda)
 
+## Charla urantiana de enero
+
+<figure id="Figure_14" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/Charlas-urantianas-v2.jpg" alt="Charla urantiana enero 25" width="350">
+</figure>
+
+La Asociación Urantia de España organiza y patrocina las llamadas «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado en el que los asistentes pueden participar.
+
+Esta es la charla programada para el mes de enero:
+
+**Sábado 18**: Explorando _El libro de Urantia_ con la Inteligencia Artificial: una nueva era de estudio (Ariel Vargas)
+
+En esta charla, se explorará cómo las herramientas de Inteligencia Artificial pueden facilitar la comprensión del vasto contenido de _El libro de Urantia_. Desde análisis de textos hasta generación de resúmenes y debates filosóficos, aprenderás cómo integrar la tecnología moderna para profundizar en los conceptos espirituales y científicos presentados en esta obra monumental. Descubre cómo las tecnologías basadas en Inteligencia Artificial pueden ser aliadas en el estudio de _El libro de Urantia_. Esta charla mostrará aplicaciones prácticas, como la creación de mapas conceptuales, respuestas a preguntas complejas y conexiones entre los temas filosóficos y espirituales del texto, abriendo nuevas perspectivas de aprendizaje.
+
+Lugar: [sala Zoom de la Asociación Urantia de España](https://zoom.us/j/362798144)
+
+ID de la sala: 362 798 144
+
+Hora: **19:00 horas** (CET, hora peninsular española)
+
+¡Os esperamos!
+<br style="clear:both;"/>
+
+
+## Nuevos cursos de la Escuela Internacional de El libro de Urantia (UBIS)
+
+<figure id="Figure_15" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/UBIS-septiembre-2021.jpg" alt="Cursos UBIS septiembre" width="350">
+</figure>
+
+En enero comienza un nuevo trimestre de cursos en la Escuela Internacional de _El libro de Urantia_ (UBIS por sus siglas en inglés). El periodo de inscripción comienza el **lunes 6 de enero** y finaliza el **domingo 19**. Los cursos comienzan el **lunes 20** con la semana de orientación.
+
+Estos son los cursos que se ofrecerán este trimestre:
+<br style="clear:both;"/>
+
+
+1. **Las lecciones de la cruz**. Facilita: Ana Eguren. Nivel: básico. Duración: 10 semanas.
+2. **La rebelión de Lucifer: origen, historia y destino**. Facilita: Irma E. Aguilar. Nivel: básico. Duración: 10 semanas.
+3. **El gran regalo del Padre a los mortales: los Ajustadores del Pensamiento**. Facilita: Orfelina Castro. Nivel: básico. Duración: 10 semanas
+4. **Dios, Deidad y divinidad: revelación al universo**. Facilita: Gabriela Arcaute. Nivel: intermedio. Duración: 10 semanas.
+5. **Jesús, el Maestro de Maestros**. Facilita: Erika Webster. Nivel: básico. Duración: 8 semanas. Formato grupo de estudio.
+
+Si estáis interesados en solicitar algún curso, previamente debéis crear una cuenta en la web de la escuela, [http://ubis.urantia.org](http://ubis.urantia.org/). Esto puede hacerse antes de que comience la inscripción.
+
+Los cupos son limitados, ¡así que inscribíos lo antes posible!
+
+Para obtener más información sobre los cursos, podéis visitar [esta página](https://www.urantia.org/es/educacion/escuela-virtual)
+
+
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
+
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-enero-2025/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-enero-2025">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Enero 2025</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_12">
+          <span class="pr-2">Luz y Vida — Enero 2025 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

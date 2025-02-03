@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Septembre 2024 — Bulletin"
+title: "Luz y Vida — Octobre 2024 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_09">
+          <span class="pr-2">Éditorial Luz y Vida – Octobre 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Septembre 2024
+Lumière et Vie — Octobre 2024
 
 ## Dans ce numéro
 
-- Éditorial – Septembre 2024 — M. José Sánchez Santamaría
+- Éditorial – Octobre 2024 — M. José Sánchez Santamaría
 - Emplois – nos recommandations du mois
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Le Livre d'Urantia pour les enfants : Jésus à 21 ans
@@ -28,7 +49,7 @@ Lumière et Vie — Septembre 2024
 - Conférence d'Urantia d'octobre
 
 
-## Éditorial – Septembre 2024 — M. José Sánchez Santamaría
+## Éditorial – Octobre 2024 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_09/Editorial-oct-24-1.jpg" alt="Editorial oct 24 -1" width="350">
@@ -181,7 +202,7 @@ De magnifiques tableaux sont arrivés de partout dans le monde connu. Certains m
 
 <br style="clear:both;"/>
 
-> Le choix de faire la volonté du Père est la découverte spirituelle du Père-esprit par l’homme mortel, même s’il faut qu’un âge s’écoule avant que le fils créé puisse effectivement se tenir en la présence factuelle de Dieu au Paradis. Ce choix ne consiste pas tant en une négation de la volonté de la créature — « que ce ne soit pas ma volonté mais la tienne qui soit faite » — mais plutôt en une affirmation positive de la créature : « c’est *ma* volonté que *ta* volonté soit faite ». Si ce choix est décidé, le fils choisissant Dieu aboutira, tôt ou tard, à l’union intérieure (la fusion) avec le fragment de Dieu qui l’habite. Tout en se perfectionnant, ce même fils trouvera la satisfaction suprême de la personnalité dans une communion adoratrice entre la personnalité de l’homme et la personnalité de son Auteur, deux personnalités dont les attributs créateurs se sont unis pour toujours dans une mutualité d’expression librement voulue — la naissance d’une autre association éternelle entre la volonté de l’homme et la volonté de Dieu. ([LU 111:5.6](/fr/The_Urantia_Book/111#p5_6))
+> Le choix de faire la volonté du Père est la découverte spirituelle du Père-esprit par l’homme mortel, même s’il faut qu’un âge s’écoule avant que le fils créé puisse effectivement se tenir en la présence factuelle de Dieu au Paradis. Ce choix ne consiste pas tant en une négation de la volonté de la créature — « que ce ne soit pas ma volonté mais la tienne qui soit faite » — mais plutôt en une affirmation positive de la créature : « c’est *ma* volonté que *ta* volonté soit faite ». Si ce choix est décidé, le fils choisissant Dieu aboutira, tôt ou tard, à l’union intérieure (la fusion) avec le fragment de Dieu qui l’habite. Tout en se perfectionnant, ce même fils trouvera la satisfaction suprême de la personnalité dans une communion adoratrice entre la personnalité de l’homme et la personnalité de son Auteur, deux personnalités dont les attributs créateurs se sont unis pour toujours dans une mutualité d’expression librement voulue — la naissance d’une autre association éternelle entre la volonté de l’homme et la volonté de Dieu. (<a id="a204_1046"></a>[LU 111:5.6](/fr/The_Urantia_Book/111#p5_6))
 
 [Lire la suite](/fr/article/Rey_Sotolongo/Mi_parrafo_favorito)
 
@@ -219,7 +240,42 @@ Heure : **19h00** (heure de la péninsule espagnole)
 
 <br style="clear:both;"/>
 
+## À propos de la newsletter Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia-association.org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
+
 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-octubre-2024/)
+- [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-octobre-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Octobre 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_09">
+          <span class="pr-2">Éditorial Luz y Vida – Octobre 2024</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

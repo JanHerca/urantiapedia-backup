@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Julio 2024 — Boletín"
+title: "Luz y Vida — Julio-Agosto 2024 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2024 Olga López<br>© 2024 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Luz y Vida — Julio-Agosto 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Julio 2024
+Luz y Vida — Julio-Agosto 2024
 
 ## En este número
 
-- Editorial – Julio 2024 — M. José Sánchez Santamaría
+- Editorial – Julio-Agosto 2024 — M. José Sánchez Santamaría
 - Presentaciones del XX Encuentro de lectores de El libro de Urantia en España
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Rebeca
@@ -24,7 +45,7 @@ Luz y Vida — Julio 2024
 - Informe sobre el Círculo de Confianza — Fernando Carazo
 - Nueva Ayuda al Estudio de Hara Davis: La familia
 
-## Editorial – Julio 2024 — M. José Sánchez Santamaría
+## Editorial – Julio-Agosto 2024 — M. José Sánchez Santamaría
 
 Manuel Vicent en su último libro, Una historia particular, nos dice al principio estas hermosas palabras:
 
@@ -34,7 +55,7 @@ Ciertamente, esas cuatro cuerdas a la que alude el escritor español son fundame
 
 Las personas que leemos _El libro de Urantia_ sabemos de las dificultades que la vida material tiene, máxime en un mundo decimal, en rebelión, sin ayuda de un gobierno planetario físico y, en bastantes ocasiones, con predominancia de nuestra parte instintiva sobre nuestra parte más elevada. Es cierto que hay muchos seres humanos que solo aspiran a nacer, crecer, reproducirse y morir; a reproducir la carrera incesante del hámster, que a nada conduce. Ahora bien, _El libro de Urantia_ nos dice:
 
-> La filosofía de las mejores mentes del mundo científico ya no es materialista por completo, aunque las masas siguen inclinándose en esa dirección como consecuencia de enseñanzas anteriores. Pero esta edad de realismo físico solo es un episodio pasajero de la vida del hombre en la tierra. La ciencia moderna ha dejado intacta la verdadera religión, es decir, las enseñanzas de Jesús tal como se traducen en la vida de sus creyentes. Lo único que ha hecho la ciencia ha sido destruir las ilusiones infantiles de las falsas interpretaciones de la vida. [LU 195:6.4](/es/The_Urantia_Book/195#p6_4)
+> La filosofía de las mejores mentes del mundo científico ya no es materialista por completo, aunque las masas siguen inclinándose en esa dirección como consecuencia de enseñanzas anteriores. Pero esta edad de realismo físico solo es un episodio pasajero de la vida del hombre en la tierra. La ciencia moderna ha dejado intacta la verdadera religión, es decir, las enseñanzas de Jesús tal como se traducen en la vida de sus creyentes. Lo único que ha hecho la ciencia ha sido destruir las ilusiones infantiles de las falsas interpretaciones de la vida. <a id="a57_553"></a>[LU 195:6.4](/es/The_Urantia_Book/195#p6_4)
 
 [Leer más](/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07)
 
@@ -141,9 +162,42 @@ En palabras de la autora: «_El libro de Urantia_ pone un énfasis significativo
 
 <br style="clear:both;"/>
 
+## Acerca del boletín Luz y Vida
 
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-julio-agosto-2024/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-julioagosto-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Julio-Agosto 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_07">
+          <span class="pr-2">Luz y Vida — Julio-Agosto 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

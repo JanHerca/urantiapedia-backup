@@ -28,7 +28,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Avec autant de détails qu'offre _Le Livre d'Urantia_ sur l'endroit où Jésus est resté retiré pendant six semaines, il ne pourrait pas être très difficile de localiser l'endroit et de se faire une petite idée de ce que c'est et, surtout, de ce que c'était. comme.
 
-Dans <a id="a14_3"></a>[LU 134:8](/fr/The_Urantia_Book/134#p8) (« Les années de transition »), on nous dit que Jésus et Tiglath ont construit un réservoir de pierre à un endroit situé à 2000 mètres d'altitude. On nous dit aussi que pour y monter, ils passèrent par un village connu alors sous le nom de Beit Jenn.[^1] [^2]
+Dans <a id="a30_5"></a>[LU 134:8](/fr/The_Urantia_Book/134#p8) (« Les années de transition »), on nous dit que Jésus et Tiglath ont construit un réservoir de pierre à un endroit situé à 2000 mètres d'altitude. On nous dit aussi que pour y monter, ils passèrent par un village connu alors sous le nom de Beit Jenn.[^1] [^2]
 
 Il ne m'a pas fallu longtemps pour trouver Beit Jenn sur une carte. Sur une carte générale du Liban à l'échelle 1/200 000 de l'Institut géographique national français[^3], le village, qui existe encore aujourd'hui et qui s'appelle Beït Jinn, apparaît très clairement. De plus, près du village se trouve un sommet de 2 224 mètres (mais ce n'est pas le plus haut sommet, qui culmine à 2 814 mètres). Il était facile de supposer que l'ascension de Jésus mentionnée dans le Livre d'Urantia est ce « petit » sommet. En consultant d'autres données, j'ai découvert qu'au total, depuis Beit Jenn, qui est située à 1 100 mètres d'altitude, il y avait environ 900 mètres de dénivelé jusqu'à l'endroit où ils ont construit l'entrepôt alimentaire.
 

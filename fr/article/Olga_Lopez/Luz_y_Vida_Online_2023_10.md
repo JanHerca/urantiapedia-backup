@@ -1,5 +1,5 @@
 ---
-title: "Lumière et Vie — Octobre 2023 — Bulletin"
+title: "Luz y Vida — Novembre 2023 — Bulletin"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Association Urantia d'Espagne</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Éditorial Luz y Vida – Novembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin d'information de l'Association Urantia d'Espagne
 
-Lumière et Vie — Octobre 2023
+Lumière et Vie — Novembre 2023
 
 ## Dans ce numéro
 
-- Éditorial – Octobre 2023 — M. José Sánchez Santamaría
+- Éditorial – Novembre 2023 — M. José Sánchez Santamaría
 - Emplois – nos recommandations du mois
 - Histoire et enseignements : Chronique de la vie de Jésus
 - Le Livre d'Urantia pour les enfants : Jésus à 15 ans
@@ -28,7 +49,7 @@ Lumière et Vie — Octobre 2023
 - Série de présentations UBIS «  In the spotlight  »
 
 
-## Éditorial – Octobre 2023 — M. José Sánchez Santamaría
+## Éditorial – Novembre 2023 — M. José Sánchez Santamaría
 
 **David contre Goliath**
 
@@ -184,9 +205,9 @@ Naturellement, il avait perdu la vue pour toujours. Mais comme son visage est de
 
 **L'héritage difficile que le Maître nous a laissé**
 
-**Œil pour œil**, dent pour dent, vie pour vie… est l’attitude vengeresse de représailles que la société a adoptée dans les temps primitifs et que toutes les tribus en voie d’évolution ont suivie [LU 70:10.9](/fr/The_Urantia_Book/70#p10_9) (Cf %%0% %). Bien plus tard, cette reconnaissance fut mise par écrit et considérée comme la loi de Moïse.
+**Œil pour œil**, dent pour dent, vie pour vie… est l’attitude vengeresse de représailles que la société a adoptée dans les temps primitifs et que toutes les tribus en voie d’évolution ont suivie <a id="a207_196"></a>[LU 70:10.9](/fr/The_Urantia_Book/70#p10_9) (Cf %%0% %). Bien plus tard, cette reconnaissance fut mise par écrit et considérée comme la loi de Moïse.
 
-La réponse de Jésus à cette prétendue loi de Moïse - qu'il désapprouvait totalement, puisqu'il rejetait toute notion de ressentiment ou de vengeance privée (Cf [LU 140:8.5](/fr/The_Urantia_Book/140#p8_5)) - fut : «  Votre règle n'est pas d'être mesure pour mesure... Vous rendrez « le bien pour le mal  » ([LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)). Il a osé proposer l'idée novatrice de «  faire quelque chose de positif pour sauver le malfaiteur au lieu de suivre le vieux principe des représailles  » ([LU 159:5.11](/fr/The_Urantia_Book/159#p5_11)). «  Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien  » ([LU 156:2.7](/fr/The_Urantia_Book/156#p2_7)). Jésus abhorrait à la fois l’idée de vengeance et l’idée de se résigner à être une victime passive de l’injustice. Il a donc proposé avec audace cette troisième voie au conflit.
+La réponse de Jésus à cette prétendue loi de Moïse - qu'il désapprouvait totalement, puisqu'il rejetait toute notion de ressentiment ou de vengeance privée (Cf <a id="a209_160"></a>[LU 140:8.5](/fr/The_Urantia_Book/140#p8_5)) - fut : «  Votre règle n'est pas d'être mesure pour mesure... Vous rendrez « le bien pour le mal  » (<a id="a209_306"></a>[LU 140:6.9](/fr/The_Urantia_Book/140#p6_9)). Il a osé proposer l'idée novatrice de «  faire quelque chose de positif pour sauver le malfaiteur au lieu de suivre le vieux principe des représailles  » (<a id="a209_507"></a>[LU 159:5.11](/fr/The_Urantia_Book/159#p5_11)). «  Mes disciples doivent non seulement cesser de faire le mal, mais apprendre à faire le bien  » (<a id="a209_653"></a>[LU 156:2.7](/fr/The_Urantia_Book/156#p2_7)). Jésus abhorrait à la fois l’idée de vengeance et l’idée de se résigner à être une victime passive de l’injustice. Il a donc proposé avec audace cette troisième voie au conflit.
 <br style="clear:both;"/>
 
 [Lire la suite](/fr/article/Jose_Manuel_Diaz/Mi_parrafo_favorito)
@@ -232,9 +253,60 @@ Vous pouvez regarder la vidéo de la session précédente sur ce lien
 
 https://youtu.be/z2PZ_nBF-Tw?si=GS4VyoKSqlwYl7Yl
 
+## Conférences urantiennes du mois de novembre
+
+<figure id="Figure_13" class="image urantiapedia image-style-align-left">
+<img src="/image/article/Luz_y_Vida/LyV_2023_10/Charlas-urantianas-nov21.png" alt="Charlas urantianas" width="250">
+</figure>
+
+L'Association Urantia d'Espagne a repris ses « causeries urantiennes », des sessions Zoom au cours desquelles un présentateur propose un sujet de départ, suivi d'un débat modéré entre les participants. Les conférences ont lieu bimensuellement (un vendredi sur deux).
+
+Voici les conférences prévues pour le mois de novembre :
+
+**Vendredi 10 : La maîtrise de soi comme mesure du progrès spirituel** (Olga López)
+**Vendredi 24 : Acquérir la maîtrise de soi** (Jaime Marco)
+
+Lieu : [Salle Zoom de l'Association](https://zoom.us/j/362798144)
+Heure : **19h00** (heure de la péninsule espagnole)
+<br style="clear:both;"/>
 
 
+## À propos de la newsletter Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida est la newsletter de l'Association Urantia d'Espagne. De 2005 à 2016, il a été publié au format PDF et distribué par courrier et par courrier électronique à la liste de lecteurs de l'association, mais il est actuellement diffusé au format newsletter à partir du contenu HTML.
+
+Si vous souhaitez recevoir la newsletter par email, veuillez [contacter l'association](https://aue.urantia-association.org/contact-us/) pour être ajouté à la liste des destinataires.
+
+Tous les travaux et nouvelles des lecteurs et des groupes d'étude sont les bienvenus, donc si vous souhaitez partager un travail secondaire, un écrit, un plan, une image, etc., vous pouvez [l'envoyer à l'association](https://aue.urantia-association.org/contact-us/) et nous le publierons après avoir évalué sa pertinence. De même, le Comité des Communications du Conseil d’Administration de l’Association Urantia d’Espagne se réserve le droit de l’éditer pour garantir qu’il répond aux normes minimales de qualité orthographique.
 
 ## Références
 
 - [Index de la revue « Luz y Vida » de l'Association d'Espagne](https://aue.urantia-association.org/luz-y-vida/)
+- [Cet article du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/luz-y-vida-noviembre-2023/)
+- [Index du magazine « Luz y Vida en ligne »](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/fr/index/articles_luz_y_vida#luz-y-vida-novembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Novembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/fr/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_10">
+          <span class="pr-2">Éditorial Luz y Vida – Novembre 2023</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

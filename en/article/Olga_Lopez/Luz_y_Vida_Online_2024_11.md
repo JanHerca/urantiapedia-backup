@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — November 2024 — Newsletter"
+title: "Luz y Vida — December 2024 — Newsletter"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2024 Olga López<br>© 2024 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Luz y Vida — December 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
-Light and Life — November 2024
+Light and Life — December 2024
 
 ## In this issue
 
-- Editorial – November 2024 — M. José Sánchez Santamaría on 11/30/2024
+- Editorial – December 2024 — M. José Sánchez Santamaría on 11/30/2024
 - Jobs – our recommendations of the month
 - History and teachings: Chronicle of the life of Jesus
 - Urantia Book Children's Guide: Permission to Marry
@@ -27,7 +48,7 @@ Light and Life — November 2024
 - Urantian Questionnaire — By Víctor García Bory
 - UBIS “In Focus” presentation series
 
-## Editorial – November 2024 — M. José Sánchez Santamaría on 11/30/2024
+## Editorial – December 2024 — M. José Sánchez Santamaría on 11/30/2024
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_11/Editorial-dic24-1.jpg" alt="Editorial diciembre 2024-1" width="350">
@@ -225,7 +246,7 @@ Only God is enough.
 Two of my favorite paragraphs refer to the concept that Jesus taught about the kingdom of heaven and the spiritual and personal transformation of the individual: “The kingdom of heaven is within you.”
 <br style="clear:both;"/>
 
-> At different times and in varying circumstances it appears that Jesus may have presented numerous concepts of the “kingdom” in his public teachings, but to his apostles he always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven. Concerning the kingdom, his last word always was, “The kingdom is within you.” ([UB 170:1.13](/en/The_Urantia_Book/170#p1_13))
+> At different times and in varying circumstances it appears that Jesus may have presented numerous concepts of the “kingdom” in his public teachings, but to his apostles he always taught the kingdom as embracing man’s personal experience in relation to his fellows on earth and to the Father in heaven. Concerning the kingdom, his last word always was, “The kingdom is within you.” (<a id="a248_384"></a>[UB 170:1.13](/en/The_Urantia_Book/170#p1_13))
 
 [Read more](/en/article/Luis_Coll/Mi_parrafo_favorito)
 
@@ -285,8 +306,43 @@ Join us to discover together the richness and depth of Jesus' teaching method, b
 
 <br style="clear:both;"/>
 
+## About the Luz y Vida newsletter
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida is the newsletter of the Urantia Association of Spain. From 2005 to 2016 it was published in PDF format and distributed by post and email to the association's reader list, but is currently distributed in newsletter format from HTML content.
+
+If you wish to receive the newsletter in your email, [contact the association](https://aue.urantia-association.org/contact-us/) to be subscribed to the recipient list.
+
+All work and news from readers and study groups are welcome, so if you wish to share any secondary work, writing, outline, image, etc., you can [send it to the association](https://aue.urantia-association.org/contact-us/) and we will publish it after evaluating its suitability. Likewise, the Communications Committee of the board of directors of the Urantia Association of Spain reserves the right to edit it to meet minimum spelling quality standards.
+
 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/2536/)
+- [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2024">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2024</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_11">
+          <span class="pr-2">Luz y Vida — December 2024 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

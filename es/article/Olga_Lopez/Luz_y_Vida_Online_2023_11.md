@@ -1,5 +1,5 @@
 ---
-title: "Luz y Vida — Noviembre 2023 — Boletín"
+title: "Luz y Vida — Diciembre 2023 — Boletín"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light grey lighten-3 px-2">© 2023 Olga López<br>© 2023 Asociación Urantia de España</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Luz y Vida — Diciembre 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Boletín de la Asociación Urantia de España
 
-Luz y Vida — Noviembre 2023
+Luz y Vida — Diciembre 2023
 
 ## En este número
 
-- Editorial – Noviembre 2023 — M. José Sánchez Santamaría
+- Editorial – Diciembre 2023 — M. José Sánchez Santamaría
 - Trabajos – nuestras recomendaciones del mes
 - Historia y enseñanzas: Crónica de la vida de Jesús
 - Guía de El libro de Urantia para niños: Jesús planea la obra de Dios
@@ -27,7 +48,7 @@ Luz y Vida — Noviembre 2023
 - Cuestionario urantiano — Mariano Pérez
 - Serie de presentaciones «En el foco» de la UBIS
 
-## Editorial – Noviembre 2023 — M. José Sánchez Santamaría
+## Editorial – Diciembre 2023 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-1.jpg" alt="Editorial dic-23-1" width="350">
@@ -174,7 +195,7 @@ Entonces, el aguador le dijo:
 
 Uno de los párrafos que más me ha llenado es el siguiente:
 
-Aprenderéis que aumentáis vuestra carga y reducís vuestras posibilidades de éxito si os tomáis demasiado en serio. Nada tiene prioridad sobre el trabajo en la esfera en la que estéis situados, ya sea en este mundo o en el próximo. El trabajo de preparación para la esfera siguiente y más alta es muy importante, pero nada es tan importante como vuestro trabajo en el mundo en el que os encontráis viviendo. Sin embargo, aunque el trabajo es importante, el yo no lo es. Cuando os sentís importantes perdéis energía en el desgaste natural de la dignidad del ego, de manera que queda poca energía para hacer el trabajo. No es la importancia del trabajo sino la importancia de sí mismas lo que agota a las criaturas inmaduras. Lo que agota es el peso del yo, no el esfuerzo del logro. Podéis hacer un trabajo importante si no os dais importancia. Podéis hacer varias cosas tan fácilmente como una sola si dejáis de lado vuestro yo. La variedad es relajante, lo que desgasta y agota es la monotonía. Uno tras otro, los días corren iguales y siempre con la misma alternativa: la vida o la muerte. [LU 48:6.37](/es/The_Urantia_Book/48#p6_37)
+Aprenderéis que aumentáis vuestra carga y reducís vuestras posibilidades de éxito si os tomáis demasiado en serio. Nada tiene prioridad sobre el trabajo en la esfera en la que estéis situados, ya sea en este mundo o en el próximo. El trabajo de preparación para la esfera siguiente y más alta es muy importante, pero nada es tan importante como vuestro trabajo en el mundo en el que os encontráis viviendo. Sin embargo, aunque el trabajo es importante, el yo no lo es. Cuando os sentís importantes perdéis energía en el desgaste natural de la dignidad del ego, de manera que queda poca energía para hacer el trabajo. No es la importancia del trabajo sino la importancia de sí mismas lo que agota a las criaturas inmaduras. Lo que agota es el peso del yo, no el esfuerzo del logro. Podéis hacer un trabajo importante si no os dais importancia. Podéis hacer varias cosas tan fácilmente como una sola si dejáis de lado vuestro yo. La variedad es relajante, lo que desgasta y agota es la monotonía. Uno tras otro, los días corren iguales y siempre con la misma alternativa: la vida o la muerte. <a id="a197_1091"></a>[LU 48:6.37](/es/The_Urantia_Book/48#p6_37)
 <br style="clear:both;"/>
 
 [Leer más](/es/article/Raul_Framinan/Mi_parrafo_favorito)
@@ -222,10 +243,57 @@ Podéis ver el vídeo de la sesión anterior en este enlace
 
 https://www.youtube.com/watch?v=E2xygoIcW9o&pp=ygUSdXJhbnRpYSBmb3VuZGF0aW9u
 
+## Charla urantiana de diciembre
 
+<figure id="Figure_13" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Charlas-urantianas-nov21.png" alt="Charlas urantianas">
+</figure>
 
+La Asociación Urantia de España ha retomado las «charlas urantianas», sesiones de Zoom en las que un presentador ofrece un tema de salida, seguido de un debate moderado entre los asistentes.
+
+Esta es la charla programada para el mes de diciembre:
+
+**Viernes 15: Trabajo, dinero, riqueza y _El libro de Urantia_** (Inmaculada Gómez)
+Lugar: [sala Zoom de la Asociación](https://zoom.us/j/362798144)
+Hora: **19:00 horas** (hora peninsular española)
+<br style="clear:both;"/>
+
+## Acerca del boletín Luz y Vida
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida es el boletín de la Asociación Urantia de España. De 2005 a 2016 se publicó en formato PDF y se distribuía por correo postal y electrónico a la lista de lectores de la asociación, pero actualmente se distribuye en formato boletín (newsletter) a partir de contenido en formato HTML.
+
+Si deseas recibir el boletín en tu correo electrónico, [contacta con la asociación](https://aue.urantia-association.org/contact-us/) para que te suscriban a la lista de destinatarios.
+
+Todos los trabajos y noticias de los lectores y de los grupos de estudio son bienvenidos, así que si deseas compartir algún trabajo secundario, escrito, esquema, imagen, etc., puedes [enviarlo a la asociación](https://aue.urantia-association.org/contact-us/) y lo publicaremos previa evaluación de su idoneidad. Asimismo, la comisión de Comunicación de la junta directiva de la Asociación Urantia de España se reserva el derecho a editarlo para que cumpla unos mínimos de calidad ortográfica.
 
 ## Referencias
 
-- [Índice de la revista “Luz y Vida” de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Índice de la revista «Luz y Vida» de la Asociación de España](https://aue.urantia-association.org/luz-y-vida/)
+- [Este artículo de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2023/)
+- [Índice de la Revista «Luz y Vida Online»](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/es/index/articles_luz_y_vida#luz-y-vida-diciembre-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Diciembre 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/es/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Luz y Vida — Diciembre 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "Light and Life — November 2023 — Newsletter"
+title: "Luz y Vida — December 2023 — Newsletter"
 description: 
 published: true
 date: 2025-1-31T13:52:37Z
@@ -9,14 +9,35 @@ dateCreated: 2025-1-31T13:52:37Z
 ---
 
 <p class="v-card v-sheet theme--light gray lighten-3 px-2">© 2023 Olga López<br>© 2023 Urantia Association of Spain</p>
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Luz y Vida — December 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 
 Bulletin of the Urantia Association of Spain
 
-Light and Life — November 2023
+Light and Life — December 2023
 
 ## In this issue
 
-- Editorial – November 2023 — M. José Sánchez Santamaría
+- Editorial – December 2023 — M. José Sánchez Santamaría
 - Jobs – our recommendations of the month
 - History and teachings: Chronicle of the life of Jesus
 - Urantia Book Children's Guide: Jesus Plans God's Work
@@ -27,7 +48,7 @@ Light and Life — November 2023
 -Urantian questionnaire — Mariano Pérez
 - UBIS “In Focus” presentation series
 
-## Editorial – November 2023 — M. José Sánchez Santamaría
+## Editorial – December 2023 — M. José Sánchez Santamaría
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Editorial-dic-23-1.jpg" alt="Editorial dic-23-1" width="350">
@@ -174,7 +195,7 @@ Then the water carrier said to him:
 
 One of the paragraphs that has filled me the most is the following:
 
-You will learn that you increase your burden and reduce your chances of success if you take yourself too seriously. Nothing takes priority over the work in the sphere in which you are situated, whether in this world or the next. The work of preparation for the next and higher sphere is very important, but nothing is as important as your work in the world in which you find yourself living. However, although the work is important, the self is not. When you feel important you lose energy in the natural wear and tear of ego dignity, so that little energy is left to do the work. It is not the importance of the work but the importance of self that exhausts immature creatures. It is the weight of self that exhausts, not the effort of achievement. You can do important work if you do not give yourself importance. You can do several things as easily as one thing if you let go of your self. Variety is soothing; it is monotony that wears and exhausts. One after another, the days run the same and always with the same alternative: life or death. [UB 48:6.37](/en/The_Urantia_Book/48#p6_37)
+You will learn that you increase your burden and reduce your chances of success if you take yourself too seriously. Nothing takes priority over the work in the sphere in which you are situated, whether in this world or the next. The work of preparation for the next and higher sphere is very important, but nothing is as important as your work in the world in which you find yourself living. However, although the work is important, the self is not. When you feel important you lose energy in the natural wear and tear of ego dignity, so that little energy is left to do the work. It is not the importance of the work but the importance of self that exhausts immature creatures. It is the weight of self that exhausts, not the effort of achievement. You can do important work if you do not give yourself importance. You can do several things as easily as one thing if you let go of your self. Variety is soothing; it is monotony that wears and exhausts. One after another, the days run the same and always with the same alternative: life or death. <a id="a197_1048"></a>[UB 48:6.37](/en/The_Urantia_Book/48#p6_37)
 <br style="clear:both;"/>
 
 [Read more](/en/article/Raul_Framinan/Mi_parrafo_favorito)
@@ -222,10 +243,58 @@ You can watch the video of the previous session at this link
 
 https://www.youtube.com/watch?v=E2xygoIcW9o&pp=ygUSdXJhbnRpYSBmb3VuZGF0aW9u
 
+## Urantia Talk for December
 
+<figure id="Figure_13" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Charlas-urantianas-nov21.png" alt="Charlas urantianas">
+</figure>
 
+The Urantia Association of Spain has resumed the "Urantian talks", Zoom sessions in which a presenter offers a starting topic, followed by a moderated debate among the attendees.
+
+This is the talk scheduled for the month of December:
+
+**Friday 15: Work, money, wealth and _The Urantia Book_** (Inmaculada Gómez)
+Place: [Zoom room of the Association](https://zoom.us/j/362798144)
+Time: **7:00 p.m.** (Spanish peninsular time)
+<br style="clear:both;"/>
+
+## About the Luz y Vida newsletter
+
+<figure id="Figure_16" class="image urantiapedia">
+<img src="/image/article/Luz_y_Vida/Spain-logo.png" alt="Logo AUE">
+</figure>
+
+Luz y Vida is the newsletter of the Urantia Association of Spain. From 2005 to 2016 it was published in PDF format and distributed by post and email to the association's reader list, but is currently distributed in newsletter format from HTML content.
+
+If you wish to receive the newsletter in your email, [contact the association](https://aue.urantia-association.org/contact-us/) to be subscribed to the recipient list.
+
+All work and news from readers and study groups are welcome, so if you wish to share any secondary work, writing, outline, image, etc., you can [send it to the association](https://aue.urantia-association.org/contact-us/) and we will publish it after evaluating its suitability. Likewise, the Communications Committee of the board of directors of the Urantia Association of Spain reserves the right to edit it to meet minimum spelling quality standards.
 
 ## References
 
 - [Index of the magazine “Luz y Vida” of the Association of Spain](https://aue.urantia-association.org/luz-y-vida/)
+- [This article from the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/luz-y-vida-diciembre-2023/)
+- [Index of the magazine “Luz y Vida Online”](https://aue.urantia-association.org/newsletter/ncategory/boletines-aue/)
 
+
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-december-2023">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — December 2023</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2023_11">
+          <span class="pr-2">Luz y Vida — December 2023 — Editorial</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
