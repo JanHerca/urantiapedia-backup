@@ -174,7 +174,7 @@ https://www.youtube.com/watch?v=Z8vz9fNQxbQ
 ## Naviguer dans la vie : L'arbre confus
 
 <figure id="Figure_10" class="image urantiapedia image-style-align-left">
-<img src="/image/article/Luz_y_Vida/LyV_2024_12/CEl-arbol-confundido.jpg" alt="El árbol confundido" width="350">
+<img src="/image/article/Luz_y_Vida/LyV_2024_12/El-arbol-confundido.jpg" alt="El árbol confundido" width="350">
 </figure>
 
 Il était une fois un beau jardin, avec des pommiers, des orangers, des poiriers et des rosiers, tous heureux et satisfaits.
@@ -207,7 +207,7 @@ Nous seuls pouvons savoir qui nous sommes.
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Circulo-de-Confianza-Verdad.jpg" alt="Círculo de Confianza: verdad" width="350">
 </figure>
 
-_\[Nous commençons ici une série d’épisodes des idées qui ont émergé dans les conversations du Cercle de Confiance soutenu par l’Association Urantia d’Espagne. Nous croyons que ces réflexions peuvent servir aux autres et susciter de nouvelles réflexions, tout en respectant la vie privée et l’anonymat des membres du cercle.
+_\[Nous commençons ici une série d’épisodes des idées qui ont émergé dans les conversations du Cercle de Confiance soutenu par l’Association Urantia d’Espagne. Nous croyons que ces réflexions peuvent servir aux autres et susciter de nouvelles réflexions, tout en respectant la vie privée et l’anonymat des membres du cercle.\]_
 
 **13e réunion du Cercle de confiance, 20 septembre 2024**
 
@@ -226,6 +226,8 @@ Une série de concepts liés à la vérité ont été différenciés : la vérit
 
 ## Mon paragraphe préféré — Jan Herca
 
+<br>
+
 <figure id="Figure_12" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Mi-parrafo-favorito-Jan-Herca.jpg" alt="Mi párrafo favorito - Jan Herca">
 </figure>
@@ -240,7 +242,7 @@ Quoi qu’il en soit, ce qui m’attire le plus dans ce paragraphe, c’est qu�
 
 [Lire la suite](/fr/article/Jan_Herca/Mi_parrafo_favorito)
 
-##Questionnaire Urantien
+## Questionnaire Urantien
 
 <figure id="Figure_13" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_12/Julio-J.-MIranda.jpg" alt="Julio J. Miranda" width="250">

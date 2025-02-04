@@ -59,7 +59,7 @@ Al abordar el origen y sus desarrollos, debemos tener en un rincón de nuestra c
 
 > «_Hablamos del «primer» pensamiento de Dios y aludimos a un imposible origen del Hijo Eterno en el tiempo con el objeto de lograr acceder a los canales de pensamiento del intelecto humano. Estas deformaciones de lenguaje representan nuestros mejores esfuerzos por llegar a un compromiso que permita ponernos en contacto con la mente de las criaturas mortales atadas al tiempo. En sentido secuencial, el Padre Universal no ha podido tener nunca un primer pensamiento, ni el Hijo Eterno un principio. Pero me han ordenado describir las realidades de la eternidad a la mente de los mortales limitada por el tiempo con estos símbolos de pensamiento, y designar las relaciones de la eternidad mediante estos conceptos temporales de secuencia._» (<a id="a59_743"></a>[LU 6:0.2](/es/The_Urantia_Book/6#p0_2))
 
-##EL ORIGEN.
+## EL ORIGEN.
 
 **Maduración del Infinito-Infinititud del YO SOY**
 
@@ -125,10 +125,14 @@ Entonces, veamos la cronología de estas diferentes secuencias.
 
 Representaremos el **YO SOY** como un círculo con un punto azul indicando que tiene voluntad propia.
 
+<br>
+
 <figure id="Figure_22" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figura 1.</em> SOY ESTÁTICO:<br>Contenido en sí mismo<br>Existente en sí mismo<br>Quererse a sí mismo<br>Tener una meta en sí mismo</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ¿Cuáles son estas cosas y no cosas, estas causas y efectos, esta volición y estas reacciones? ¿Estos potenciales y sus actuales a los que alude Melquisedec y que aún no están “eternalizados”? Estas son las personalizaciones futuras del **YO SOY** con sus naturalezas y sus atributos, los diferentes elementos de los cuatro niveles de realidad que serán necesarios para que el **YO SOY** alcance su propósito. Notemos simplemente que en esta hipotética etapa de «eternidad pasada» todo esto está en gestación, incluido en el plan, pero nada está todavía «eternalizado» excepto que el **YO SOY ES**.
 
@@ -148,10 +152,14 @@ Estas operaciones tienen lugar dentro del solitario YO SOY que, sin dejar de ser
 
 La volición propia implica un diseño del YO SOY que se manifiesta en la liberación de las cadenas del Infinito-Infinito a través de la diferenciación entre lo prepersonal y lo preimpersonal.
 
+<br>
+
 <figure id="Figure_23" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Le_Lien/images_02/170.jpg">
 <figcaption><em>Figura 2.</em> YO SOY TRINO:<br>El Infinito se diferencia del Infinito para llegar a una concepción trina</figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 **Segundo paso** (_Figura 3_)
 
@@ -321,7 +329,7 @@ Así termina la primera parte de nuestra exploración de las edades del universo
 
 
 
-##Notas
+## Notas
 
 
 [^1]: Teleología: Este término se deriva de dos palabras griegas: telos (fin, meta, diseño) y logos (razón, explicación). La teleología es el estudio de las causas finales, de la finalidad, en la filosofía analítica. Forma una especificación de finalismo con la teleonomía. Esta doctrina pretende explicar los fenómenos mediante la intervención de una causa final. Ella considera que todo tiene un final. Concibe el mundo como un sistema de relaciones, de relaciones entre medios y fines.

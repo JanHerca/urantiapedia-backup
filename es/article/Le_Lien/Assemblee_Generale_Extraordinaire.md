@@ -73,7 +73,7 @@ La asamblea vota a mano alzada y renueva el cargo ejecutivo en su conjunto. Para
 - Tesorero: Sr. Jean Duveau
 - Secretario: Sr. Max Masotti
 
-##II. Resolución para el año 2015:
+## II. Resolución para el año 2015:
 
 **a/ Evolución del número de lectores**
 
@@ -87,7 +87,7 @@ Respecto a las donaciones de lectores:
 
 En 2014 los lectores donaron 5.930 euros y en 2015 las donaciones ascendieron a 3.850 euros a 30 de junio.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 <figure id="Figure_7" class="image urantiapedia">
 <img src="/image/article/Le_Lien/images_02/007.jpg">
@@ -140,7 +140,7 @@ Puedes descargar o consultar la nueva edición/revisión 2014 aquí (un único a
 
 http://urantia.fr/udocs/livre_urantia_2014.pdf
 
-##III. Resolución para el año 2015:
+## III. Resolución para el año 2015:
 
 **tiene. Correcciones a los estatutos.**
 
@@ -157,7 +157,7 @@ Tras una votación secreta y por correo, recibimos 17 respuestas sobre la elimin
 <figcaption>El Presidente lee los acuerdos del orden del día</figcaption>
 </figure>
 
-##IV. Resolución para 2015: Reestructuración del periódico Le Lien.
+## IV. Resolución para 2015: Reestructuración del periódico Le Lien.
 
 Véase el artículo titulado “Carta editorial de Le Lien”
 

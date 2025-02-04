@@ -43,7 +43,7 @@ Los Fideicomisarios de la Fundación Urantia se complacen en anunciar la elecci�
 
 Cada nuevo fideicomisario aporta años de experiencia profesional a la comunidad del _Libro de Urantia_. Añaden una diversidad geográfica y de género crítica a la expansión global de la Quinta Época del Apocalipsis. «Es maravilloso ampliar finalmente la Junta Directiva de la Fundación Urantia de los cinco miembros actuales a una nueva junta de nueve miembros», dijo Marilynn Kulieke, vicepresidenta de la Fundación Urantia. “Estamos muy agradecidos de que cada nuevo administrador haya elegido compartir su talento, experiencia y dedicación con nosotros. ¡Qué hermoso día! »
 
-##Olga López Molina
+## Olga López Molina
 
 <figure id="Figure_5" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/094.jpg">
@@ -59,9 +59,9 @@ _Ella sirvió en la fundación como:_
 - El director de la filial española de la Escuela de Internet del Libro de Urantia (UBIS).
 - Miembro del Comité de Traducción de la Fundación.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
-##Víctor García-Bory
+## Víctor García-Bory
 
 <figure id="Figure_6" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/095.jpg">
@@ -78,7 +78,7 @@ _Actualmente estoy:_
 
 - Miembro del comité de traducciones de la fundación.
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
 ## Sherry Cathcart Chavis
 
@@ -96,9 +96,9 @@ _Ella sirve a la fundación como:_
 - Miembro del comité de recaudación de fondos.
 - Miembro del comité de gobierno
 
-<br estilo=«claro:ambos;»/>
+<br style="clear:both;"/>
 
-##Chris madera
+## Chris madera
 
 <figure id="Figure_8" class="image urantiapedia image-style-align-right">
 <img src="/image/article/Le_Lien/images_03/097.jpg">
