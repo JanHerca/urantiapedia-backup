@@ -1,5 +1,5 @@
 ---
-title: "Obtener libros «fuente»"
+title: "Obtener libros supuestamente usados por los reveladores"
 description: 
 published: true
 date: 2021-11-28T14:02:03.086Z
@@ -12,15 +12,15 @@ dateCreated: 2021-11-28T14:02:03.086Z
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros supuestamente usados por los reveladores</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_articles_catalog">Catálogo de artículos</a></td>
+        <td><a href="/es/help/github_topicindex">Traducción y revisión de la Enciclopedia</a></td>
       </tr>
     </tbody>
   </table>
 </figure>
 
-Aquí se describe cómo obtener los libros que se suponen fuentes de *El Libro de Urantia* o tienen alguna relación o paralelismo con *El Libro de Urantia*, y que han sido catalogados siguiendo la tarea [Creación de un catálogo de libros «fuente»](/es/help/github_sourcebooks_catalog).
+Aquí se describe cómo obtener los libros que se suponen fuentes de *El Libro de Urantia* o tienen alguna relación o paralelismo con *El Libro de Urantia*, y que han sido catalogados siguiendo la tarea [Creación de un catálogo de libros supuestamente usados por los reveladores](/es/help/github_sourcebooks_catalog).
 
 ## Proceso
 
@@ -204,10 +204,10 @@ Puesto que al convertir cada capítulo de un libro en una página web perdemos l
 La marca de página debe incluirse entre las palabras en las que se pasa de una página a otra como sigue:
 
 ```
-Más allá de los asteroides vienen los cuatro grandes planetas Júpiter, Saturno, Urano y Neptuno, todos ellos mucho más grandes que la Tierra. Júpiter, el más grande, tiene, según Sampson, un diámetro de 88.640 millas [142.652 km], o <span id="p18">[<sup><small>p. 18</small></sup>]</span> más de once veces el diámetro de la tierra; mil cuatrocientos cuerpos del tamaño de la Tierra podrían estar empaquetados dentro de Júpiter y dejar espacio de sobra. Saturno, que le sigue en orden, solo es superado por Júpiter en tamaño, con un diámetro de unas 70.000 millas [112.654 km]. Estos dos son, con mucho, los más grandes de los planetas.
+Más allá de los asteroides vienen los cuatro grandes planetas Júpiter, Saturno, Urano y Neptuno, todos ellos mucho más grandes que la Tierra. Júpiter, el más grande, tiene, según Sampson, un diámetro de 88.640 millas [142.652 km], o <span id="p18"><sup><small>[ p. 18 ]</small></sup></span> más de once veces el diámetro de la tierra; mil cuatrocientos cuerpos del tamaño de la Tierra podrían estar empaquetados dentro de Júpiter y dejar espacio de sobra. Saturno, que le sigue en orden, solo es superado por Júpiter en tamaño, con un diámetro de unas 70.000 millas [112.654 km]. Estos dos son, con mucho, los más grandes de los planetas.
 ```
 
-Se puede ver que la marca es: `<span id="p18">[<sup><small>p. 18</small></sup>]</span>`.
+Se puede ver que la marca es: `<span id="p18"><sup><small>[ p. 18 ]</small></sup></span>`.
 
 Como esta tarea puede ser tediosa una manera de hacerla más simple puede ser colocar una marca alternativa más corta, como `ppp18` (`ppp` es un texto que sabemos que nunca va a ocurrir), por seguir con el ejemplo anterior. Luego se pueden buscar esas marcas y reemplazarlas por las definitivas de un modo automático como hemos indicado en otro ejemplo más arriba. Es decir, así también valdría:
 
@@ -365,9 +365,9 @@ Esto completa todas las cosas a tener en cuenta al añadir libros «fuente» a l
   <table>
     <tbody>
       <tr>
-        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros «fuente»</a></td>
+        <td><a href="/es/help/github_sourcebooks_catalog">Creación de un catálogo de libros supuestamente usados por los reveladores</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_articles_catalog">Catálogo de artículos</a></td>
+        <td><a href="/es/help/github_topicindex">Traducción y revisión de la Enciclopedia</a></td>
       </tr>
     </tbody>
   </table>
