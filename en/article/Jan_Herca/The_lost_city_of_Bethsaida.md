@@ -50,11 +50,11 @@ First of all, Bethsaida is mentioned 7 times in the gospels:
 
 The Jewish historian Flavius ​​Josephus mentioned it on several occasions:
 
-> He also raised the village of Bethsaida, situated on Lake Gennesaret, to the status of a city, adding inhabitants and securing fortifications, and called it Julias, the same name as Caesar's daughter. [AJ 18:2.1]
+> He also raised the village of Bethsaida, situated on Lake Gennesaret, to the status of a city, adding inhabitants and securing fortifications, and called it Julias, the same name as Caesar's daughter. [[AJ 18:2.1](/en/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_18#v2_1)] 
 
 It seems that the name change of the town took place around the year 30, the year of Jesus' death, but we do not get its location from there.
 
-> ...when [the Jordan River] has traveled another one hundred and twenty stadia, it first passes the city of Julias, then flows through the middle of Lake Gennesaret; then it flows a long way through a desert, and ends at Lake Asphaltitus. [BJ 3:5.1]
+> ...when [the Jordan River] has traveled another one hundred and twenty stadia, it first passes the city of Julias, then flows through the middle of Lake Gennesaret; then it flows a long way through a desert, and ends at Lake Asphaltitus. [[BJ 3:10.7](/en/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v10_7)]
 
 From the description it seems to be saying that Julias, the ancient Bethsaida, was located before the mouth of the Jordan in the Sea of ​​Galilee.
 
@@ -100,7 +100,7 @@ If we base ourselves on the assumption, which may be erroneous, that the four ev
 - Jesus teaches the crowd and then feeds them through a miraculous multiplication of loaves and fishes (_Mc_, _Mt_, _Lc_ and _Jn_).
 - The crowd tries to proclaim Jesus king (_Jn_).
 - He asks the disciples to leave (_Mc_ and _Mt_) while he withdraws to a mountain to pray (_Mc_, _Mt_ and _Jn_).
-- The disciples travel by boat towards Bethsaida (Mc), to the other shore (_Mt_), towards Capernaum (_Jn_).
+- The disciples travel by boat towards Bethsaida (_Mc_), to the other shore (_Mt_), towards Capernaum (_Jn_).
 - The headwind prevents them from moving forward (_Mc_, _Mt_ and _Jn_).
 - Jesus walks on water (_Mc_, _Mt_ and _Jn_), invites Peter to do so (_Mt_), and gets into the boat (_Mc_ and _Mt_).
 - They arrive at their destination (_Jn_), but it is finally Genesaret (_Mc_ and _Mt_).
@@ -152,10 +152,12 @@ Mendel Nun goes on to say that remains of round buildings, some 5 m in diameter,
 
 Mendel Nun claims that el-Araj, which is just a thin strip off the coast, hides the ruins of ancient Bethsaida beneath it, and that even more remains are still hidden beneath the waters, which were submerged. Because the area has become swampy, excavation is complicated and laborious. Perhaps this is the reason why no systematic archaeological excavation has yet been carried out in this area, which may be hiding ruins of invaluable interest.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/mapa_mar_Galilea_EN.png">
 <figcaption><em>Map of the ancient ports of the Sea of ​​Galilee (based on Mendel Nun).<br> On the left is Tabgha (Bethsaida), the home of several apostles. On the right, et-Tell and el-Araj, the two sites disputed for identification with Bethsaida-Julias.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Expert theories
 
@@ -223,10 +225,12 @@ When this article was first published in 2006, I had no doubt that further archa
 
 How many things we still have to discover in this fascinating puzzle that is the life of Jesus and his times!
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/elaraj_excavation_project.jpg">
 <figcaption><em>The el-Araj excavation team at the perimeter of the Byzantine Church of the Apostles.</em> <a href="https://www.elarajexcavations.com/post/el-araj-season-4-the-final-day-day-five-week-4">Link</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## References
 

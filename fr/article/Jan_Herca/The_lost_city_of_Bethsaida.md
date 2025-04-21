@@ -50,11 +50,11 @@ Tout d’abord, Bethsaïda est mentionnée 7 fois dans les évangiles :
 
 L'historien juif Flavius ​​​​Josephus l'a évoqué à plusieurs reprises :
 
-> [Philippe] éleva également la ville de Bethsaïda, située sur le lac Génésaret, au rang de ville, ajoutant des habitants et sécurisant les fortifications, et l'appela Julias, du même nom que la fille de César. [AJ 18:2.1]
+> [Philippe] éleva également la ville de Bethsaïda, située sur le lac Génésaret, au rang de ville, ajoutant des habitants et sécurisant les fortifications, et l'appela Julias, du même nom que la fille de César. [[AJ 18:2.1](/fr/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_18#v2_1)] 
 
 Il semble que le changement de nom de la ville ait eu lieu vers l'an 30, année de la mort de Jésus, mais nous ne savons pas sa localisation à partir d'ici.
 
-> ...quand [le Jourdain] a parcouru encore cent vingt stades, il passe d'abord par la ville de Julias, puis traverse le milieu du lac Génésaret ; Ensuite, il parcourt une longue distance à travers un désert et se termine au lac Asfaltitis. [BJ 3:5.1]
+> ...quand [le Jourdain] a parcouru encore cent vingt stades, il passe d'abord par la ville de Julias, puis traverse le milieu du lac Génésaret ; Ensuite, il parcourt une longue distance à travers un désert et se termine au lac Asfaltitis. [[BJ 3:10.7](/fr/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v10_7)]
 
 D'après la description, il semble dire que Julias, l'ancienne Bethsaïda, était située avant l'embouchure du Jourdain dans la mer de Galilée.
 
@@ -100,7 +100,7 @@ Si nous partons de l'hypothèse, qui peut être erronée, que les quatre évang�
 - Jésus instruit la foule puis la nourrit par une multiplication miraculeuse de pains et de poissons (_Mc_, _Mt_, _Lc_ et _Jn_).
 - La foule tente de proclamer Jésus (_Jn_) roi.
 - Il demande aux disciples de partir (_Mc_ et _Mt_) pendant qu'il se retire sur une montagne pour prier (_Mc_, _Mt_ et _Jn_).
-- Les disciples marchent en bateau vers Bethsaïda (Mc), vers l'autre rive (_Mt_), vers Capharnaüm (_Jn_).
+- Les disciples marchent en bateau vers Bethsaïda (_Mc_), vers l'autre rive (_Mt_), vers Capharnaüm (_Jn_).
 - Le vent contraire les empêche d'avancer (_Mc_, _Mt_ et _Jn_).
 - Jésus marche sur les eaux (_Mc_, _Mt_ et _Jn_), invite Pierre à le faire (_Mt_), et monte dans la barque (_Mc_ et _Mt_).
 - Ils arrivent à destination (_Jn_), mais c'est finalement Génésaret (_Mc_ et _Mt_).
@@ -152,10 +152,12 @@ Mendel Nun poursuit sa présentation en indiquant que des restes de bâtiments r
 
 Mendel Nun assure qu'El-Araj, qui n'est qu'une fine bande en face de la côte, se cache sous les ruines de l'ancienne Bethsaïde et que même sous les eaux se trouvent encore d'autres vestiges qui ont été inondés. La zone étant devenue marécageuse, les fouilles sont compliquées et laborieuses. C'est peut-être la raison pour laquelle aucune fouille archéologique systématique n'a encore été réalisée dans cette zone, qui pourrait cacher des ruines d'un intérêt inestimable.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/mapa_mar_Galilea_FR.png">
 <figcaption><em>Carte des anciens ports de la mer de Galilée (basée sur Mendel Nun).<br> Tabgha (Betsaida), la maison de plusieurs apôtres, est représentée à gauche. A droite, et-Tell et el-Araj, les deux sites qui contestent l'identification à Bethsaïda-Julias.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Théories d'experts
 
@@ -223,10 +225,12 @@ Lorsque cet article a été publié pour la première fois en 2006, je n’avais
 
 Que de choses nous reste-t-il encore à découvrir dans ce puzzle passionnant qu’est la vie de Jésus et son époque !
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/elaraj_excavation_project.jpg">
 <figcaption><em>L'équipe de fouilles d'el-Araj au périmètre de l'église byzantine des Apôtres.</em> <a href="https://www.elarajexcavations.com/post/el-araj-season-4-the-final-day-day-five-week-4">Lien</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Références
 

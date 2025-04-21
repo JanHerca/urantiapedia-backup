@@ -50,11 +50,11 @@ En primer lugar, Betsaida es mencionada 7 veces en los evangelios:
 
 El historiador judío Flavio Josefo la mencionó en varias ocasiones:
 
-> También elevó [Filipo] la villa de Betsaida, situada en el lago Gennesaret, al estatus de ciudad, añadiendo habitantes y asegurando fortificaciones, y la llamó Julias, el mismo nombre que la hija del César. [[AJ 18:2.1](/es/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_18#2_1)] 
+> También elevó [Filipo] la villa de Betsaida, situada en el lago Gennesaret, al estatus de ciudad, añadiendo habitantes y asegurando fortificaciones, y la llamó Julias, el mismo nombre que la hija del César. [[AJ 18:2.1](/es/book/Judaism/The_Works_of_Flavius_Josephus/Antiquities_18#v2_1)] 
 
 Parece ser que el cambio de nombre de la villa tuvo lugar hacia el año 30, año de la muerte de Jesús, pero de aquí no sacamos su emplazamiento.
 
-> ...cuando [el río Jordán] ha recorrido otros ciento veinte estadios, pasa primero la ciudad de Julias, y luego atraviesa por medio del lago Gennesaret; después corre un largo trecho por un desierto, y finaliza en el lago Asfaltitis. [[BJ 3:10.7](/es/book/Judaism/The_Works_of_Flavius_Josephus/War_3#10_7)]
+> ...cuando [el río Jordán] ha recorrido otros ciento veinte estadios, pasa primero la ciudad de Julias, y luego atraviesa por medio del lago Gennesaret; después corre un largo trecho por un desierto, y finaliza en el lago Asfaltitis. [[BJ 3:10.7](/es/book/Judaism/The_Works_of_Flavius_Josephus/War_3#v10_7)]
 
 Por la descripción parece estar diciendo que Julias, la antigua Betsaida, estaba situada antes de la desembocadura del Jordán en el mar de Galilea.
 
@@ -100,7 +100,7 @@ Si nos basamos en el supuesto, que puede ser erróneo, de que los cuatro evangel
 - Jesús enseña a la multitud y luego les alimenta mediante una multiplicación milagrosa de panes y peces (_Mc_, _Mt_, _Lc_ y _Jn_).
 - La multitud intenta proclamar rey a Jesús (_Jn_).
 - Pide a los discípulos que se marchen (_Mc_ y _Mt_) mientras él se retira a un monte a orar (_Mc_, _Mt_ y _Jn_).
-- Los discípulos marchan por barca en dirección a Betsaida (Mc), a la otra orilla (_Mt_), hacia Cafarnaúm (_Jn_).
+- Los discípulos marchan por barca en dirección a Betsaida (_Mc_), a la otra orilla (_Mt_), hacia Cafarnaúm (_Jn_).
 - El viento contrario les impide avanzar (_Mc_, _Mt_ y _Jn_).
 - Jesús camina sobre las aguas (_Mc_, _Mt_ y _Jn_), invita a Pedro a hacerlo (_Mt_), y sube a la barca (_Mc_ y _Mt_).
 - Llegan a su destino (_Jn_), pero que finalmente es Genesaret (_Mc_ y _Mt_).
@@ -152,10 +152,12 @@ Mendel Nun continúa su exposición indicando que se encontraron restos de edifi
 
 Mendel Nun asegura que el-Araj, que es apenas una franja delgada delante de la costa, esconde debajo las ruinas de la antigua Betsaida, y que incluso bajo las aguas están todavía más restos que quedaron inundados. Debido a que la zona se ha vuelto pantanosa, la realización de excavaciones es complicada y laboriosa. Quizá este sea el motivo de que aún no se haya realizado ninguna excavación arqueológica sistemática en esta zona, que puede estar escondiendo unas ruinas de invaluable interés.
 
-<figure id="Figure_2" class="image urantiapedia">
+<figure id="Figure_2" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/mapa_mar_Galilea_ES.png">
 <figcaption><em>Mapa de los antiguos puertos del Mar de Galilea (basado en Mendel Nun).<br> A la izquierda se muestra Tabgha (Betsaida), el hogar de varios apóstoles. A la derecha, et-Tell y el-Araj, los dos emplazamientos que se disputan la identificación con Betsaida-Julias.</em></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Teorías de los expertos
 
@@ -223,10 +225,12 @@ Cuando este artículo fue publicado por primera vez en 2006 no tenía ninguna du
 
 ¡Cuántas cosas nos quedan aún por descubrir en este apasionante puzzle que es la vida de Jesús y su época!
 
-<figure id="Figure_3" class="image urantiapedia">
+<figure id="Figure_3" class="image urantiapedia image-style-align-center">
 <img src="/image/article/Jan_Herca/The_lost_city_of_Bethsaida/elaraj_excavation_project.jpg">
 <figcaption><em>El equipo de excavación de el-Araj en el perímetro de la iglesia bizantina de los apóstoles.</em> <a href="https://www.elarajexcavations.com/post/el-araj-season-4-the-final-day-day-five-week-4">Enlace</a></figcaption>
 </figure>
+
+<br style="clear:both;"/>
 
 ## Referencias
 
