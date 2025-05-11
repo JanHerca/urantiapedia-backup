@@ -8,6 +8,27 @@ editor: markdown
 dateCreated: 2024-08-13T14:02:03.086Z
 ---
 
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface_Third_Edition">
+          <span class="pr-2">Preface To The Third Edition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
 <span id="pvii">[<sup><small>p. vii</small></sup>]</span>
 
 This volume is the outcome of an ever memorablte tour through the country of the men of the Old Stone Age, guided by three of the distinguished archaeologists of France, to whom the work is gratefully dedicated. This Palaeolithic tour[^1] of three weeks, accompanied as it was by a constant flow of conversation and discussion, made a very profound impression, namely, of the very early evolution of the spirit of man, of the close relation bet'ween early human environment and industry and the development of mind, of the remote antiquity of the human powers of observation, of discovery, and of invention. It appears that men with faculties and powers like our own, but in the infancy of education and tradition, were living in this region of Europe at least 25,000 years ago. Back of these intelligent races were others, also of eastern origin but in earlier stages of mental development, all pointing to the very remote ancestry of man from earlier mental and physical stages.
@@ -22,7 +43,7 @@ The attempt to place this long chapter of prehistory on a historical basis has m
 
 This question is closely related to that of the antiquity of the oldest implements shaped by the human hand. Here again I have adopted an opinion opposed by some of the highest authorities, but supported by others, namely, that the earliest of these undoubted handiworks occur relatively late in the Pleistocene, namely, about 125,000 years ago. Since the Piltdown man was found in association with such implements, it is at once seen that the two questions hang together.
 
-This work represents the co-operation of many specialists on a single, very complex problem. I am not in any sense an archaeologist, and in this important and highly technical field I have relied cluefly upon the work of Hugo Obermaier and of Dechelette in the Lower Palaeolithic, and of Henri Breuil in the Upper Palaeolithic. Through the courtesy of Doctor Obermaier I had the privilege of watching the exploration of the wonderful grotto of Castillo, in northern Spain, which affords a unique and almost complete sequence of the industries of the entire Old Stone Age. This visit and that to the cavern of Altamira, with its wonderful frescoed ceiling, were in themselves a liberal education in the prehistory of man. With the Abbe Breuil I visited all the old camping stations of Upper Palaeolithic times in Dordogne and noted with wonder and admiration his detection of all the fime gradations of invention which separate the flint-makers of that period. With Professor Cartailhac I enjoyed a broad survey of the Lower <span id="px">[<sup><small>p. x</small></sup>]</span> and Upper Palaeolithic stations and caverns of the Pyrenees region and took note of his learned and spirited comments. Here also welfead the prixilege of being with the party who entered for the first time the cavern of Tuc d’Audoubert, with the Comte de Begouen and his sons.
+This work represents the co-operation of many specialists on a single, very complex problem. I am not in any sense an archaeologist, and in this important and highly technical field I have relied cluefly upon the work of Hugo Obermaier and of Dechelette in the Lower Palaeolithic, and of Henri Breuil in the Upper Palaeolithic. Through the courtesy of Doctor Obermaier I had the privilege of watching the exploration of the wonderful grotto of Castillo, in northern Spain, which affords a unique and almost complete sequence of the industries of the entire Old Stone Age. This visit and that to the cavern of Altamira, with its wonderful frescoed ceiling, were in themselves a liberal education in the prehistory of man. With the Abbé Breuil I visited all the old camping stations of Upper Palaeolithic times in Dordogne and noted with wonder and admiration his detection of all the fime gradations of invention which separate the flint-makers of that period. With Professor Cartailhac I enjoyed a broad survey of the Lower <span id="px">[<sup><small>p. x</small></sup>]</span> and Upper Palaeolithic stations and caverns of the Pyrenees region and took note of his learned and spirited comments. Here also welfead the prixilege of being with the party who entered for the first time the cavern of Tuc d'Audoubert, with the Comte de Begouen and his sons.
 
 In the American Museum I have been greatly aided by Mr. Nels C. Nelson, who has reviewed all the archaeological notes and greatly assisted me in the classification of the flint and bone implements which is adopted in this volume.
 
@@ -34,7 +55,7 @@ In the collection of materials and illustrations from the vast number of origina
 
 Interest in human evolution centres chiefly in the skull and in the brain. The slope of the forehead and the other angles, which are so important in forming an estimate of the brain capacity, may be directly compared throughout this volume, because the profile or side view of every skull figured is placed in exactly the same relative position, namely, on the lines established by the anatomists of the Frankfort Convention to conform to the natural pose of the head on the living body.
 
-In anatomy I have especially profited by the co-operation of my former student and present university colleague Professor J. Howard McGregor, of Columbia, who has shown great anatomical as well as artistic skill in the restoration of the heads of the four races of _Trinil_, _Piltdown_, _Neanderthal_, and _Crô-Magnon_. The new reconstruction of the Piltdown head is with the aid of casts sent to me by my friend Doctor A. Smith Woodward, of the British Museum of Natural History. The problem of reconstruction of the Piltdown skull has, through the differences of interpretation by Smith Woodward, EUiot Smith, and Arthur Eeith, become one of the _causes célèbres_ of anthropology. On the placing of the fragments of the skull and jaws, which have few points <span id="pxii">[<sup><small>p. xii</small></sup>]</span> of contact, depends the all-important question of the size of the brain and the character of the profile of the face and jaws. In Professor McGregor’s reconstruction different methods have been used from those employed by the British anatomists, and advantage has been taken of an observation of Mr. A. E. Anderson that the single canine tooth belongs in the upper and not in the lower jaw. In these models, and in all the restorations of men by Charles R. Knight under my direction, the controlling principle has been to make the restoration as _human_ as the anatomical evidence will admit. This principle is based upon the theory for which I believe very strong grounds may be adduced, that all these races represent stages of advancing and progressive development; it has seemed to me, therefore, that in our restorations we should indicate as much alertness, intelligence, and upward tendency as possible. Such progressive expression may, in fact, be observed in the faces of the higher anthropoid apes, such as the chimpanzees and orangs, when in process of education. No doubt, our ancestors of the early Stone Age were brutal in many respects, but the representations which have been made chiefly by French and German artists of men with strong gorilla or chimpanzee characteristics are, I believe, unwarranted by the anatomical remains and are contrary to the conception which we must form of beings in the scale of rapidly ascending intelligence.
+In anatomy I have especially profited by the co-operation of my former student and present university colleague Professor J. Howard McGregor, of Columbia, who has shown great anatomical as well as artistic skill in the restoration of the heads of the four races of _Trinil_, _Piltdown_, _Neanderthal_, and _Crô-Magnon_. The new reconstruction of the Piltdown head is with the aid of casts sent to me by my friend Doctor A. Smith Woodward, of the British Museum of Natural History. The problem of reconstruction of the Piltdown skull has, through the differences of interpretation by Smith Woodward, EUiot Smith, and Arthur Eeith, become one of the _causes célèbres_ of anthropology. On the placing of the fragments of the skull and jaws, which have few points <span id="pxii">[<sup><small>p. xii</small></sup>]</span> of contact, depends the all-important question of the size of the brain and the character of the profile of the face and jaws. In Professor McGregor's reconstruction different methods have been used from those employed by the British anatomists, and advantage has been taken of an observation of Mr. A. E. Anderson that the single canine tooth belongs in the upper and not in the lower jaw. In these models, and in all the restorations of men by Charles R. Knight under my direction, the controlling principle has been to make the restoration as _human_ as the anatomical evidence will admit. This principle is based upon the theory for which I believe very strong grounds may be adduced, that all these races represent stages of advancing and progressive development; it has seemed to me, therefore, that in our restorations we should indicate as much alertness, intelligence, and upward tendency as possible. Such progressive expression may, in fact, be observed in the faces of the higher anthropoid apes, such as the chimpanzees and orangs, when in process of education. No doubt, our ancestors of the early Stone Age were brutal in many respects, but the representations which have been made chiefly by French and German artists of men with strong gorilla or chimpanzee characteristics are, I believe, unwarranted by the anatomical remains and are contrary to the conception which we must form of beings in the scale of rapidly ascending intelligence.
 
 Henry Fairfield Osborn.
 
@@ -47,6 +68,31 @@ H. F. 0.
 
 December 20, 1915.
 
+<br>
+
+<figure class="table chapter-navigator">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Title page</span>
+        </a>
+        </td>
+        <td>
+        <a href="/en/book/Henry_Fairfield_Osborn/Men_of_the_Old_Stone_Age/Preface_Third_Edition">
+          <span class="pr-2">Preface To The Third Edition</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+        </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</figure>
+
+<br>
+
 ## Footnotes
 
-[^1]: The folding map at the end of the volume exhibits the entire extent of the author’s tour.
+[^1]: The folding map at the end of the volume exhibits the entire extent of the author's tour.
