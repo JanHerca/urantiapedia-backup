@@ -1,5 +1,5 @@
 ---
-title: "Urantia Foundation Has a New Website!"
+title: "Reflections on the Taiwan Conference"
 description: 
 published: true
 date: 2023-8-29T10:55:6Z
@@ -65,6 +65,8 @@ It takes a strong mind to absorb such an enormous revelation of higher truth, an
 Reading _The Urantia Book_ and discerning its profound truths will be a monumental task, one that requires active commitment. I believe this revelation will change the world and lead us to a better future. Our actions will help convince others, and we must support one another along the journey.
 
 I salute everyone who has ever been here, taking that single step in the journey of a thousand miles. Let us not just walk the journey, but dance! It is a dance for life.
+
+~ Dr. Claire von Joe Li
 
 <br style="clear:both;"/>
 
