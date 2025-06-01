@@ -221,8 +221,8 @@ Esa es mi opinión.
 
 - [¿Cómo es de grande Orvonton?](/es/article/How_big_is_Orvonton), de Norm Du Val
 - Astronomía y superuniversos, de Troy R. Bishop
-- Superuniverso de Orvonton (presentación), de Eduardo Altuzarra
-- Astronomía urantiana, una visión personal, de Carmelo Martínez
+- [Superuniverso de Orvonton (presentación)](/es/article/Eduardo_Altuzarra/El_superuniverso_de_Orvonton_es_la_Via_Lactea_2006), de Eduardo Altuzarra
+- [Astronomía urantiana, una visión personal](/es/article/Carmelo_Martinez/Astronomia_urantiana_una_vision_personal), de Carmelo Martínez
 
 Todos estos trabajos están disponibles en la página web de la Asociación, http://www.urantia.es.
 
@@ -230,7 +230,7 @@ Todos estos trabajos están disponibles en la página web de la Asociación, htt
 
 ## Referencias
 
-- Revista Luz y Vida (todos los números antiguos): https://aue.urantia-association.org/numeros-antiguos-del-lyv/
+- [Revista Luz y Vida (todos los números antiguos)](https://aue.urantia-association.org/numeros-antiguos-del-lyv/)
 
 <figure class="table chapter-navigator">
   <table>

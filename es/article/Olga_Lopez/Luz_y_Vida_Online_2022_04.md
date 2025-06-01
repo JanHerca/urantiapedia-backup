@@ -83,7 +83,7 @@ _»Tú estabas conmigo, mas yo no estaba contigo. Me mantenían lejos de ti aque
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo" width="250">
 </figure>
 
-[**Repaso a la organización general del universo (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
+[**Repaso a la organización general del universo (Jeanmarie Chaise)**](/es/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf))
 
 Este trabajo, como su nombre indica, es un breve repaso a la organización del universo maestro, a la creación cósmica de la Deidad. Comienza por el Paraíso y sus zonas de gigantesco tamaño y las relaciona con las dimensiones del gran universo y sus habitantes. Unas dimensiones de un tamaño imposible de concebir por nuestra mente mortal. Como ejemplo: «En el Paraíso, y en la segunda zona periférica del Área Santa, los grupos activos de individuos glorificados en su sector asignado (en este caso, el sector relacionado con las personalidades ascendentes de un único superuniverso, por ejemplo Orvonton) son del orden de 823.543 seguido por 45 ceros. Para conocer el número de individuos esperados en este sector, seguramente deberíamos añadir algunos ceros más.» Pero no queda ahí: los cálculos relacionados con los diferentes tipos de gravedad le llevan a deducir que el número de mundos del gran universo es 1/24 parte de los mundos del universo maestro.
 <br style="clear:both" />
@@ -105,7 +105,7 @@ Este trabajo consiste en un diagrama con los diferentes seres que pueblan el uni
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="Primera migración a Bretaña" width="250">
 </figure>
 
-[**Primera migración a Bretaña (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf)
+[**Primera migración a Bretaña (Halbert Katzen)**](/es/article/Halbert_Katzen/Early_migration_to_Britain) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf))
 
 En este artículo aparece uno de los ejemplos en los que la ciencia parece corroborar las afirmaciones de _El Libro de Urantia_, en este caso en un aspecto tan fascinante y desconocido como la prehistoria. En palabras del autor: «_El Libro de Urantia_, publicado en 1955, declara que la habitación humana de Gran Bretaña comenzó hace aproximadamente 900.000 años. Indicando que solía haber un puente terrestre entre Gran Bretaña y Francia, también señala que, aunque la mayoría de las pruebas de ocupación humana están ahora sumergidas en el Canal de la Mancha, todavía hay varios sitios cerca de la costa que muestran evidencias de esta temprana ocupación. Aquí es donde se han realizado descubrimientos recientes que retrasan la fecha de la habitación humana en 200.000 años. El trabajo adicional del proyecto AHOB (siglas en inglés de «Ocupación Humana Antigua de Bretaña») apoya cada vez más este aspecto de la historia humana en _El Libro de Urantia_.»
 <br style="clear:both" />

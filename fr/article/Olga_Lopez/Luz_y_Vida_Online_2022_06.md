@@ -93,7 +93,7 @@ M. José Sánchez Santamaría
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Técnicas transformativas" width="250">
 </figure>
 
-[**Techniques de transformation (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf)
+[**Techniques de transformation (William Sadler Jr.)**](/en/article/Antonio_Moya/Transformative_Techniques) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf))
 
 Cet ouvrage est en fait un résumé d'une des annexes de l'ouvrage _Study of the Master Universe_ de William Sadler Jr., qui peut être lu sur [ce lien](http://www.urantia.org/es/apendices-de-estudio-del-universo-maestro/apendice-viii-tecnicas-transformadoras). Selon les mots de son auteur, l'un des plus brillants lecteurs du livre : « Il y a plus d'une manière par laquelle les choses et les êtres naissent de potentiels pour devenir réels - pour devenir réels - mais, dans tous les cas, il s'agit d'un processus de transformation (...) Il existe divers autres processus de transformation techniques (en plus de l'évolution et de la création) en vertu desquelles les choses et les êtres naissent et par lesquelles des changements et des modifications sont opérés dans des choses et des êtres déjà existants. Ce résumé passe précisément en revue ces techniques.
 <br style="clear:both" />
@@ -116,7 +116,7 @@ Dans ce court article, que l'auteur définit comme un hymne à la liberté, cett
 <figcaption><em>Utilisateur : Kieff – Fichier : Pangaea continents.png, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=8161694">Wikimedia</a></em></figcaption>
 </figure>
 
-[**De la Pangée aux plaques tectoniques (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf)
+[**De la Pangée aux plaques tectoniques (Halbert Katzen)**](/fr/article/Halbert_Katzen/Pangaea) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf))
 
 Dans un autre ouvrage de Halbert Katzen consacré à la comparaison des déclarations du _Livre d'Urantia_ avec ce que la science sait jusqu'à présent, l'auteur aborde la dérive des continents et la théorie de la tectonique des plaques. Il nous dit : « _Le Livre d'Urantia_ dit non seulement que les continents étaient d'abord tous reliés comme une seule masse terrestre, puis se sont brisés et séparés, mais il fournit également des détails sur la façon dont cela s'est produit. En outre, il aborde des questions liées à la manière dont diverses pressions affectent les relations entre les océans, les continents, la croûte terrestre, les volcans, les tremblements de terre et la formation des montagnes. Bien que la théorie de la dérive des continents existait depuis longtemps et que certaines preuves aient été développées à l'appui de cette théorie avant la publication du Livre d'Urantia en 1955, la théorie de la dérive des continents était très impopulaire au moment de sa publication, car les scientifiques n'avait pas obtenu d'explication adéquate sur la manière dont les continents pouvaient se déplacer. En fait, cela n'a été pleinement accepté que dans les années 60 et 70. Ceci est un autre exemple de science parvenant aux mêmes conclusions qui apparaissent déjà dans _Le Livre d'Urantia_.
 <br style="clear:both" />

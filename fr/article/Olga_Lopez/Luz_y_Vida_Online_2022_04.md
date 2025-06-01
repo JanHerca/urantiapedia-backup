@@ -84,7 +84,7 @@ _»Tu étais avec moi, mais je n'étais pas avec toi. Ces choses m'ont éloigné
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Repaso a la organización del universo" width="250">
 </figure>
 
-[**Revue de l'organisation générale de l'univers (Jeanmarie Chaise)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf)
+[**Revue de l'organisation générale de l'univers (Jeanmarie Chaise)**](/fr/article/Jeanmarie_Chaise/Coup_doeil_sur_lorganisation_generale_du_Maitre) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Repaso-a-la-organizaci%C3%B3n-del-Universo-Maestro.pdf))
 
 Cet ouvrage, comme son nom l'indique, est une brève revue de l'organisation du maître univers, de la création cosmique de la Divinité. Il commence par le Paradis et ses zones de taille gigantesque et les relie aux dimensions du grand univers et de ses habitants. Des dimensions d’une taille impossible à concevoir pour notre esprit mortel. A titre d'exemple : « Au Paradis, et dans la deuxième zone périphérique de l'Aire Sainte, les groupes actifs d'individus glorifiés dans leur secteur assigné (dans ce cas, le secteur lié aux personnalités ascendantes d'un seul superunivers, par exemple Orvonton) sont de l'ordre de 823 543 suivis de 45 zéros. Pour connaître le nombre d'individus attendus dans ce secteur, il faudrait sûrement ajouter quelques zéros supplémentaires. » Mais cela ne s'arrête pas là : les calculs liés aux différents types de gravité l'amènent à déduire que le nombre de mondes dans le grand univers est 1/24 du nombre de mondes dans le maître univers.
 <br style="clear:both" />
@@ -106,7 +106,7 @@ Cette œuvre consiste en un schéma avec les différents êtres qui peuplent l'u
 <img src="/image/article/Luz_y_Vida/LyV_2022_04/Primera-migracion-a-Bretana.jpg" alt="Primera migración a Bretaña" width="250">
 </figure>
 
-[**Première migration vers la Bretagne (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf)
+[**Première migration vers la Bretagne (Halbert Katzen)**](/fr/article/Halbert_Katzen/Early_migration_to_Britain) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/Primera-migraci%C3%B3n-a-Breta%C3%B1a.pdf))
 
 Cet article apparaît comme l'un des exemples dans lesquels la science semble corroborer les affirmations du _Le Livre d'Urantia_, dans ce cas sous un aspect aussi fascinant et inconnu que la préhistoire. Selon les mots de l'auteur : « _Le Livre d'Urantia_, publié en 1955, déclare que l'habitation humaine en Grande-Bretagne a commencé il y a environ 900 000 ans. Déclarant qu'il existait autrefois un pont terrestre entre la Grande-Bretagne et la France, il souligne également que, même si la plupart des traces d'occupation humaine sont désormais submergées dans la Manche, il existe encore plusieurs sites près de la côte qui témoignent de cette occupation précoce. C’est ici que des découvertes récentes ont été faites qui repoussent la date de l’habitation humaine de 200 000 ans. Des travaux supplémentaires du projet AHOB (Ancient Human Occupation of Britain) soutiennent de plus en plus cet aspect de l'histoire humaine dans _Le Livre d'Urantia_.
 <br style="clear:both" />

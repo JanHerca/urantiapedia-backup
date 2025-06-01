@@ -88,7 +88,7 @@ Dentro del PDF veréis un botón desde donde acceder al texto del documento desd
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/03.jpg" width="250">
 </figure>
 
-**[Simplificación del Prólogo (Bill Sadler)](/es/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)**
+**[Simplificación del Prólogo (Bill Sadler)](/es/article/William_S_Sadler_Jr/A_Simplification_of_the_Foreword_to_The_Urantia_Book)** (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Simplificaci%C3%B3n-del-Pr%C3%B3logo.pdf))
 
 El Prólogo siempre es una parte que abruma al lector, sobre todo cuando se enfrenta a él por primera vez. En esta transcripción de una charla de Bill Sadler, hijo del Dr. William Sadler, trata sobre los conceptos que aparecen en el Prólogo y los explica de una manera muy coloquial y accesible. Un trabajo muy recomendable para todos los que desean aclarar los conceptos que aparecen en el Prólogo, y que luego son claves para comprender enseñanzas de otras partes del libro.
 <br style="clear:both" />
@@ -99,7 +99,7 @@ El Prólogo siempre es una parte que abruma al lector, sobre todo cuando se enfr
 <img src="/image/article/Luz_y_Vida/LyV_2021_03/04.jpg" width="250">
 </figure>
 
-**[¿El superuniverso de Orvontón es la Vía Láctea? (Eduardo Altuzarra)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf)** 
+**[¿El superuniverso de Orvontón es la Vía Láctea? (Eduardo Altuzarra)](/es/article/Eduardo_Altuzarra/El_superuniverso_de_Orvonton_es_la_Via_Lactea)** (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/El-Superuniverso-de-Orvonton-%C2%BFEs-la-V%C3%ADa-L%C3%A1ctea.pdf))
 
 En este trabajo de 11 páginas el autor, Eduardo Altuzarra, lector veterano del libro, expone apoyándose en citas del libro, en gráficos y en trabajos secundarios de otros lectores su tesis de que Orvontón es la galaxia Vía Láctea.
 <br style="clear:both" />

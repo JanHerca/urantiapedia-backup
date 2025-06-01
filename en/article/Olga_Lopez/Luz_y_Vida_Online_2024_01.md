@@ -16,7 +16,7 @@ dateCreated: 2025-1-31T13:52:37Z
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2024">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
         </a>
         </td>
@@ -67,7 +67,7 @@ This extensive and hopeful text that is the blue book lends itself to being appr
 
 [Read more](/en/article/M_Jose_Sanchez/Editorial_Luz_y_Vida_2024_01)
 
-## Jobs – our recommendations of the month
+## Works – our recommendations of the month
 
 <figure id="Figure_2" class="image urantiapedia image-style-align-left">
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Presentacion-del-LU.jpg" alt="Comments on the Prologue" width="250">
@@ -276,7 +276,7 @@ All work and news from readers and study groups are welcome, so if you wish to s
         <td>
         </td>
         <td>
-        <a href="/en/index/articles_luz_y_vida#luz-y-vida-febrero-2024">
+        <a href="/en/index/articles_luz_y_vida#luz-y-vida-february-2024">
           <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Luz y Vida — Febrero 2024</span>
         </a>
         </td>

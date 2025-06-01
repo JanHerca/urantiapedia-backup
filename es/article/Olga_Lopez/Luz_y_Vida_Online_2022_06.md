@@ -92,7 +92,7 @@ M. José Sánchez Santamaría
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Técnicas transformativas" width="250">
 </figure>
 
-[**Técnicas transformativas (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf)
+[**Técnicas transformativas (William Sadler Jr.)**](/es/article/Antonio_Moya/Transformative_Techniques) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf))
 
 Este trabajo es en realidad un resumen de uno de los apéndices de la obra de William Sadler Jr. _Estudio del universo maestro_, que puede leerse en [este enlace](http://www.urantia.org/es/apendices-de-estudio-del-universo-maestro/apendice-viii-tecnicas-transformadoras). En palabras de su autor, uno de los lectores más brillantes del libro: «Hay más de una forma en que las cosas y los seres surgen de los potenciales para convertirse en reales -para volverse actuales- pero, en todos los casos, es un proceso transformativo (…) Hay otras diversas técnicas transformativas (además de la evolución y la creación) en virtud de las cuales las cosas y los seres son traídos a la existencia, y a través de las cuales se forjan los cambios y las modificaciones en las cosas y los seres ya existentes». En este resumen se hace un repaso justamente a esas técnicas.
 <br style="clear:both" />
@@ -115,7 +115,7 @@ En este breve artículo, que el autor define como un himno a la libertad, se ana
 <figcaption><em>User:Kieff – File:Pangaea continents.png, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=8161694">Wikimedia</a></em></figcaption>
 </figure>
 
-[**De Pangea a las placas tectónicas (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf)
+[**De Pangea a las placas tectónicas (Halbert Katzen)**](/es/article/Halbert_Katzen/Pangaea) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf))
 
 En otro de los trabajos de Halbert Katzen dedicados a comparar las afirmaciones de _El Libro de Urantia_ con lo que la ciencia conoce hasta el momento, el autor aborda la deriva continental y la teoría de la tectónica de placas. Nos dice: «_El Libro de Urantia_ no solo dice que los continentes estuvieron al principio todos ellos conectados como una masa terrestre y que luego se rompieron y se separaron, sino que también proporciona detalles sobre cómo sucedió esto. Además, aborda cuestiones relacionadas con la forma en que diversas presiones afectan la interrelación de los océanos, los continentes, la corteza terrestre, los volcanes, los terremotos y la formación de montañas. Aunque la teoría de la deriva continental había existido durante mucho tiempo y se habían desarrollado algunas pruebas en apoyo de esta teoría antes de la publicación de _El Libro de Urantia_ en 1955, la teoría de la deriva continental era muy impopular en el momento de la publicación porque los científicos no habían obtenido una explicación adecuada de cómo los continentes podían moverse». De hecho, no se aceptó plenamente hasta los años 60 y 70. Este es un ejemplo más de que la ciencia va llegando a las mismas conclusiones que ya aparecen en _El Libro de Urantia_.
 <br style="clear:both" />

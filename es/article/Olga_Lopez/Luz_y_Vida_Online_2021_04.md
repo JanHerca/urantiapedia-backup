@@ -87,7 +87,7 @@ Todo ello nos muestra un MOVIMIENTO URANTIA vibrante, dinámico, cada vez más i
 <img src="/image/article/Luz_y_Vida/LyV_2021_04/02.jpg" width="250">
 </figure>
 
-**[El sr. Hubble y _El Libro de Urantia_ (Dick Bain, con comentarios de Jan Herca)](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf)**
+**[El sr. Hubble y _El Libro de Urantia_ (Dick Bain, con comentarios de Jan Herca)](/es/article/Dick_Bain/Mr_Hubble_and_the_Urantia_Papers)** (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/El-Sr-Hubble-y-el-LU.pdf))
 
 En este trabajo, Dick Bain (con comentarios adicionales de Jan Herca, el traductor del artículo) compara la teoría de Hubble de que el universo está en expansión constante frente a las afirmaciones del libro a esta percepción, sobre todo centradas en la respiración del espacio, lo que le lleva a reflexionar sobre la cosmología del libro y las posibles críticas que puede tener por parte de no lectores relacionadas con la necesidad de revisarla.
 
@@ -99,7 +99,7 @@ En este trabajo, Dick Bain (con comentarios adicionales de Jan Herca, el traduct
 <img src="/image/article/Luz_y_Vida/LyV_2021_04/03.jpg" width="250">
 </figure>
 
-[La carrera ascendente, de Rafael Mondéjar](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf)
+[La carrera ascendente, de Rafael Mondéjar](/es/article/Rafael_Mondejar/La_carrera_ascendente) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CARRERA-ASCENDENTE-Rafa-Texto-para-el-Power-Point.pdf))
 
 En este extenso y exhaustivo trabajo el autor, lector veterano del libro, expone la carrera ascendente desde nuestra etapa como mortales planetarios hasta la etapa de ciudadanos del Paraíso, con todos los hitos que caracterizan cada una de las etapas y lo que vamos aprendiendo en ellas.
 

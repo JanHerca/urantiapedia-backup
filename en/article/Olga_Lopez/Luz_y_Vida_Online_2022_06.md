@@ -94,7 +94,7 @@ The priest responded firmly:
 <img src="/image/article/Luz_y_Vida/LyV_2022_06/Tecnicas-transformativas.jpg" alt="Transformative Techniques" width="250">
 </figure>
 
-[**Transformative Techniques (William Sadler Jr.)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf)
+[**Transformative Techniques (William Sadler Jr.)**](/en/article/Antonio_Moya/Transformative_Techniques) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Tecnicastransformativas.pdf))
 
 This work is actually a summary of one of the appendices of the work of William Sadler Jr. _Study of the Master Universe_, which can be read at [this link](/en/article/William_S_Sadler_Jr/Appendices_to_Study_of_the_Master_Universe/Appendix_8.md). In the words of its author, one of the most brilliant readers of the book: «There is more than one way in which things and beings emerge from potentials to become real -to become actual- but, in all cases, it is a transformative process (...) There are various other transformative techniques (besides of evolution and creation) by virtue of which things and beings are brought into existence, and through which changes and modifications are wrought in already existing things and beings. In this summary, a review is made of precisely those techniques.
 <br style="clear:both" />
@@ -117,7 +117,7 @@ In this short article, which the author defines as a hymn to freedom, this quote
 <figcaption><em>User:Kieff – File:Pangaea continents.png, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=8161694">Wikimedia</a></em></figcaption>
 </figure>
 
-[**From Pangea to plate tectonics (Halbert Katzen)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf)
+[**From Pangea to plate tectonics (Halbert Katzen)**](/en/article/Halbert_Katzen/Pangaea) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/02/De-Pangea-a-las-placas-tect%C3%B3nicas.pdf))
 
 In another of Halbert Katzen's works dedicated to comparing the statements of _The Urantia Book_ with what science knows so far, the author addresses continental drift and the theory of plate tectonics. He tells us: “_The Urantia Book_ not only says that the continents were originally all connected as one landmass and then broke apart, but it also provides details about how this happened. In addition, it addresses issues related to how various pressures affect the interrelationship of the oceans, continents, Earth's crust, volcanoes, earthquakes, and mountain building. Although the continental drift theory had been around for a long time and some evidence in support of this theory had been developed prior to the publication of _The Urantia Book_ in 1955, the continental drift theory was very unpopular at the time of publication. because scientists had not obtained an adequate explanation of how the continents could move. In fact, it was not fully accepted until the 1960s and 1970s. This is yet another example of science reaching the same conclusions that already appear in _The Urantia Book_.
 <br style="clear:both" />
