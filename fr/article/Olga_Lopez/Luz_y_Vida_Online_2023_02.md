@@ -105,7 +105,7 @@ Ce bref article est une contribution de plus à la controverse sur la réalité 
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Eugenesia-razas-y-LU.png" alt="Eugenesia ética" width="250">
 </figure>
 
-[**Eugénisme éthique (Charles Montgomery)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf)
+[**Eugénisme éthique (Charles Montgomery)**](/fr/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf))
 
 L’eugénisme et la manière de le mettre en pratique dans nos sociétés est un sujet controversé et, bien que les révélateurs aient souligné à de nombreuses reprises que l’humanité doit tôt ou tard s’attaquer à l’amélioration des races, c’est un sujet sur lequel la plupart des lecteurs ont tendance à se montrer sur la pointe des pieds. C'est pourquoi l'exercice de l'auteur de cet article est particulièrement intéressant qui, dans l'introduction, nous dit : « Certains croient que l'insistance du _Le Livre d'Urantia_ sur l'eugénisme reflète simplement la teneur de l'époque dans laquelle il a été écrit, et Ils se demandent si c'est toujours d'actualité. D’autres sont sûrs que cela signifie ce qu’il dit et que ces idées sont destinées à perdurer. La première question que l’on se pose souvent est : qui joue à Dieu, qui décide qui se reproduit ? C'est un problème épineux que même le Livre d'Urantia reconnaît : « La difficulté de mettre en œuvre un programme aussi radical sur Urantia réside dans l'absence de juges compétents pour décider de l'aptitude ou de l'incapacité biologique des individus des races de votre monde. » (P.585) Mais selon le livre le problème n'est pas insurmontable».
 <br style="clear:both" />
@@ -116,7 +116,7 @@ L’eugénisme et la manière de le mettre en pratique dans nos sociétés est u
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Urartu.jpg" alt="Urartu" width="250">
 </figure>
 
-[**Urartu, le royaume perdu de Van (Troy R. Bishop)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf)
+[**Urartu, le royaume perdu de Van (Troy R. Bishop)**](/fr/article/Troy_R_Bishop/Urartu_the_lost_kingdom_of_Van) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf))
 
 Dans cet article intéressant, on nous parle du royaume d'Urartu et de ses relations avec Van et son peuple, combinant ce que nous savons de l'histoire ancienne de cette partie du monde avec les déclarations du _Livre d'Urantia_. Son auteur nous dit : « Une lecture informelle du _Livre d'Urantia_ pourrait donner l'impression que le quartier général de Van se trouvait principalement dans la région du lac Van. Une analyse plus détaillée et une comparaison des déclarations du Livre d'Urantia indiquent cependant que le quartier général de Van se trouvait dans les contreforts sud du Kopet Dag, où Adanson s'installa plus tard. En ce sens, le Livre d'Urantia explique que les Vanites (les premiers disciples de Van) et leurs descendants se sont installés plus tard sur les rives du lac de Van et que leurs traditions ultérieures se sont développées autour de cette région.
 <br style="clear:both" />

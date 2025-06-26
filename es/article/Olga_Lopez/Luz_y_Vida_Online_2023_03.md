@@ -84,7 +84,7 @@ Los niños y niñas carecían de cualquier tipo de consideración social en la �
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="El Ser Supremo" width="250">
 </figure>
 
-[**El Ser Supremo (Demetrio Gómez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf)
+[**El Ser Supremo (Demetrio Gómez)**](/es/article/Demetrio_Gomez/El_Ser_Supremo) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf))
 
 Este trabajo es más que una recopilación de citas sobre el Ser Supremo, una Deidad que no aparece en ninguna religión ni cosmovisión conocida, y a la que _El Libro de Urantia_ le dedica varios documentos de la tercera parte. En él, el autor intenta que comprendamos qué es el Ser Supremo aclarando y relacionando conceptos básicos que aparecen en el libro, y también utilizando símiles, del que destacaríamos el siguiente: «Algo así como la unificación de la WWW de la Internet global con poder de acción y decisión personal, como si de una sola inteligencia se tratara. Millones de individuos se valen de este sistema para comunicarse y obtener información. En realidad la suma y síntesis del conocimiento del planeta informático.»
 <br style="clear:both" />
@@ -95,7 +95,7 @@ Este trabajo es más que una recopilación de citas sobre el Ser Supremo, una De
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Que-es-lo-que-sobrevive.jpg" alt="Supervivencia" width="250">
 </figure>
 
-[**¿Qué es lo que sobrevive en realidad? (Ken Glasziou)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
+[**¿Qué es lo que sobrevive en realidad? (Ken Glasziou)**](/es/article/Ken_Glasziou/What_Really_Survives) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf))
 
 El autor comienza su artículo con una reflexión y una pregunta, que es justamente la del título: «La mayoría de lectores de los documentos de Urantia experimentan un sentimiento de regocijo y alivio cuando conocen que incluso aquellos urantianos en los parpadea el más débil destello de fe tendrán la oportunidad de continuar hacia los mundos de las mansiones tras la muerte física. Podemos incluso tener la impresión de que, excepto por un cuerpo y una mente mejores, reanudamos nuestro camino en el primer mundo de las mansiones exactamente donde lo dejamos aquí en Urantia. Pero, ¿qué sobrevive realmente de nuestra vida en Urantia?» A continuación nos proporciona una serie de conceptos útiles y citas del libro para responder a lo que es espiritual; que es, al fin y al cabo, lo que tiene valor eterno y de supervivencia.
 <br style="clear:both" />

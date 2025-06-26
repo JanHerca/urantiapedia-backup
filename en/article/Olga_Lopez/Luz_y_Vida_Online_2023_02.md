@@ -106,7 +106,7 @@ This brief article is one more contribution to the controversy about what astron
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Eugenesia-razas-y-LU.png" alt="Ethical Eugenics" width="250">
 </figure>
 
-[**Ethical Eugenics (Charles Montgomery)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf)
+[**Ethical Eugenics (Charles Montgomery)**](/en/article/Charles_Montgomery/Ethical_Eugenics_A_Modest_Proposal_For_The_21st_Century) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Eugenesiaetica.pdf))
 
 Eugenics and how to put it into practice in our societies is a controversial subject, and although revelators have emphasized on numerous occasions that mankind must deal with race improvement sooner or later, it is a matter most readers tend to tend to. to tiptoe That is why the exercise of the author of this article is especially interesting, who, in the introduction, tells us: “Some people believe that the insistence of _The Urantia Book_ on eugenics simply reflects the tenor of the times in which it was written, and they wonder if it's still relevant. Others are sure that it means what it says, and that these ideas are intended to endure. The first question that people often ask is: Who plays God, who decides who reproduces? This is a thorny problem that even _The Urantia Book_ acknowledges: “The difficulty in executing a radical program like this on Urantia consists in the absence of competent judges to decide on the biological fitness or incapacity of individuals of the races of your world.” ” (P.585) But according to the book the problem is not insurmountable”.
 <br style="clear:both" />
@@ -117,7 +117,7 @@ Eugenics and how to put it into practice in our societies is a controversial sub
 <img src="/image/article/Luz_y_Vida/LyV_2023_02/Urartu.jpg" alt="Urartu" width="250">
 </figure>
 
-[**Urartu, the Lost Kingdom of Van (Troy R. Bishop)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf)
+[**Urartu, the Lost Kingdom of Van (Troy R. Bishop)**](/en/article/Troy_R_Bishop/Urartu_the_lost_kingdom_of_Van) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2022/12/Urartu-El-Reino-Perdido-de-Van.pdf))
 
 In this interesting article we are told about the kingdom of Urartu and what was its relationship with Van and his people, combining what we know of the ancient history of that part of the world with the statements of _The Urantia Book_. Its author tells us: “A casual reading of _The Urantia Book_ might give the impression that Van's headquarters were primarily in the Lake Van area. Further analysis and comparison of the statements in _The Urantia Book_ indicates, however, that Van's main headquarters were in the southern foothills of the Kopet Dag, where Adanson later settled. In this sense, _The Urantia Book_ explains that the Vanitas (the first followers of Van) and their descendants later settled on the shores of Lake Van and their later traditions developed around this area."
 <br style="clear:both" />

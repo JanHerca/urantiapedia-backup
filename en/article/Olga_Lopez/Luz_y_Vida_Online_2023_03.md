@@ -86,7 +86,7 @@ Boys and girls lacked any type of social consideration at the time when Jesus of
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Gravedad.jpg" alt="The Supreme Being" width="250">
 </figure>
 
-[**The Supreme Being (Demetrio Gómez)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf)
+[**The Supreme Being (Demetrio Gómez)**](/en/article/Demetrio_Gomez/El_Ser_Supremo) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/SERSUPREMO.pdf))
 
 This work is more than a collection of quotes about the Supreme Being, a Deity that does not appear in any known religion or worldview, and to which _The Urantia Book_ dedicates several third part papers. In it, the author tries to make us understand what the Supreme Being is by clarifying and relating basic concepts that appear in the book, and also using similes, of which we would highlight the following: “Something like the unification of the WWW of the global Internet with power of action and personal decision, as if it were a single intelligence. Millions of individuals use this system to communicate and obtain information. Actually the sum and synthesis of the knowledge of the computer planet.”
 <br style="clear:both" />
@@ -97,7 +97,7 @@ This work is more than a collection of quotes about the Supreme Being, a Deity t
 <img src="/image/article/Luz_y_Vida/LyV_2023_03/Que-es-lo-que-sobrevive.jpg" alt="Survival" width="250">
 </figure>
 
-[**What actually survives? (Ken Glasziou)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf)
+[**What actually survives? (Ken Glasziou)**](/en/article/Ken_Glasziou/What_Really_Survives) (also on the [association's website](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Sobrevive.pdf))
 
 The author begins his article with a reflection and a question, which is precisely the one in the title: «Most readers of the Urantia Papers experience a feeling of exhilaration and relief when they learn that even those Urantians on whom the faintest glimmer of light flickers faith will have the opportunity to continue to the mansion worlds after physical death. We may even get the impression that, except for a better body and mind, we pick up our way on the first mansion world exactly where we left off here on Urantia. But what really survives of our life on Urantia?" He then provides us with a series of useful concepts and quotes from the book to respond to what is spiritual; which is, after all, what has eternal and survival value.
 <br style="clear:both" />
