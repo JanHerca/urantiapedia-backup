@@ -107,7 +107,7 @@ Nous avons ici un diagramme sous forme de tableau où apparaissent les caractér
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica" width="250">
 </figure>
 
-[**De la tribu à la citoyenneté cosmique (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf)
+[**De la tribu à la citoyenneté cosmique (Olga López)**](/fr/article/Olga_Lopez/De_la_tribu_a_la_ciudadania_cosmica) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf))
 
 Ceci est le texte d'une présentation qui a été donnée lors de l'Urantiaton du 28 novembre 2020, et qui commence ainsi : « Dans _Le Livre d'Urantia_ l'expression citoyenneté cosmique ou citoyens cosmiques apparaît à plusieurs reprises. Une autre expression liée à la citoyenneté cosmique est sans aucun doute celle de conscience cosmique. Nous lisons et comprenons ce que ces mots signifient séparément, mais à quoi font-ils exactement référence lorsqu’ils sont associés ? A partir de cette question, l'auteur développe un lien entre citoyenneté et conscience cosmique, à la lumière des enseignements du _Livre d'Urantia_.
 <br style="clear:both" />
@@ -118,7 +118,7 @@ Ceci est le texte d'une présentation qui a été donnée lors de l'Urantiaton d
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
-[**Etude approfondie de l'UL dans les groupes d'étude (Georges Michelson-Dupont)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
+[**Etude approfondie de l'UL dans les groupes d'étude (Georges Michelson-Dupont)**](/fr/article/Georges_Michelson_Dupont/Le_LU_dans_les_Groupes_d_Etude) (également sur le [site de l'association](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf))
 
 Dans cette présentation, l'administrateur de la Fondation Urantia et vice-président international Georges Michelson Dupont partage sa vaste expérience en matière d'organisation de groupes d'étude et d'animation de séminaires, le tout basé sur la pédagogie déployée par les révélateurs du Livre d'Urantia. Il propose également des exemples pratiques et des recommandations pour que le groupe se développe efficacement et encourage la participation de ses membres.
 <br style="clear:both" />

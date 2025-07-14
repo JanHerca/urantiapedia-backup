@@ -86,7 +86,7 @@ En la [web de la Fundación Urantia](http://www.urantia.org/) nos encontramos co
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Urantia-Book-e1636413757883.jpg" alt="El libro de Urantia" width="250">
 </figure>
 
-[**El libro de Urantia: por qué, cómo, qué (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf)
+[**El libro de Urantia: por qué, cómo, qué (Olga López)**](/es/article/Olga_Lopez/El_libro_de_Urantia_por_que_como_que) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf))
 
 En esta presentación, que se ofreció en uno de los encuentros de lectores españoles, se indica un posible enfoque de diseminación de las enseñanzas del libro: en lugar de enfocarse en hacer una síntesis del libro (y centrarnos por tanto en el aspecto puramente intelectual), es mejor centrarse en el por qué creemos que estas enseñanzas tienen la capacidad de transformar el mundo. En palabras de la autora: «Si comenzamos nuestra presentación diciendo “por qué” damos a conocer el libro, estamos entrando en la zona de los valores, una zona mucho más profunda de nuestra mente, donde se activan los resortes que motivan a las personas a actuar como actúan, que hacen que los que nos oyen puedan identificarse con nosotros y quieran, por tanto, llegar adonde nosotros hemos llegado».
 <br style="clear:both;"/>
@@ -108,7 +108,7 @@ Este breve artículo se publicó inicialmente en francés en el boletín _Le Lie
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Un-grito-a-la-esperanza.jpg" alt="Un grito a la esperanza" width="250">
 </figure>
 
-[**Un grito a la esperanza (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf)
+[**Un grito a la esperanza (Eduardo Altuzarra)**](/es/article/Eduardo_Altuzarra/Un_grito_a_la_esperanza) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf))
 
 Esta es la transcripción de una de las presentaciones de la serie «En el foco» patrocinada por la UBIS (Escuela Internacional de _El libro de Urantia_). En ella se incide en el libro como un libro de esperanza, pues en palabras del autor: «Creo en este libro porque es un libro de esperanza, independientemente de que la existencia de Dios sea para unos un hecho demostrable y para otros sea un hecho indemostrable. Son tantas las cosas que me aseguran que existe una realidad totalmente desconocida para la mayoría de los mortales que no tengo por menos que, como poco, depositar confianza y sobre todo esperanza en todas y en cada una de las enseñanzas de su contenido».
 <br style="clear:both;"/>

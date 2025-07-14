@@ -86,7 +86,7 @@ On the [Urantia Foundation website](http://www.urantia.org/) we find this transc
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Urantia-Book-e1636413757883.jpg" alt="El libro de Urantia" width="250">
 </figure>
 
-[**The Urantia Book: Why, How, What (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf)
+[**The Urantia Book: Why, How, What (Olga López)**](/en/article/Olga_Lopez/El_libro_de_Urantia_por_que_como_que) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/03/EL-LIBRO-DE-URANTIA-Por-qu%C3%A9-c%C3%B3mo-y-qu%C3%A9-v2.pdf))
 
 In this presentation, which was given at one of the Spanish readers’ meetings, a possible approach to disseminating the book’s teachings is indicated: instead of focusing on summarizing the book (and therefore focusing on the purely intellectual aspect), it is better to focus on why we believe that these teachings have the capacity to transform the world. In the words of the author: “If we begin our presentation by saying “why” we are making the book known, we are entering the area of ​​values, a much deeper area of ​​our mind, where the springs that motivate people to act as they do are activated, which make those who listen to us able to identify with us and therefore want to reach where we have reached.”
 <br style="clear:both;"/>
@@ -108,7 +108,7 @@ This brief article was originally published in French in the newsletter _Le Lien
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/Un-grito-a-la-esperanza.jpg" alt="Un grito a la esperanza" width="250">
 </figure>
 
-[**A cry for hope (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf)
+[**A cry for hope (Eduardo Altuzarra)**](/en/article/Eduardo_Altuzarra/Un_grito_a_la_esperanza) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2023/05/UN-GRITO-A-LA-ESPERANZA.pdf))
 
 This is a transcript of one of the presentations in the series “In Focus” sponsored by UBIS (Urantia Book International School). It highlights the book as a book of hope, as the author says: “I believe in this book because it is a book of hope, regardless of the fact that the existence of God is a demonstrable fact for some and an undemonstrable fact for others. There are so many things that assure me that there is a reality that is totally unknown to the majority of mortals that I cannot help but, at the very least, place trust and above all hope in each and every one of the teachings contained in it.”
 <br style="clear:both;"/>

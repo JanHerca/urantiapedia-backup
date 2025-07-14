@@ -79,7 +79,7 @@ Sur le site Web de la Fondation Urantia (http://www.urantia.org/), nous trouvons
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/Indicios.jpg" alt="Indicios" width="250">
 </figure>
 
-[**Indices (Antonio Moya)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf)
+[**Indices (Antonio Moya)**](/fr/article/Antonio_Moya/Indicios) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/INDICIOS.pdf))
 
 Son auteur commence par dire : « Dans un univers aussi grand et complexe que le nôtre, il doit être très difficile pour Dieu d'avoir pu cacher complètement sa main. Il devrait y avoir quelque part des signes indiquant que cette main a été vue ou déduite. Et c’est le point de départ d’une série de raisonnements logiques selon lesquels l’univers est intentionnel et qu’il y a quelque chose alors que selon la logique il ne devrait rien y avoir. Et ce n’est pas tout : il semble qu’il serait également logique qu’il y ait un Être Nécessaire, contrairement à tous les êtres contingents que nous connaissons et parmi lesquels nous nous trouvons. Bien sûr, les arguments présentés ne convaincront pas ceux qui ne veulent pas être convaincus, mais ils sont tout à fait logiques et plausibles pour les croyants.
 <br style="clear:both;"/>
@@ -101,7 +101,7 @@ Le regretté auteur, qui fut président de la Fondation Urantia, commence par di
 <img src="/image/article/Luz_y_Vida/LyV_2024_02/El-movimiento-Urantia-en-Espana.jpg" alt="El movimiento Urantia en España" width="250">
 </figure>
 
-[**Le mouvement Urantia en Espagne (Eduardo Altuzarra)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-MOVIMIENTO-URANTIA-EN-ESPA%C3%91A.pdf)
+[**Le mouvement Urantia en Espagne (Eduardo Altuzarra)**](/fr/article/Eduardo_Altuzarra/El_movimiento_Urantia_en_Espana) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EL-MOVIMIENTO-URANTIA-EN-ESPA%C3%91A.pdf))
 
 S’il y a quelque chose qui attire l’attention dans cet ouvrage, tantôt historique, tantôt personnel, c’est la description des personnes clés dans la diffusion des enseignements du Livre d’Urantia dans notre pays. Des gens qui n’étaient pas découragés par le fait que le livre était dans une langue autre que leur langue maternelle et qu’il n’y avait personne d’autre dans le pays vers qui se tourner pour l’obtenir ; Ils étaient tellement déterminés à connaître son contenu qu’ils ont eu recours à tous les moyens à leur disposition pour s’abreuver de ses enseignements. Aujourd'hui, à l'ère d'Internet, il est facile d'accéder à n'importe quel livre depuis n'importe quel endroit de la planète, mais c'était loin d'être le cas dans les années 1970. Dans cette histoire, ils ne sont peut-être pas tous là, mais ils sont certainement tous là. d'entre eux. qui sont. C’était très difficile, voire impossible, pour tout le monde d’être là. Peut-être nous manque-t-il encore de la perspective que le temps nous donne ; L’histoire du mouvement Urantia, comme toute histoire, est une histoire ouverte à laquelle on ne peut associer le mot « fin ».
 <br style="clear:both;"/>

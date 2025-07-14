@@ -106,7 +106,7 @@ Aquí tenemos un esquema en forma de tabla donde aparecen las características m
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/De-la-tribu-a-la-ciudadania-cosmica.jpg" alt="De la tribu a la ciudadanía cósmica" width="250">
 </figure>
 
-[**De la tribu a la ciudadanía cósmica (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf)
+[**De la tribu a la ciudadanía cósmica (Olga López)**](/es/article/Olga_Lopez/De_la_tribu_a_la_ciudadania_cosmica) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2020/12/DE-LA-TRIBU-A-LA-CIUDADANIA-COSMICA.pdf))
 
 Este es el texto de una presentación que se dio durante la Urantiatón del 28 de noviembre de 2020, y que comienza así: «En _El Libro de Urantia_ aparece varias veces la expresión ciudadanía cósmica o ciudadanos cósmicos. Otra de las expresiones que va relacionada a la ciudadanía cósmica es sin duda la de consciencia cósmica. Leemos y entendemos lo que significan esas palabras por separado, pero ¿a qué se refieren exactamente cuando van juntas?». A partir de esta pregunta, la autora desarrolla un vínculo entre ciudadanía y consciencia cósmica, a la luz de las enseñanzas de _El Libro de Urantia_.
 <br style="clear:both" />
@@ -117,7 +117,7 @@ Este es el texto de una presentación que se dio durante la Urantiatón del 28 d
 <img src="/image/article/Luz_y_Vida/LyV_2022_12/Presentacion-del-LU.jpg" alt="Presentación del LU" width="250">
 </figure>
 
-[**Estudio en profundidad del LU en los grupos de estudio (Georges Michelson-Dupont)**](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf)
+[**Estudio en profundidad del LU en los grupos de estudio (Georges Michelson-Dupont)**](/es/article/Georges_Michelson_Dupont/Le_LU_dans_les_Groupes_d_Etude) (también en el [sitio web de la asociación](http://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Estrategia-de-grupos-de-estudio-Georges-M-Dupont.pdf))
 
 En esta presentación, el fideicomisario y vicepresidente internacional de la Fundación Urantia, Georges Michelson Dupont, comparte su extensa experiencia como anfitrión de grupos de estudio y facilitador de seminarios, todos ellos basados en la pedagogía que despliegan los reveladores en El Libro de Urantia. También propone ejemplos prácticos y recomendaciones para que el grupo se desarrolle de manera eficaz y fomente la participación de sus miembros.
 <br style="clear:both" />
