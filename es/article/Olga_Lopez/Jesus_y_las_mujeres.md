@@ -31,7 +31,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 
 Jesús de Nazaret, el Maestro de maestros, cambió de manera indiscutible la historia de nuestro planeta tras su corta vida en Urantia. A pesar de que no vino a cambiar el orden social de nuestro mundo (no fue un revolucionario, en el sentido en el que se entiende normalmente este término), sus enseñanzas tal como fueron transmitidas por el cristianismo han dado esperanza y han mejorado la vida de miles de millones de personas a lo largo de los últimos dos mil años.
 
-A la luz de las enseñanzas de _El libro de Urantia_, encontramos a un Jesús más cercano e incluso más poderoso que el que aparece en los evangelios. $Y$ hay un aspecto de su vida en el que normalmente no suele hacerse hincapié, y es justamente el de su actitud hacia las mujeres. Pues justamente fue uno de los aspectos que supusieron todo un desafío para las normas y convenciones sociales de la Palestina del siglo I.
+A la luz de las enseñanzas de _El libro de Urantia_, encontramos a un Jesús más cercano e incluso más poderoso que el que aparece en los evangelios. Y hay un aspecto de su vida en el que normalmente no suele hacerse hincapié, y es justamente el de su actitud hacia las mujeres. Pues justamente fue uno de los aspectos que supusieron todo un desafío para las normas y convenciones sociales de la Palestina del siglo I.
 
 Así que, en esta presentación, vamos a abordar esta interesante faceta del Maestro. En primer lugar, veremos cómo se comportó con las mujeres de su propia familia y, en segundo lugar, cuál fue su actitud ante las mujeres en general.
 
@@ -39,7 +39,7 @@ Así que, en esta presentación, vamos a abordar esta interesante faceta del Mae
 
 Respecto a su familia, es digno de destacar el hecho de que Jesús procurara a sus hermanas la misma educación que a sus hermanos. Y, puesto que la sociedad no lo contemplaba, él mismo se encargó de procurarla:
 
-> «_Habitualmente, las muchachas de las familias judías recibían poca educación, pero Jesús sostenía (y su madre estaba de acuerdo) que las chicas tenían que ir a la escuela lo mismo que los varones, y puesto que la escuela de la sinagoga no las admitiría, lo único que se podía hacer era habilitar una escuela en casa especialmente para ellas._» (1396.2) ${ }^{127: 1.5}$ [LU 127:1.5](/es/The_Urantia_Book/127#p1_5)
+> «_Habitualmente, las muchachas de las familias judías recibían poca educación, pero Jesús sostenía (y su madre estaba de acuerdo) que las chicas tenían que ir a la escuela lo mismo que los varones, y puesto que la escuela de la sinagoga no las admitiría, lo único que se podía hacer era habilitar una escuela en casa especialmente para ellas._» [LU 127:1.5](/es/The_Urantia_Book/127#p1_5)
 
 Como vemos, Jesús siempre empleaba una actitud proactiva. Si creía que había que hacer algo y la sociedad no proporcionaba los medios necesarios, él mismo lo hacía.
 

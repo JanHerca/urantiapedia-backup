@@ -32,6 +32,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
 Desde que la humanidad dio los primeros pasos en este planeta azul, hombres y mujeres tuvieron que convivir para sobrevivir. Esta convivencia nunca ha sido fácil: somos tan diferentes que la incomprensión mutua ha construido un muro hecho de tabúes, clichés e ideas preconcebidas que han ido evolucionando con el tiempo. Algunos han desaparecido, pero otros siguen ahí, ya sea abiertamente, convenientemente «disfrazados» (o no), o tan escondidos en el subconsciente que es realmente difícil darse cuenta de que están dentro de nosotros.
 
 Mejorar la situación de la mujer es construir una sociedad más justa, y eso es algo que a todos nos beneficia. Una civilización se mide (entre muchos otros indicadores) por el progreso alcanzado en la igualdad de sexos. Y ni siquiera en la civilización más avanzada de nuestro planeta hemos llegado a la verdadera igualdad. En las civilizaciones más avanzadas se está produciendo cierta igualación de funciones, pero las diferencias de naturaleza, carácter y reacciones siguen ahí, igual que en el inicio de los tiempos.
+
 ¿Qué hacemos con esa diferencia? ¿Lo que llevamos miles de años haciendo, esto es, insistir en establecer una dicotomía inferior-superior? ¿O establecer una complementariedad y beneficiarnos de ella? La primera alternativa ha dejado un amplio reguero de dolor y sufrimiento en las mujeres a lo largo de los siglos, y está suponiendo un serio obstáculo para el progreso de la civilización. La segunda alternativa no solo pondría fin al sufrimiento de la mitad del género humano, sino que haría que toda la humanidad en su conjunto avanzara y se beneficiara de la aportación de ambos sexos.
 
 _El libro de Urantia_ contiene enseñanzas muy esclarecedoras sobre la relación hombre-mujer y sobre la condición femenina, que pueden ser de gran ayuda a la hora de trascender el enfrentamiento entre hombres y mujeres. En esta presentación, os invito a recorrer un viaje por lo femenino tanto arriba en los cielos como abajo en la Tierra. Es importante, no sólo para las mujeres, sino también para los hombres, así que ¡todos sois bienvenidos!
@@ -134,7 +135,7 @@ Pero, ¿cómo se vive la convivencia entre sexos aquí abajo? ¿Cómo se ha cons
 
 ## La dualidad
 
-Tenemos dos tipos de seres humanos. Masculino y femenino, hombre y mujer. No somos los únicos tipos de seres que han sido creados en dos variantes distintas. Hemos mencionado antes que, por ejemplo, los pares seráficos también manifiestan características duales y complementarias. $Y$ estas características se han repartido en dos variantes para fomentar la creación de nuevos valores superiores: para sumar, no para restar.
+Tenemos dos tipos de seres humanos. Masculino y femenino, hombre y mujer. No somos los únicos tipos de seres que han sido creados en dos variantes distintas. Hemos mencionado antes que, por ejemplo, los pares seráficos también manifiestan características duales y complementarias. Y estas características se han repartido en dos variantes para fomentar la creación de nuevos valores superiores: para sumar, no para restar.
 
 > _Las diferencias de naturaleza, reacción, puntos de vista y pensamientos entre los hombres y las mujeres, en lugar de producir inquietud, deberían ser consideradas como altamente beneficiosas para la humanidad, tanto individual como colectivamente. Muchas órdenes de criaturas del universo son creadas en fases duales de manifestación de la personalidad. Entre los mortales, los Hijos Materiales y los midsonitarios, esta diferencia se describe como masculina y femenina; entre los serafines, los querubines y los Compañeros Morontiales, ha sido denominada positiva o dinámica, y negativa o reservada. Estas asociaciones duales multiplican enormemente la diversidad de talentos y vencen las limitaciones inherentes..._ [LU 84:6.5](/es/The_Urantia_Book/84#p6_5)
 
@@ -168,7 +169,7 @@ Además, siempre se le ha exigido más a la mujer en cuestión de materia sexual
 
 Es enormemente interesante considerar cuál era la actitud de Jesús hacia las mujeres. En primer lugar, de su propia familia y, en segundo lugar, de las mujeres en general.
 
-Respecto a su familia, es digno de destacar el hecho de que Jesús procurara a sus hermanas la misma educación que a sus hermanos. $Y$, puesto que la sociedad no lo contemplaba, él mismo se encargó de procurarla:
+Respecto a su familia, es digno de destacar el hecho de que Jesús procurara a sus hermanas la misma educación que a sus hermanos. Y, puesto que la sociedad no lo contemplaba, él mismo se encargó de procurarla:
 
 > _«Habitualmente, las muchachas de las familias judías recibían poca educación, pero Jesús sostenía (y su madre estaba de acuerdo) que las chicas tenían que ir a la escuela lo mismo que los varones, y puesto que la escuela de la sinagoga no las admitiría, lo único que se podía hacer era habilitar una escuela en casa especialmente para ellas.»_ [LU 127:1.5](/es/The_Urantia_Book/127#p1_5)
 
@@ -281,7 +282,7 @@ Nunca se insistirá lo suficiente en lo importante que es la educación para la 
 
 La discriminación de un grupo de seres humanos a cargo de otro no deja de ser una manifestación de la falta de verdadero amor fraternal. Cuando crees que otra persona es inferior a ti, estás dejando de considerarla tu igual y, por tanto, la estás «cosificando», le niegas los derechos que tú consideras que mereces. Lo mismo sucede con hombres y mujeres.
 
-La educación es fundamental para que, desde pequeños, los seres humanos aprendan a respetarse mutuamente y a valorar las diferencias como algo que enriquece y complementa, no como algo que empobrece y separa. $Y$, por supuesto, no me refiero solo a la educación en las escuelas: el hogar es una escuela fundamental, sobre todo cuando se trata de valores. Nadie es tan influyente en los niños como sus padres, que hacen de ejemplos vivientes que ellos después emularán.
+La educación es fundamental para que, desde pequeños, los seres humanos aprendan a respetarse mutuamente y a valorar las diferencias como algo que enriquece y complementa, no como algo que empobrece y separa. Y, por supuesto, no me refiero solo a la educación en las escuelas: el hogar es una escuela fundamental, sobre todo cuando se trata de valores. Nadie es tan influyente en los niños como sus padres, que hacen de ejemplos vivientes que ellos después emularán.
 
 La educación recibida en casa y en la escuela es esencial para ir estableciendo una igualdad real. Y es de vital importancia, no sólo para el bien de las mujeres sino para el de toda la humanidad, ganar a los hombres para esta causa.
 

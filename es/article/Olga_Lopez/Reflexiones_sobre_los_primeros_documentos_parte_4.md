@@ -53,7 +53,7 @@ Del documento 120, hay un párrafo que quisiera resaltar, en 120:3.6, y que cont
 
 > «5. Si lo consideras conveniente, podrás identificarte con movimientos religiosos y espirituales como puedan encontrarse en Urantia, pero evita a toda manera el establecimiento formal de un culto organizado, de una religión cristalizada o de una agrupación ética segregada de seres mortales. Tu vida y tus energías están destinadas a ser patrimonio común de todas las religiones y de todos los pueblos». [LU 120:3.6](/es/The_Urantia_Book/120#p3_6)
 
-Es cierto que Jesús no fundó ninguna Iglesia ni ningún grupo institucionalizado, pero por lo que ya sabemos sus seguidores cayeron en el error de crear una religión «a propósito de» Jesús de Nazaret. No importó que Jesús no dejara ningún documento escrito de su puño y letra, ni la inexistencia de imágenes que hubieran llevado inmediatamente a la idolatría de su persona. Por cierto, esto, la total ausencia de documentos $y$ obras propias, es el argumento que muchos esgrimen para negar su existencia histórica.
+Es cierto que Jesús no fundó ninguna Iglesia ni ningún grupo institucionalizado, pero por lo que ya sabemos sus seguidores cayeron en el error de crear una religión «a propósito de» Jesús de Nazaret. No importó que Jesús no dejara ningún documento escrito de su puño y letra, ni la inexistencia de imágenes que hubieran llevado inmediatamente a la idolatría de su persona. Por cierto, esto, la total ausencia de documentos y obras propias, es el argumento que muchos esgrimen para negar su existencia histórica.
 
 ¿Significa esto que su misión de donación fracasó? No, por supuesto. Simplemente hay que verlo desde una perspectiva más amplia. Aun cuando la vida de Jesús, hoy por hoy, no esté considerada por muchos en este planeta como parte del patrimonio común de todas las religiones, aun cuando se ha desvirtuado enormemente el mensaje que trajo en su venida a Urantia, el aparente fracaso es en realidad un paso necesario para que, a su debido momento, resurja su verdadero mensaje en todo su esplendor y, a la vez, en toda su sencillez: «Haced la voluntad del Padre». Tan sencillo, pero a la vez tan difícil de poner en práctica.
 
@@ -111,6 +111,7 @@ En segundo lugar, destacaría uno de los muchos encuentros que se incluyen en es
 ## Documento 131
 
 Tras la lectura de este documento parece inevitable llegar a la conclusión de que todas las religiones que existían en los tiempos de Jesús tenían enseñanzas positivas, tenían su parte de verdad respecto a la naturaleza del Padre Universal. ¿Por qué, entonces, nos hemos empeñado en enfrentar nuestras creencias religiosas, haciendo que la intolerancia desencadene tantos conflictos a lo largo de la historia, y de los cuáles no sólo no nos hemos librado, sino que surgen continuamente y con gran violencia?
+
 ¡Si viéramos lo que nos une, en lugar de lo que nos separa...!
 
 ## Documento 132
@@ -124,7 +125,8 @@ Dos son los temas que destacaría de este documento:
 
 Cuando Jesús habla del séptimo tipo de riqueza, la «riqueza accidental», parece claro que, lo que en realidad llamamos «suerte» o «fortuna» no nos da derecho a disfrutar egoístamente de este dinero, sino que hemos de utilizarlo también para ayudar a los demás. [LU 132:5.21](/es/The_Urantia_Book/132#p5_21): «*Las riquezas accidentales deben ser consideradas en cierto modo como un fideicomiso que ha de administrarse para beneficio del propio grupo económico o social*».
 
-Éste párrafo es uno de mis favoritos de este documento. En él Jesús le dice a Ganid a propósito de un niño que había perdido a su madre (P.1465):
+Éste párrafo es uno de mis favoritos de este documento. En él Jesús le dice a Ganid a propósito de un niño que había perdido a su madre:
+
 > «Sabes, Ganid, que la mayoría de los seres humanos son como ese niño perdido. Lloran de temor y sufren de pena la mayor parte del tiempo, sin ver que en verdad no están sino a corta distancia de la seguridad y del salvamento, así como este niño estaba en realidad muy cerca de su casa. Los que conocen el camino de la verdad y disfrutan la seguridad de conocer a Dios deberían considerar que es un privilegio para ellos y no un deber, ofrecer orientación a sus semejantes en sus esfuerzos por encontrar las satisfacciones de la vida. ¿Acaso no fue para nosotros una satisfacción sublime ayudar a este niño a volver donde su madre? Del mismo modo, los que conducen a los hombres a Dios experimentan la satisfacción suprema del servicio humano». [LU 132:6.1](/es/The_Urantia_Book/132#p6_1)
 
 ¿De qué sirve la sabiduría que podamos desarrollar, si luego no la ofrecemos a los demás? ¿De qué sirven nuestros tesoros espirituales, si se quedan encerrados en las profundidades de nuestro corazón? No se trata de «echar perlas a los cerdos», sino de ayudar a todos aquellos que, aun sin ser conscientes de ello, están sedientos de verdad.

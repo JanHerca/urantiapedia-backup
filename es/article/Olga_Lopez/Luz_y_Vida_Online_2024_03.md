@@ -75,7 +75,7 @@ Hoy se habla de derechos, se exige. Se aspira a tanto y se pide tanto que podemo
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">
 </figure>
 
-[**El viaje que sigue a la muerte física (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica)
+[**El viaje que sigue a la muerte física (Bill Sadler)**](/es/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (también en el [sitio web de la asociación](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica))
 
 En la [web de la Fundación Urantia](http://www.urantia.org/) nos encontramos con esta transcripción de una de las charlas que dio Bill Sadler a un grupo de estudio, en la que explica lo que sucede una vez dejamos este mundo tras la muerte. En ella Bill Sadler responde a las preguntas que le plantean los miembros del grupo de estudio con su habitual estilo coloquial y sentido del humor, pero sin abandonar el rigor a la hora de exponer su interpretación del contenido del libro en este tema en particular.
 <br style="clear:both;"/>
@@ -97,7 +97,7 @@ En esta presentación, que se ofreció en uno de los encuentros de lectores espa
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-trabajo-en-equipo.jpg" alt="El trabajo en equipo" width="250">
 </figure>
 
-[**El trabajo en equipo (Chris Ragetly)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
+[**El trabajo en equipo (Chris Ragetly)**](/es/article/Chris_Ragetly/Le_travail_dequipe) (también en el [sitio web de la asociación](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf))
 
 Este breve artículo se publicó inicialmente en francés en el boletín _Le Lien Urantien_ de la AFFLU (Asociación de lectores francófonos de _El libro de Urantia_). En él, se incide en la importancia del trabajo en equipo no solo en este mundo, sino a lo largo de toda la carrera ascendente, tal como se refleja en esta cita que encabeza el artículo: «Una de las lecciones más importantes que debéis aprender durante vuestra carrera como mortales es el trabajo en equipo. Las esferas de perfección están tripuladas por aquellos que han dominado este arte de trabajar con otros seres. Hay pocas tareas en el universo para el servidor solitario. Cuanto más alto ascendáis, más solos os sentiréis cuando estéis temporalmente sin la compañía de vuestros semejantes». <a id="a101_761"></a>[LU 28:5.14](/es/The_Urantia_Book/28#p5_14)
 <br style="clear:both;"/>

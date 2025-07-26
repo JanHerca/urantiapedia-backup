@@ -94,7 +94,7 @@ As indicated in the subtitle, this work was conceived as “a Urantian look at t
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/El-factor-100.jpg" alt="El factor 100" width="250">
 </figure>
 
-[**The 100 Factor (Robert Gallo)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Factor100.pdf)
+[**The 100 Factor (Robert Gallo)**](/en/article/Robert_Gallo/Le_Facteur_100_ou_757575_ans_separent_du_Paradis) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Factor100.pdf))
 
 This brief article focuses on the importance of the number 10 and its powers in the universal organization, and begins like this: “The numerology of _The Urantia Book_ is faithful and constant with respect to certain numbers that undoubtedly serve as the basis of the cosmic building, both on the material and spiritual planes. Everything seems to be built around the numbers 3, 7, 10 (7+3) and the multiples of the latter. In this aspect, the number 100 seems to be endowed with a particular purpose, probably being the constant factor of a universal progression.”
 <br style="clear:both;"/>
@@ -105,7 +105,7 @@ This brief article focuses on the importance of the number 10 and its powers in 
 <img src="/image/article/Luz_y_Vida/LyV_2023_11/Reencarnacion-y-karma.jpg" alt="Reencarnación y karma" width="250">
 </figure>
 
-[**The evolution of reincarnation and karma (Santiago Rodríguez)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Reencarnacion.pdf)
+[**The evolution of reincarnation and karma (Santiago Rodríguez)**](/en/article/Santiago_Rodriguez/La_evolucion_de_la_reencarnacion_y_el_karma) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Reencarnacion.pdf))
 
 The book speaks at length about the age of light and life, in which a planet reaches a state that we could define as heaven on earth. But there is an interesting reference to a world, Anova, which the revelators tell us is the oldest inhabited world in the Satania system to which we belong. The author takes that reference and, from other statements in the book, deduces (according to his interpretation) that this world is in the seventh stage of light and life.
 

@@ -84,7 +84,7 @@ In the June newsletter you will find a small “banquet” with such a diversity
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/ce19e39a-9543-449a-a706-f61aaf120ce6.jpg" alt="About the Foreword" width="250"> 
 </figure>
 
-[**Questions and Answers to the Comments on the Foreword (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/preguntas-y-respuestas-los-comentarios-sobre-el-prologo) 
+[**Questions and Answers to the Comments on the Foreword (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/preguntas-y-respuestas-los-comentarios-sobre-el-prologo)) 
 
 On the [Urantia Foundation website](http://www.urantia.org/) we found this transcription of one of the talks that Bill Sadler gave to a study group, in which there is a lively dialogue between him and the attendees about concepts and entities that appear in the Prologue, in a very simple and colloquial language, with comparisons of daily life that can be very useful to us when it comes to understanding at least the most basic aspects of the Absolutes and the levels of reality. 
 <br style="clear:both;"/> 
@@ -95,7 +95,7 @@ On the [Urantia Foundation website](http://www.urantia.org/) we found this trans
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/La-nueva-religion.jpg" alt="La verdadera religión" width="250"> 
 </figure> 
 
-[**La verdadera religión (Olga López)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Verdaderareligion.pdf) 
+[**La verdadera religión (Olga López)**](/en/article/Olga_Lopez/La_verdadera_religion) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Verdaderareligion.pdf))
 
 One of the most important concepts of _The Urantia Book_ is undoubtedly that of religion, true religion. Not the religion that we inevitably associate with churches, dogmas and rituals, but the religion that is the product of our personal experience. True religion is one that truly elevates our spirit, and does not chain it with useless dogmas and rituals. The best religion is personal experience, one's own faith. This work is about that, about delving into the concept of personal religion. 
 <br style="clear:both;"/> 
@@ -117,7 +117,7 @@ The author begins this paper: “Recognizing _The Urantia Book_ as a wonderful g
 <img src="/image/article/Luz_y_Vida/LyV_2024_05/Historia-de-la-Creacion.jpg" alt="La creación según el UB" width="250"> 
 </figure> 
 
-[**La creación según _El Libro de Urantia_ (Juan Pomares)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CreacionLU.pdf) 
+[**La creación según _El Libro de Urantia_ (Juan Pomares)**](/en/article/Juan_Pomares/La_creacion_según_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/CreacionLU.pdf)) 
 
 It is always good to have an outline to understand the basic concepts of _The Urantia Book_, and having an overview of all creation is very useful when we have so many celestial beings and administrative units involved. We recommend this work as a useful aid to readers; it includes two tables: one for the central universe and one for the master universe. 
 

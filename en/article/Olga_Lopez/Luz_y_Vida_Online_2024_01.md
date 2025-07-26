@@ -73,7 +73,7 @@ This extensive and hopeful text that is the blue book lends itself to being appr
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Presentacion-del-LU.jpg" alt="Comments on the Prologue" width="250">
 </figure>
 
-[**Some Comments on the Foreword to _The Urantia Book_ (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia)
+[**Some Comments on the Foreword to _The Urantia Book_ (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia))
 
 On the [Urantia Foundation website](http://www.urantia.org/) there are a number of works by Dr. Sadler and his son, Bill Sadler, that are well worth considering. On this occasion, we recommend the transcription of a talk by Bill Sadler in which he gives clarifying comments on the content of the Foreword, as one progresses in reading his text. Given the importance of the Foreword in clarifying concepts that are later discussed in other documents in the book, anything that helps us better understand these concepts is, of course, welcome.
 <br style="clear:both;"/>
@@ -84,7 +84,7 @@ On the [Urantia Foundation website](http://www.urantia.org/) there are a number 
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Urantia-Book-e1636413757883.jpg" alt="El impacto cultural del LU" width="250">
 </figure>
 
-[**Reflections on some criticisms of _The Urantia Book_ (Dr. William S. Sadler)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf)
+[**Reflections on some criticisms of _The Urantia Book_ (Dr. William S. Sadler)**](/en/article/William_S_Sadler/Consideration_some_criticisms_Urantia_Book) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf))
 
 All readers will probably agree with Dr. Sadler's statement: "I believe that overall _The Urantia Book_ stands on its own against all kinds of criticism." But it is worth reading his reflections in the wake of some criticisms of the book from outside the Urantia community and putting the proper perspective into consideration, taking into account what our revelators left written in the Publication Mandate. As they so rightly told us: "Thousands of spiritually hungry souls will bless you... while millions will condemn you for disturbing their comfortable theology."
 <br style="clear:both;"/>
@@ -95,7 +95,7 @@ All readers will probably agree with Dr. Sadler's statement: "I believe that ove
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Ciencia.png" alt="Aspectos científicos del LU" width="250">
 </figure>
 
-[**Study of some scientific aspects of _The Urantia Book_ (John Lee)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf)
+[**Study of some scientific aspects of _The Urantia Book_ (John Lee)**](/en/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf))
 
 The author begins by alluding to the famous section 4 of Paper 101, “The Limits of Revelation,” and goes on to state: “The Revelators were very limited in their work and did not reveal everything, for Man must discover for himself the workings of the Universe. I find it hard to believe that the Revelators would have voluntarily revealed errors under the pretext of dissuading us from making a fetish of the Book, as some people imply, or from adhering to the scientific knowledge of the beginning of the century.” He then addresses some of the scientific claims in the book that do not seem to fit with current science.
 <br style="clear:both;"/>
@@ -106,7 +106,7 @@ The author begins by alluding to the famous section 4 of Paper 101, “The Limit
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Conciencia-determinismo-materialismo.jpg" alt="Conciencia" width="250">
 </figure>
 
-[**Consciousness, determinism and materialism (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf)
+[**Consciousness, determinism and materialism (Ken Glasziou)**](/en/article/Ken_Glasziou/Consciousness) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf))
 
 This article deals with these three concepts and the relationship between them, comparing the materialism of the present age with what _The Urantia Book_ says about it. It is interesting to note that determinism is on the decline (as already pointed out by the revelators in _The Urantia Book_), especially with the advances that have been made in quantum physics, and that scientists are investigating consciousness (not only individual, but also universal) as something real.
 

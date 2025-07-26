@@ -72,7 +72,7 @@ Anne Frank never lost her ability to rejoice in the small field of vision she co
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Hipótesis del universo maestro" width="250">
 </figure>
 
-[**Master Universe Hypothesis (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro)
+[**Master Universe Hypothesis (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro))
 
 On the [Urantia Foundation website](http://www.urantia.org/) we find this transcription of one of the talks that Bill Sadler gave to a study group, in which he addresses a part of the teachings that may be most difficult for us to understand due to our condition as beings circumscribed to space and time: that hypothetical moment of the eternity in which the I AM is "split" into the deified (personal) and non-deified (non-personal) reality. With a clear and simple style, it also explains what was the origin of the creation of the universe and the beings that direct it. It is a highly recommended work to clarify the sequence of events that led to the creation of the master universe.
 <br style="clear:both;"/>
@@ -94,7 +94,7 @@ As its author points out, this presentation attempts to briefly explain what a g
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Astronomia-y-superuniversos.jpg" alt="Cómo es de grande Orvonton" width="250">
 </figure>
 
-[**How ​​Big Is Orvonton? (Norm Du Val)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComograndeOrvonton.pdf)
+[**How ​​Big Is Orvonton? (Norm Du Val)**](/en/article/Norm_Duval/How_big_is_Orvonton) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComograndeOrvonton.pdf))
 
 This paper begins with this statement: “Many people have wondered and speculated about the actual size of our superuniverse, grand universe, master universe, etc., especially since The Urantia Book and science do not seem to be in very good agreement.” So how big is Orvonton? Do we need to change The Urantia Book to fit the science of today, or worse, the science of yesterday? These are the questions the author attempts to answer in this article, looking both at what the book says and at what is part of human knowledge.
 <br style="clear:both;"/>
@@ -105,7 +105,7 @@ This paper begins with this statement: “Many people have wondered and speculat
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/La-realidad-segun-el-LU.jpg" alt="Una descripción de la realidad" width="250">
 </figure>
 
-[**A description of reality (Antonio Moya)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DescripcionRealidad.pdf)
+[**A description of reality (Antonio Moya)**](/en/article/Antonio_Moya/Una_descripcion_de_la_realidad) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DescripcionRealidad.pdf))
 
 The introduction to this extensive work is a declaration of intentions by the author: «Human beings walk a bit lost, disoriented, through this world. We are drifting a bit, groping in the dark, because we do not know a description of Reality (…) Human beings do not know for certain what they are doing here, how and why they have emerged in the Cosmos, what purpose this existence has, what is expected of them and, in any case, what their destiny is (if there is one). Throughout the centuries, we men have sought answers to the reason for our existence and the Universe. This little work is an attempt to suggest a possible explanation to the questions we ask ourselves: "What place do we occupy in the Universe? And ultimately, what is the structure of Reality really like?" »
 

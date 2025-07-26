@@ -75,7 +75,7 @@ Today we talk about rights, we demand them. We aspire to so much and we ask for 
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">
 </figure>
 
-[**The Journey After Physical Death (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica)
+[**The Journey After Physical Death (Bill Sadler)**](/en/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (also on the [association's website](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica))
 
 On the [Urantia Foundation website](http://www.urantia.org/) we find this transcript of one of the talks that Bill Sadler gave to a study group, in which he explains what happens once we leave this world after death. In it, Bill Sadler answers the questions posed to him by the members of the study group in his usual conversational style and sense of humor, but without abandoning the rigor when it comes to explaining his interpretation of the content of the book on this particular topic.
 <br style="clear:both;"/>
@@ -97,7 +97,7 @@ In this presentation, which was given at one of the Spanish readers’ meetings,
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-trabajo-en-equipo.jpg" alt="El trabajo en equipo" width="250">
 </figure>
 
-[**Teamwork (Chris Ragetly)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
+[**Teamwork (Chris Ragetly)**](/en/article/Chris_Ragetly/Le_travail_dequipe) (also on the [association's website](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf))
 
 This brief article was originally published in French in the newsletter _Le Lien Urantien_ of the AFFLU (Association of Francophone Readers of _The Urantia Book_). It emphasizes the importance of teamwork not only on this world but throughout the entire ascending career, as reflected in this quote at the head of the article: “One of the most important lessons you must learn during your career as mortals is teamwork. The spheres of perfection are manned by those who have mastered this art of working with other beings. There are few tasks in the universe for the solitary server. The higher you ascend, the lonelier you will feel when temporarily without the companionship of your fellows.” <a id="a101_695"></a>[UB 28:5.14](/en/The_Urantia_Book/28#p5_14)
 <br style="clear:both;"/>
