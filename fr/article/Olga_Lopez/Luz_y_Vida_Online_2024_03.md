@@ -75,7 +75,7 @@ Aujourd’hui, nous parlons de droits, nous les revendiquons. Nous aspirons à t
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-viaje-que-sigue-a-la-muerte-fisica.jpg" alt="El viaje" width="250">
 </figure>
 
-[**Le voyage après la mort physique (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica) 
+[**Le voyage après la mort physique (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (également sur le [site de l'association](https://www.urantia.org/es/charlas-de-bill-sadler/el-viaje-que-sigue-la-muerte-fisica)) 
 
 Sur le [site Web de la Fondation Urantia ](http://www.urantia.org/) nous avons trouvé cette transcription d’un des discours que Bill Sadler a donné à un groupe d’étude, dans lequel il explique ce qui se passe une fois que nous quittons ce monde après la mort. Dans cet ouvrage, Bill Sadler répond aux questions posées par les membres du groupe d'étude dans son style familier et son sens de l'humour habituels, mais sans abandonner la rigueur lorsqu'il s'agit de présenter son interprétation du contenu du livre sur ce sujet particulier. 
 <br style="clear:both;"/> 
@@ -97,7 +97,7 @@ Dans cette présentation, qui a été offerte à l'une des rencontres des lecteu
 <img src="/image/article/Luz_y_Vida/LyV_2024_03/El-trabajo-en-equipo.jpg" alt="El trabajo en equipo" width="250">
 </figure>
 
-[**Travail d'équipe (Chris Ragetly)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf)
+[**Travail d'équipe (Chris Ragetly)**](/fr/article/Chris_Ragetly/Le_travail_dequipe) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Trabajoenequipo.pdf))
 
 Ce court article a été publié originellement en français dans le bulletin _Le Lien Urantien_ de l'AFFLU (Association des Lecteurs Francophones du _Livre d'Urantia_). Dans cet article, l'importance du travail d'équipe est soulignée non seulement dans ce monde, mais tout au long de la carrière ascendante, comme le reflète cette citation qui dirige l'article : « L'une des leçons les plus importantes que vous devez apprendre au cours de votre carrière de mortel est le travail d'équipe. Les sphères de perfection sont habitées par ceux qui maîtrisent cet art de travailler avec d’autres êtres. Il y a peu de tâches dans l’univers pour le serviteur solitaire. Plus vous vous élevez, plus vous vous sentirez seul lorsque vous serez temporairement privé de la compagnie de vos semblables. <a id="a101_786"></a>[LU 28:5.14](/fr/The_Urantia_Book/28#p5_14) 
 <br style="clear:both;"/> 

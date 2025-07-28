@@ -72,7 +72,7 @@ Anne Frank n'a jamais perdu sa capacité à prendre plaisir dans le petit champ 
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Repaso-a-la-organizacion-del-universo.jpg" alt="Hipótesis del universo maestro" width="250">
 </figure>
 
-[**Hypothèse du Maître Univers (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro)
+[**Hypothèse du Maître Univers (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (également sur le [site de l'association](https://www.urantia.org/es/charlas-de-bill-sadler/hipotesis-del-universo-maestro))
 
 Sur le [site Web de la Fondation Urantia](http://www.urantia.org/), nous avons trouvé cette transcription d'un des discours que Bill Sadler a donné à un groupe d'étude, dans lequel il aborde une partie des enseignements. difficile à comprendre pour nous en raison de notre condition d'êtres limités à l'espace et au temps : ce moment hypothétique de l'éternité dans lequel le JE SUIS se « divise » en la réalité déifiée (personnelle) et la réalité non déifiée (non personnelle). Avec un style clair et simple, il explique également l'origine de la création de l'univers et des êtres qui le dirigent. C'est un ouvrage hautement recommandé pour clarifier la séquence d'événements qui ont conduit à la création de l'univers maître.
 <br style="clear:both;"/>
@@ -94,7 +94,7 @@ Comme le souligne son auteur, cette présentation tente d’expliquer brièvemen
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/Astronomia-y-superuniversos.jpg" alt="Cómo es de grande Orvonton" width="250">
 </figure>
 
-[**Quelle est la taille d'Orvonton ? (Norm Du Val)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComograndeOrvonton.pdf)
+[**Quelle est la taille d'Orvonton ? (Norm Du Val)**](/fr/article/Norm_Duval/How_big_is_Orvonton) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/ComograndeOrvonton.pdf))
 
 Cet article commence par cette déclaration : « De nombreuses personnes se sont interrogées et ont spéculé sur la taille réelle de notre superunivers, grand univers, maître univers, etc., en particulier depuis que _Le Livre d'Urantia_ et la science ne semblent pas être en très bon accord. ». Alors, quelle est la taille d'Orvonton ? Devons-nous modifier _Le Livre d’Urantia_ pour l’adapter à la science d’aujourd’hui, ou pire, à la science d’hier ? C’est à ces questions que l’auteur tente de répondre dans cet article, en examinant à la fois ce que dit le livre et ce qui fait partie de la connaissance humaine.
 <br style="clear:both;"/>
@@ -105,7 +105,7 @@ Cet article commence par cette déclaration : « De nombreuses personnes se sont
 <img src="/image/article/Luz_y_Vida/LyV_2024_04/La-realidad-segun-el-LU.jpg" alt="Una descripción de la realidad" width="250">
 </figure>
 
-[**Une description de la réalité (Antonio Moya)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DescripcionRealidad.pdf)
+[**Une description de la réalité (Antonio Moya)**](/fr/article/Antonio_Moya/Una_descripcion_de_la_realidad) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/DescripcionRealidad.pdf))
 
 L'introduction de ce vaste ouvrage est une déclaration d'intention de la part de l'auteur : « Les êtres humains marchent dans ce monde quelque peu perdus, désorientés. Nous dérivons un peu, tâtonnons dans le noir, car nous ne connaissons pas une description de la Réalité (…) L’être humain ne sait pas avec certitude ce qu’il fait ici, comment et pourquoi il a émergé dans le Cosmos, à quoi cela sert l'existence a. , ce qu'on attend de lui et, en tout cas, quel est son destin (s'il y en a un). Au fil des siècles, nous, les hommes, avons cherché des réponses à la raison de notre existence et de l’Univers. Ce court ouvrage est une tentative de proposer une explication possible aux questions que nous nous posons : « Quelle place occupons-nous dans l’Univers ? Et finalement, à quoi ressemble vraiment la structure de la Réalité ? »
 

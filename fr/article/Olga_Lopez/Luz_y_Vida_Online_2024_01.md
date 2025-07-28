@@ -73,7 +73,7 @@ Ce texte vaste et plein d'espoir qu'est le livre bleu se prête à être abordé
 <img src="/image/article/Luz_y_Vida /LyV_2024_01/Présentation-del-LU.jpg" alt="Commentaires sur le prologue" width="250">
 </figure>
 
-[**Quelques commentaires sur l'avant-propos du _Livre d'Urantia_ (Bill Sadler)**](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia)
+[**Quelques commentaires sur l'avant-propos du _Livre d'Urantia_ (Bill Sadler)**](/fr/article/William_S_Sadler_Jr/Bill_Sadler_Talks) (également sur le [site de l'association](https://www.urantia.org/es/charlas-de-bill-sadler/algunos-comentarios-sobre-el-prologo-de-el-libro-de-urantia))
 
 Sur le [site Web de la Fondation Urantia](http://www.urantia.org/) il y a une série d'ouvrages du Dr Sadler et de son fils, Bill Sadler, qui méritent vraiment d'être pris en considération. A cette occasion, nous recommandons la transcription d'une conférence de Bill Sadler dans laquelle il donne des commentaires éclairants sur le contenu du Prologue, au fur et à mesure que l'on progresse dans la lecture de son texte. Étant donné l’importance du Prologue pour clarifier des concepts qui sont ensuite abordés dans d’autres documents du livre, tout ce qui nous aide à mieux comprendre ces concepts est, bien entendu, le bienvenu.
 <br style="clear:both;"/>
@@ -84,7 +84,7 @@ Sur le [site Web de la Fondation Urantia](http://www.urantia.org/) il y a une s�
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Urantia-Book-e1636413757883.jpg" alt="El impacto cultural del LU" width="250">
 </figure>
 
-[**Réflexions sur certaines critiques du _Livre d'Urantia_ (Dr. William S. Sadler)**] (https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf)
+[**Réflexions sur certaines critiques du _Livre d'Urantia_ (Dr. William S. Sadler)**](/fr/article/William_S_Sadler/Consideration_some_criticisms_Urantia_Book) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2024/01/Reflexiones-sobre-algunas-criticas-que-se-hacen-a-ELU.pdf))
 
 Tous les lecteurs seront probablement d'accord avec le Dr . Déclaration de Sadler : « Je crois qu'en général _Le Livre d'Urantia_ « Il résiste à toutes sortes de critiques. » Mais il vaut la peine de lire ses réflexions à la suite de certaines critiques du livre provenant de l’extérieur de la communauté Urantia et d’adopter la perspective appropriée, en tenant compte de ce que nos révélateurs ont laissé par écrit dans le Mandat de Publication. Comme on nous l’a dit, « des milliers d’âmes spirituellement affamées vous béniront… tandis que des millions vous condamneront pour avoir perturbé leur théologie confortable. »
 <br style="clear:both;"/>
@@ -95,7 +95,7 @@ Tous les lecteurs seront probablement d'accord avec le Dr . Déclaration de Sadl
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Ciencia.png" alt="Aspectos científicos del LU" width="250">
 </figure>
 
-[**Etude de quelques aspects scientifiques du _Livre d'Urantia_ (John Lee)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf)
+[**Etude de quelques aspects scientifiques du _Livre d'Urantia_ (John Lee)**](/fr/article/John_Lehee/Approche_de_quelques_aspects_scientifiques_du_LU) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/EstudiocientificoLU.pdf))
 
 L'auteur commence par faire allusion à la célèbre section 4 du document 101, « Les limites de la révélation », puis déclare : « Les révélateurs étaient très limités dans leur travail et n'ont pas tout révélé, puisque l'homme doit découvrir par lui-même les mécanismes de la révélation. Univers. J'ai du mal à croire que les Révélateurs auraient volontairement révélé des erreurs sous prétexte de nous dissuader de faire du Livre un fétichisme, comme certains le sous-entendent, ou d'adhérer aux connaissances scientifiques du début du siècle. Il aborde ensuite certaines des affirmations scientifiques du livre qui ne semblent pas correspondre à la science actuelle.
 <br style="clear:both;"/>
@@ -106,7 +106,7 @@ L'auteur commence par faire allusion à la célèbre section 4 du document 101, 
 <img src="/image/article/Luz_y_Vida/LyV_2024_01/Conciencia-determinismo-materialismo.jpg" alt="Conciencia" width="250">
 </figure>
 
-[**Conscience, déterminisme et matérialisme (Ken Glasziou)**](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf)
+[**Conscience, déterminisme et matérialisme (Ken Glasziou)**](/fr/article/Ken_Glasziou/Consciousness) (également sur le [site de l'association](https://aue.urantia-association.org/wp-content/uploads/sites/6/2018/03/Conciencia.pdf))
 
 Cet article traite de ces trois concepts et de la relation qui existe entre eux, en comparant le matérialisme de l'ère actuelle avec ce que prétend _Le Livre d'Urantia_. Il est intéressant de noter que le déterminisme est en déclin (comme l'ont déjà souligné les révélateurs du Livre d'Urantia), en particulier avec les avancées qui ont eu lieu en physique quantique, et que les scientifiques étudient la conscience (non seulement l'individu, mais aussi la conscience). (universel) comme quelque chose de réel.
 
