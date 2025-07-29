@@ -2,7 +2,7 @@
 title: Tests de Jan en Markdown
 description: 
 published: true
-date: 2025-07-29T12:27:01.284Z
+date: 2025-07-29T12:34:45.683Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:12:29.765Z
@@ -77,28 +77,33 @@ flowchart TD
 
 
 $$
-\require{rcases}
-\begin{rcases}
-\text{7. Totalidad} \\
-\text{6. Personalidad} \\
-\begin{rcases}
-\text{5. Espíritu} \\
-\text{4. Mente} \\
-\begin{rcases}
-\text{3. Profundidad} \\
-\text{2. Altura} \\
-\text{1. Anchura} \\
-\end{rcases}
+\left.
 \begin{array}{l}
-\text{Material,} \\
-\text{1ª integración}
-\end{array}
-\end{rcases}
-\begin{array}{l}
-\text{Fusión,} \\
-\text{2º integración}
-\end{array}
-\end{rcases}
+  \text{7. Totalidad} \\
+  \text{6. Personalidad} \\
+    \left.
+    \begin{array}{l}
+      \text{5. Espíritu} \\
+      \text{4. Mente} \\
+      \left.
+      \begin{array}{l}
+        \text{3. Profundidad} \\
+        \text{2. Altura} \\
+        \text{1. Anchura}
+      \end{array}
+      \right\}
+      \begin{array}{l}
+      \text{Material,} \\
+      \text{1ª integración}
+      \end{array}
+    \end{array}
+    \right\}
+    \begin{array}{l}
+    \text{Fusión,} \\
+    \text{2º integración}
+    \end{array}
+  \end{array}
+\right\}
 \begin{array}{l}
 \text{Finalidad,} \\
 \text{3ª integración}
