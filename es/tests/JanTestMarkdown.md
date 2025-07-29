@@ -2,7 +2,7 @@
 title: Tests de Jan en Markdown
 description: 
 published: true
-date: 2025-07-29T12:26:24.637Z
+date: 2025-07-29T12:27:01.284Z
 tags: 
 editor: markdown
 dateCreated: 2022-09-12T09:12:29.765Z
@@ -77,6 +77,7 @@ flowchart TD
 
 
 $$
+\require{rcases}
 \begin{rcases}
 \text{7. Totalidad} \\
 \text{6. Personalidad} \\
