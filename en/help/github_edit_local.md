@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/en/help/github_setting">Setting up your GitHub project</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_content.md">GitHub project content</a></td>
+        <td><a href="/en/help/github_content">GitHub project content</a></td>
       </tr>
     </tbody>
   </table>
@@ -50,8 +50,8 @@ This duplication of both projects can be a bit cumbersome, but it is designed th
 Once you have a sufficient number of *commits* submitted to your own copies of the Urantiapedia projects (*forks*), you can submit *pull requests* to the original projects so that the changes can be reviewed and merged into them. This is called a *pull request* in GitHub terminology.
 
 1. Open each of the Urantiapedia pages on GitHub.
-   - `https://github.com/<username>/urantiapedia`
-   - `https://github.com/<username>/urantiapedia-backup`
+  - `https://github.com/<username>/urantiapedia`
+  - `https://github.com/<username>/urantiapedia-backup`
 2. Make sure you are on the main branch called _master_. The branch appears in a menu at the top of the file list. Normally you will only have that branch.
 3. Select the _Contribute_ menu below, then select _Open pull request_. If the menu says _This branch is not ahead of the upstream master_, you must first fetch the main project. See below.
 
@@ -79,11 +79,11 @@ Since *Urantiapedia* is a team effort, it is common that at any given time your 
 
 4. Go to VS Code.
 5. Open the project as already explained.
-5. In the _Source control_ panel, go to the _Commits_ subpanel. Click the small _Fetch_ button and then the _Pull_ button next to it. This action fetches and pushes changes at the same time to sync the local repository.
+6. In the _Source control_ panel, go to the _Commits_ subpanel. Click the small _Fetch_ button and then the _Pull_ button next to it. This action fetches and pushes changes at the same time to sync the local repository.
 
 ![](/image/help/github_setting_9.png)
 
-6. Sometimes changes to the *Urantiapedia Tools* code mean changes to dependencies. You must install or update new dependencies by running the `npm install` command from a terminal in VS Code. This will update the project's dependencies.
+7. Sometimes changes to the *Urantiapedia Tools* code mean changes to dependencies. You must install or update new dependencies by running the `npm install` command from a terminal in VS Code. This will update the project's dependencies.
 
 
 ## Summary
@@ -95,7 +95,7 @@ In summary, the process on GitHub is as follows (see diagram):
 4. “Chief Editors” send their changes to their GitHub projects via *push* actions (4).
 5. Then, the “Chief Editors” create pull requests (5) from the GitHub website for both projects: *Urantiapedia* and *Urantiapedia-backup*.
 6. These pull requests from the "Chief Editors" are reviewed by an “Administrator” who is responsible for merging (6) all the changes that are correct. Any changes that are not correct will be rejected (6) and the “Chief Editors” will be notified to correct them.
-7. When the changes are correct, the “Administrator” merges the project into the original urantiapedia-backup project and causes the changes to automatically synchronize with the website, which will appear updated in a few minutes. (7)
+7. When the changes are correct, the merge into the original *urantiapedia-backup* project causes the changes to automatically synchronize with the website, which will appear updated in a few minutes. (7)
 
 ![](/image/help/github_workflow_version_2.png)
 
@@ -115,7 +115,7 @@ In summary, the process on GitHub is as follows (see diagram):
       <tr>
         <td><a href="/en/help/github_setting">Setting up your GitHub project</a></td>
         <td><a href="/en/help">Index</a></td>
-        <td><a href="/en/help/github_content.md">GitHub project content</a></td>
+        <td><a href="/en/help/github_content">GitHub project content</a></td>
       </tr>
     </tbody>
   </table>

@@ -14,7 +14,7 @@ dateCreated: 2021-11-28T14:02:03.086Z
       <tr>
         <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content.md">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
       </tr>
     </tbody>
   </table>
@@ -50,8 +50,8 @@ Esta duplicidad de ambos proyectos puede resultar un poco engorrosa pero está d
 Cuando tengas un número suficiente de *commits* enviados a tus propias copias de los proyectos (*forks*) Urantiapedia, puedes enviar una solicitud de cambios a los proyectos originales (_pull requests_) para que los cambios puedan revisarse y fusionarse en ellos. Esto se denomina _pull request_ en la terminología de GitHub.
 
 1. Abre cada una de las páginas de Urantiapedia en GitHub.
-   - `https://github.com/<username>/urantiapedia`
-   - `https://github.com/<username>/urantiapedia-backup`
+  - `https://github.com/<username>/urantiapedia`
+  - `https://github.com/<username>/urantiapedia-backup`
 2. Asegúrate de estar en la rama principal que se llama _master_. La rama aparece en un menú en la parte superior de la lista de archivos. Normalmente sólo tendrás esa rama.
 3. Selecciona el menú _Contribute_ que aparece a continuación y luego selecciona _Open pull request_. Si el menú dice _This branch is not ahead of the upstream master_ (_Esta rama no está por delante de la rama master_), primero debes hacer un *fetch* del proyecto principal. Mira más adelante.
 
@@ -79,11 +79,11 @@ Como *Urantiapedia* es el esfuerzo de un equipo de colaboradores, es común que 
 
 4. Ve a VS Code.
 5. Abre el proyecto como ya se ha explicado.
-5. En el panel _Source control_, ve al subpanel _Commits_. Haz click en el botón pequeño _Fetch_ y luego en el botón _Pull_ al lado de éste. Esta acción recupera y envía cambios al mismo tiempo para sincronizar el repositorio local.
+6. En el panel _Source control_, ve al subpanel _Commits_. Haz click en el botón pequeño _Fetch_ y luego en el botón _Pull_ al lado de éste. Esta acción recupera y envía cambios al mismo tiempo para sincronizar el repositorio local.
 
 ![](/image/help/github_setting_9.png)
 
-6. A veces, los cambios en el código de las *Urantiapedia Tools* implican cambios en las dependencias. Debes instalar o actualizar nuevas dependencias ejecutando el comando `npm install` desde una terminal en VS Code. Esto actualizará las dependencias del proyecto.
+7. A veces, los cambios en el código de las *Urantiapedia Tools* implican cambios en las dependencias. Debes instalar o actualizar nuevas dependencias ejecutando el comando `npm install` desde una terminal en VS Code. Esto actualizará las dependencias del proyecto.
 
 
 ## Resumen
@@ -95,7 +95,7 @@ En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
 4. Los «Editores jefe» envían sus cambios a sus proyectos de GitHub a través de acciones *push* (4).
 5. Luego, los «Editores jefe» crean solicitudes de cambios (*pull requests*) (5) desde el sitio web de GitHub para ambos proyectos: *Urantiapedia* y *Urantiapedia-backup*.
 6. Estos *pull requests* de los «Editores Jefe» son revisados por un «Administrador», quien se encarga de hacer una fusión (*merge*) (6) de todos aquellos cambios que sean correctos. Cualquier cambio que no sea correcto será rechazado (6) y se notificará a los «Editores Jefe» para que lo corrijan.
-7. Cuando los cambios son correctos, el «Administrador» la fusión (*merge*) en el proyecto *urantiapedia-backup* original provoca que los cambios se sincronicen automáticamente con la web, que en pocos minutos aparecerá actualizada. (7)
+7. Cuando los cambios son correctos, la fusión (*merge*) en el proyecto *urantiapedia-backup* original provoca que los cambios se sincronicen automáticamente con la web, que en pocos minutos aparecerá actualizada. (7)
 
 ![](/image/help/github_workflow_version_2.png)
 
@@ -115,7 +115,7 @@ En resumen, el proceso en GitHub es el siguiente (ver el diagrama):
       <tr>
         <td><a href="/es/help/github_setting">Configurar el proyecto de GitHub</a></td>
         <td><a href="/es/help">Índice</a></td>
-        <td><a href="/es/help/github_content.md">Contenido del proyecto de GitHub</a></td>
+        <td><a href="/es/help/github_content">Contenido del proyecto de GitHub</a></td>
       </tr>
     </tbody>
   </table>

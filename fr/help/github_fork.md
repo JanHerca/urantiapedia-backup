@@ -27,19 +27,19 @@ Avant de faire quoi que ce soit sur GitHub, vous devrez suivre ces étapes :
 3. Si vous n'avez pas de compte, créez-en un en cliquant sur *Sign up*. Entrez un nom d'utilisateur, une adresse e-mail et un mot de passe. Une fois que vous avez un compte, connectez-vous à GitHub avec celui-ci.
 4. La première fois que vous entrez dans GitHub, il vous demandera une vérification par e-mail. Une fois vérifié, vous apparaîtrez sur votre page GitHub.
 5. Ouvrez les pages du projet *Urantiapedia* :
-   - https://github.com/JanHerca/urantiapedia
-   - https://github.com/JanHerca/urantiapedia-backup
+  - https://github.com/JanHerca/urantiapedia
+  - https://github.com/JanHerca/urantiapedia-backup
 6. Créez un *fork* des projets. Un *fork* n'est rien de plus qu'une copie d'un projet sur votre propre compte, de sorte que les modifications apportées à la copie n'affectent pas le projet original. Pour créer un *fork*, cliquez sur le bouton *Fork* dans le coin supérieur droit de chaque page de projet GitHub.
 
 ![](/image/help/github_fork_1.png)
 
-6. Dans quelques secondes, une copie des projets *Urantiapedia* sera créée dans votre compte GitHub. Ces projets constituent une copie nouvelle et complète dans laquelle vous pouvez apporter toutes les modifications dont vous avez besoin sans affecter les projets originaux. Vérifiez que vous les avez en cliquant sur votre menu utilisateur et en sélectionnant _Your repositories_ pour revenir à votre compte. Vous devriez voir les deux projets et un message indiquant _Forked from ..._.
+7. Dans quelques secondes, une copie des projets *Urantiapedia* sera créée dans votre compte GitHub. Ces projets constituent une copie nouvelle et complète dans laquelle vous pouvez apporter toutes les modifications dont vous avez besoin sans affecter les projets originaux. Vérifiez que vous les avez en cliquant sur votre menu utilisateur et en sélectionnant _Your repositories_ pour revenir à votre compte. Vous devriez voir les deux projets et un message indiquant _Forked from ..._.
 
 ![](/image/help/github_fork_2.png)
 
 ![](/image/help/github_fork_3.png)
 
-7. À partir de là, vous avez deux options :
+8. À partir de là, vous avez deux options :
   - [Travailler directement depuis le site Web GitHub](/fr/help/github_edit_on_web). Cette procédure est recommandée car elle est très simple.
   - Travailler localement sur le PC. Cette procédure est plus complexe. Nécessite plus d'étapes :
     - [Configurer le projet Urantiapedia GitHub](/fr/help/github_setting)

@@ -27,19 +27,19 @@ Before you do anything on GitHub, you'll need to follow these steps:
 3. If you don't have an account, create one by clicking *Sign up*. Enter a username, email, and password. Once you have an account, log in to GitHub with it. 
 4. The first time you log in to GitHub, you will be asked for verification via email. Once verified, you will be taken to your GitHub homepage. 
 5. Open the *Urantiapedia* project pages: 
-   - https://github.com/JanHerca/urantiapedia 
-   - https://github.com/JanHerca/urantiapedia-backup 
+  - https://github.com/JanHerca/urantiapedia 
+  - https://github.com/JanHerca/urantiapedia-backup 
 6. Create a *fork* of the projects. A *fork* is simply a copy of a project into your own account, so that changes made to the copy do not affect the original project. To *fork*, click the *Fork* button in the top right corner of every GitHub project page. 
 
 ![](/image/help/github_fork_1.png) 
 
-6. Within a few seconds, a copy of the *Urantiapedia* projects will be created in your GitHub account. These projects are a new, complete copy that you can make any changes you need without affecting the original projects. Check that you have them by clicking on your user menu and selecting _Your repositories_ to return to your account. You should see both projects and a message saying _Forked from ..._. 
+7. Within a few seconds, a copy of the *Urantiapedia* projects will be created in your GitHub account. These projects are a new, complete copy that you can make any changes you need without affecting the original projects. Check that you have them by clicking on your user menu and selecting _Your repositories_ to return to your account. You should see both projects and a message saying _Forked from ..._. 
 
 ![](/image/help/github_fork_2.png) 
 
 ![](/image/help/github_fork_3.png) 
 
-7. From here, there are two options: 
+8. From here, there are two options: 
   - [Work directly from the GitHub website](/en/help/github_edit_on_web). This procedure is recommended because it is very simple. 
   - Work locally on the PC. This procedure is more complex. It requires more steps:
     - [Setting up the Urantiapedia GitHub project](/en/help/github_setting) 
