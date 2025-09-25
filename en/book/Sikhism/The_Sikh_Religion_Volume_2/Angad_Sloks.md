@@ -40,7 +40,7 @@ God rewards the upright and holy who toil in obscurity :—
 
 The gift, the perverse suppose, is preferable to the Giver ;
 What shall I say of their intelligence, understanding, and Glewerness ? [^1]
-He who toileth in obscurity 1s known in all directions ;
+He who toileth in obscurity is known in all directions ;
 He who acteth honestly is called honest, and he who committeth sin is known as a sinner.
 O Creator, Thou Thyself performest the whole play ; why mention any one else ?
 O Source of Light, as long as Thy light is in _the body_ Thou speakest init. If any one have done aught without Thee, show _him to me_ that I may recognize him.
@@ -95,7 +95,7 @@ Man ought not to undertake what is beyond his ability :—
 If he who only knoweth the charm for a scorpion’s sting touch a serpent,
 He apphieth a brand to his body with his own hand ;
 It is the Master’s decree from the beginning that he be very severely buffeted.
-The perverse who contend with the pious shall perish ; this 1s God’s justice.
+The perverse who contend with the pious shall perish ; this is God’s justice.
 God is the Lord of both ; He sifteth them carefully.
 Nanak, know that everything is according to God’s will.
 
@@ -306,7 +306,7 @@ God looketh with favour, Nanak, on those who bear the standard of His name.
 The inferiority of the Veds to the Guru’s teaching —
 
 The readers of the Veds have brought tales and legends _of the gods_, and defined sins and virtues.
-For what men give they receive, and for what they receive they give,[^13] and they are accordingly born again either in hell or heaven.
+For what men give they receive, and for what they receive they give,[^14] and they are accordingly born again either in hell or heaven.
 The world wandereth in doubt as to what are high and low castes and species ;
 _But_ the ambrosial word _of the Guru_ speaketh of the Real Thing, and bringeth divine knowledge and meditation ;
 The pious utter it, the pious know it; they who possess divine knowledge meditate on it, and act according to it.
@@ -317,13 +317,13 @@ Man’s future is determined by his acts :—
 
 As a man’s acts so is he: this is a necessary consequence ;
 He who hath the marks of piety cannot lose them ; he must retain such appearance.
-He who acteth according to the will of God receiveth his reward ; Nanak, he is worthy of homage.[^14]
+He who acteth according to the will of God receiveth his reward ; Nanak, he is worthy of homage.[^15]
 
 ## MALAR KI WAR
 
 The rainy season, during which the natives of India usually take rest, is accounted a time of pleasure :—
 
-Sawan [^14] hath come, my companions, think of the Bridegroom ;
+Sawan [^16] hath come, my companions, think of the Bridegroom ;
 Nanak, the bad wife who loveth another shall pine away and die.
 
 <span id="p56">[<sup><small>p. 56</small></sup>]</span>

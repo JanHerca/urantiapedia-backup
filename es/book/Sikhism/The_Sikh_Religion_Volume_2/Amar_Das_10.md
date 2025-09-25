@@ -428,7 +428,7 @@ Oh cuerpo mío, ¿qué has hecho viniendo a este mundo?
 ¿Qué has hecho, oh cuerpo, desde que viniste a este mundo?
 Al Dios que te formó, no le diste lugar en tu corazón.
 Por el favor del Gurú, Dios mora en el corazón, si tal fue predestinado.
-Dice Nanak: «El hombre[22] que une su corazón al verdadero Gurú es aceptable».
+Dice Nanak: «El hombre[^22] que une su corazón al verdadero Gurú es aceptable».
 
 <p style="text-align:center;">XXXVI</p>
 
@@ -464,7 +464,7 @@ Aquellos que te complacen y a quienes les das entendimiento a través de la inst
 El Verdadero es el Señor de todo; aquel a quien Él concede favores Lo recibirá.
 Dice Nanak: canta esta verdadera canción de regocijo en el verdadero templo.
 
-XL
+<p style="text-align:center;">XL</p>
 
 Escuchen mi alegría, mis muy afortunados amigos, todos mis deseos se han cumplido:
 He obtenido a Dios, el Supremo Brahm, y todos mis dolores han desaparecido;

@@ -32,9 +32,9 @@ dateCreated: 2025-2-12T12:56:47Z
   </table>
 </figure>
 
-LA VIDA DE GURU NANAK. CAPÍTULO V
+## LA VIDA DE GURU NANAK. CAPÍTULO V
 
-El Gurú partió hacia el este, ataviado con una extraña mezcla de atuendos religiosos hindúes y musulmanes. Se puso una chaqueta color mango, sobre la cual se echó una sabana o sábana blanca. En la cabeza llevaba el sombrero de un Qalandar musulmán[^3], mientras que llevaba un collar de huesos y se imprimió una marca de azafrán en la frente al estilo hindú. Esta era una muestra de su deseo de fundar una religión que fuera aceptable tanto para hindúes como para musulmanes sin conformarse con ninguna de las dos. Mientras el Gurú y su asistente avanzaban, se encontraron con un notable musulmán llamado Shaikh Wajid. El Shaikh se posó bajo un árbol, y sus porteadores comenzaron a lavarlo con champú y abanicarlo. Esto le dio a Mardana motivo de reflexión, y le preguntó al Gurú si no había un Dios para los ricos y otro para los pobres. El Gurú respondió que sí. 59</small></sup>]</span> era un solo Dios. Mardana entonces formuló su pregunta de otra manera: "¿Quién creó a este hombre que viaja en un carruaje cómodo mientras los porteadores están descalzos? ¿A sus pies? Sus piernas están desnudas mientras lo lavan con champú y lo abanican". El Gurú respondió con los siguientes versos:
+El Gurú partió hacia el este, ataviado con una extraña mezcla de atuendos religiosos hindúes y musulmanes. Se puso una chaqueta color mango, sobre la cual se echó una sabana o sábana blanca. En la cabeza llevaba el sombrero de un Qalandar musulmán[^3], mientras que llevaba un collar de huesos y se imprimió una marca de azafrán en la frente al estilo hindú. Esta era una muestra de su deseo de fundar una religión que fuera aceptable tanto para hindúes como para musulmanes sin conformarse con ninguna de las dos. Mientras el Gurú y su asistente avanzaban, se encontraron con un notable musulmán llamado Shaikh Wajid. El Shaikh se posó bajo un árbol, y sus porteadores comenzaron a lavarlo con champú y abanicarlo. Esto le dio a Mardana motivo de reflexión, y le preguntó al Gurú si no había un Dios para los ricos y otro para los pobres. El Gurú respondió que sí <span id="p59"><sup><small>[ p. 59 ]</small></sup></span> era un solo Dios. Mardana entonces formuló su pregunta de otra manera: «¿Quién creó a este hombre que viaja en un carruaje cómodo mientras los porteadores están descalzos? ¿A sus pies? Sus piernas están desnudas mientras lo lavan con champú y lo abanican». El Gurú respondió con los siguientes versos:
 
 Aquellos que realizaron austeridades en sus vidas anteriores, ahora son reyes y reciben tributo en la tierra.
 Los que entonces estaban cansados, ahora son lavados con champú por _otros_.
@@ -84,7 +84,7 @@ Permanece puro en medio de las impurezas del mundo, así encontrarás el camino 
 
 Al oír esto, los Sidhs rindieron homenaje al Gurú Nanak. El Gurú, tras infundir savia en el árbol pipal sentándose bajo él, se convirtió necesariamente en un ser excepcional a sus ojos.
 
-El Gurú y su asistente musical se dirigieron a Benarés[^2], sede de la religión hindú y cuna del renombrado Kabir, ya fallecido, pero no olvidado. El Gurú y Mardana se sentaron en una plaza pública de la ciudad. En ese momento, el brahmán principal de la ciudad santa era Pandit Chatur Das. Al ir a bañarse, vio al Gurú e hizo el saludo hindú: "¡Ram, Ram!". Al observar la vestimenta del Gurú, lo ridiculizó por no poseer salagrama[^3], aunque se consideraba faquir, y por no llevar collar de albahaca sagrada ni rosario. "¿Qué santidad has obtenido?". El Gurú respondió:
+El Gurú y su asistente musical se dirigieron a Benarés[^2], sede de la religión hindú y cuna del renombrado Kabir, ya fallecido, pero no olvidado. El Gurú y Mardana se sentaron en una plaza pública de la ciudad. En ese momento, el brahmán principal de la ciudad santa era Pandit Chatur Das. Al ir a bañarse, vio al Gurú e hizo el saludo hindú: «¡Ram, Ram!». Al observar la vestimenta del Gurú, lo ridiculizó por no poseer salagrama[^3], aunque se consideraba faquir, y por no llevar collar de albahaca sagrada ni rosario. «¿Qué santidad has obtenido?». El Gurú respondió:
 
 Oh Brahman, tú adoras y propicias el salagram, y consideras que es un buen acto llevar un collar de albahaca dulce.[^4]
 ¿Por qué regar la tierra estéril y desperdiciar tu vida?
@@ -160,7 +160,7 @@ Nanak, los rollos que son el regalo de Dios nunca se agotan.[^6]
 
 El Gurú y Mardana, durante su viaje, se encontraron en casa de un comerciante de cereales. Uno de los socios acababa de tener un hijo, y varias personas habían acudido a felicitarlo. Algunos arrojaron polvo rojo[^7] en señal de alegría, y las voces de bendición y felicitación llenaron el vecindario. Mardana se sentó y contempló el espectáculo. Por la noche, al terminar la fiesta del comerciante de cereales, se levantó y se dirigió a sus aposentos privados sin prestarle atención. Este se acercó al Gurú, quien estaba sentado a cierta distancia, le informó del nacimiento del niño y le contó la fiesta. El Gurú sonrió y dijo que no era un hijo nacido en la casa del comerciante de grano, sino un acreedor que venía a saldar sus cuentas. Se quedaría allí esa noche y partiría por la mañana. Entonces el Gurú le ordenó a Mardana que tocara el rabel y cantó al son de sus acordes el siguiente himno:
 
-I
+<p style="text-align:center;">I</p>
 
 A la primera vigilia de la noche, amigo comerciante mío, el niño, por orden de Dios, entra en el vientre materno.
 Con el cuerpo invertido hace penitencia en su interior, ¡oh amigo comerciante!, y reza al Señor.
@@ -169,7 +169,7 @@ Viene desnudo al mundo y vuelve a partir desnudo.
 Le esperará el destino que la pluma de Dios ha escrito en su frente.
 Dice Nanak que en la primera vigilia, al recibir la orden, el niño entra en el útero.
 
-II
+<p style="text-align:center;">II</p>
 
 En la segunda vigilia de la noche, oh amigo comerciante, se olvida de meditar en Dios.
 Se mece en los brazos, oh amigo comerciante, como Krishan en la casa de Yasodha.
@@ -189,7 +189,7 @@ Dedicado a la mujer y embriagado de su juventud, desperdicia su vida en vano.
 No ha comerciado con la virtud ni ha hecho de las buenas obras sus amigos.
 Dice Nanak que en la tercera vigilia los pensamientos del hombre se centran en la mujer y en los placeres de la juventud.
 
-IV
+<p style="text-align:center;">IV</p>
 
 A la cuarta vigilia de la noche, oh amigo comerciante, el segador llega al campo;
 El secreto no ha sido revelado a nadie cuando la Muerte se apoderará de su víctima y se la llevará.
