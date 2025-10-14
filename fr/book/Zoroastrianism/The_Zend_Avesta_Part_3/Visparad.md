@@ -302,7 +302,7 @@ Et nous nous efforçons d'atteindre les bonnes pensées, paroles et actions incu
 
 [^1486].
 
-1. Nous adorons Ahura Mazda la généreuse ; et nous adorons les Immortels Généreux (dit le Spe<i>n</i>ta). Et nous sacrifions au saint généreux et à la compréhension anticipative généreuse [^1487]. Nous sacrifions également à l'Âramaiti (l'esprit prompt) bonne et généreuse. Et nous l'adorons avec [^1488] les créatures généreuses dans la création des purs. Et nous sacrifions aux créatures saintes qui ont l'intelligence comme première [^1489], (à celles qui sont les plus importantes dans leur esprit). Et nous adorons la compréhension omnisciente, et Celui qui est Ahura Mazda (Lui-même). 2. Et nous sacrifions au soleil brillant, qui est le plus élevé des élevés ; oui, nous adorons le soleil avec les Immortels Généreux et les Mãthras avec leurs bonnes cérémonies [^1490]. Nous sacrifions aussi aux glorieuses réalisations et à cette gloire (que nous avons acquise). Et nous sacrifions aux troupeaux qui possèdent le Feu et ses bénédictions [^1491]. Nous adorons aussi le bienfait sacré qui est si largement diffusé [^1492], et cette sagesse qui est le généreux Âramaiti, dont sont les lois [^1493] de l'Ordre Juste, et de ces saintes créatures qui ont la Droiture comme première.
+1\. Nous adorons Ahura Mazda la généreuse ; et nous adorons les Immortels Généreux (dit le Spe<i>n</i>ta). Et nous sacrifions au saint généreux et à la compréhension anticipative généreuse [^1487]. Nous sacrifions également à l'Âramaiti (l'esprit prompt) bonne et généreuse. Et nous l'adorons avec [^1488] les créatures généreuses dans la création des purs. Et nous sacrifions aux créatures saintes qui ont l'intelligence comme première [^1489], (à celles qui sont les plus importantes dans leur esprit). Et nous adorons la compréhension omnisciente, et Celui qui est Ahura Mazda (Lui-même). 2. Et nous sacrifions au soleil brillant, qui est le plus élevé des élevés ; oui, nous adorons le soleil avec les Immortels Généreux et les Mãthras avec leurs bonnes cérémonies [^1490]. Nous sacrifions aussi aux glorieuses réalisations et à cette gloire (que nous avons acquise). Et nous sacrifions aux troupeaux qui possèdent le Feu et ses bénédictions [^1491]. Nous adorons aussi le bienfait sacré qui est si largement diffusé [^1492], et cette sagesse qui est le généreux Âramaiti, dont sont les lois [^1493] de l'Ordre Juste, et de ces saintes créatures qui ont la Droiture comme première.
 
 <a id="v20"></a>
 
@@ -336,7 +336,7 @@ Avec ce chant (entièrement) chanté, et qui est pour les Immortels Généreux e
 
 1\. Nous adorons Ahura Mazda comme le meilleur [^1504] (adoration à offrir dans nos offrandes). Nous adorons l'Amesha Spe<i>n</i>ta (une fois de plus, et comme) le meilleur. Nous adorons Asha Vahi<i>s</i>ta (qui est la Justice la Meilleure). Et nous sacrifions à celles (prières) qui sont évidentes comme étant les meilleures ; c'est-à-dire les Louanges des Yasnas.
 
-Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vahi<i>s</i>ta, et nous adorons le Ciel, qui est le meilleur monde des saints, brillant et tout glorieux ; et nous sacrifions de même à cette meilleure approche qui mène à [^1505] lui. 2. Et nous sacrifions à cette récompense, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> la santé, la guérison, le progrès et l'accroissement, et à cette victoire qui est dans [^1506] les deux, l'Ahuna-vairya et l'Airy<i>e</i>mâ-ishyô, par la récitation mémorisée des bonnes pensées, paroles et actions (qu'ils recommandent).
+Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vahi<i>s</i>ta, et nous adorons le Ciel, qui est le meilleur monde des saints, brillant et tout glorieux ; et nous sacrifions de même à cette meilleure approche qui mène à [^1505] lui. 2. Et nous sacrifions à cette récompense, <span id="p364"><sup><small>[ p. 364 ]</small></sup></span> la santé, la guérison, le progrès et l'accroissement, et à cette victoire qui est dans [^1506] les deux, l'Ahuna-vairya et l'Airy<i>e</i>mâ-ishyô, par la récitation mémorisée des bonnes pensées, paroles et actions (qu'ils recommandent).
 
 <span id="p365"><sup><small>[ p. 365 ]</small></sup></span>
 
@@ -374,7 +374,7 @@ Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vah
 
 [^1398]: 335:4 Ainsi De Harlez, suivant admirablement le Pahl. sardîk (sic).
 
-[^1399] : 335:5 Pavan yazi<i>s</i>n kar<i>d</i>arîh.
+[^1399]: 335:5 Pavan yazi<i>s</i>n kar<i>d</i>arîh.
 
 [^1400]: 336:1 <i>A</i>unghairyô, un collectif, ou zîzanen, un participe.
 
@@ -406,7 +406,7 @@ Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vah
 
 [^1414]: 339:3 Yô, avec K7b, K11, daretem, forme passive ; ou, 'qui (a) tenu le Mãthra.' Le texte doit cependant être en désordre.
 
-[^1415] : 339:4 Dans l'Ashem Vohû.
+[^1415]: 339:4 Dans l'Ashem Vohû.
 
 [^1416]: 340:1 Ainsi les Pahlavi.
 
@@ -464,7 +464,7 @@ Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vah
 
 [^1444]: 347:1 'Médiatisé' (?), ou 'connu', madhayangha (-uha).
 
-[^1445] : 347:2 Voir Y. XXXV, 5.
+[^1445]: 347:2 Voir Y. XXXV, 5.
 
 [^1446]: 347:3 Cette section doit être lue avant Y. XXII.
 
@@ -548,7 +548,7 @@ Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vah
 
 [^1490]: 357:5 Sursum corda!
 
-[^1491] : 357:6 Comp. gavôi verezyâtãm, Y. XLVIII, 5.
+[^1491]: 357:6 Comp. gavôi verezyâtãm, Y. XLVIII, 5.
 
 [^1492]: 357:7 « Placez les nécessiteux avec ceux qui n'ont pas besoin. »
 
@@ -584,7 +584,7 @@ Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vah
 
 [^1508]: 360:6 « Fait par le feu » est inintelligible ; « avoir des dons de feu » peut se référer aux troupeaux et aux troupeaux, comme exprimant la source de cette prospérité qui est représentée par le Feu sacré.
 
-[^1509] : 361 : 1 Pahl. fravaft sud<i>d</i>.
+[^1509]: 361 : 1 Pahl. fravaft sud<i>d</i>.
 
 [^1510]: 361:2 Dâthra avec K4.
 
@@ -594,9 +594,9 @@ Français Nous sacrifions aussi à ce meilleur souhait, qui est celui d'Asha Vah
 
 [^1513]: 361:5 Associé à ce Gâtha de Y. LI, 9.
 
-[^1514] : 361 : 6 Comparez Y. LI, 3.
+[^1514]: 361 : 6 Comparez Y. LI, 3.
 
-[^1515] : 361 : 7 Y. LI, 9 ; aussi peut-être Y. LIII, 8, 9.
+[^1515]: 361 : 7 Y. LI, 9 ; aussi peut-être Y. LIII, 8, 9.
 
 [^1516]: 361:8 Entre ; c'est-à-dire décrit dans l'espace entre le Vohu-khshathra et le Vahi<i>s</i>tôi<i>s</i>ti, c'est-à-dire dans Y. LII. Voir hamist<i>e</i>ê dans Y. LII, 4, et paiti<i>s</i>tât<i>e</i>ê dans Visp. XX, 2.
 
