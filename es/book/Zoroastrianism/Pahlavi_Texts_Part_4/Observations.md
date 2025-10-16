@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p1"><sup><small>[ pág. 1 ]</small></sup></span>
 
@@ -44,7 +45,7 @@ dateCreated: 2025-10-10T14:41:43Z
 
 2\. Se utilizan cursivas para cualquier palabra en inglés que no esté expresada o no se comprenda completamente en el texto original, pero que se agregue para completar el sentido de la traducción.
 
-3\. Las cursivas que aparecen en palabras o nombres orientales representan ciertas letras orientales peculiares (véase la «Transliteración de los alfabetos orientales» al final de este volumen), o ciertas formas abreviadas de escribir las letras pahlavi, para las cuales véanse las observaciones sobre la transliteración pahlavi cerca del final de la Introducción. Las cursivas <i>a</i>, <i>â</i>, <i>d</i>, <i>e</i>, <i>ê</i>, <i>h</i>, <i>i</i>, <i>î</i>, _kh_, <i>l</i>, <i>p</i>, <i>r</i>, <i>s</i><i>h</i>, <i>u</i>, <i>v</i>, <i>z</i><i>d</i> no indican cambios en la pronunciación; pero la <i>g</i> debería sonar como la j, la <i>h</i><i>v</i> como la wh, la <i>k</i> como la ch en 'church', la <i>s</i> como la sh, y la <i>z</i> avéstica como la j francesa.
+3\. Las cursivas que aparecen en palabras o nombres orientales representan ciertas letras orientales peculiares (véase la «Transliteración de los alfabetos orientales» al final de este volumen), o ciertas formas abreviadas de escribir las letras pahlavi, para las cuales véanse las observaciones sobre la transliteración pahlavi cerca del final de la Introducción. Las cursivas <i>a</i>, <i>â</i>, <i>d</i>, <i>e</i>, <i>ê</i>, <i>h</i>, <i>i</i>, <i>î</i>, _kh_, <i>l</i>, <i>p</i>, <i>r</i>, <i>s</i><i>h</i>, <i>u</i>, <i>v</i>, <i>z</i><i>d</i> no indican cambios en la pronunciación; pero la <i>g</i> debería sonar como la j, la <i>h</i><i>v</i> como la wh, la <i>k</i> como la ch en «church», la <i>s</i> como la sh, y la <i>z</i> avéstica como la j francesa.
 
 4\. En la traducción las palabras entre paréntesis son meramente explicativas de las que las preceden.
 
@@ -80,3 +81,4 @@ K (escrito en 1594 d. C. y posteriormente), n.º 43, en la Biblioteca Universita
     </tbody>
   </table>
 </figure>
+<br>

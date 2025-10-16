@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 <span id="p318"><sup><small>[ pág. 318 ]</small></sup></span>
 
@@ -75,6 +76,7 @@ _Bakŏ Nask_.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 
@@ -94,4 +96,4 @@ _Bakŏ Nask_.
 
 [^8]: (322:1) Véase Pahl. Yas. XXIX, 10 c.
 
-[^9]: (322:2) Ibid. 10 b; probablemente deberíamos leer hû-mâni<i>s</i>nîh, 'morada agradable', en lugar de hû-mîni<i>s</i>nîh.
+[^9]: (322:2) Ibid. 10 b; probablemente deberíamos leer hû-mâni<i>s</i>nîh, «morada agradable», en lugar de hû-mîni<i>s</i>nîh.

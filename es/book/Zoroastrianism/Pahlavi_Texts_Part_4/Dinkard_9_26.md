@@ -31,6 +31,7 @@ dateCreated: 2025-10-10T14:41:43Z
     </tbody>
   </table>
 </figure>
+<br>
 
 ## DÎNKA<i>R</i><i>D</i>.—LIBRO IX. CAPÍTULO XXVI.
 
@@ -63,9 +64,10 @@ _Var<i>s</i>tmânsar Nask_.
     </tbody>
   </table>
 </figure>
+<br>
 
 ## Notas al pie
 
 [^1]: (232:2) Véase Cap. III, 1 n.
 
-[^2]: (233:1) K omite 'de oraciones'.
+[^2]: (233:1) K omite «de oraciones».
