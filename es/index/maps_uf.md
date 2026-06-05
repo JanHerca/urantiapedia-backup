@@ -28,13 +28,13 @@ dateCreated: 2023-12-12T14:02:03.086Z
 
 <div class="layout row wrap">
 	<div class="flex xs8 md6 lg4 xl4 d-flex">
-		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-book">
-			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-book ">
-				<div class="urantiapedia-book-front urantiapedia-card-top-image">
+		<div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
+			<div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
+				<div class="urantiapedia-map-front urantiapedia-card-top-image">
 					<img class="urantiapedia-card-top-image" src="/image/map/Urantia_Foundation/thumbnails/map-01.jpg">
 				</div>
 			</div>
-			<div class="urantiapedia-card-title urantiapedia-book pt-4">Map 1: Birthplace & Flight route of Baby Jesus</div>
+			<div class="urantiapedia-card-title urantiapedia-map pt-4">Map 1: Birthplace & Flight route of Baby Jesus</div>
 			<div class="urantiapedia-card-actions">
 				<a href="/es/map/Urantia_Foundation/map_01" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
 					<span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
