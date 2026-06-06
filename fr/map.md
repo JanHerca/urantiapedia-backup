@@ -37,6 +37,6 @@ Accédez ici à [la Liste des Cartes disponibles dans la Cartothèque](/fr/index
 ## Références
 
 Voici quelques cartes disponibles :
-- [« Sur ses traces : Cartes des voyages de Jésus », Fondation Urantia](https://www.urantia.org/es/en-sus-pasos)
+- [« Sur ses traces : Cartes des voyages de Jésus », Fondation Urantia](https://www.urantia.org/in-his-steps)
 - [« Où Jésus a marché », Fondation Jesusonian](https://truthbook.com/jesus/where-jesus-walked-maps-index/)
 - [« Cartes pour l'étude de la vie de Jésus », Fellowship du _Livre Urantia_](https://archive.urantiabook.org/index_maps.htm)

@@ -26,6 +26,8 @@ dateCreated: 2023-12-12T14:02:03.086Z
   </table>
 </figure>
 
+La versión original de estos mapas fue creada por un lector anónimo de _El Libro de Urantia_. En 2011, Russ McClay añadió las coordenadas de Google Earth y mejoró las imágenes.
+
 <div class="layout row wrap">
   <div class="flex xs8 md6 lg4 xl4 d-flex">
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
@@ -38,7 +40,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">De agosto del año 7 a.C. a octubre del año 4 a.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_01" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -54,7 +56,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">4 de octubre del año 4 a.C. - 3 de junio del año 3 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_02" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -70,7 +72,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">4 de octubre del año 4 a.C. - 3 de junio del año 3 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_03" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -86,7 +88,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">21 de agosto del año 6 d.C. - 16 de abril del año 7 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_04" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -102,7 +104,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">16 de abril del año 7 d.C. - 18 de abril del año 7 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_05" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -118,7 +120,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">21 de abril del año 7 d.C. - 21 de agosto del año 10 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_06" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -134,7 +136,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">21 de agosto del año 12 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_07" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -150,7 +152,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">22 de agosto del año 14 d.C. - 21 de agosto del año 29 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_08" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -166,7 +168,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">3 de abril del año 15 d.C. - 17 de abril del año 15 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_09" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -182,7 +184,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">3 de abril del año 17 d.C. - 21 de abril del año 17 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_10" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -198,7 +200,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">5 de abril del año 19 d.C. - 15 de abril del año 19 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_11" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -214,7 +216,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">21 de enero del año 21 d.C. - 26 de abril del año 22 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_12" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -227,10 +229,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Mapa 13. Viaje a Roma, Grecia y Mesopotamia</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	26 de abril del año 22 d.C. - 1 de enero del año 23 d.C.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">26 de abril del año 22 d.C. - 1 de enero del año 23 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_13" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -246,7 +248,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">1 de abril del año 24 d.C. - 1 de abril del año 25 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_14" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -259,10 +261,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Mapa 15. Viajes de Jesús a Siria y la costa mediterránea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	1 de abril del año 25 d.C. - 19 de julio del año 25 d.C.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">1 de abril del año 25 d.C. - 19 de julio del año 25 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_15" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -278,7 +280,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">19 de julio del año 25 d.C. - 1 de octubre del año 25 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_16" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -294,7 +296,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">15 de septiembre del año 25 d.C. - enero del año 26 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_17" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -307,10 +309,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Mapa 18. Bautismo en el cruce de Pella y los 40 días en las colinas de Perea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	12 de enero del año 26 d.C. - 23 de febrero del año 26 d.C.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">12 de enero del año 26 d.C. - 23 de febrero del año 26 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_18" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -326,7 +328,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 23 al 28 de febrero del año 26 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_19" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -342,7 +344,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">1 de marzo del año 26 d.C. - 19 de enero del año 27 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_20" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -358,7 +360,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 1 de enero al 30 de marzo del año 27 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_21" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -374,7 +376,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 3 de enero al 5 de marzo del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_22" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -387,10 +389,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Mapa 23. Primera gira pública por Galilea</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	Del 18 de enero al 17 de marzo del año 28 d.C.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">Del 18 de enero al 17 de marzo del año 28 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_23" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -406,7 +408,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 17 de marzo al 1 de mayo del año 28 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_24" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -422,7 +424,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">4 de mayo del año 28 d.C. - 16 de enero del año 29 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_25" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -438,7 +440,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 19 de enero al 26 de marzo del año 29 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_26" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -454,7 +456,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 27 de marzo al 28 de junio del año 29 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_27" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -470,7 +472,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 29 de junio al 3 de agosto del año 29 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_28" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -486,7 +488,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 3 de agosto al 23 de septiembre del año 29 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_29" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -502,7 +504,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">25 de septiembre del año 29 d.C. - 29 de enero del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_30" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -518,7 +520,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 3 de enero al 5 de marzo del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_31" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -534,7 +536,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 5 de marzo al 2 de abril del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_32" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -550,7 +552,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 3 al 5 de abril del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_33" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -566,7 +568,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">6 de abril del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_34" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -582,7 +584,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Viernes 7 de abril del año 30 d.C., de las 12 a las 8:15 de la mañana</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_35" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -598,7 +600,7 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Viernes 7 de abril del año 30 d.C., de 8:15 a 12 del mediodía</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_36" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -611,10 +613,10 @@ dateCreated: 2023-12-12T14:02:03.086Z
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">Mapa 37. Apariciones morontiales de Jesús en Jerusalén</div>
-      <div class="urantiapedia-card-subtitle urantiapedia-map">	9 de abril del año 30 d.C.</div>
+      <div class="urantiapedia-card-subtitle urantiapedia-map">9 de abril del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_37" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
@@ -630,12 +632,16 @@ dateCreated: 2023-12-12T14:02:03.086Z
       <div class="urantiapedia-card-subtitle urantiapedia-map">Del 11 de abril al 18 de mayo del año 30 d.C.</div>
       <div class="urantiapedia-card-actions">
         <a href="/es/map/Urantia_Foundation/map_38" class="mx-0 v-btn v-btn--depressed v-btn--flat v-btn--outlined v-btn--router theme--light v-size--small indigo--text">
-          <span class="v-btn__content"><div class="caption"><strong>Ver</strong></div></span>
+          <span class="v-btn__content"><div class="caption"><strong>Abrir</strong></div></span>
         </a>
       </div>
     </div>
   </div>
 </div>
+
+## References
+
+- [«En sus pasos: Mapas de los viajes de Jesús», de la Fundación Urantia](https://www.urantia.org/es/en-sus-pasos)
 
 <figure class="table chapter-navigator">
   <table>
