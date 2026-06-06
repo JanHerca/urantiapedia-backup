@@ -1,5 +1,5 @@
 ---
-title: "Tercera visita a Jerusalén para la Pascua"
+title: "Mapa 8. Tercera visita a Jerusalén para la Pascua"
 description: "22 de agosto del año 14 d.C. - 21 de agosto del año 29 d.C."
 published: true
 date: 2026-06-06T14:02:03.086Z
@@ -18,8 +18,8 @@ dateCreated: 2026-06-06T14:02:03.086Z
         </a>
         </td>
         <td>
-        <a href="/es/index/maps">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de mapas</span>
+        <a href="/es/index/maps_uf">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
         </a>
         </td>
         <td>

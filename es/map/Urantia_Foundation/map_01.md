@@ -15,8 +15,8 @@ dateCreated: 2026-06-06T14:02:03.086Z
         <td>
         </td>
         <td>
-        <a href="/es/index/maps">
-          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice de todos los grupos de mapas</span>
+        <a href="/es/index/maps_uf">
+          <span class="mdi mdi-book-open-variant"></span><span class="pl-2">Índice</span>
         </a>
         </td>
         <td>
@@ -28,6 +28,8 @@ dateCreated: 2026-06-06T14:02:03.086Z
     </tbody>
   </table>
 </figure>
+
+<br>
 
 <figure id="Figure_1" class="image urantiapedia image-style-align-center">
 <img src="/image/map/Urantia_Foundation/maps/map-01-735px.jpg">
