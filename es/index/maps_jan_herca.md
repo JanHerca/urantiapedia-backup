@@ -49,7 +49,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">75. Las siete donaciones de Miguel</div>
@@ -72,7 +72,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">76. Occidente en el siglo I</div>
@@ -95,7 +95,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">77. Composición de los evangelios</div>
@@ -118,7 +118,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">78. Nacimiento de Jesús</div>
@@ -141,7 +141,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">79. Viajes de los sacerdotes de Ur</div>
@@ -164,7 +164,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">80. Huida a Egipto y regreso</div>
@@ -187,7 +187,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">81. Los alrededores de Nazaret</div>
@@ -210,7 +210,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/82.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/82.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">82. El primer viaje a Jerusalén</div>
@@ -233,7 +233,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">83. Jerusalén en tiempos de Jesús</div>
@@ -256,7 +256,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">84. Otros viajes a Jerusalén</div>
@@ -279,7 +279,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">85. En Damasco y en Cesarea Marítima</div>
@@ -302,7 +302,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">86. Los alrededores del mar de Galilea</div>
@@ -325,7 +325,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">87. El viaje a Roma y regreso</div>
@@ -348,7 +348,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">88. Alejandría en tiempos de Jesús</div>
@@ -371,7 +371,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">89. Roma en tiempos de Jesús</div>
@@ -394,7 +394,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">90. Los viajes desde Roma</div>
@@ -417,7 +417,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">91. El viaje por Mesopotamia</div>
@@ -440,7 +440,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">92. El viaje al mar Caspio</div>
@@ -463,7 +463,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">93. El viaje a Siria</div>
@@ -486,7 +486,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">94. El viaje por Palestina</div>
@@ -509,7 +509,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/95.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/95.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">95. El ascenso al monte Hermón</div>
@@ -532,7 +532,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/96.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/96.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">96. Regreso a Cafarnaúm y visita a Jerusalén</div>
@@ -555,7 +555,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/97.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/97.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">97. El bautismo en Pella y el retiro en las colinas</div>
@@ -578,7 +578,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/98.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/98.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">98. La vida de Juan Bautista</div>
@@ -601,7 +601,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/99.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/99.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">99. La boda en Caná</div>
@@ -624,7 +624,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/100.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/100.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">100. Primera predicación personal</div>
@@ -647,7 +647,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/101.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/101.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">101. Primera predicación de los doce</div>
@@ -670,7 +670,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/102.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/102.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">102. Primer gran periplo de Jesús con los apóstoles</div>
@@ -693,7 +693,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/103.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/103.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">103. Primera gira de predicación pública por Galilea</div>
@@ -716,7 +716,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/104.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/104.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">104. Segunda visita a Jerusalén con los doce</div>
@@ -739,7 +739,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/105.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/105.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">105. Segunda gira de predicación pública por Galilea</div>
@@ -762,7 +762,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/106.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/106.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">106. Tercera gira de predicación pública por Galilea</div>
@@ -785,7 +785,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/107.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/107.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">107. Escapadas por el mar de Galilea</div>
@@ -808,7 +808,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/108.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/108.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">108. Tercera visita a Jerusalén con los doce</div>
@@ -831,7 +831,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/109.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/109.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">109. La huida a Fenicia</div>
@@ -854,7 +854,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/110.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/110.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">110. Una nueva visita a Cesarea de Filipo y una segunda ascensión al Hermón</div>
@@ -877,7 +877,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/111.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/111.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">111. La gira por la Decápolis</div>
@@ -900,7 +900,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/112.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/112.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">112. Cuarta visita a Jerusalén con los doce</div>
@@ -923,7 +923,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/113.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/113.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">113. La primera gira de los setenta, por Galilea, Samaria y Judea</div>
@@ -946,7 +946,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/114.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/114.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">114. Quinta visita a Jerusalén, con Natanael y Tomás</div>
@@ -969,7 +969,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/115.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/115.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">115. La segunda gira de los setenta, por Perea</div>
@@ -992,7 +992,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/116.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/116.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">116. La última visita a Jerusalén</div>
@@ -1015,7 +1015,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">117. Las últimas horas de Jesús</div>
@@ -1038,7 +1038,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">118. Las apariciones de Jesús</div>
@@ -1061,7 +1061,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">119. La misión de los apóstoles</div>
@@ -1084,7 +1084,7 @@ Próximamente
     <div class="v-card v-sheet mx-auto urantiapedia-card urantiapedia-map">
       <div class="v-responsive v-img align-end urantiapedia-card urantiapedia-map ">
         <div class="urantiapedia-map-front urantiapedia-card-top-image">
-          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/Placeholder.jpg">
+          <img class="urantiapedia-card-top-image" src="/image/map/Jan_Herca/thumbnails/es/Placeholder.jpg">
         </div>
       </div>
       <div class="urantiapedia-card-title urantiapedia-map pt-4">120. Expansión del cristianismo</div>
