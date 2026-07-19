@@ -24,7 +24,7 @@ dateCreated: 2025-2-12T12:27:7Z
         </td>
         <td>
         <a href="/es/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Text">
-          <span class="pr-2">Texto de la Armonía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Texto de la Armonización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>
@@ -400,7 +400,7 @@ Nota. — Los siguientes versículos de la Versión de 1611, que fueron omitidos
         </td>
         <td>
         <a href="/es/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Text">
-          <span class="pr-2">Texto de la Armonía</span><span class="mdi mdi-arrow-right-drop-circle"></span>
+          <span class="pr-2">Texto de la Armonización</span><span class="mdi mdi-arrow-right-drop-circle"></span>
         </a>
         </td>
       </tr>

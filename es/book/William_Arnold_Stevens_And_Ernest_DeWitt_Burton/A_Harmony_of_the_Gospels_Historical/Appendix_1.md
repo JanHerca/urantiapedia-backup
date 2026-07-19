@@ -14,7 +14,7 @@ dateCreated: 2025-2-12T12:27:7Z
       <tr>
         <td>
         <a href="/es/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Text">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Texto de la Armonía</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Texto de la Armonización</span>
         </a>
         </td>
         <td>
@@ -164,7 +164,7 @@ Para el estudiante que busca simplemente estructurar una narración de la vida d
 
 a ) Las cifras superiores que preceden a una palabra o frase en el texto se refieren a las lecturas marginales de la Versión Revisada de 1881. Estas se reproducen sin cambios, salvo lo que requiera la disposición de las cifras. Van precedidas de la abreviatura: ERV. mg. En los pocos casos en que, debido a la transposición de una cifra de referencia del final al principio de una palabra (para distinguir estas lecturas de las de la Revisión Americana), el significado de la nota se oscurece, hemos eliminado la oscuridad insertando palabras explicativas en la nota, encerrándolas entre corchetes.
 
-b ) Las cifras superiores adjuntas a una palabra o frase en el texto se refieren a las traducciones adoptadas por el Comité de Revisión Estadounidense e incorporadas en el texto de la Revisión Estadounidense de 1901. Van precedidas de la abreviatura: ARV.txt.
+b ) Las cifras superiores adjuntas a una palabra o frase en el texto se refieren a las traducciones adoptadas por el Comité de Revisión Estadounidense e incorporadas en el texto de la Revisión Estadounidense de 1901. Van precedidas de la abreviatura: ARV. txt.
 
 c ) Las letras superiores en el texto se refieren a los Dichos Repetidos de Jesús, es decir, a dichos de Cristo similares a los que aparecen en el texto, pero reportados en un contexto diferente. El número entre paréntesis al final de la nota al pie indica la sección en la que aparece el pasaje en el cuerpo del texto. Cuando la nota al pie contiene solo una referencia por capítulo y versículo sin texto ni número de sección, el pasaje al que se hace referencia pertenece, no a otra sección, sino a otra parte de la misma sección.
 
@@ -186,7 +186,7 @@ b ) Un número de sección precedido por el signo + y encerrado entre paréntesi
       <tr>
         <td>
         <a href="/es/book/William_Arnold_Stevens_And_Ernest_DeWitt_Burton/A_Harmony_of_the_Gospels_Historical/Text">
-          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Texto de la Armonía</span>
+          <span class="mdi mdi-arrow-left-drop-circle"></span><span class="pl-2">Texto de la Armonización</span>
         </a>
         </td>
         <td>
