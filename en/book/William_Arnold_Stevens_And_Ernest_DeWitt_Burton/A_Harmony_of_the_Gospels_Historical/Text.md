@@ -1897,7 +1897,7 @@ ERV. mg. : <sup>1</sup> Or, _through_ <sup>2</sup> Gr. _becoming full of wisdom_
 
 ARV. txt.: <sup>1</sup> through <sup>2</sup> teachers <sup>3</sup> knew
 
-**p.30**
+**p. 30**
 
 ERV. mg. : <sup>1</sup> Or, _through_ <sup>2</sup> Some ancient authorities omit _the Son of God_. <sup>3</sup> Some ancient authorities read _in the prophets_.
 
@@ -2373,7 +2373,7 @@ ARV. txt. : <sup>1</sup> that
 
 <sup>b</sup> Cf. Matt. 13:9; Mark4:9; Luke 8:8 (p. 81), and references there; also Matt. 18:43 (p. 87).
 
-<sup>.c</sup> Matt. 7 : 2. And with what measure ye mete, it shall be measured unto you. (§ 49)
+<sup>c</sup> Matt. 7 : 2. And with what measure ye mete, it shall be measured unto you. (§ 49)
 
 <sup>c</sup> Luke 6 : 38. For with what measure ye mete it shall be measured to you again. (§ 49)
 
@@ -2427,7 +2427,7 @@ ARV. txt. : <sup>1</sup> the gnashing <sup>2</sup> who <sup>3</sup> Teacher
 
 <sup>a</sup> Cf. Matt. 13: 42 (p. 87), and references there.
 
-**p.89**
+**p. 89**
 
 ERV. mg.: <sup>1</sup> Or, _demoniacs_ <sup>2</sup> Or. _demons_. <sup>3</sup> Many ancient authorities read _Gergesenes_ ; others, _Gadarenes_ : and so in ver. 37. <sup>4</sup> Or, _of a long time_ <sup>5</sup> Or. _demon_.
 
@@ -3117,7 +3117,7 @@ ARV. txt.: <sup>1</sup> that
 
 ERV. mg. : <sup>1</sup> Or. drachma, <sup>2</sup> coin worth aboat eight pence. 
 
-ASV. txt : <sup>1</sup> Omit for <sup>2</sup> who
+ARV. txt : <sup>1</sup> Omit for <sup>2</sup> who
 
 <sup>a</sup> Matt. 10: 38. And be that doth not take his cross and follow after me, is not worthy of me. (§64)
 
@@ -3523,7 +3523,7 @@ ARV. txt.: <sup>1</sup> who
 
 ERV. mg. : <sup>1</sup> Or, him <sup>2</sup> Or, Teacher 
 
-ARV.txt.: <sup>1</sup> that is of <sup>2</sup> that <sup>3</sup> Teacher
+ARV. txt.: <sup>1</sup> that is of <sup>2</sup> that <sup>3</sup> Teacher
 
 **p. 187**
 
@@ -3557,7 +3557,7 @@ ARV. txt. : <sup>1</sup> through <sup>2</sup> Holy Spirit
 
 <sup>e</sup> Luke 17:31. In that day, he which shall be on the housetop, and his goods in the house, let him not go down to take them away : and let him that is in the field likewise not return back. (§108)
 
-**p.189**
+**p. 189**
 
 ERV. mg.: <sup>1</sup> Or, him <sup>2</sup> Or, them <sup>3</sup> Gr. presence. <sup>4</sup> Or, vultures <sup>5</sup> Or, expiring <sup>6</sup> Gr. the inhabited earth.
 
