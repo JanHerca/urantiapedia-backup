@@ -1719,7 +1719,7 @@ Matt. 28 : 1-10. | Mark 16 : 1-8, 9-11. | Luke 23:566—24:12. | John 20:1-18.
 </div>
 
 
-### § 144. THE REPORT OF THE WATOH. 
+### § 144. THE REPORT OF THE WATCH. 
 
 Matt. 28:11-15. 
 
@@ -1840,7 +1840,7 @@ ERV. mg.: <sup>1</sup> Or. _removal to Babylon_ <sup>2</sup> Or. _Salathiel_. <s
 
 **p. 22**
 
-ERV.mg.: <sup>1</sup> Or, _sanctuary_. <sup>2</sup> Gr. _sikera_. <sup>3</sup> Or, _Holy Spirit_: and so throughout this book. <sup>4</sup> Some ancient authorities read _come nigh before his face_. <sup>5</sup> Gr. _advanced in her days_. <sup>6</sup> Or, _at his tarrying_ <sup>7</sup> Or, _endued with grace_ <sup>8</sup> Many ancient anthorities add _blessed art thou among women_. See ver. 42. <sup>9</sup> Or, _grace_ <sup>10</sup> Gr. unto the ages. <sup>11/sup> Or, _the holy thing which ia to be borti shall be called the Son of God_. <sup>12</sup> Or, _is begotten_ <sup>13</sup> Some ancient authorities add _of thee_.
+ERV. mg.: <sup>1</sup> Or, _sanctuary_. <sup>2</sup> Gr. _sikera_. <sup>3</sup> Or, _Holy Spirit_: and so throughout this book. <sup>4</sup> Some ancient authorities read _come nigh before his face_. <sup>5</sup> Gr. _advanced in her days_. <sup>6</sup> Or, _at his tarrying_ <sup>7</sup> Or, _endued with grace_ <sup>8</sup> Many ancient anthorities add _blessed art thou among women_. See ver. 42. <sup>9</sup> Or, _grace_ <sup>10</sup> Gr. unto the ages. <sup>11/sup> Or, _the holy thing which ia to be borti shall be called the Son of God_. <sup>12</sup> Or, _is begotten_ <sup>13</sup> Some ancient authorities add _of thee_.
 
 ARV. txt.: <sup>1</sup> Holy Spirit <sup>2</sup> the holy thing which is begotten shall be called the Son of God
 
@@ -2303,7 +2303,7 @@ ARV. txt: <sup>1</sup> who <sup>2</sup> demons <sup>3</sup> Chuzas <sup>4</sup> 
 
 **p. 78**
 
-ERV.mg.: <sup>1</sup> Or. _in_ <sup>2</sup> Gr. _demons_. <sup>3</sup> Some Some ancient authorities read _unto you men_ <sup>1</sup> Or, _age_
+ERV. mg.: <sup>1</sup> Or. _in_ <sup>2</sup> Gr. _demons_. <sup>3</sup> Some Some ancient authorities read _unto you men_ <sup>1</sup> Or, _age_
 
 ARV. txt. : <sup>1</sup> demois
 
@@ -3205,7 +3205,7 @@ ARV. txt : <sup>1</sup> the body decayeth <sup>2</sup> that <sup>3</sup> who <su
 
 **p. 156**
 
-ERV.mg.: <sup>1</sup> Or, in the midst of you <sup>2</sup> Some ancient authorities omit in his day. <sup>3</sup> Or, soul <sup>4</sup> Or. save it alive. <sup>5</sup> Some ancient authorities add ver. 36 There shall be two men in the field: the one shall be taken, and the other shall be left.
+ERV. mg.: <sup>1</sup> Or, in the midst of you <sup>2</sup> Some ancient authorities omit in his day. <sup>3</sup> Or, soul <sup>4</sup> Or. save it alive. <sup>5</sup> Some ancient authorities add ver. 36 There shall be two men in the field: the one shall be taken, and the other shall be left.
 
 ARV. txt. : <sup>1</sup> that
 
@@ -3339,7 +3339,7 @@ ARV. txt. : <sup>1</sup> pare nard <sup>2</sup> shillings <sup>3</sup> that
 
 **p. 168**
 
-ERV.mg.: <sup>1</sup> Or, these good tidings <sup>2</sup> Or, box <sup>3</sup> Or, carried to hat wag put therein, <sup>4</sup> Or, Let her alone: it was that she might keep it
+ERV. mg.: <sup>1</sup> Or, these good tidings <sup>2</sup> Or, box <sup>3</sup> Or, carried to hat wag put therein, <sup>4</sup> Or, Let her alone: it was that she might keep it
 
 ARV. txt : <sup>1</sup> beforehand
 
@@ -3731,7 +3731,7 @@ ARV. txt. : <sup>1</sup> Omit mo
 
 **p. 207**
 
-ERV.mg.: <sup>1</sup> Or, teas <sup>2</sup> Many ancient authorties read that ye bear much fruit, and be my disciples <sup>3</sup> Gr. bondservants. <sup>4</sup> Gr. bondservant. <sup>5</sup> Or, know ye <sup>6</sup> Or, Advocate Or, Helper Gr. Paraclete. <sup>7</sup> Or, goeth forth from <sup>8</sup> Or, and bear ye also witness
+ERV. mg.: <sup>1</sup> Or, teas <sup>2</sup> Many ancient authorties read that ye bear much fruit, and be my disciples <sup>3</sup> Gr. bondservants. <sup>4</sup> Gr. bondservant. <sup>5</sup> Or, know ye <sup>6</sup> Or, Advocate Or, Helper Gr. Paraclete. <sup>7</sup> Or, goeth forth from <sup>8</sup> Or, and bear ye also witness
 
 AKV. txt. : <sup>1</sup> made full <sup>2</sup> caused
 

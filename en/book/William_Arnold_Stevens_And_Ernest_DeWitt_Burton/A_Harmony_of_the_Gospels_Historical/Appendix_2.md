@@ -54,13 +54,13 @@ It should be particularly observed that the list does not undertake to include a
 
 ## TABLE OF REPEATED SAYINGS.
 
-§ 28. DiSCOUBSE WITH NiCODEMUS.
+§ 28. DISCOURSE WITH NICODEMUS.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
 &nbsp; | Mark 16:16 | &nbsp; | John 3 : 18
 
-§ 36. First Rejection at Nazaketh. 
+§ 36. First Rejection at Nazareth. 
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
@@ -102,7 +102,7 @@ Matt. 7:23 | &nbsp; | Luke 13 : 27 . | &nbsp;
 
 <span id="p263"><sup><small>[ p. 263 ]</small></sup></span>
 
-§50. The Centubion's Servant. 
+§50. The Centurion's Servant. 
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
@@ -244,7 +244,7 @@ Matt. 18 :35 ; 6:15 |  |  |
 <span id="p266"><sup><small>[ p. 266 ]</small></sup></span>
 
 
-§87. Thk Mission of thb Skvbnty.
+§87. The Mission of the Seventy.
 
 &nbsp; | &nbsp; | &nbsp; | &nbsp;
 --- | --- | --- | ---
